@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Run push
         env:
           WECHAT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK }}

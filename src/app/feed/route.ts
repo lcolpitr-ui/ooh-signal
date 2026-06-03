@@ -1,8 +1,8 @@
 import { NextResponse } from 'next/server'
-import { getSignals } from '@/lib/db'
+import { getFilteredSignals } from '@/lib/data'
 
 export async function GET() {
-  const signals = getSignals({ limit: 50, minScore: 60 })
+  const signals = getFilteredSignals({ limit: 50, minScore: 60 })
 
   const items = signals.map((signal) => `
     <item>
