@@ -42,10 +42,19 @@ def export_data():
     with open(os.path.join(EXPORT_DIR, 'brands.json'), 'w', encoding='utf-8') as f:
         json.dump(brands_camel, f, ensure_ascii=False, indent=2)
 
+    # 导出评分历史
+    cursor.execute('SELECT * FROM score_history ORDER BY brand_name, recorded_at')
+    history = [dict(row) for row in cursor.fetchall()]
+    history_camel = [{snake_to_camel(k): v for k, v in h.items()} for h in history]
+
+    with open(os.path.join(EXPORT_DIR, 'score_history.json'), 'w', encoding='utf-8') as f:
+        json.dump(history_camel, f, ensure_ascii=False, indent=2)
+
     conn.close()
 
     print(f"Exported {len(signals)} signals to {EXPORT_DIR}/signals.json")
     print(f"Exported {len(brands)} brands to {EXPORT_DIR}/brands.json")
+    print(f"Exported {len(history)} score history records to {EXPORT_DIR}/score_history.json")
 
 if __name__ == '__main__':
     export_data()

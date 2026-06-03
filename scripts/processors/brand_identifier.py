@@ -125,6 +125,12 @@ def identify_brands():
                 latest_score = MAX(latest_score, excluded.latest_score)
         ''', (brand_name.lower().replace(' ', '-'), brand_name, industry, scale, is_listed, signal_dict['score']))
 
+        # 记录评分历史
+        cursor.execute('''
+            INSERT INTO score_history (brand_name, score, signal_count, recorded_at)
+            VALUES (?, ?, 1, datetime('now'))
+        ''', (brand_name, signal_dict['score']))
+
         identified_count += 1
         try:
             print(f"    Identified: {brand_name} ({industry})")

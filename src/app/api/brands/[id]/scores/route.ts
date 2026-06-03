@@ -9,8 +9,25 @@ export async function GET(
 
   const db = getDb()
 
-  // 用品牌名查询 signals 表，按日期聚合评分
-  const rows = db.prepare(`
+  // 优先从 score_history 表查询
+  const historyRows = db.prepare(`
+    SELECT
+      DATE(recorded_at) as date,
+      ROUND(AVG(score)) as avgScore,
+      MAX(score) as maxScore,
+      COUNT(*) as count
+    FROM score_history
+    WHERE brand_name = ?
+    GROUP BY DATE(recorded_at)
+    ORDER BY date ASC
+  `).all(id) as { date: string; avgScore: number; maxScore: number; count: number }[]
+
+  if (historyRows.length > 0) {
+    return NextResponse.json({ brandId: id, scores: historyRows })
+  }
+
+  // 降级：从 signals 表派生
+  const signalRows = db.prepare(`
     SELECT
       DATE(collected_at) as date,
       ROUND(AVG(score)) as avgScore,
@@ -22,5 +39,5 @@ export async function GET(
     ORDER BY date ASC
   `).all(id) as { date: string; avgScore: number; maxScore: number; count: number }[]
 
-  return NextResponse.json({ brandId: id, scores: rows })
+  return NextResponse.json({ brandId: id, scores: signalRows })
 }

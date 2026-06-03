@@ -54,12 +54,25 @@ def init_db():
     )
     ''')
 
+    # 品牌评分历史表
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS score_history (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        brand_name TEXT NOT NULL,
+        score INTEGER NOT NULL,
+        signal_count INTEGER DEFAULT 0,
+        recorded_at TEXT DEFAULT CURRENT_TIMESTAMP
+    )
+    ''')
+
     # 索引
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_score ON signals(score DESC)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_collected ON signals(collected_at DESC)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_brand ON signals(brand_name)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_type ON signals(signal_type)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_industry ON signals(industry)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_score_history_brand ON score_history(brand_name)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_score_history_date ON score_history(recorded_at)')
 
     conn.commit()
     conn.close()

@@ -5,8 +5,10 @@ interface FilterBarProps {
   signalTypes: string[]
   selectedIndustry: string
   selectedType: string
+  selectedTime: string
   onIndustryChange: (industry: string) => void
   onTypeChange: (type: string) => void
+  onTimeChange: (time: string) => void
 }
 
 const signalTypeLabels: Record<string, string> = {
@@ -19,13 +21,22 @@ const signalTypeLabels: Record<string, string> = {
   industry: '行业',
 }
 
+const timeLabels: Record<string, string> = {
+  all: '全部时间',
+  today: '今日',
+  week: '本周',
+  month: '本月',
+}
+
 export default function FilterBar({
   industries,
   signalTypes,
   selectedIndustry,
   selectedType,
+  selectedTime,
   onIndustryChange,
   onTypeChange,
+  onTimeChange,
 }: FilterBarProps) {
   return (
     <div className="flex flex-wrap gap-2 mb-4">
@@ -47,6 +58,16 @@ export default function FilterBar({
       >
         {signalTypes.map((type) => (
           <option key={type} value={type}>{signalTypeLabels[type] || type}</option>
+        ))}
+      </select>
+
+      <select
+        value={selectedTime}
+        onChange={(e) => onTimeChange(e.target.value)}
+        className="bg-[var(--card)] border border-[var(--border)] rounded px-3 py-1.5 text-sm text-[var(--foreground)]"
+      >
+        {Object.entries(timeLabels).map(([value, label]) => (
+          <option key={value} value={value}>{label}</option>
         ))}
       </select>
     </div>

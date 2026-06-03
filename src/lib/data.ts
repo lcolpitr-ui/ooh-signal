@@ -17,6 +17,25 @@ function loadBrands(): Brand[] {
   return brandsCache
 }
 
+function getTimeThreshold(period?: string): Date | null {
+  if (!period || period === 'all') return null
+  const now = new Date()
+  switch (period) {
+    case 'today':
+      return new Date(now.getFullYear(), now.getMonth(), now.getDate())
+    case 'week':
+      const d = new Date(now)
+      d.setDate(d.getDate() - 7)
+      return d
+    case 'month':
+      const m = new Date(now)
+      m.setMonth(m.getMonth() - 1)
+      return m
+    default:
+      return null
+  }
+}
+
 export function getFilteredSignals(options: {
   limit?: number
   offset?: number
@@ -24,7 +43,8 @@ export function getFilteredSignals(options: {
   signalType?: string
   minScore?: number
   search?: string
-} = {}): Signal[] {
+  timePeriod?: string
+} = {}): { signals: Signal[]; total: number } {
   let signals = loadSignals()
 
   if (options.industry) {
@@ -45,9 +65,15 @@ export function getFilteredSignals(options: {
     )
   }
 
+  const threshold = getTimeThreshold(options.timePeriod)
+  if (threshold) {
+    signals = signals.filter(s => new Date(s.collectedAt) >= threshold)
+  }
+
+  const total = signals.length
   const offset = options.offset || 0
   const limit = options.limit || 50
-  return signals.slice(offset, offset + limit)
+  return { signals: signals.slice(offset, offset + limit), total }
 }
 
 export function getFilteredBrands(options: {
