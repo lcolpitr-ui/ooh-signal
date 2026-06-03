@@ -1,0 +1,50 @@
+{
+  "rss_sources": [
+    {
+      "name": "36kr",
+      "url": "https://36kr.com/feed",
+      "type": "industry",
+      "category": "科技/创业"
+    },
+    {
+      "name": "赢商网",
+      "url": "https://www.winshang.com/rss.xml",
+      "type": "expansion",
+      "category": "商业地产"
+    },
+    {
+      "name": "联商网",
+      "url": "https://www.linkshop.com.cn/rss.xml",
+      "type": "expansion",
+      "category": "零售"
+    }
+  ],
+  "web_sources": [
+    {
+      "name": "IT桔子",
+      "url": "https://www.itjuzi.com/",
+      "type": "funding",
+      "category": "融资"
+    },
+    {
+      "name": "巨潮资讯",
+      "url": "http://www.cninfo.com.cn/",
+      "type": "industry",
+      "category": "上市公司公告"
+    }
+  ],
+  "social_sources": [
+    {
+      "name": "微博",
+      "url": "https://weibo.com/",
+      "type": "industry",
+      "category": "社交媒体"
+    },
+    {
+      "name": "小红书",
+      "url": "https://www.xiaohongshu.com/",
+      "type": "industry",
+      "category": "社交媒体"
+    }
+  ]
+}

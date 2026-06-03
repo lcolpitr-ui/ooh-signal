@@ -1,0 +1,69 @@
+import sqlite3
+import os
+
+DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'ooh_signal.db')
+
+def init_db():
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
+
+    # 信号表
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS signals (
+        id TEXT PRIMARY KEY,
+        brand_name TEXT NOT NULL,
+        industry TEXT,
+        signal_type TEXT NOT NULL,
+        title TEXT,
+        summary TEXT,
+        source_url TEXT,
+        source_name TEXT,
+        score INTEGER DEFAULT 0,
+        reason TEXT,
+        published_at TEXT,
+        collected_at TEXT DEFAULT CURRENT_TIMESTAMP,
+        tags TEXT DEFAULT '[]'
+    )
+    ''')
+
+    # 品牌表
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS brands (
+        id TEXT PRIMARY KEY,
+        name TEXT NOT NULL UNIQUE,
+        industry TEXT,
+        scale TEXT DEFAULT 'small',
+        is_listed INTEGER DEFAULT 0,
+        signal_count INTEGER DEFAULT 0,
+        latest_score INTEGER DEFAULT 0,
+        website TEXT,
+        created_at TEXT DEFAULT CURRENT_TIMESTAMP
+    )
+    ''')
+
+    # 数据源配置表
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS sources (
+        id TEXT PRIMARY KEY,
+        name TEXT NOT NULL,
+        url TEXT,
+        source_type TEXT,
+        is_active INTEGER DEFAULT 1,
+        last_collected_at TEXT
+    )
+    ''')
+
+    # 索引
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_score ON signals(score DESC)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_collected ON signals(collected_at DESC)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_brand ON signals(brand_name)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_type ON signals(signal_type)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_industry ON signals(industry)')
+
+    conn.commit()
+    conn.close()
+    print(f"Database initialized at {DB_PATH}")
+
+if __name__ == '__main__':
+    init_db()

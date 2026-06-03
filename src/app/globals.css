@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --background: #060814;
+  --foreground: #e4e4e7;
+  --card: #0f1117;
+  --border: #1e1e2e;
+  --accent: #6366f1;
+  --text-secondary: #a1a1aa;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-text-secondary: var(--text-secondary);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 评分徽章颜色 */
+.score-high { color: #22c55e; }
+.score-medium { color: #eab308; }
+.score-low { color: #6b7280; }
