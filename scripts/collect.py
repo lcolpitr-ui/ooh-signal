@@ -14,31 +14,38 @@ from processors.ai_scorer import score_signals
 from processors.brand_identifier import identify_brands
 from processors.ai_deep_scorer import deep_score_signals
 
+def safe_run(name, func):
+    """安全运行某个步骤，失败时不中断整体流程"""
+    try:
+        func()
+    except Exception as e:
+        print(f"  [WARN] {name} failed: {e}")
+
 def main():
     print("=" * 50)
     print("OOH Signal - 数据采集")
     print("=" * 50)
 
     print("\n[1/7] RSS 采集...")
-    collect_rss()
+    safe_run("RSS", collect_rss)
 
     print("\n[2/7] 网页爬虫...")
-    collect_web()
+    safe_run("Web", collect_web)
 
     print("\n[3/7] 商业数据源...")
-    collect_business()
+    safe_run("Business", collect_business)
 
     print("\n[4/7] 社交媒体...")
-    collect_social()
+    safe_run("Social", collect_social)
 
     print("\n[5/7] AI 基础打分...")
-    score_signals()
+    safe_run("AI Score", score_signals)
 
     print("\n[6/7] 品牌识别...")
-    identify_brands()
+    safe_run("Brand ID", identify_brands)
 
     print("\n[7/7] AI 深度打分...")
-    deep_score_signals()
+    safe_run("Deep Score", deep_score_signals)
 
     print("\n采集完成！")
 

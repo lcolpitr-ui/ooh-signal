@@ -27,6 +27,7 @@ jobs:
       - name: Run collection
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
         run: python scripts/collect.py
 
       - name: Generate daily report
