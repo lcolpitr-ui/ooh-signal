@@ -4,7 +4,7 @@ import { getFilteredSignals } from '@/lib/data'
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams
 
-  const signals = await getFilteredSignals({
+  const signals = getFilteredSignals({
     limit: parseInt(searchParams.get('limit') || '50'),
     offset: parseInt(searchParams.get('offset') || '0'),
     industry: searchParams.get('industry') || undefined,

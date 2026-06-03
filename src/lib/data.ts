@@ -1,59 +1,31 @@
 import { Signal, Brand } from './types'
+import signalsData from '../../public/data/signals.json'
+import brandsData from '../../public/data/brands.json'
 
 let signalsCache: Signal[] | null = null
 let brandsCache: Brand[] | null = null
 
-async function loadSignals(): Promise<Signal[]> {
+function loadSignals(): Signal[] {
   if (signalsCache) return signalsCache
-
-  try {
-    // 尝试从 JSON 文件加载（Vercel 环境）
-    const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL || ''}/data/signals.json`)
-    if (res.ok) {
-      signalsCache = await res.json()
-      return signalsCache!
-    }
-  } catch {}
-
-  // 回退到 SQLite（本地环境）
-  try {
-    const { getSignals } = await import('./db')
-    signalsCache = getSignals({ limit: 1000 })
-    return signalsCache
-  } catch {
-    return []
-  }
+  signalsCache = signalsData as unknown as Signal[]
+  return signalsCache
 }
 
-async function loadBrands(): Promise<Brand[]> {
+function loadBrands(): Brand[] {
   if (brandsCache) return brandsCache
-
-  try {
-    const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL || ''}/data/brands.json`)
-    if (res.ok) {
-      brandsCache = await res.json()
-      return brandsCache!
-    }
-  } catch {}
-
-  try {
-    const { getBrands } = await import('./db')
-    brandsCache = getBrands({ limit: 1000 })
-    return brandsCache
-  } catch {
-    return []
-  }
+  brandsCache = brandsData as unknown as Brand[]
+  return brandsCache
 }
 
-export async function getFilteredSignals(options: {
+export function getFilteredSignals(options: {
   limit?: number
   offset?: number
   industry?: string
   signalType?: string
   minScore?: number
   search?: string
-} = {}): Promise<Signal[]> {
-  let signals = await loadSignals()
+} = {}): Signal[] {
+  let signals = loadSignals()
 
   if (options.industry) {
     signals = signals.filter(s => s.industry === options.industry)
@@ -78,11 +50,11 @@ export async function getFilteredSignals(options: {
   return signals.slice(offset, offset + limit)
 }
 
-export async function getFilteredBrands(options: {
+export function getFilteredBrands(options: {
   industry?: string
   limit?: number
-} = {}): Promise<Brand[]> {
-  let brands = await loadBrands()
+} = {}): Brand[] {
+  let brands = loadBrands()
 
   if (options.industry) {
     brands = brands.filter(b => b.industry === options.industry)
