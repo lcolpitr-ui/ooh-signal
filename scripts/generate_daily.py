@@ -3,9 +3,17 @@
 
 import sqlite3
 import os
+import re
 from datetime import datetime, timedelta
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'ooh_signal.db')
+
+def strip_html(text: str) -> str:
+    """去除 HTML 标签"""
+    clean = re.sub(r'<[^>]+>', '', text)
+    clean = re.sub(r'&nbsp;', ' ', clean)
+    clean = re.sub(r'\s+', ' ', clean)
+    return clean.strip()
 
 def generate_daily_report():
     """生成每日日报"""
@@ -54,7 +62,7 @@ def generate_daily_report():
         for signal in items:
             report += f"### {signal['brand_name']} (评分: {signal['score']})\n"
             report += f"**{signal['title']}**\n\n"
-            report += f"{signal['summary'][:200]}...\n\n"
+            report += f"{strip_html(signal['summary'])[:200]}...\n\n"
             report += f"💡 {signal['reason']}\n\n"
             report += f"📎 [查看原文]({signal['source_url']})\n\n---\n\n"
 
