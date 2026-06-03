@@ -7,25 +7,37 @@
       "category": "科技/创业"
     },
     {
-      "name": "赢商网",
-      "url": "https://www.winshang.com/rss.xml",
-      "type": "expansion",
-      "category": "商业地产"
+      "name": "虎嗅",
+      "url": "https://www.huxiu.com/rss/0.xml",
+      "type": "industry",
+      "category": "科技/商业"
     },
     {
-      "name": "联商网",
-      "url": "https://www.linkshop.com.cn/rss.xml",
-      "type": "expansion",
-      "category": "零售"
+      "name": "钛媒体",
+      "url": "https://www.tmtpost.com/rss.xml",
+      "type": "industry",
+      "category": "科技/商业"
+    },
+    {
+      "name": "界面新闻",
+      "url": "https://www.jiemian.com/rss.xml",
+      "type": "industry",
+      "category": "财经/商业"
+    },
+    {
+      "name": "创业邦",
+      "url": "https://www.cyzone.cn/rss.xml",
+      "type": "funding",
+      "category": "融资/创业"
+    },
+    {
+      "name": "投资界",
+      "url": "https://www.pedaily.cn/rss.xml",
+      "type": "funding",
+      "category": "投资/融资"
     }
   ],
   "web_sources": [
-    {
-      "name": "IT桔子",
-      "url": "https://www.itjuzi.com/",
-      "type": "funding",
-      "category": "融资"
-    },
     {
       "name": "巨潮资讯",
       "url": "http://www.cninfo.com.cn/",
