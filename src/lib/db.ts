@@ -13,6 +13,10 @@ export function getDb(): Database.Database {
   return db
 }
 
+function getWriteDb(): Database.Database {
+  return new Database(DB_PATH)
+}
+
 export function getSignals(options: {
   limit?: number
   offset?: number
@@ -66,4 +70,41 @@ export function getBrands(options: {
   params.push(options.limit || 100)
 
   return db.prepare(query).all(...params) as Brand[]
+}
+
+export function insertSignal(signal: {
+  id: string
+  brandName: string
+  industry: string
+  signalType: string
+  title: string
+  summary: string
+  sourceUrl: string
+  sourceName: string
+  score: number
+  reason: string
+  publishedAt: string
+}): void {
+  const db = getWriteDb()
+  try {
+    db.prepare(`
+      INSERT OR IGNORE INTO signals
+      (id, brand_name, industry, signal_type, title, summary, source_url, source_name, score, reason, published_at, collected_at)
+      VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))
+    `).run(
+      signal.id,
+      signal.brandName,
+      signal.industry,
+      signal.signalType,
+      signal.title,
+      signal.summary,
+      signal.sourceUrl,
+      signal.sourceName,
+      signal.score,
+      signal.reason,
+      signal.publishedAt,
+    )
+  } finally {
+    db.close()
+  }
 }

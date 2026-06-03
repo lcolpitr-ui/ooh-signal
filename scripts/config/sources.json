@@ -57,6 +57,12 @@
       "url": "https://www.xiaohongshu.com/",
       "type": "industry",
       "category": "社交媒体"
+    },
+    {
+      "name": "抖音",
+      "url": "https://www.douyin.com/",
+      "type": "industry",
+      "category": "社交媒体"
     }
   ]
 }

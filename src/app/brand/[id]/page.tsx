@@ -6,6 +6,14 @@ import Sidebar from '@/components/Sidebar'
 import SignalCard from '@/components/SignalCard'
 import ScoreBadge from '@/components/ScoreBadge'
 import { Signal, Brand } from '@/lib/types'
+import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
+
+interface ScorePoint {
+  date: string
+  avgScore: number
+  maxScore: number
+  count: number
+}
 
 export default function BrandDetailPage() {
   const params = useParams()
@@ -13,6 +21,7 @@ export default function BrandDetailPage() {
 
   const [brand, setBrand] = useState<Brand | null>(null)
   const [signals, setSignals] = useState<Signal[]>([])
+  const [scores, setScores] = useState<ScorePoint[]>([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -32,6 +41,13 @@ export default function BrandDetailPage() {
     const signalsRes = await fetch(`/api/signals?search=${encodeURIComponent(foundBrand?.name || '')}`)
     const signalsData = await signalsRes.json()
     setSignals(signalsData.signals || [])
+
+    // 获取评分历史
+    if (foundBrand?.name) {
+      const scoresRes = await fetch(`/api/brands/${encodeURIComponent(foundBrand.name)}/scores`)
+      const scoresData = await scoresRes.json()
+      setScores(scoresData.scores || [])
+    }
 
     setLoading(false)
   }
@@ -105,6 +121,74 @@ export default function BrandDetailPage() {
             </div>
           </div>
         </div>
+
+        {/* 评分趋势图 */}
+        {scores.length > 0 && (
+          <div className="bg-[var(--card)] border border-[var(--border)] rounded-lg p-6 mb-6">
+            <h2 className="text-lg font-semibold mb-4">评分趋势</h2>
+            <ResponsiveContainer width="100%" height={240}>
+              <AreaChart data={scores}>
+                <defs>
+                  <linearGradient id="colorAvg" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="5%" stopColor="#6366f1" stopOpacity={0.3} />
+                    <stop offset="95%" stopColor="#6366f1" stopOpacity={0} />
+                  </linearGradient>
+                  <linearGradient id="colorMax" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="5%" stopColor="#22c55e" stopOpacity={0.3} />
+                    <stop offset="95%" stopColor="#22c55e" stopOpacity={0} />
+                  </linearGradient>
+                </defs>
+                <CartesianGrid strokeDasharray="3 3" stroke="#1e1e2e" />
+                <XAxis
+                  dataKey="date"
+                  stroke="#a1a1aa"
+                  fontSize={12}
+                  tickFormatter={(v) => v.slice(5)}
+                />
+                <YAxis domain={[0, 100]} stroke="#a1a1aa" fontSize={12} />
+                <Tooltip
+                  contentStyle={{
+                    backgroundColor: '#0f1117',
+                    border: '1px solid #1e1e2e',
+                    borderRadius: '8px',
+                    fontSize: '12px',
+                  }}
+                  labelStyle={{ color: '#e4e4e7' }}
+                  formatter={(value, name) => [
+                    value,
+                    name === 'avgScore' ? '平均分' : '最高分',
+                  ]}
+                  labelFormatter={(label) => `日期: ${label}`}
+                />
+                <Area
+                  type="monotone"
+                  dataKey="avgScore"
+                  stroke="#6366f1"
+                  fillOpacity={1}
+                  fill="url(#colorAvg)"
+                  name="avgScore"
+                />
+                <Area
+                  type="monotone"
+                  dataKey="maxScore"
+                  stroke="#22c55e"
+                  fillOpacity={1}
+                  fill="url(#colorMax)"
+                  name="maxScore"
+                />
+              </AreaChart>
+            </ResponsiveContainer>
+            <div className="flex items-center gap-6 mt-3 text-sm text-[var(--text-secondary)]">
+              <span className="flex items-center gap-1.5">
+                <span className="w-3 h-0.5 bg-[#6366f1] inline-block" /> 平均分
+              </span>
+              <span className="flex items-center gap-1.5">
+                <span className="w-3 h-0.5 bg-[#22c55e] inline-block" /> 最高分
+              </span>
+              <span className="ml-auto text-xs">共 {scores.length} 个数据点</span>
+            </div>
+          </div>
+        )}
 
         {/* 品牌信号列表 */}
         <div className="mb-6">
