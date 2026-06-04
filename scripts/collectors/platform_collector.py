@@ -421,7 +421,7 @@ def _parse_number(text):
 def collect_platforms():
     """运行所有平台采集器"""
     collect_xiaohongshu()
-    collect_douyin()
+    # collect_douyin()  # 暂时跳过，API需要进一步研究
 
 
 if __name__ == '__main__':
