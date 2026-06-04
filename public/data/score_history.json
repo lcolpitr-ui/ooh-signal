@@ -126,11 +126,32 @@
     "recordedAt": "2026-06-04 04:36:52"
   },
   {
+    "id": 81,
+    "brandName": "亿咖通",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:42:03"
+  },
+  {
+    "id": 82,
+    "brandName": "兖矿能源",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:42:04"
+  },
+  {
     "id": 14,
     "brandName": "剑桥科技",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:56"
+  },
+  {
+    "id": 80,
+    "brandName": "华天科技",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:42:02"
   },
   {
     "id": 37,
@@ -434,6 +455,13 @@
     "recordedAt": "2026-06-04 04:36:40"
   },
   {
+    "id": 79,
+    "brandName": "英博数科",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:42:01"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
@@ -537,5 +565,12 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:12"
+  },
+  {
+    "id": 78,
+    "brandName": "鸿海",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:42:00"
   }
 ]

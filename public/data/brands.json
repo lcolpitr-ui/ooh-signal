@@ -561,6 +561,50 @@
     "createdAt": "2026-06-04 06:22:45"
   },
   {
+    "id": "鸿海",
+    "name": "鸿海",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:42:00"
+  },
+  {
+    "id": "英博数科",
+    "name": "英博数科",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:42:01"
+  },
+  {
+    "id": "华天科技",
+    "name": "华天科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:42:02"
+  },
+  {
+    "id": "亿咖通",
+    "name": "亿咖通",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:42:03"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -889,5 +933,16 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 06:22:47"
+  },
+  {
+    "id": "兖矿能源",
+    "name": "兖矿能源",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:42:04"
   }
 ]
