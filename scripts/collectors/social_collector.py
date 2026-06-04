@@ -170,8 +170,13 @@ def collect_weibo():
             if save_signal(conn, brand, '', 'industry', item['title'], item['summary'], item['url'], '微博'):
                 total_count += 1
 
-    keywords = ['开店', '新店', '融资', '品牌升级', '广告投放']
-    for keyword in keywords[:3]:
+    keywords = [
+        '代言人', '品牌大使', '官宣合作',  # 代言人相关
+        '开店', '新店', '融资', 'IPO',     # 商业扩张
+        '展会', '博览会', '峰会',           # 展会活动
+        '品牌升级', '广告投放', '营销',      # 营销动态
+    ]
+    for keyword in keywords[:5]:
         results = scrape_weibo_search(keyword, max_results=2)
         for item in results:
             if save_signal(conn, '待识别', '', 'industry', item['title'], item['summary'], item['url'], '微博'):
