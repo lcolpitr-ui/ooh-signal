@@ -28,6 +28,8 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
+          XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
+          DOUYIN_COOKIE: ${{ secrets.DOUYIN_COOKIE }}
         run: python scripts/collect.py
 
       - name: Generate daily report
