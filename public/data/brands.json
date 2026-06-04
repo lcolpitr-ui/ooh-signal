@@ -225,7 +225,7 @@
     "industry": "运动",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:38"
@@ -638,6 +638,17 @@
     "createdAt": "2026-06-04 07:18:32"
   },
   {
+    "id": "泸州老窖",
+    "name": "泸州老窖",
+    "industry": "酒水",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 07:38:20"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -1010,5 +1021,49 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 07:18:34"
+  },
+  {
+    "id": "希思黎",
+    "name": "希思黎",
+    "industry": "美妆",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:38:26"
+  },
+  {
+    "id": "华为",
+    "name": "华为",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:38:27"
+  },
+  {
+    "id": "drwu达尔肤",
+    "name": "DRWU达尔肤",
+    "industry": "美妆",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:38:28"
+  },
+  {
+    "id": "cartier",
+    "name": "Cartier",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:38:29"
   }
 ]
