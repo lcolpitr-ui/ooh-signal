@@ -21,6 +21,13 @@
     "recordedAt": "2026-06-04 07:38:29"
   },
   {
+    "id": 99,
+    "brandName": "Cartier",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 08:08:26"
+  },
+  {
     "id": 92,
     "brandName": "DRWU达尔肤",
     "score": 50,
@@ -33,6 +40,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:51"
+  },
+  {
+    "id": 98,
+    "brandName": "KOI可宜",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 08:08:25"
   },
   {
     "id": 61,
@@ -378,6 +392,13 @@
     "recordedAt": "2026-06-04 06:01:12"
   },
   {
+    "id": 96,
+    "brandName": "思特威",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 08:08:21"
+  },
+  {
     "id": 8,
     "brandName": "戴盟机器人",
     "score": 55,
@@ -404,6 +425,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 07:18:32"
+  },
+  {
+    "id": 97,
+    "brandName": "日月股份",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 08:08:24"
   },
   {
     "id": 33,

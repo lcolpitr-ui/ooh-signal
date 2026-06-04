@@ -649,6 +649,28 @@
     "createdAt": "2026-06-04 07:38:20"
   },
   {
+    "id": "思特威",
+    "name": "思特威",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:08:21"
+  },
+  {
+    "id": "日月股份",
+    "name": "日月股份",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:08:24"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -1061,9 +1083,20 @@
     "industry": "服装",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 07:38:29"
+  },
+  {
+    "id": "koi可宜",
+    "name": "KOI可宜",
+    "industry": "餐饮",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 08:08:25"
   }
 ]
