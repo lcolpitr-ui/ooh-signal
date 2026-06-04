@@ -311,6 +311,13 @@ def _search_douyin(page, keyword, max_results=5):
         page.goto(url, wait_until="domcontentloaded", timeout=45000)
         time.sleep(5)  # 等待页面完全加载
 
+        # 截图调试
+        try:
+            page.screenshot(path=f"douyin_debug_{keyword}.png")
+            print(f"    Debug screenshot saved: douyin_debug_{keyword}.png")
+        except:
+            pass
+
         # 尝试多种选择器（抖音经常改版）
         selectors = [
             '[data-e2e="search-result-card"]',
@@ -319,17 +326,24 @@ def _search_douyin(page, keyword, max_results=5):
             '[class*="search_result"] li',
             'ul[data-e2e="scroll-list"] li',
             'div[class*="List"] li',
+            'a[href*="/video/"]',
         ]
 
         cards = []
         for selector in selectors:
             cards = page.query_selector_all(selector)
             if cards:
+                print(f"    Found {len(cards)} cards with selector: {selector}")
                 break
 
         if not cards:
-            # 尝试通用方法：查找所有包含视频链接的元素
-            cards = page.query_selector_all('a[href*="/video/"]')
+            # 尝试获取页面内容调试
+            content = page.content()
+            print(f"    Page content length: {len(content)}")
+            # 检查是否有验证码或登录提示
+            if '验证' in content or '登录' in content:
+                print("    Page requires verification or login")
+            return results
 
         for card in cards[:max_results]:
             try:
