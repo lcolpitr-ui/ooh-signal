@@ -7,6 +7,13 @@
     "recordedAt": "2026-06-04 04:36:08"
   },
   {
+    "id": 87,
+    "brandName": "CMOC",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 07:18:33"
+  },
+  {
     "id": 12,
     "brandName": "HKGAI",
     "score": 55,
@@ -322,6 +329,13 @@
     "recordedAt": "2026-06-04 04:36:06"
   },
   {
+    "id": 88,
+    "brandName": "德医",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 07:18:34"
+  },
+  {
     "id": 32,
     "brandName": "德邦基金",
     "score": 50,
@@ -355,6 +369,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:46"
+  },
+  {
+    "id": 86,
+    "brandName": "摩根士丹利",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 07:18:32"
   },
   {
     "id": 33,

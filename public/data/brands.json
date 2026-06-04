@@ -627,6 +627,17 @@
     "createdAt": "2026-06-04 07:02:52"
   },
   {
+    "id": "摩根士丹利",
+    "name": "摩根士丹利",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 07:18:32"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -977,5 +988,27 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 07:02:54"
+  },
+  {
+    "id": "cmoc",
+    "name": "CMOC",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:18:33"
+  },
+  {
+    "id": "德医",
+    "name": "德医",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:18:34"
   }
 ]
