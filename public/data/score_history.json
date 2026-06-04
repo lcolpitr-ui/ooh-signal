@@ -903,6 +903,13 @@
     "recordedAt": "2026-06-04 09:06:49"
   },
   {
+    "id": 169,
+    "brandName": "环球音乐",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 23:07:02"
+  },
+  {
     "id": 13,
     "brandName": "现代汽车",
     "score": 55,
@@ -915,6 +922,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:22:45"
+  },
+  {
+    "id": 168,
+    "brandName": "百事可乐",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 23:07:01"
   },
   {
     "id": 136,

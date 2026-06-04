@@ -1523,7 +1523,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 09:06:49"
@@ -1703,5 +1703,16 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:49:01"
+  },
+  {
+    "id": "百事可乐",
+    "name": "百事可乐",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 23:07:01"
   }
 ]
