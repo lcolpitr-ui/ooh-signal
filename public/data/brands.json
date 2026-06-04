@@ -27,7 +27,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -60,7 +60,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -544,7 +544,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -944,6 +944,94 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 10:54:09"
+  },
+  {
+    "id": "沪电股份",
+    "name": "沪电股份",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:17"
+  },
+  {
+    "id": "小鹏集团",
+    "name": "小鹏集团",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:18"
+  },
+  {
+    "id": "arm",
+    "name": "Arm",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:20"
+  },
+  {
+    "id": "五洋自控",
+    "name": "五洋自控",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:23"
+  },
+  {
+    "id": "博杰股份",
+    "name": "博杰股份",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:26"
+  },
+  {
+    "id": "天阳科技",
+    "name": "天阳科技",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:28"
+  },
+  {
+    "id": "万通发展",
+    "name": "万通发展",
+    "industry": "地产",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:29"
+  },
+  {
+    "id": "日月明",
+    "name": "日月明",
+    "industry": "地产",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:31"
   },
   {
     "id": "柠季",
@@ -1391,7 +1479,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 09:06:40"
@@ -1538,5 +1626,82 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 10:54:15"
+  },
+  {
+    "id": "罗曼股份",
+    "name": "罗曼股份",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:32"
+  },
+  {
+    "id": "codex",
+    "name": "Codex",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:42"
+  },
+  {
+    "id": "霍尼韦尔",
+    "name": "霍尼韦尔",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:43"
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:45"
+  },
+  {
+    "id": "英伟达",
+    "name": "英伟达",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:47"
+  },
+  {
+    "id": "nespresso",
+    "name": "Nespresso",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:55"
+  },
+  {
+    "id": "rosemuse",
+    "name": "RoseMuse",
+    "industry": "美妆",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 18:49:01"
   }
 ]

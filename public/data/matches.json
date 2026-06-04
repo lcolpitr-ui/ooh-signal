@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T10:54:51.988917",
-  "total_matches": 242,
+  "generated_at": "2026-06-04T18:49:47.437536",
+  "total_matches": 235,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -60,44 +60,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
-      "signal_score": 95,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
-      "signal_score": 95,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -119,6 +81,44 @@
     {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
+      "brand_name": "李宁",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "brand_name": "李宁",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
       "brand_name": "李宁",
       "signal_score": 92,
       "resource_id": "res_003",
@@ -286,6 +286,101 @@
       "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
+      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
+      "brand_name": "腾讯",
+      "signal_score": 85,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "腾讯所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
+      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
+      "brand_name": "腾讯",
+      "signal_score": 85,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "腾讯所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
+      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
+      "brand_name": "腾讯",
+      "signal_score": 85,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "腾讯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
     },
     {
       "signal_id": "53ede3ee0f655283c3d3d206d6bff79a",
@@ -858,101 +953,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
-      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
-      "brand_name": "腾讯",
-      "signal_score": 75,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "腾讯所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
-      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
-      "brand_name": "腾讯",
-      "signal_score": 75,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "腾讯所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
-      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
-      "brand_name": "腾讯",
-      "signal_score": 75,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "腾讯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "f253e8f90c04b985d61abb4becaa9477",
       "signal_title": "“小美”、元宝互通，是在为微信智能体打样？",
       "brand_name": "美团",
@@ -1523,25 +1523,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
-      "signal_score": 75,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "鸿海所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "50430d9e9b9fbeaa5329b5ea7f00f4b2",
       "signal_title": "英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台",
       "brand_name": "英博数科",
@@ -1635,42 +1616,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
-      "signal_score": 95,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
-      "signal_score": 95,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -1691,6 +1636,42 @@
     {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
+      "brand_name": "李宁",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "brand_name": "李宁",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
       "brand_name": "李宁",
       "signal_score": 92,
       "resource_id": "res_015",
@@ -1867,6 +1848,60 @@
       "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "8f41e36855eff5a76571cf10ae56b580",
@@ -2211,60 +2246,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "e6d2416e745968269d57e8cd8c6f5ad6",
       "signal_title": "柠季，救得了哈根达斯？",
       "brand_name": "柠季",
@@ -2517,40 +2498,22 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
-      "signal_score": 75,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
+      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
+      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
+      "brand_name": "腾讯",
+      "signal_score": 85,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
       "reasons": [
         "行业匹配",
-        "媒体类型匹配"
+        "预算匹配"
       ],
-      "reason_text": "鸿海所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
-      "signal_score": 75,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "鸿海所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
+      "reason_text": "腾讯所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "53ede3ee0f655283c3d3d206d6bff79a",
@@ -2855,24 +2818,6 @@
         "预算匹配"
       ],
       "reason_text": "环球音乐所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
-      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
-      "brand_name": "腾讯",
-      "signal_score": 75,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "腾讯所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
     },
@@ -3219,42 +3164,6 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
-      "signal_score": 75,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "鸿海所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
-      "signal_score": 75,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "鸿海所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "50430d9e9b9fbeaa5329b5ea7f00f4b2",
       "signal_title": "英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台",
       "brand_name": "英博数科",
@@ -3273,10 +3182,10 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "signal_id": "e970c54c7cb298ba745510d5787b620a",
+      "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
-      "signal_score": 95,
+      "signal_score": 92,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3291,8 +3200,8 @@
       "daily_traffic": 200000
     },
     {
-      "signal_id": "e970c54c7cb298ba745510d5787b620a",
-      "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
       "brand_name": "李宁",
       "signal_score": 92,
       "resource_id": "res_002",
@@ -3325,6 +3234,132 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
+      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
+      "brand_name": "腾讯",
+      "signal_score": 85,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
+      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
+      "brand_name": "腾讯",
+      "signal_score": 85,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "53ede3ee0f655283c3d3d206d6bff79a",
@@ -3775,132 +3810,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
-      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
-      "brand_name": "腾讯",
-      "signal_score": 75,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
-      "signal_title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合",
-      "brand_name": "腾讯",
-      "signal_score": 75,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "f253e8f90c04b985d61abb4becaa9477",
@@ -4356,42 +4265,6 @@
       "signal_id": "88773bb6a76aae856b27c2d5be226521",
       "signal_title": "谷歌这样的现金流和营收的企业，为了建立AI算力数据中心，也烧的要进行800亿美元的股权融资了，伯克希",
       "brand_name": "谷歌",
-      "signal_score": 75,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
-      "signal_score": 75,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "23992515919c50939b2e663a96ddc041",
-      "signal_title": "鸿海与SK集团深化AI基础设施合作",
-      "brand_name": "鸿海",
       "signal_score": 75,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
