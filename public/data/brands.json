@@ -60,7 +60,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -313,7 +313,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:57"
@@ -671,6 +671,105 @@
     "createdAt": "2026-06-04 08:08:24"
   },
   {
+    "id": "海尔",
+    "name": "海尔",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:42"
+  },
+  {
+    "id": "中宏人寿",
+    "name": "中宏人寿",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:43"
+  },
+  {
+    "id": "久日新材",
+    "name": "久日新材",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:44"
+  },
+  {
+    "id": "纵横股份",
+    "name": "纵横股份",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:45"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:51"
+  },
+  {
+    "id": "国光电器",
+    "name": "国光电器",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:52"
+  },
+  {
+    "id": "lg-innotek",
+    "name": "LG Innotek",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:53"
+  },
+  {
+    "id": "中国重汽",
+    "name": "中国重汽",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:55"
+  },
+  {
+    "id": "葵花药业",
+    "name": "葵花药业",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:56"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -896,7 +995,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:41"
@@ -918,7 +1017,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:56"
@@ -1098,5 +1197,16 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 08:08:25"
+  },
+  {
+    "id": "摩尔线程",
+    "name": "摩尔线程",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 08:47:57"
   }
 ]
