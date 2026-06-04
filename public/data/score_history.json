@@ -7,6 +7,13 @@
     "recordedAt": "2026-06-04 04:36:08"
   },
   {
+    "id": 144,
+    "brandName": "Amap",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:11"
+  },
+  {
     "id": 122,
     "brandName": "Augustinus Bader",
     "score": 50,
@@ -42,11 +49,25 @@
     "recordedAt": "2026-06-04 08:08:26"
   },
   {
+    "id": 140,
+    "brandName": "Coinbase",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:07"
+  },
+  {
     "id": 92,
     "brandName": "DRWU达尔肤",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 07:38:28"
+  },
+  {
+    "id": 147,
+    "brandName": "EdHardy",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:15"
   },
   {
     "id": 126,
@@ -70,6 +91,13 @@
     "recordedAt": "2026-06-04 09:06:38"
   },
   {
+    "id": 138,
+    "brandName": "IBM",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:05"
+  },
+  {
     "id": 98,
     "brandName": "KOI可宜",
     "score": 50,
@@ -82,6 +110,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:53"
+  },
+  {
+    "id": 142,
+    "brandName": "LG集团",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:09"
   },
   {
     "id": 61,
@@ -133,11 +168,25 @@
     "recordedAt": "2026-06-04 06:01:06"
   },
   {
+    "id": 146,
+    "brandName": "Miu Miu",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:14"
+  },
+  {
     "id": 105,
     "brandName": "OpenAI",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:51"
+  },
+  {
+    "id": 133,
+    "brandName": "OpenAI",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:53:59"
   },
   {
     "id": 7,
@@ -159,6 +208,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:03"
+  },
+  {
+    "id": 143,
+    "brandName": "SpaceX",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:10"
   },
   {
     "id": 16,
@@ -187,6 +243,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:01"
+  },
+  {
+    "id": 141,
+    "brandName": "中国能建",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:08"
   },
   {
     "id": 108,
@@ -294,6 +357,13 @@
     "recordedAt": "2026-06-04 07:38:27"
   },
   {
+    "id": 134,
+    "brandName": "华大智造",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:01"
+  },
+  {
     "id": 80,
     "brandName": "华天科技",
     "score": 55,
@@ -306,6 +376,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:31"
+  },
+  {
+    "id": 135,
+    "brandName": "厦门钨业",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:02"
   },
   {
     "id": 47,
@@ -462,6 +539,13 @@
     "recordedAt": "2026-06-04 06:01:03"
   },
   {
+    "id": 145,
+    "brandName": "小鹏",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:13"
+  },
+  {
     "id": 22,
     "brandName": "工业富联",
     "score": 50,
@@ -474,6 +558,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 07:38:26"
+  },
+  {
+    "id": 137,
+    "brandName": "康隆达",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:04"
   },
   {
     "id": 68,
@@ -581,6 +672,13 @@
     "recordedAt": "2026-06-04 04:36:29"
   },
   {
+    "id": 132,
+    "brandName": "智维创芯",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:53:58"
+  },
+  {
     "id": 5,
     "brandName": "李宁",
     "score": 50,
@@ -616,11 +714,25 @@
     "recordedAt": "2026-06-04 09:06:46"
   },
   {
+    "id": 131,
+    "brandName": "杰瑞股份",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:53:39"
+  },
+  {
     "id": 27,
     "brandName": "杰锋动力",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:14"
+  },
+  {
+    "id": 139,
+    "brandName": "模塑科技",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:06"
   },
   {
     "id": 6,
@@ -705,6 +817,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:22:45"
+  },
+  {
+    "id": 136,
+    "brandName": "精达股份",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 10:54:03"
   },
   {
     "id": 130,

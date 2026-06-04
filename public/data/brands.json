@@ -352,6 +352,17 @@
     "createdAt": "2026-06-04 04:36:01"
   },
   {
+    "id": "spacex",
+    "name": "SpaceX",
+    "industry": "航空",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 2,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 04:36:03"
+  },
+  {
     "id": "易方达基金",
     "name": "易方达基金",
     "industry": "金融",
@@ -731,7 +742,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -814,6 +825,127 @@
     "createdAt": "2026-06-04 09:06:35"
   },
   {
+    "id": "杰瑞股份",
+    "name": "杰瑞股份",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:53:39"
+  },
+  {
+    "id": "智维创芯",
+    "name": "智维创芯",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:53:58"
+  },
+  {
+    "id": "华大智造",
+    "name": "华大智造",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:01"
+  },
+  {
+    "id": "厦门钨业",
+    "name": "厦门钨业",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:02"
+  },
+  {
+    "id": "精达股份",
+    "name": "精达股份",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:03"
+  },
+  {
+    "id": "康隆达",
+    "name": "康隆达",
+    "industry": "服装",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:04"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:05"
+  },
+  {
+    "id": "模塑科技",
+    "name": "模塑科技",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:06"
+  },
+  {
+    "id": "coinbase",
+    "name": "Coinbase",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:07"
+  },
+  {
+    "id": "中国能建",
+    "name": "中国能建",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:08"
+  },
+  {
+    "id": "lg集团",
+    "name": "LG集团",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:09"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -867,17 +999,6 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:35:40"
-  },
-  {
-    "id": "spacex",
-    "name": "SpaceX",
-    "industry": "航空",
-    "scale": "large",
-    "isListed": 0,
-    "signalCount": 1,
-    "latestScore": 50,
-    "website": null,
-    "createdAt": "2026-06-04 04:36:03"
   },
   {
     "id": "茅台",
@@ -1373,5 +1494,49 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 09:06:56"
+  },
+  {
+    "id": "amap",
+    "name": "Amap",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:11"
+  },
+  {
+    "id": "小鹏",
+    "name": "小鹏",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:13"
+  },
+  {
+    "id": "miu-miu",
+    "name": "Miu Miu",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:14"
+  },
+  {
+    "id": "edhardy",
+    "name": "EdHardy",
+    "industry": "服装",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 10:54:15"
   }
 ]

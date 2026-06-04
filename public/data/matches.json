@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T17:50:00.580747",
-  "total_matches": 241,
+  "generated_at": "2026-06-04T10:54:51.988917",
+  "total_matches": 242,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -761,6 +761,63 @@
       "reason_text": "Maison Margiela所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
+    },
+    {
+      "signal_id": "159c4e4941afe280c0a9aade65993335",
+      "signal_title": "#一大波艺人接力官宣加盟环球音乐# 环球音乐台湾官宣与野声音厂牌达成战略合作伙伴关系。野声音厂牌成立",
+      "brand_name": "环球音乐",
+      "signal_score": 85,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "环球音乐所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "159c4e4941afe280c0a9aade65993335",
+      "signal_title": "#一大波艺人接力官宣加盟环球音乐# 环球音乐台湾官宣与野声音厂牌达成战略合作伙伴关系。野声音厂牌成立",
+      "brand_name": "环球音乐",
+      "signal_score": 85,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "环球音乐所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "159c4e4941afe280c0a9aade65993335",
+      "signal_title": "#一大波艺人接力官宣加盟环球音乐# 环球音乐台湾官宣与野声音厂牌达成战略合作伙伴关系。野声音厂牌成立",
+      "brand_name": "环球音乐",
+      "signal_score": 85,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "环球音乐所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
     },
     {
       "signal_id": "134c252cf0bf5677d1519ac75e783ef5",
@@ -2496,42 +2553,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "1fd254169af868e03536afc13a9521d4",
-      "signal_title": "德医南京新店开业！给大家整 个第八代光子stellar体验！南京/深圳/广州/南宁/西安都可以选（有",
-      "brand_name": "德医",
-      "signal_score": 75,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "德医所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "1fd254169af868e03536afc13a9521d4",
-      "signal_title": "德医南京新店开业！给大家整 个第八代光子stellar体验！南京/深圳/广州/南宁/西安都可以选（有",
-      "brand_name": "德医",
-      "signal_score": 75,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "德医所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
       "signal_id": "53ede3ee0f655283c3d3d206d6bff79a",
       "signal_title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：",
       "brand_name": "高德",
@@ -2818,6 +2839,24 @@
       "reason_text": "CMOC所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
+    },
+    {
+      "signal_id": "159c4e4941afe280c0a9aade65993335",
+      "signal_title": "#一大波艺人接力官宣加盟环球音乐# 环球音乐台湾官宣与野声音厂牌达成战略合作伙伴关系。野声音厂牌成立",
+      "brand_name": "环球音乐",
+      "signal_score": 85,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "环球音乐所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "7ade08b36e0d9e57c3a58d71a576d033",
@@ -3234,24 +3273,6 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "1fd254169af868e03536afc13a9521d4",
-      "signal_title": "德医南京新店开业！给大家整 个第八代光子stellar体验！南京/深圳/广州/南宁/西安都可以选（有",
-      "brand_name": "德医",
-      "signal_score": 75,
-      "resource_id": "res_012",
-      "resource_name": "北京公交车身广告",
-      "resource_type": "公交广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "德医所在行业与公交广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 100000
-    },
-    {
       "signal_id": "5562873725c97741a68dfbe603e082d4",
       "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
       "brand_name": "李宁",
@@ -3664,6 +3685,42 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
+    },
+    {
+      "signal_id": "159c4e4941afe280c0a9aade65993335",
+      "signal_title": "#一大波艺人接力官宣加盟环球音乐# 环球音乐台湾官宣与野声音厂牌达成战略合作伙伴关系。野声音厂牌成立",
+      "brand_name": "环球音乐",
+      "signal_score": 85,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "159c4e4941afe280c0a9aade65993335",
+      "signal_title": "#一大波艺人接力官宣加盟环球音乐# 环球音乐台湾官宣与野声音厂牌达成战略合作伙伴关系。野声音厂牌成立",
+      "brand_name": "环球音乐",
+      "signal_score": 85,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "134c252cf0bf5677d1519ac75e783ef5",
@@ -4384,42 +4441,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
-    },
-    {
-      "signal_id": "1fd254169af868e03536afc13a9521d4",
-      "signal_title": "德医南京新店开业！给大家整 个第八代光子stellar体验！南京/深圳/广州/南宁/西安都可以选（有",
-      "brand_name": "德医",
-      "signal_score": 75,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "1fd254169af868e03536afc13a9521d4",
-      "signal_title": "德医南京新店开业！给大家整 个第八代光子stellar体验！南京/深圳/广州/南宁/西安都可以选（有",
-      "brand_name": "德医",
-      "signal_score": 75,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
     }
   ]
 }
