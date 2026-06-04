@@ -303,105 +303,67 @@ def collect_douyin():
 
 
 def _search_douyin(page, keyword, max_results=5):
-    """在抖音搜索关键词"""
+    """在抖音搜索关键词（使用移动端API）"""
     results = []
-    url = f"https://www.douyin.com/search/{keyword}?type=general"
 
     try:
-        page.goto(url, wait_until="domcontentloaded", timeout=45000)
-        time.sleep(5)  # 等待页面完全加载
+        import requests
 
-        # 截图调试
-        try:
-            page.screenshot(path=f"douyin_debug_{keyword}.png")
-            print(f"    Debug screenshot saved: douyin_debug_{keyword}.png")
-        except:
-            pass
+        # 使用抖音移动端搜索API
+        search_url = "https://www.douyin.com/aweme/v1/web/search/item/"
+        params = {
+            "keyword": keyword,
+            "search_channel": "aweme_general",
+            "sort_type": 0,
+            "publish_time": 0,
+            "count": max_results,
+            "offset": 0,
+            "search_source": "normal_search",
+            "query_correct_type": 1,
+            "is_filter_search": 0,
+            "from_group_id": "",
+            "offset_search_id": "",
+        }
 
-        # 尝试多种选择器（抖音经常改版）
-        selectors = [
-            '[data-e2e="search-result-card"]',
-            '[class*="search-result"] li',
-            '[class*="video-card"]',
-            '[class*="search_result"] li',
-            'ul[data-e2e="scroll-list"] li',
-            'div[class*="List"] li',
-            'a[href*="/video/"]',
-        ]
+        headers = {
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+            "Accept": "application/json",
+            "Referer": "https://www.douyin.com/",
+        }
 
-        cards = []
-        for selector in selectors:
-            cards = page.query_selector_all(selector)
-            if cards:
-                print(f"    Found {len(cards)} cards with selector: {selector}")
-                break
+        cookie = os.environ.get('DOUYIN_COOKIE', '')
+        if cookie:
+            headers["Cookie"] = cookie
 
-        if not cards:
-            # 尝试获取页面内容调试
-            content = page.content()
-            print(f"    Page content length: {len(content)}")
-            # 检查是否有验证码或登录提示
-            if '验证' in content or '登录' in content:
-                print("    Page requires verification or login")
+        response = requests.get(search_url, params=params, headers=headers, timeout=15)
+
+        if response.status_code != 200:
+            print(f"    API request failed: {response.status_code}")
             return results
 
-        for card in cards[:max_results]:
+        data = response.json()
+        items = data.get("data", [])
+
+        for item in items[:max_results]:
             try:
-                # 提取标题
-                title = ''
-                for title_sel in ['[class*="title"]', 'p', 'h3', 'span', 'a']:
-                    title_el = card.query_selector(title_sel)
-                    if title_el:
-                        title = title_el.inner_text().strip()
-                        if len(title) >= 5:
-                            break
-
-                if len(title) < 5:
-                    # 如果是链接元素，直接获取文本
-                    title = card.inner_text().strip()
-
-                if len(title) < 5:
+                desc = item.get("desc", "")
+                if len(desc) < 5:
                     continue
 
-                # 提取链接
-                link = ''
-                if card.tag_name() == 'a':
-                    link = card.get_attribute('href') or ''
-                else:
-                    link_el = card.query_selector('a[href*="/video/"]')
-                    if link_el:
-                        link = link_el.get_attribute('href') or ''
+                author_info = item.get("author", {})
+                author = author_info.get("nickname", "")
 
-                if link and not link.startswith('http'):
-                    link = f"https://www.douyin.com{link}"
+                aweme_id = item.get("aweme_id", "")
+                url = f"https://www.douyin.com/video/{aweme_id}" if aweme_id else ""
 
-                # 提取互动数据
-                likes = 0
-                for likes_sel in ['[class*="like"] span', '[class*="digg"] span', '[class*="Like"]']:
-                    likes_el = card.query_selector(likes_sel)
-                    if likes_el:
-                        likes = _parse_number(likes_el.inner_text())
-                        break
-
-                comments = 0
-                for comments_sel in ['[class*="comment"] span', '[class*="Comment"]']:
-                    comments_el = card.query_selector(comments_sel)
-                    if comments_el:
-                        comments = _parse_number(comments_el.inner_text())
-                        break
-
-                # 提取作者
-                author = ''
-                for author_sel in ['[class*="author"]', '[class*="user"]', '[class*="nickname"]']:
-                    author_el = card.query_selector(author_sel)
-                    if author_el:
-                        author = author_el.inner_text().strip()
-                        break
+                statistics = item.get("statistics", {})
+                likes = statistics.get("digg_count", 0)
+                comments = statistics.get("comment_count", 0)
 
                 results.append({
-                    'title': title[:80],
-                    'summary': title,
-                    'url': link or f"https://www.douyin.com/search/{keyword}",
+                    'title': desc[:80],
+                    'summary': desc,
+                    'url': url,
                     'likes': likes,
                     'comments': comments,
                     'author': author,
@@ -411,7 +373,7 @@ def _search_douyin(page, keyword, max_results=5):
                 continue
 
     except Exception as e:
-        print(f"    Page load error: {e}")
+        print(f"    API error: {e}")
 
     return results
 
