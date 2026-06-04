@@ -14,6 +14,13 @@
     "recordedAt": "2026-06-04 04:35:51"
   },
   {
+    "id": 61,
+    "brandName": "Liftoff",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:05"
+  },
+  {
     "id": 11,
     "brandName": "Lovable",
     "score": 55,
@@ -26,6 +33,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:41"
+  },
+  {
+    "id": 62,
+    "brandName": "Meta",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:06"
   },
   {
     "id": 7,
@@ -47,6 +61,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:59"
+  },
+  {
+    "id": 70,
+    "brandName": "东方墨兰",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:23"
   },
   {
     "id": 17,
@@ -140,6 +161,13 @@
     "recordedAt": "2026-06-04 04:36:55"
   },
   {
+    "id": 59,
+    "brandName": "台积电",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:02"
+  },
+  {
     "id": 30,
     "brandName": "哈根达斯",
     "score": 50,
@@ -154,11 +182,25 @@
     "recordedAt": "2026-06-04 04:36:33"
   },
   {
+    "id": 58,
+    "brandName": "国开行",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:01"
+  },
+  {
     "id": 49,
     "brandName": "国机精工",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:46"
+  },
+  {
+    "id": 64,
+    "brandName": "字节跳动",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:08"
   },
   {
     "id": 15,
@@ -182,11 +224,25 @@
     "recordedAt": "2026-06-04 04:35:32"
   },
   {
+    "id": 60,
+    "brandName": "小马智行",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:03"
+  },
+  {
     "id": 22,
     "brandName": "工业富联",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:09"
+  },
+  {
+    "id": 68,
+    "brandName": "微信",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:16"
   },
   {
     "id": 20,
@@ -201,6 +257,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:20"
+  },
+  {
+    "id": 66,
+    "brandName": "思必驰",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:12"
   },
   {
     "id": 8,
@@ -280,6 +343,13 @@
     "recordedAt": "2026-06-04 04:36:11"
   },
   {
+    "id": 67,
+    "brandName": "洛阳钼业",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:15"
+  },
+  {
     "id": 3,
     "brandName": "火山引擎",
     "score": 55,
@@ -336,6 +406,13 @@
     "recordedAt": "2026-06-04 04:36:04"
   },
   {
+    "id": 69,
+    "brandName": "茶颜悦色",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:20"
+  },
+  {
     "id": 29,
     "brandName": "诺基亚",
     "score": 50,
@@ -364,6 +441,20 @@
     "recordedAt": "2026-06-04 04:36:54"
   },
   {
+    "id": 71,
+    "brandName": "谷歌",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:24"
+  },
+  {
+    "id": 72,
+    "brandName": "谷歌",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:26"
+  },
+  {
     "id": 23,
     "brandName": "豆包",
     "score": 50,
@@ -378,11 +469,32 @@
     "recordedAt": "2026-06-04 04:36:39"
   },
   {
+    "id": 65,
+    "brandName": "阶跃星辰",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:11"
+  },
+  {
+    "id": 63,
+    "brandName": "阿里速卖通",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:01:07"
+  },
+  {
     "id": 48,
     "brandName": "隆扬电子",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:45"
+  },
+  {
+    "id": 57,
+    "brandName": "青龙金属",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:00:56"
   },
   {
     "id": 25,

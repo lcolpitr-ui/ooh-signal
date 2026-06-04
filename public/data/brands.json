@@ -203,7 +203,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 06:21:34"
@@ -390,7 +390,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:34"
@@ -460,6 +460,83 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:51"
+  },
+  {
+    "id": "国开行",
+    "name": "国开行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:01"
+  },
+  {
+    "id": "小马智行",
+    "name": "小马智行",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:03"
+  },
+  {
+    "id": "liftoff",
+    "name": "Liftoff",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:05"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:06"
+  },
+  {
+    "id": "阿里速卖通",
+    "name": "阿里速卖通",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:07"
+  },
+  {
+    "id": "字节跳动",
+    "name": "字节跳动",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:08"
+  },
+  {
+    "id": "阶跃星辰",
+    "name": "阶跃星辰",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:11"
   },
   {
     "id": "柠季",
@@ -713,5 +790,71 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:56"
+  },
+  {
+    "id": "青龙金属",
+    "name": "青龙金属",
+    "industry": "地产",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:00:56"
+  },
+  {
+    "id": "思必驰",
+    "name": "思必驰",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:12"
+  },
+  {
+    "id": "洛阳钼业",
+    "name": "洛阳钼业",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:15"
+  },
+  {
+    "id": "微信",
+    "name": "微信",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:16"
+  },
+  {
+    "id": "茶颜悦色",
+    "name": "茶颜悦色",
+    "industry": "餐饮",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:20"
+  },
+  {
+    "id": "东方墨兰",
+    "name": "东方墨兰",
+    "industry": "餐饮",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:23"
   }
 ]
