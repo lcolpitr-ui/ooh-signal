@@ -20,7 +20,7 @@ def get_high_score_signals(hours=24, min_score=60):
         SELECT * FROM signals
         WHERE collected_at >= ? AND score >= ? AND brand_name != '待识别'
         ORDER BY score DESC
-        LIMIT 10
+        LIMIT 30
     ''', (since, min_score))
 
     signals = [dict(row) for row in cursor.fetchall()]
