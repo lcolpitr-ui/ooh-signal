@@ -605,6 +605,28 @@
     "createdAt": "2026-06-04 06:42:03"
   },
   {
+    "id": "埃泰克",
+    "name": "埃泰克",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 07:02:49"
+  },
+  {
+    "id": "农银投资",
+    "name": "农银投资",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 07:02:52"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -944,5 +966,16 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 06:42:04"
+  },
+  {
+    "id": "lorina-storia-罗莎工坊",
+    "name": "Lorina storia 罗莎工坊",
+    "industry": "服装",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 07:02:54"
   }
 ]

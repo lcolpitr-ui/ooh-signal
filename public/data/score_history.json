@@ -21,6 +21,13 @@
     "recordedAt": "2026-06-04 06:01:05"
   },
   {
+    "id": 85,
+    "brandName": "Lorina storia 罗莎工坊",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 07:02:54"
+  },
+  {
     "id": 11,
     "brandName": "Lovable",
     "score": 55,
@@ -140,6 +147,13 @@
     "recordedAt": "2026-06-04 06:42:04"
   },
   {
+    "id": 84,
+    "brandName": "农银投资",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 07:02:52"
+  },
+  {
     "id": 14,
     "brandName": "剑桥科技",
     "score": 55,
@@ -222,6 +236,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:46"
+  },
+  {
+    "id": 83,
+    "brandName": "埃泰克",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 07:02:49"
   },
   {
     "id": 64,
