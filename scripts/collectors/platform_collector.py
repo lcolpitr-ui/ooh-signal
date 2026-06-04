@@ -308,43 +308,81 @@ def _search_douyin(page, keyword, max_results=5):
     url = f"https://www.douyin.com/search/{keyword}?type=general"
 
     try:
-        page.goto(url, wait_until="networkidle", timeout=30000)
-        time.sleep(3)  # 等待页面完全加载
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        time.sleep(5)  # 等待页面完全加载
 
-        # 获取视频卡片
-        cards = page.query_selector_all('[class*="search-result"] [class*="video-card"], [class*="search-result-card"]')
+        # 尝试多种选择器（抖音经常改版）
+        selectors = [
+            '[data-e2e="search-result-card"]',
+            '[class*="search-result"] li',
+            '[class*="video-card"]',
+            '[class*="search_result"] li',
+            'ul[data-e2e="scroll-list"] li',
+            'div[class*="List"] li',
+        ]
+
+        cards = []
+        for selector in selectors:
+            cards = page.query_selector_all(selector)
+            if cards:
+                break
+
+        if not cards:
+            # 尝试通用方法：查找所有包含视频链接的元素
+            cards = page.query_selector_all('a[href*="/video/"]')
 
         for card in cards[:max_results]:
             try:
                 # 提取标题
-                title_el = card.query_selector('[class*="title"], p, h3')
-                title = title_el.inner_text().strip() if title_el else ''
+                title = ''
+                for title_sel in ['[class*="title"]', 'p', 'h3', 'span', 'a']:
+                    title_el = card.query_selector(title_sel)
+                    if title_el:
+                        title = title_el.inner_text().strip()
+                        if len(title) >= 5:
+                            break
+
+                if len(title) < 5:
+                    # 如果是链接元素，直接获取文本
+                    title = card.inner_text().strip()
 
                 if len(title) < 5:
                     continue
 
                 # 提取链接
-                link_el = card.query_selector('a[href*="/video/"]')
-                link = link_el.get_attribute('href') if link_el else ''
+                link = ''
+                if card.tag_name() == 'a':
+                    link = card.get_attribute('href') or ''
+                else:
+                    link_el = card.query_selector('a[href*="/video/"]')
+                    if link_el:
+                        link = link_el.get_attribute('href') or ''
+
                 if link and not link.startswith('http'):
                     link = f"https://www.douyin.com{link}"
 
                 # 提取互动数据
                 likes = 0
-                likes_el = card.query_selector('[class*="like"] span, [class*="digg"] span')
-                if likes_el:
-                    likes = _parse_number(likes_el.inner_text())
+                for likes_sel in ['[class*="like"] span', '[class*="digg"] span', '[class*="Like"]']:
+                    likes_el = card.query_selector(likes_sel)
+                    if likes_el:
+                        likes = _parse_number(likes_el.inner_text())
+                        break
 
                 comments = 0
-                comments_el = card.query_selector('[class*="comment"] span')
-                if comments_el:
-                    comments = _parse_number(comments_el.inner_text())
+                for comments_sel in ['[class*="comment"] span', '[class*="Comment"]']:
+                    comments_el = card.query_selector(comments_sel)
+                    if comments_el:
+                        comments = _parse_number(comments_el.inner_text())
+                        break
 
                 # 提取作者
                 author = ''
-                author_el = card.query_selector('[class*="author"], [class*="user-name"]')
-                if author_el:
-                    author = author_el.inner_text().strip()
+                for author_sel in ['[class*="author"]', '[class*="user"]', '[class*="nickname"]']:
+                    author_el = card.query_selector(author_sel)
+                    if author_el:
+                        author = author_el.inner_text().strip()
+                        break
 
                 results.append({
                     'title': title[:80],
