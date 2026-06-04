@@ -23,12 +23,7 @@ def init_db():
         reason TEXT,
         published_at TEXT,
         collected_at TEXT DEFAULT CURRENT_TIMESTAMP,
-        tags TEXT DEFAULT '[]',
-        likes INTEGER DEFAULT 0,
-        reposts INTEGER DEFAULT 0,
-        comments INTEGER DEFAULT 0,
-        author TEXT,
-        author_followers INTEGER DEFAULT 0
+        tags TEXT DEFAULT '[]'
     )
     ''')
 
@@ -78,20 +73,6 @@ def init_db():
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_signals_industry ON signals(industry)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_score_history_brand ON score_history(brand_name)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_score_history_date ON score_history(recorded_at)')
-
-    # 添加新字段（如果不存在）
-    migrations = [
-        ("signals", "likes", "INTEGER DEFAULT 0"),
-        ("signals", "reposts", "INTEGER DEFAULT 0"),
-        ("signals", "comments", "INTEGER DEFAULT 0"),
-        ("signals", "author", "TEXT"),
-        ("signals", "author_followers", "INTEGER DEFAULT 0"),
-    ]
-    for table, column, col_type in migrations:
-        try:
-            cursor.execute(f"ALTER TABLE {table} ADD COLUMN {column} {col_type}")
-        except sqlite3.OperationalError:
-            pass  # 列已存在
 
     conn.commit()
     conn.close()
