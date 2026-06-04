@@ -25,6 +25,12 @@ EXPANSION_KEYWORDS = ['开店', '扩张', '新市场', '出海', '海外', '门�
 # 产品相关关键词
 PRODUCT_KEYWORDS = ['发布', '推出', '上线', '新品', '升级', '付费', '商业化']
 
+# 代言人相关关键词
+SPOKESPERSON_KEYWORDS = ['代言人', '品牌大使', '官宣合作', '品牌代言', '代言', '大使']
+
+# 展会/活动相关关键词
+EXHIBITION_KEYWORDS = ['展会', '博览会', '峰会', '论坛', '发布会', '活动', '开幕']
+
 def calculate_score(signal):
     base_score = SIGNAL_TYPE_SCORES.get(signal['signal_type'], 50)
     adjustments = 0
@@ -71,6 +77,16 @@ def generate_reason(signal, score):
     for kw in PRODUCT_KEYWORDS:
         if kw in content:
             reasons.append(f"包含产品关键词「{kw}」")
+            break
+
+    for kw in SPOKESPERSON_KEYWORDS:
+        if kw in content:
+            reasons.append(f"品牌代言人官宣，需高曝光配合")
+            break
+
+    for kw in EXHIBITION_KEYWORDS:
+        if kw in content:
+            reasons.append(f"展会/活动信号，需提升品牌曝光")
             break
 
     # 根据行业

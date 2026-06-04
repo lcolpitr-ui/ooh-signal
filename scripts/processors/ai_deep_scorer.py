@@ -30,11 +30,13 @@ def analyze_signal(title, summary, brand_name, industry):
 摘要：{summary[:300]}
 
 评估维度：
-1. 品牌扩张信号（新店、新市场、出海）→ 投放可能性高
-2. 融资/上市信号 → 营销预算增加，投放可能性高
-3. 产品发布/品牌升级 → 需要广告曝光，投放可能性中高
-4. 竞品投放动态 → 可能跟进，投放可能性中
-5. 行业整体趋势 → 参考价值
+1. 品牌代言人官宣 → 需大规模曝光配合，投放可能性极高（85-100分）
+2. 品牌扩张信号（新店、新市场、出海）→ 投放可能性高（75-95分）
+3. 融资/上市信号 → 营销预算增加，投放可能性高（70-90分）
+4. 产品发布/品牌升级 → 需要广告曝光，投放可能性中高（60-80分）
+5. 展会/活动信号 → 需要品牌曝光，投放可能性中高（60-80分）
+6. 竞品投放动态 → 可能跟进，投放可能性中（50-70分）
+7. 行业整体趋势 → 参考价值（30-50分）
 
 请以 JSON 格式返回：
 {{
@@ -88,13 +90,30 @@ def deep_score_signals():
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    # 获取需要深度打分的信号（品牌已识别，但评分理由简单）
+    # 获取需要深度打分的信号（优先处理代言人、融资、扩张等高价值信号）
     cursor.execute("""
         SELECT * FROM signals
         WHERE brand_name != '待识别'
-        AND (reason LIKE '%行业动态%' OR reason LIKE '%待分析%' OR reason = '')
-        ORDER BY collected_at DESC
-        LIMIT 10
+        AND (
+            reason LIKE '%行业动态%'
+            OR reason LIKE '%待分析%'
+            OR reason = ''
+            OR title LIKE '%代言%'
+            OR title LIKE '%官宣%'
+            OR title LIKE '%融资%'
+            OR title LIKE '%IPO%'
+            OR title LIKE '%展会%'
+            OR title LIKE '%峰会%'
+        )
+        ORDER BY
+            CASE
+                WHEN title LIKE '%代言%' OR title LIKE '%官宣%' THEN 0
+                WHEN title LIKE '%融资%' OR title LIKE '%IPO%' THEN 1
+                WHEN title LIKE '%展会%' OR title LIKE '%峰会%' THEN 2
+                ELSE 3
+            END,
+            collected_at DESC
+        LIMIT 20
     """)
     signals = cursor.fetchall()
 
