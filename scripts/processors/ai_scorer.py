@@ -25,8 +25,16 @@ EXPANSION_KEYWORDS = ['开店', '扩张', '新市场', '出海', '海外', '门�
 # 产品相关关键词
 PRODUCT_KEYWORDS = ['发布', '推出', '上线', '新品', '升级', '付费', '商业化']
 
-# 代言人相关关键词
-SPOKESPERSON_KEYWORDS = ['代言人', '品牌大使', '官宣合作', '品牌代言', '代言', '大使']
+# 代言人/明星合作相关关键词
+SPOKESPERSON_KEYWORDS = ['代言人', '品牌大使', '官宣合作', '品牌代言', '代言', '大使',
+                         '明星合作', '艺人合作', 'KOL合作', '博主合作', '联动', '联名']
+
+# 品牌活动/营销相关关键词
+ACTIVITY_KEYWORDS = ['品牌活动', '线下活动', '快闪', '路演', '巡演', '营销活动',
+                     '推广活动', '宣传活动', '活动发布']
+
+# 商业合作相关关键词
+COOPERATION_KEYWORDS = ['跨界合作', '战略合作', '签约合作', '合作发布', '联名款']
 
 # 展会/活动相关关键词
 EXHIBITION_KEYWORDS = ['展会', '博览会', '峰会', '论坛', '发布会', '活动', '开幕']
@@ -81,7 +89,17 @@ def generate_reason(signal, score):
 
     for kw in SPOKESPERSON_KEYWORDS:
         if kw in content:
-            reasons.append(f"品牌代言人官宣，需高曝光配合")
+            reasons.append(f"明星/代言人合作，需高曝光配合")
+            break
+
+    for kw in ACTIVITY_KEYWORDS:
+        if kw in content:
+            reasons.append(f"品牌活动信号，需提升品牌曝光")
+            break
+
+    for kw in COOPERATION_KEYWORDS:
+        if kw in content:
+            reasons.append(f"商业合作信号，需提升品牌影响力")
             break
 
     for kw in EXHIBITION_KEYWORDS:

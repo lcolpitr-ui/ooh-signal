@@ -90,7 +90,7 @@ def deep_score_signals():
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    # 获取需要深度打分的信号（优先处理代言人、融资、扩张等高价值信号）
+    # 获取需要深度打分的信号（优先处理代言人、活动、融资等高价值信号）
     cursor.execute("""
         SELECT * FROM signals
         WHERE brand_name != '待识别'
@@ -100,20 +100,29 @@ def deep_score_signals():
             OR reason = ''
             OR title LIKE '%代言%'
             OR title LIKE '%官宣%'
+            OR title LIKE '%合作%'
+            OR title LIKE '%联动%'
+            OR title LIKE '%联名%'
+            OR title LIKE '%活动%'
+            OR title LIKE '%快闪%'
+            OR title LIKE '%路演%'
             OR title LIKE '%融资%'
             OR title LIKE '%IPO%'
             OR title LIKE '%展会%'
             OR title LIKE '%峰会%'
+            OR title LIKE '%发布会%'
         )
         ORDER BY
             CASE
                 WHEN title LIKE '%代言%' OR title LIKE '%官宣%' THEN 0
-                WHEN title LIKE '%融资%' OR title LIKE '%IPO%' THEN 1
-                WHEN title LIKE '%展会%' OR title LIKE '%峰会%' THEN 2
-                ELSE 3
+                WHEN title LIKE '%合作%' OR title LIKE '%联动%' OR title LIKE '%联名%' THEN 1
+                WHEN title LIKE '%活动%' OR title LIKE '%快闪%' OR title LIKE '%路演%' THEN 2
+                WHEN title LIKE '%融资%' OR title LIKE '%IPO%' THEN 3
+                WHEN title LIKE '%展会%' OR title LIKE '%峰会%' OR title LIKE '%发布会%' THEN 4
+                ELSE 5
             END,
             collected_at DESC
-        LIMIT 20
+        LIMIT 25
     """)
     signals = cursor.fetchall()
 
