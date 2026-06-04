@@ -20,12 +20,15 @@ import re
 import random
 import time
 from datetime import datetime
+from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 
 # 微博API
-WEIBO_API = "https://m.weibo.cn/api/container/getIndex"
 WEIBO_HOT_API = "https://weibo.com/ajax/statuses/hot_band"
+WEIBO_SEARCH_API = "https://weibo.com/ajax/side/search"
+WEIBO_SEARCH_PAGE = "https://s.weibo.com/weibo"
 
 # 搜索关键词配置：品牌投放相关
 SEARCH_KEYWORDS = [
@@ -113,6 +116,14 @@ def get_known_brands():
         return []
 
 
+def _get_auth_headers(referer='https://weibo.com/'):
+    """获取带Cookie的请求头"""
+    headers = {**HEADERS, 'Referer': referer}
+    if WEIBO_COOKIE:
+        headers['Cookie'] = WEIBO_COOKIE
+    return headers
+
+
 def fetch_hot_search():
     """获取微博热搜榜（无需登录）"""
     try:
@@ -147,32 +158,29 @@ def fetch_hot_search():
         return []
 
 
-def scrape_weibo_search_with_cookie(keyword, max_pages=2, max_results=20):
-    """通过微博移动端搜索API采集数据（需要Cookie）"""
+def scrape_weibo_search_page(keyword, max_pages=2, max_results=20):
+    """通过 s.weibo.com 搜索页面采集数据（需要Cookie）"""
     if not WEIBO_COOKIE:
         return []
 
     all_results = []
-    headers = {**HEADERS, 'Cookie': WEIBO_COOKIE}
+    headers = _get_auth_headers('https://s.weibo.com/')
 
     for page in range(1, max_pages + 1):
         try:
-            containerid = f"100103type=1&q={keyword}"
             params = {
-                'containerid': containerid,
-                'page_type': 'searchall',
+                'q': keyword,
                 'page': page,
             }
 
             for retry in range(RATE_LIMIT["max_retries"]):
                 try:
                     response = requests.get(
-                        WEIBO_API,
+                        WEIBO_SEARCH_PAGE,
                         params=params,
                         headers=headers,
                         timeout=15
                     )
-                    data = response.json()
                     break
                 except Exception as e:
                     if retry < RATE_LIMIT["max_retries"] - 1:
@@ -181,25 +189,18 @@ def scrape_weibo_search_with_cookie(keyword, max_pages=2, max_results=20):
                     else:
                         return all_results
 
-            if data.get('ok') != 1:
-                if 'freq' in str(data.get('msg', '')):
-                    print(f"    Rate limited, waiting {RATE_LIMIT['retry_delay']}s...")
-                    time.sleep(RATE_LIMIT["retry_delay"])
+            if response.status_code != 200:
+                print(f"    HTTP {response.status_code} on page {page}")
                 break
 
-            cards = data.get('data', {}).get('cards', [])
+            # 检查是否被重定向到登录页
+            if 'passport.weibo.com' in response.url or 'login' in response.url.lower():
+                print("    Redirected to login - cookie may be expired")
+                break
 
-            for card in cards:
-                if card.get('card_type') == 9:
-                    result = parse_weibo_card(card)
-                    if result:
-                        all_results.append(result)
-                elif card.get('card_group'):
-                    for item in card.get('card_group', []):
-                        if item.get('card_type') == 9:
-                            result = parse_weibo_card(item)
-                            if result:
-                                all_results.append(result)
+            html = response.text
+            results = _parse_search_page_html(html)
+            all_results.extend(results)
 
             if page < max_pages:
                 random_delay(RATE_LIMIT["page_delay_min"], RATE_LIMIT["page_delay_max"])
@@ -211,49 +212,81 @@ def scrape_weibo_search_with_cookie(keyword, max_pages=2, max_results=20):
     return all_results[:max_results]
 
 
-def parse_weibo_card(card):
-    """解析单条微博卡片"""
-    mblog = card.get('mblog', {})
-    if not mblog:
-        return None
+def _parse_search_page_html(html):
+    """解析 s.weibo.com 搜索结果页面 HTML"""
+    results = []
 
-    text = mblog.get('text', '')
-    clean_text = clean_html(text)
+    # 按 card-wrap 分割（比正则更高效）
+    parts = html.split('card-wrap')
 
-    if len(clean_text) < 10:
-        return None
+    for part in parts:
+        # 提取 mid
+        mid_match = re.search(r'mid="(\d+)"', part)
+        if not mid_match:
+            continue
+        mid = mid_match.group(1)
 
-    user = mblog.get('user', {})
-    author = user.get('screen_name', '微博用户')
-    author_followers = user.get('followers_count', 0) or 0
-    user_id = user.get('id', '')
-    mid = mblog.get('mid', '')
-    url = f"https://weibo.com/{user_id}/{mid}"
+        # 提取用户名（nick-name 属性）
+        user_match = re.search(r'class="name"[^>]*nick-name="([^"]+)"', part)
+        if not user_match:
+            user_match = re.search(r'class="name"[^>]*>([^<]+)</a>', part)
+        author = user_match.group(1).strip() if user_match else '微博用户'
 
-    likes = mblog.get('attitudes_count', 0) or 0
-    reposts = mblog.get('reposts_count', 0) or 0
-    comments = mblog.get('comments_count', 0) or 0
+        # 提取内容
+        txt_match = re.search(r'class="txt"[^>]*>(.*?)</p>', part, re.DOTALL)
+        if not txt_match:
+            continue
+        text = clean_html(txt_match.group(1))
+        if len(text) < 10:
+            continue
 
-    created_at = mblog.get('created_at', '')
-    published_at = None
-    if created_at:
-        try:
-            from email.utils import parsedate_to_datetime
-            published_at = parsedate_to_datetime(created_at).isoformat()
-        except Exception:
-            published_at = created_at
+        # 提取互动数据（在 card-act 区域）
+        likes = 0
+        reposts = 0
+        comments = 0
 
-    return {
-        'title': clean_text[:80] + ('...' if len(clean_text) > 80 else ''),
-        'summary': clean_text,
-        'url': url,
-        'author': author,
-        'author_followers': author_followers,
-        'likes': likes,
-        'reposts': reposts,
-        'comments': comments,
-        'published_at': published_at,
-    }
+        act_idx = part.find('card-act')
+        if act_idx > 0:
+            act_html = part[act_idx:]
+
+            # 转发: feed_list_forward ... </span> 数字
+            fwd_match = re.search(r'feed_list_forward.*?</span>\s*(\d+)', act_html, re.DOTALL)
+            if fwd_match:
+                reposts = int(fwd_match.group(1))
+
+            # 评论: feed_list_comment ... </span> 数字
+            cmt_match = re.search(r'feed_list_comment.*?</span>\s*(\d+)', act_html, re.DOTALL)
+            if cmt_match:
+                comments = int(cmt_match.group(1))
+
+            # 赞: feed_list_like 区域内 >数字<
+            like_area = re.search(r'feed_list_like(.*?)(</li>|</ul>)', act_html, re.DOTALL)
+            if like_area:
+                like_num = re.search(r'>(\d+)<', like_area.group(1))
+                if like_num:
+                    likes = int(like_num.group(1))
+
+        # 提取时间
+        published_at = None
+        time_match = re.search(r'title="(\d{4}-\d{2}-\d{2}[^"]*)"', part)
+        if time_match:
+            published_at = time_match.group(1)
+
+        url = f"https://weibo.com/{mid}"
+
+        results.append({
+            'title': text[:80] + ('...' if len(text) > 80 else ''),
+            'summary': text,
+            'url': url,
+            'author': author,
+            'author_followers': 0,
+            'likes': likes,
+            'reposts': reposts,
+            'comments': comments,
+            'published_at': published_at,
+        })
+
+    return results
 
 
 def collect_weibo_hot(conn):
@@ -290,7 +323,7 @@ def collect_weibo_hot(conn):
                 conn, matched_brand, '', 'industry',
                 f"微博热搜: {keyword}",
                 f"热度: {item['hot_num']:,} | 分类: {item['category']} | {item['flag_desc']}",
-                f"https://s.weibo.com/weibo?q=%23{keyword}%23",
+                f"https://s.weibo.com/weibo?q=%23{quote(keyword)}%23",
                 '微博热搜',
                 likes=item['hot_num'],
                 published_at=datetime.now().isoformat()
@@ -301,12 +334,12 @@ def collect_weibo_hot(conn):
 
 
 def collect_weibo_search(conn):
-    """通过搜索API采集品牌数据（需要Cookie）"""
+    """通过 s.weibo.com 搜索页面采集品牌数据（需要Cookie）"""
     if not WEIBO_COOKIE:
         print("  Skipping search (no WEIBO_COOKIE set)")
         return 0
 
-    print("  Searching with cookie...")
+    print("  Searching via s.weibo.com...")
     total_count = 0
 
     brands = get_known_brands()
@@ -320,7 +353,7 @@ def collect_weibo_search(conn):
             continue
         searched.add(brand)
 
-        results = scrape_weibo_search_with_cookie(brand, max_pages=2, max_results=5)
+        results = scrape_weibo_search_page(brand, max_pages=2, max_results=5)
         for item in results:
             if save_signal(
                 conn, brand, '', 'industry',
