@@ -7,6 +7,20 @@
     "recordedAt": "2026-06-04 04:36:08"
   },
   {
+    "id": 122,
+    "brandName": "Augustinus Bader",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:44"
+  },
+  {
+    "id": 127,
+    "brandName": "BVLGARI",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:52"
+  },
+  {
     "id": 87,
     "brandName": "CMOC",
     "score": 50,
@@ -35,11 +49,25 @@
     "recordedAt": "2026-06-04 07:38:28"
   },
   {
+    "id": 126,
+    "brandName": "FIFA",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:49"
+  },
+  {
     "id": 12,
     "brandName": "HKGAI",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:51"
+  },
+  {
+    "id": 118,
+    "brandName": "Häagen-Dazs",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:38"
   },
   {
     "id": 98,
@@ -77,6 +105,13 @@
     "recordedAt": "2026-06-04 04:35:49"
   },
   {
+    "id": 121,
+    "brandName": "Maison Margiela",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:43"
+  },
+  {
     "id": 45,
     "brandName": "Marvell",
     "score": 50,
@@ -112,6 +147,13 @@
     "recordedAt": "2026-06-04 04:35:40"
   },
   {
+    "id": 129,
+    "brandName": "ROY6",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:55"
+  },
+  {
     "id": 18,
     "brandName": "SpaceX",
     "score": 50,
@@ -131,6 +173,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:23"
+  },
+  {
+    "id": 114,
+    "brandName": "中交地产",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:31"
   },
   {
     "id": 17,
@@ -399,6 +448,13 @@
     "recordedAt": "2026-06-04 04:35:32"
   },
   {
+    "id": 115,
+    "brandName": "小红书",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:33"
+  },
+  {
     "id": 60,
     "brandName": "小马智行",
     "score": 55,
@@ -476,6 +532,13 @@
     "recordedAt": "2026-06-04 04:36:38"
   },
   {
+    "id": 116,
+    "brandName": "抖音",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:34"
+  },
+  {
     "id": 9,
     "brandName": "指尖智擎",
     "score": 55,
@@ -546,6 +609,13 @@
     "recordedAt": "2026-06-04 07:38:32"
   },
   {
+    "id": 124,
+    "brandName": "李宁",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:46"
+  },
+  {
     "id": 27,
     "brandName": "杰锋动力",
     "score": 50,
@@ -565,6 +635,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:28"
+  },
+  {
+    "id": 120,
+    "brandName": "泡泡玛特",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:40"
   },
   {
     "id": 24,
@@ -602,6 +679,20 @@
     "recordedAt": "2026-06-04 04:35:30"
   },
   {
+    "id": 123,
+    "brandName": "爱宝乐园",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:45"
+  },
+  {
+    "id": 125,
+    "brandName": "环球音乐",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:49"
+  },
+  {
     "id": 13,
     "brandName": "现代汽车",
     "score": 55,
@@ -616,11 +707,25 @@
     "recordedAt": "2026-06-04 06:22:45"
   },
   {
+    "id": 130,
+    "brandName": "索迹",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:56"
+  },
+  {
     "id": 104,
     "brandName": "纵横股份",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:45"
+  },
+  {
+    "id": 117,
+    "brandName": "绝味食品",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:35"
   },
   {
     "id": 31,
@@ -656,6 +761,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:40"
+  },
+  {
+    "id": 128,
+    "brandName": "自由点",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:53"
   },
   {
     "id": 79,
@@ -740,6 +852,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:07"
+  },
+  {
+    "id": 119,
+    "brandName": "迈威尔",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 09:06:39"
   },
   {
     "id": 43,

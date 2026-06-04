@@ -220,12 +220,23 @@
     "createdAt": "2026-06-04 04:35:28"
   },
   {
+    "id": "小红书",
+    "name": "小红书",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 2,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 04:35:32"
+  },
+  {
     "id": "李宁",
     "name": "李宁",
     "industry": "运动",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:38"
@@ -770,6 +781,39 @@
     "createdAt": "2026-06-04 08:47:56"
   },
   {
+    "id": "中交地产",
+    "name": "中交地产",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:31"
+  },
+  {
+    "id": "抖音",
+    "name": "抖音",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:34"
+  },
+  {
+    "id": "绝味食品",
+    "name": "绝味食品",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:35"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -801,17 +845,6 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
-  },
-  {
-    "id": "小红书",
-    "name": "小红书",
-    "industry": "互联网",
-    "scale": "large",
-    "isListed": 0,
-    "signalCount": 1,
-    "latestScore": 50,
-    "website": null,
-    "createdAt": "2026-06-04 04:35:32"
   },
   {
     "id": "永鼎股份",
@@ -1208,5 +1241,137 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 08:47:57"
+  },
+  {
+    "id": "häagen-dazs",
+    "name": "Häagen-Dazs",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:38"
+  },
+  {
+    "id": "迈威尔",
+    "name": "迈威尔",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:39"
+  },
+  {
+    "id": "泡泡玛特",
+    "name": "泡泡玛特",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:40"
+  },
+  {
+    "id": "maison-margiela",
+    "name": "Maison Margiela",
+    "industry": "美妆",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:43"
+  },
+  {
+    "id": "augustinus-bader",
+    "name": "Augustinus Bader",
+    "industry": "美妆",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:44"
+  },
+  {
+    "id": "爱宝乐园",
+    "name": "爱宝乐园",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:45"
+  },
+  {
+    "id": "环球音乐",
+    "name": "环球音乐",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:49"
+  },
+  {
+    "id": "fifa",
+    "name": "FIFA",
+    "industry": "运动",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:49"
+  },
+  {
+    "id": "bvlgari",
+    "name": "BVLGARI",
+    "industry": "美妆",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:52"
+  },
+  {
+    "id": "自由点",
+    "name": "自由点",
+    "industry": "快消",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:53"
+  },
+  {
+    "id": "roy6",
+    "name": "ROY6",
+    "industry": "游戏",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:55"
+  },
+  {
+    "id": "索迹",
+    "name": "索迹",
+    "industry": "服装",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 09:06:56"
   }
 ]
