@@ -44,6 +44,9 @@ jobs:
       - name: Export data to JSON
         run: python scripts/export_json.py
 
+      - name: Run resource matcher
+        run: python scripts/matchers/resource_matcher.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
