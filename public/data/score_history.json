@@ -1,1 +1,394 @@
-[]
+[
+  {
+    "id": 21,
+    "brandName": "Alphabet",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:08"
+  },
+  {
+    "id": 12,
+    "brandName": "HKGAI",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:51"
+  },
+  {
+    "id": 11,
+    "brandName": "Lovable",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:49"
+  },
+  {
+    "id": 45,
+    "brandName": "Marvell",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:41"
+  },
+  {
+    "id": 7,
+    "brandName": "PeriVision",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:40"
+  },
+  {
+    "id": 18,
+    "brandName": "SpaceX",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:03"
+  },
+  {
+    "id": 16,
+    "brandName": "Uber",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:59"
+  },
+  {
+    "id": 17,
+    "brandName": "中信证券",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:01"
+  },
+  {
+    "id": 50,
+    "brandName": "中广核矿业",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:47"
+  },
+  {
+    "id": 52,
+    "brandName": "中文在线",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:51"
+  },
+  {
+    "id": 28,
+    "brandName": "中谷物流",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:15"
+  },
+  {
+    "id": 46,
+    "brandName": "京东方",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:43"
+  },
+  {
+    "id": 51,
+    "brandName": "京东方A",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:50"
+  },
+  {
+    "id": 53,
+    "brandName": "京东方A",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:52"
+  },
+  {
+    "id": 14,
+    "brandName": "剑桥科技",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:56"
+  },
+  {
+    "id": 37,
+    "brandName": "博通",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:31"
+  },
+  {
+    "id": 47,
+    "brandName": "双欣材料",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:44"
+  },
+  {
+    "id": 40,
+    "brandName": "台积电",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:34"
+  },
+  {
+    "id": 41,
+    "brandName": "台积电",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:35"
+  },
+  {
+    "id": 55,
+    "brandName": "台积电",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:55"
+  },
+  {
+    "id": 30,
+    "brandName": "哈根达斯",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:18"
+  },
+  {
+    "id": 39,
+    "brandName": "国家电网",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:33"
+  },
+  {
+    "id": 49,
+    "brandName": "国机精工",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:46"
+  },
+  {
+    "id": 15,
+    "brandName": "宁德时代",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:57"
+  },
+  {
+    "id": 56,
+    "brandName": "宇树",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:56"
+  },
+  {
+    "id": 4,
+    "brandName": "小红书",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:32"
+  },
+  {
+    "id": 22,
+    "brandName": "工业富联",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:09"
+  },
+  {
+    "id": 20,
+    "brandName": "微软",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:06"
+  },
+  {
+    "id": 32,
+    "brandName": "德邦基金",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:20"
+  },
+  {
+    "id": 8,
+    "brandName": "戴盟机器人",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:45"
+  },
+  {
+    "id": 42,
+    "brandName": "戴盟机器人",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:38"
+  },
+  {
+    "id": 9,
+    "brandName": "指尖智擎",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:46"
+  },
+  {
+    "id": 33,
+    "brandName": "旷行科技",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:21"
+  },
+  {
+    "id": 35,
+    "brandName": "易方达基金",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:29"
+  },
+  {
+    "id": 5,
+    "brandName": "李宁",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:38"
+  },
+  {
+    "id": 34,
+    "brandName": "李宁",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:22"
+  },
+  {
+    "id": 27,
+    "brandName": "杰锋动力",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:14"
+  },
+  {
+    "id": 6,
+    "brandName": "永鼎股份",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:39"
+  },
+  {
+    "id": 2,
+    "brandName": "江小白",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:28"
+  },
+  {
+    "id": 24,
+    "brandName": "泰格医药",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:11"
+  },
+  {
+    "id": 3,
+    "brandName": "火山引擎",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:30"
+  },
+  {
+    "id": 13,
+    "brandName": "现代汽车",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:54"
+  },
+  {
+    "id": 31,
+    "brandName": "美团",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:19"
+  },
+  {
+    "id": 26,
+    "brandName": "联芸科技",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:13"
+  },
+  {
+    "id": 10,
+    "brandName": "联讯仪器",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:47"
+  },
+  {
+    "id": 36,
+    "brandName": "腾势",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:30"
+  },
+  {
+    "id": 44,
+    "brandName": "腾讯",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:40"
+  },
+  {
+    "id": 19,
+    "brandName": "茅台",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:04"
+  },
+  {
+    "id": 29,
+    "brandName": "诺基亚",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:16"
+  },
+  {
+    "id": 1,
+    "brandName": "谷歌",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:35:27"
+  },
+  {
+    "id": 38,
+    "brandName": "谷歌",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:32"
+  },
+  {
+    "id": 54,
+    "brandName": "谷歌",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:54"
+  },
+  {
+    "id": 23,
+    "brandName": "豆包",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:10"
+  },
+  {
+    "id": 43,
+    "brandName": "长安汽车",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:39"
+  },
+  {
+    "id": 48,
+    "brandName": "隆扬电子",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:45"
+  },
+  {
+    "id": 25,
+    "brandName": "高德地图",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 04:36:12"
+  }
+]
