@@ -2,8 +2,8 @@ name: Daily Push
 
 on:
   schedule:
-    # 每天早上8点推送
-    - cron: '0 8 * * *'
+    # 每天早上9:30推送（北京时间）
+    - cron: '30 1 * * *'
   workflow_dispatch:
 
 jobs:
