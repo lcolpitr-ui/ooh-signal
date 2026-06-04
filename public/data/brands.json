@@ -522,7 +522,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -537,6 +537,28 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:11"
+  },
+  {
+    "id": "小米",
+    "name": "小米",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:22:43"
+  },
+  {
+    "id": "现代起亚",
+    "name": "现代起亚",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:22:45"
   },
   {
     "id": "柠季",
@@ -856,5 +878,16 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 06:01:23"
+  },
+  {
+    "id": "乐迈",
+    "name": "乐迈",
+    "industry": "零售",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-04 06:22:47"
   }
 ]

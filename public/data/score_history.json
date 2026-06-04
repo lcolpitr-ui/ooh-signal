@@ -98,6 +98,13 @@
     "recordedAt": "2026-06-04 04:36:15"
   },
   {
+    "id": 77,
+    "brandName": "乐迈",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:22:47"
+  },
+  {
     "id": 46,
     "brandName": "京东方",
     "score": 50,
@@ -203,6 +210,20 @@
     "recordedAt": "2026-06-04 06:01:08"
   },
   {
+    "id": 73,
+    "brandName": "字节跳动",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:22:41"
+  },
+  {
+    "id": 74,
+    "brandName": "字节跳动",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:22:42"
+  },
+  {
     "id": 15,
     "brandName": "宁德时代",
     "score": 55,
@@ -215,6 +236,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:56"
+  },
+  {
+    "id": 75,
+    "brandName": "小米",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:22:43"
   },
   {
     "id": 4,
@@ -362,6 +390,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:54"
+  },
+  {
+    "id": 76,
+    "brandName": "现代起亚",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-04 06:22:45"
   },
   {
     "id": 31,
