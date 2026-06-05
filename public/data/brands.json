@@ -49,7 +49,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:14"
@@ -71,7 +71,7 @@
     "industry": "旅游",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:18"
@@ -599,7 +599,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:42:00"
@@ -1314,10 +1314,65 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:34:36"
+  },
+  {
+    "id": "理想",
+    "name": "理想",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:13"
+  },
+  {
+    "id": "金固股份",
+    "name": "金固股份",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:16"
+  },
+  {
+    "id": "腾讯会议",
+    "name": "腾讯会议",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:23"
+  },
+  {
+    "id": "金山办公",
+    "name": "金山办公",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:26"
+  },
+  {
+    "id": "蓝科高新",
+    "name": "蓝科高新",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:27"
   },
   {
     "id": "柠季",
@@ -1930,7 +1985,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -2198,5 +2253,93 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 05:47:20"
+  },
+  {
+    "id": "bms",
+    "name": "BMS",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:31"
+  },
+  {
+    "id": "三星电子",
+    "name": "三星电子",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:32"
+  },
+  {
+    "id": "特斯拉",
+    "name": "特斯拉",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:36"
+  },
+  {
+    "id": "拓竹",
+    "name": "拓竹",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:37"
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:38"
+  },
+  {
+    "id": "ubras",
+    "name": "ubras",
+    "industry": "服装",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:46"
+  },
+  {
+    "id": "芭比波朗",
+    "name": "芭比波朗",
+    "industry": "美妆",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:47"
+  },
+  {
+    "id": "celine",
+    "name": "CELINE",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 08:03:49"
   }
 ]

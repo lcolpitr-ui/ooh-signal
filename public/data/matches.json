@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T06:35:20.375783+00:00",
-  "total_matches": 217,
+  "generated_at": "2026-06-05T08:04:35.698007+00:00",
+  "total_matches": 216,
   "matches": [
     {
       "signal_id": "2c1954065a729e0d1ff3c51192fe9940",
@@ -213,6 +213,63 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 92,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "fcfc907fd7991500dcef68774937e1d9",
       "signal_title": "我的每一面，从不遮掩，是历经万境依旧稳稳自持，是全然真实的我本身。很高兴成为@BobbiBrownC",
       "brand_name": "Bobbi Brown",
@@ -270,48 +327,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
-      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
-      "brand_name": "华为",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
-      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
-      "brand_name": "华为",
-      "signal_score": 90,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
       "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
       "brand_name": "KATO-KATO",
-      "signal_score": 90,
+      "signal_score": 92,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -330,7 +349,7 @@
       "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
       "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
       "brand_name": "KATO-KATO",
-      "signal_score": 90,
+      "signal_score": 92,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -349,7 +368,7 @@
       "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
       "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
       "brand_name": "KATO-KATO",
-      "signal_score": 90,
+      "signal_score": 92,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -361,6 +380,101 @@
         "预算匹配"
       ],
       "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "ad43a6ae37702b4c5cb678a0db9de9f8",
+      "signal_title": "@刘亦菲 地广与官宣同行线上线下同步感受#刘亦菲芭比波朗全球品牌代言人# 带给你的绝美感官体验！#刘",
+      "brand_name": "芭比波朗",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "芭比波朗所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "ad43a6ae37702b4c5cb678a0db9de9f8",
+      "signal_title": "@刘亦菲 地广与官宣同行线上线下同步感受#刘亦菲芭比波朗全球品牌代言人# 带给你的绝美感官体验！#刘",
+      "brand_name": "芭比波朗",
+      "signal_score": 92,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "芭比波朗所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "ad43a6ae37702b4c5cb678a0db9de9f8",
+      "signal_title": "@刘亦菲 地广与官宣同行线上线下同步感受#刘亦菲芭比波朗全球品牌代言人# 带给你的绝美感官体验！#刘",
+      "brand_name": "芭比波朗",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "芭比波朗所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
+      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
+      "brand_name": "华为",
+      "signal_score": 90,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
+      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
+      "brand_name": "华为",
+      "signal_score": 90,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -384,42 +498,61 @@
       "daily_traffic": 200000
     },
     {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
+      "signal_id": "6141c409dc575d69fca156133ed037ec",
+      "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
+      "brand_name": "ubras",
+      "signal_score": 90,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "成都",
+      "resource_location": "北京",
       "match_score": 90,
       "reasons": [
         "行业匹配",
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
+      "reason_text": "ubras所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
     },
     {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
+      "signal_id": "6141c409dc575d69fca156133ed037ec",
+      "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
+      "brand_name": "ubras",
+      "signal_score": 90,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "杭州",
+      "resource_location": "上海",
       "match_score": 90,
       "reasons": [
         "行业匹配",
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
+      "reason_text": "ubras所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "6141c409dc575d69fca156133ed037ec",
+      "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
+      "brand_name": "ubras",
+      "signal_score": 90,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "ubras所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
@@ -1334,25 +1467,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
-      "signal_score": 75,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "联讯仪器所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "5562873725c97741a68dfbe603e082d4",
       "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
       "brand_name": "李宁",
@@ -1569,6 +1683,42 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "fcfc907fd7991500dcef68774937e1d9",
       "signal_title": "我的每一面，从不遮掩，是历经万境依旧稳稳自持，是全然真实的我本身。很高兴成为@BobbiBrownC",
       "brand_name": "Bobbi Brown",
@@ -1601,6 +1751,78 @@
         "媒体类型匹配"
       ],
       "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "ad43a6ae37702b4c5cb678a0db9de9f8",
+      "signal_title": "@刘亦菲 地广与官宣同行线上线下同步感受#刘亦菲芭比波朗全球品牌代言人# 带给你的绝美感官体验！#刘",
+      "brand_name": "芭比波朗",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "芭比波朗所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "ad43a6ae37702b4c5cb678a0db9de9f8",
+      "signal_title": "@刘亦菲 地广与官宣同行线上线下同步感受#刘亦菲芭比波朗全球品牌代言人# 带给你的绝美感官体验！#刘",
+      "brand_name": "芭比波朗",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "芭比波朗所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1621,42 +1843,6 @@
       "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "55d8b2bf2fb1b40c661db0b6600522e0",
@@ -1731,58 +1917,40 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
+      "signal_id": "6141c409dc575d69fca156133ed037ec",
+      "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
+      "brand_name": "ubras",
+      "signal_score": 90,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "北京",
+      "resource_location": "成都",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
+      "reason_text": "ubras所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
     },
     {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
+      "signal_id": "6141c409dc575d69fca156133ed037ec",
+      "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
+      "brand_name": "ubras",
+      "signal_score": 90,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "上海",
+      "resource_location": "杭州",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
+      "reason_text": "ubras所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
@@ -2379,40 +2547,22 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
-      "signal_score": 75,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
+      "signal_id": "6141c409dc575d69fca156133ed037ec",
+      "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
+      "brand_name": "ubras",
+      "signal_score": 90,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
       "resource_location": "北京",
-      "match_score": 70,
+      "match_score": 60,
       "reasons": [
         "行业匹配",
-        "媒体类型匹配"
+        "预算匹配"
       ],
-      "reason_text": "联讯仪器所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "ubras所在行业与机场广告受众契合；预算范围匹配",
       "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
-      "signal_score": 75,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "联讯仪器所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
+      "daily_traffic": 300000
     },
     {
       "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
@@ -2993,42 +3143,6 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
-      "signal_score": 75,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "联讯仪器所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
-      "signal_score": 75,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "联讯仪器所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "5562873725c97741a68dfbe603e082d4",
       "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
       "brand_name": "李宁",
@@ -3117,96 +3231,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 88,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
     },
     {
       "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
@@ -3932,42 +3956,6 @@
       "signal_id": "b55276d46fd4ddc4c3ac05deeedf944e",
       "signal_title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
       "brand_name": "指尖智擎",
-      "signal_score": 75,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
-      "signal_score": 75,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "7d4bf5608cc9f338153adeff5312bbff",
-      "signal_title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "brand_name": "联讯仪器",
       "signal_score": 75,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",

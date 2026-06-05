@@ -28,6 +28,13 @@
     "recordedAt": "2026-06-05 02:39:23"
   },
   {
+    "id": 253,
+    "brandName": "Anthropic",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:43"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -42,6 +49,13 @@
     "recordedAt": "2026-06-04 09:06:44"
   },
   {
+    "id": 248,
+    "brandName": "BMS",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:31"
+  },
+  {
     "id": 127,
     "brandName": "BVLGARI",
     "score": 50,
@@ -54,6 +68,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 02:39:37"
+  },
+  {
+    "id": 257,
+    "brandName": "CELINE",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:49"
   },
   {
     "id": 87,
@@ -75,6 +96,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:08:26"
+  },
+  {
+    "id": 252,
+    "brandName": "ChatGPT",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:38"
   },
   {
     "id": 159,
@@ -343,11 +371,25 @@
     "recordedAt": "2026-06-04 04:35:59"
   },
   {
+    "id": 255,
+    "brandName": "ubras",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:46"
+  },
+  {
     "id": 154,
     "brandName": "万通发展",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:29"
+  },
+  {
+    "id": 249,
+    "brandName": "三星电子",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:32"
   },
   {
     "id": 70,
@@ -425,6 +467,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 06:34:36"
+  },
+  {
+    "id": 247,
+    "brandName": "中际旭创",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:30"
   },
   {
     "id": 103,
@@ -945,6 +994,13 @@
     "recordedAt": "2026-06-05 05:47:19"
   },
   {
+    "id": 251,
+    "brandName": "拓竹",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:37"
+  },
+  {
     "id": 9,
     "brandName": "指尖智擎",
     "score": 55,
@@ -1176,6 +1232,20 @@
     "recordedAt": "2026-06-04 09:06:45"
   },
   {
+    "id": 243,
+    "brandName": "爱彼迎",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:21"
+  },
+  {
+    "id": 250,
+    "brandName": "特斯拉",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:36"
+  },
+  {
     "id": 125,
     "brandName": "环球音乐",
     "score": 50,
@@ -1202,6 +1272,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:22:45"
+  },
+  {
+    "id": 240,
+    "brandName": "理想",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:13"
   },
   {
     "id": 199,
@@ -1286,6 +1363,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:19"
+  },
+  {
+    "id": 254,
+    "brandName": "美团",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:44"
   },
   {
     "id": 209,
@@ -1386,11 +1470,25 @@
     "recordedAt": "2026-06-05 04:29:15"
   },
   {
+    "id": 244,
+    "brandName": "腾讯会议",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:23"
+  },
+  {
     "id": 128,
     "brandName": "自由点",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:53"
+  },
+  {
+    "id": 256,
+    "brandName": "芭比波朗",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:47"
   },
   {
     "id": 163,
@@ -1468,6 +1566,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:56"
+  },
+  {
+    "id": 246,
+    "brandName": "蓝科高新",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:27"
   },
   {
     "id": 231,
@@ -1575,6 +1680,20 @@
     "recordedAt": "2026-06-05 04:29:19"
   },
   {
+    "id": 241,
+    "brandName": "金固股份",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:16"
+  },
+  {
+    "id": 245,
+    "brandName": "金山办公",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:26"
+  },
+  {
     "id": 179,
     "brandName": "锦龙股份",
     "score": 50,
@@ -1664,6 +1783,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:42:00"
+  },
+  {
+    "id": 242,
+    "brandName": "鸿海",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 08:03:18"
   },
   {
     "id": 226,
