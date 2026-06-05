@@ -7,7 +7,7 @@ import sqlite3
 import os
 import hashlib
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 
@@ -32,7 +32,7 @@ def save_signal(conn, brand_name, industry, signal_type, title, summary, source_
     cursor.execute('''
         INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (signal_id, brand_name, industry, signal_type, title, summary[:500], source_url, source_name, datetime.now().isoformat(), datetime.now().isoformat()))
+    ''', (signal_id, brand_name, industry, signal_type, title, summary[:500], source_url, source_name, datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
     return True
 
 def scrape_winshang():

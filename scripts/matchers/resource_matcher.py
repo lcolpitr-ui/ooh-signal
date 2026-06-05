@@ -4,7 +4,7 @@
 import sqlite3
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 RESOURCES_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'resources.json')
@@ -161,7 +161,7 @@ def save_matches(matches):
     os.makedirs(os.path.dirname(MATCHES_PATH), exist_ok=True)
     with open(MATCHES_PATH, 'w', encoding='utf-8') as f:
         json.dump({
-            'generated_at': datetime.now().isoformat(),
+            'generated_at': datetime.now(timezone.utc).isoformat(),
             'total_matches': len(matches),
             'matches': matches
         }, f, ensure_ascii=False, indent=2)

@@ -3,7 +3,7 @@ import sqlite3
 import json
 import os
 import hashlib
-from datetime import datetime
+from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 SOURCES_PATH = os.path.join(os.path.dirname(__file__), '..', 'config', 'sources.json')
@@ -43,8 +43,8 @@ def collect_rss():
                     entry.get('summary', '')[:500],
                     entry.get('link', ''),
                     source['name'],
-                    entry.get('published', datetime.now().isoformat()),
-                    datetime.now().isoformat()
+                    entry.get('published', datetime.now(timezone.utc).isoformat()),
+                    datetime.now(timezone.utc).isoformat()
                 ))
 
             print(f"  Collected {len(feed.entries)} entries from {source['name']}")

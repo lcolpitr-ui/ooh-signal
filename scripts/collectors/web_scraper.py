@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import sqlite3
 import os
 import hashlib
-from datetime import datetime
+from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 
@@ -49,7 +49,7 @@ def scrape_36kr_news():
             cursor.execute('''
                 INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (signal_id, '待识别', '科技/创业', 'industry', title, summary, link, '36kr', datetime.now().isoformat(), datetime.now().isoformat()))
+            ''', (signal_id, '待识别', '科技/创业', 'industry', title, summary, link, '36kr', datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
             count += 1
 
         conn.commit()
@@ -89,7 +89,7 @@ def scrape_itjuzi_funding():
             cursor.execute('''
                 INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (signal_id, brand_name, '', 'funding', f"{brand_name} 获得融资", summary, url, 'IT桔子', datetime.now().isoformat(), datetime.now().isoformat()))
+            ''', (signal_id, brand_name, '', 'funding', f"{brand_name} 获得融资", summary, url, 'IT桔子', datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
             count += 1
 
         conn.commit()

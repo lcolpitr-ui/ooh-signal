@@ -20,7 +20,7 @@ import hashlib
 import re
 import random
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 
@@ -99,8 +99,8 @@ def save_signal(conn, brand_name, industry, signal_type, title, summary,
     ''', (
         signal_id, brand_name, industry, signal_type, title, summary[:500],
         source_url, source_name,
-        published_at or datetime.now().isoformat(),
-        datetime.now().isoformat(),
+        published_at or datetime.now(timezone.utc).isoformat(),
+        datetime.now(timezone.utc).isoformat(),
         likes, reposts, comments, author, author_followers
     ))
     return True
