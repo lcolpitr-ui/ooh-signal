@@ -467,7 +467,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:50"
@@ -544,7 +544,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -559,6 +559,17 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:11"
+  },
+  {
+    "id": "微信",
+    "name": "微信",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 06:01:16"
   },
   {
     "id": "小米",
@@ -1155,6 +1166,39 @@
     "createdAt": "2026-06-05 03:40:57"
   },
   {
+    "id": "华为云",
+    "name": "华为云",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 04:07:55"
+  },
+  {
+    "id": "此芯科技",
+    "name": "此芯科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 04:07:57"
+  },
+  {
+    "id": "夸克",
+    "name": "夸克",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 04:08:01"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -1417,17 +1461,6 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 06:01:15"
-  },
-  {
-    "id": "微信",
-    "name": "微信",
-    "industry": "互联网",
-    "scale": "large",
-    "isListed": 1,
-    "signalCount": 1,
-    "latestScore": 50,
-    "website": null,
-    "createdAt": "2026-06-04 06:01:16"
   },
   {
     "id": "茶颜悦色",
@@ -1967,5 +2000,38 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:12"
+  },
+  {
+    "id": "联想",
+    "name": "联想",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 04:08:04"
+  },
+  {
+    "id": "尚客优",
+    "name": "尚客优",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 04:08:08"
+  },
+  {
+    "id": "开心麻花",
+    "name": "开心麻花",
+    "industry": "娱乐",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 04:08:10"
   }
 ]
