@@ -1061,7 +1061,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1274,6 +1274,28 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 05:47:15"
+  },
+  {
+    "id": "蔚来",
+    "name": "蔚来",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 06:08:31"
+  },
+  {
+    "id": "湖南裕能",
+    "name": "湖南裕能",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 06:08:33"
   },
   {
     "id": "柠季",
