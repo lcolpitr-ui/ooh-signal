@@ -217,6 +217,13 @@
     "recordedAt": "2026-06-04 10:54:14"
   },
   {
+    "id": 197,
+    "brandName": "NBA",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:57"
+  },
+  {
     "id": 165,
     "brandName": "Nespresso",
     "score": 50,
@@ -434,6 +441,13 @@
     "recordedAt": "2026-06-04 04:35:56"
   },
   {
+    "id": 196,
+    "brandName": "千寻智能",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:56"
+  },
+  {
     "id": 91,
     "brandName": "华为",
     "score": 50,
@@ -579,6 +593,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:28"
+  },
+  {
+    "id": 194,
+    "brandName": "娃哈哈",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:54"
   },
   {
     "id": 64,
@@ -784,6 +805,13 @@
     "recordedAt": "2026-06-04 09:06:34"
   },
   {
+    "id": 202,
+    "brandName": "拉芳",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:41:11"
+  },
+  {
     "id": 9,
     "brandName": "指尖智擎",
     "score": 55,
@@ -838,6 +866,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:53:58"
+  },
+  {
+    "id": 191,
+    "brandName": "本田",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:50"
   },
   {
     "id": 5,
@@ -1022,6 +1057,13 @@
     "recordedAt": "2026-06-04 06:22:45"
   },
   {
+    "id": 199,
+    "brandName": "瑞幸",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:41:04"
+  },
+  {
     "id": 168,
     "brandName": "百事可乐",
     "score": 50,
@@ -1034,6 +1076,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 02:39:05"
+  },
+  {
+    "id": 201,
+    "brandName": "百润",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:41:09"
   },
   {
     "id": 181,
@@ -1125,6 +1174,34 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:51"
+  },
+  {
+    "id": 192,
+    "brandName": "腾讯",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:52"
+  },
+  {
+    "id": 193,
+    "brandName": "腾讯",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:53"
+  },
+  {
+    "id": 195,
+    "brandName": "腾讯",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:40:55"
+  },
+  {
+    "id": 200,
+    "brandName": "腾讯",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:41:05"
   },
   {
     "id": 128,
@@ -1274,6 +1351,13 @@
     "recordedAt": "2026-06-05 02:39:18"
   },
   {
+    "id": 203,
+    "brandName": "长安",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:41:12"
+  },
+  {
     "id": 43,
     "brandName": "长安汽车",
     "score": 50,
@@ -1286,6 +1370,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:11"
+  },
+  {
+    "id": 198,
+    "brandName": "阿里",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 03:41:02"
   },
   {
     "id": 63,

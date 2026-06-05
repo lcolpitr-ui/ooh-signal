@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-06-05T02:40:18.585266+00:00",
-  "total_matches": 243,
+  "generated_at": "2026-06-05T03:41:54.536092+00:00",
+  "total_matches": 250,
   "matches": [
     {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
-      "signal_score": 95,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
-      "signal_score": 95,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
-      "signal_score": 92,
+      "signal_score": 95,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -63,7 +25,7 @@
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
-      "signal_score": 92,
+      "signal_score": 95,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -82,7 +44,7 @@
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
-      "signal_score": 92,
+      "signal_score": 95,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -94,6 +56,44 @@
         "预算匹配"
       ],
       "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "brand_name": "李宁",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "brand_name": "李宁",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -250,67 +250,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
-      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
-      "brand_name": "华为",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
-      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
-      "brand_name": "华为",
-      "signal_score": 90,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 90,
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -321,14 +264,33 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "拉芳所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
     },
     {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
+      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
+      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
+      "brand_name": "华为",
+      "signal_score": 90,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
+      "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
+      "brand_name": "华为",
       "signal_score": 90,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
@@ -340,7 +302,7 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -400,6 +362,63 @@
       "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
+    },
+    {
+      "signal_id": "2c1954065a729e0d1ff3c51192fe9940",
+      "signal_title": "长安与Billkin的合作：一个产品的发布不仅仅要看一个产品，更多的其实要找到一种产品带到消费者层面",
+      "brand_name": "长安",
+      "signal_score": 90,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "长安所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "53ede3ee0f655283c3d3d206d6bff79a",
@@ -1010,44 +1029,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "百事可乐所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "百事可乐所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "f253e8f90c04b985d61abb4becaa9477",
       "signal_title": "“小美”、元宝互通，是在为微信智能体打样？",
       "brand_name": "美团",
@@ -1618,9 +1599,28 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
+      "signal_id": "2c1954065a729e0d1ff3c51192fe9940",
+      "signal_title": "长安与Billkin的合作：一个产品的发布不仅仅要看一个产品，更多的其实要找到一种产品带到消费者层面",
+      "brand_name": "长安",
+      "signal_score": 90,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 80,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "受众匹配"
+      ],
+      "reason_text": "长安所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；目标受众重叠",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
       "signal_score": 95,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -1631,14 +1631,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "5562873725c97741a68dfbe603e082d4",
-      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
-      "brand_name": "李宁",
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
       "signal_score": 95,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -1649,15 +1649,15 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
     {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "brand_name": "李宁",
+      "signal_score": 95,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -1667,15 +1667,15 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
+      "signal_id": "5562873725c97741a68dfbe603e082d4",
+      "signal_title": "#库里官宣拥抱李宁# 全网沸腾！库里发布官宣短片，正式官宣与李宁签下长期战略合作协议，世界级篮坛巨星",
+      "brand_name": "李宁",
+      "signal_score": 95,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -1685,7 +1685,7 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1870,6 +1870,78 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "拉芳所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "拉芳所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "拉芳所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "拉芳所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
       "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
       "brand_name": "华为",
@@ -1888,42 +1960,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 90,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
-      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
-      "brand_name": "Augustinus Bader",
-      "signal_score": 90,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "fcfc907fd7991500dcef68774937e1d9",
       "signal_title": "我的每一面，从不遮掩，是历经万境依旧稳稳自持，是全然真实的我本身。很高兴成为@BobbiBrownC",
       "brand_name": "Bobbi Brown",
@@ -1958,6 +1994,60 @@
       "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "8f41e36855eff5a76571cf10ae56b580",
@@ -2356,60 +2446,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "百事可乐所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "百事可乐所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "百事可乐所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
       "signal_id": "e6d2416e745968269d57e8cd8c6f5ad6",
       "signal_title": "柠季，救得了哈根达斯？",
       "brand_name": "柠季",
@@ -2658,6 +2694,63 @@
         "媒体类型匹配"
       ],
       "reason_text": "诺基亚所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "2c1954065a729e0d1ff3c51192fe9940",
+      "signal_title": "长安与Billkin的合作：一个产品的发布不仅仅要看一个产品，更多的其实要找到一种产品带到消费者层面",
+      "brand_name": "长安",
+      "signal_score": 90,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配",
+        "受众匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配；目标受众重叠",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "2c1954065a729e0d1ff3c51192fe9940",
+      "signal_title": "长安与Billkin的合作：一个产品的发布不仅仅要看一个产品，更多的其实要找到一种产品带到消费者层面",
+      "brand_name": "长安",
+      "signal_score": 90,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配",
+        "受众匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配；目标受众重叠",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "2c1954065a729e0d1ff3c51192fe9940",
+      "signal_title": "长安与Billkin的合作：一个产品的发布不仅仅要看一个产品，更多的其实要找到一种产品带到消费者层面",
+      "brand_name": "长安",
+      "signal_score": 90,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 60,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配",
+        "受众匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配；目标受众重叠",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -2966,78 +3059,6 @@
       "reason_text": "环球音乐所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "百事可乐所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "百事可乐所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "百事可乐所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
-      "signal_score": 85,
-      "resource_id": "res_012",
-      "resource_name": "北京公交车身广告",
-      "resource_type": "公交广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "百事可乐所在行业与公交广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 100000
     },
     {
       "signal_id": "f253e8f90c04b985d61abb4becaa9477",
@@ -3418,6 +3439,42 @@
       "daily_traffic": 200000
     },
     {
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "0dd0931c450f83ace1d8140522c48dd7",
+      "signal_title": "于玫瑰海的巨浪，看见「选择」的力量以高浓滋养，定格韧性时光很高兴成为@拉芳品牌 全球品牌代言人拉芳3",
+      "brand_name": "拉芳",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
       "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
       "brand_name": "华为",
@@ -3434,6 +3491,96 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "8a48093c53c0f6560d81b9eff46fcb24",
+      "signal_title": "欢迎陈昊宇，成为AB品牌大使舞台上灯亮了，什么都可能发生，情绪断了，节奏偏了——她总能接住，修正，重",
+      "brand_name": "Augustinus Bader",
+      "signal_score": 88,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
     },
     {
       "signal_id": "53ede3ee0f655283c3d3d206d6bff79a",
@@ -3961,24 +4108,6 @@
       "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
       "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
       "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "3ca76f72ab5705fae0fcac8ca45cd2a8",
-      "signal_title": "#阿信王嘉尔合作曲##VOGUE直播间两位明星不出镜#近日，五月天主唱@阿信 与@王嘉尔 首次合作的",
-      "brand_name": "百事可乐",
       "signal_score": 85,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",

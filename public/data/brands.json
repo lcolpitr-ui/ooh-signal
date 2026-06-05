@@ -27,7 +27,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 8,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -1111,6 +1111,50 @@
     "createdAt": "2026-06-05 02:39:17"
   },
   {
+    "id": "本田",
+    "name": "本田",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 03:40:50"
+  },
+  {
+    "id": "娃哈哈",
+    "name": "娃哈哈",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 03:40:54"
+  },
+  {
+    "id": "千寻智能",
+    "name": "千寻智能",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 03:40:56"
+  },
+  {
+    "id": "nba",
+    "name": "NBA",
+    "industry": "运动",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 03:40:57"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -1868,5 +1912,60 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 02:39:41"
+  },
+  {
+    "id": "阿里",
+    "name": "阿里",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 03:41:02"
+  },
+  {
+    "id": "瑞幸",
+    "name": "瑞幸",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 03:41:04"
+  },
+  {
+    "id": "百润",
+    "name": "百润",
+    "industry": "酒水",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 03:41:09"
+  },
+  {
+    "id": "拉芳",
+    "name": "拉芳",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 03:41:11"
+  },
+  {
+    "id": "长安",
+    "name": "长安",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 03:41:12"
   }
 ]
