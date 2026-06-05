@@ -6,7 +6,6 @@ import { usePathname } from 'next/navigation'
 const navItems = [
   { href: '/', label: '精选', icon: '⚡' },
   { href: '/all', label: '全部动态', icon: '📋' },
-  { href: '/brand', label: '品牌库', icon: '🏢' },
   { href: '/playground', label: '资源匹配', icon: '🎯' },
   { href: '/daily', label: '每日日报', icon: '📰' },
   { href: '/submit', label: '信源提报', icon: '➕' },
