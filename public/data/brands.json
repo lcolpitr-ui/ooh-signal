@@ -2088,5 +2088,16 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 04:29:22"
+  },
+  {
+    "id": "tsutaya",
+    "name": "TSUTAYA",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 04:44:12"
   }
 ]

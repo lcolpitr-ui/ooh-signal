@@ -301,6 +301,13 @@
     "recordedAt": "2026-06-05 02:39:08"
   },
   {
+    "id": 221,
+    "brandName": "TSUTAYA",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:44:12"
+  },
+  {
     "id": 16,
     "brandName": "Uber",
     "score": 55,
