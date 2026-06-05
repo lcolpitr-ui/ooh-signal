@@ -24,6 +24,7 @@ const signalTypeLabels: Record<string, string> = {
 const timeLabels: Record<string, string> = {
   all: '全部时间',
   today: '今日',
+  '3day': '近3天',
   week: '本周',
   month: '本月',
 }
