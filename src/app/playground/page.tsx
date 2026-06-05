@@ -61,6 +61,12 @@ export default function PlaygroundPage() {
         body: formData,
       })
 
+      // 检查响应是否是 JSON
+      const contentType = res.headers.get('content-type')
+      if (!contentType || !contentType.includes('application/json')) {
+        throw new Error('服务器返回了非JSON响应，请检查文件格式')
+      }
+
       const data = await res.json()
 
       if (!res.ok) {
@@ -69,7 +75,7 @@ export default function PlaygroundPage() {
 
       setParsedData(data)
     } catch (err) {
-      setError(err instanceof Error ? err.message : '上传失败')
+      setError(err instanceof Error ? err.message : '上传失败，请检查文件格式')
     } finally {
       setUploading(false)
     }

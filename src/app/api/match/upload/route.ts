@@ -10,11 +10,23 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: '请上传文件' }, { status: 400 })
     }
 
+    // 检查文件大小 (10MB)
+    if (file.size > 10 * 1024 * 1024) {
+      return NextResponse.json({ error: '文件太大，请上传小于10MB的文件' }, { status: 400 })
+    }
+
     const buffer = await file.arrayBuffer()
-    const data = parseFile(buffer, file.name)
+    let data: Record<string, unknown>[] = []
+
+    try {
+      data = parseFile(buffer, file.name)
+    } catch (parseError) {
+      console.error('Parse error:', parseError)
+      return NextResponse.json({ error: '文件格式错误，请检查文件内容' }, { status: 400 })
+    }
 
     if (!data || data.length === 0) {
-      return NextResponse.json({ error: '无法解析文件内容' }, { status: 400 })
+      return NextResponse.json({ error: '无法解析文件内容，请确保文件包含表格数据' }, { status: 400 })
     }
 
     return NextResponse.json({
@@ -26,7 +38,7 @@ export async function POST(request: NextRequest) {
     })
   } catch (error) {
     console.error('Upload error:', error)
-    return NextResponse.json({ error: '文件处理失败' }, { status: 500 })
+    return NextResponse.json({ error: '文件处理失败，请重试' }, { status: 500 })
   }
 }
 
