@@ -117,13 +117,23 @@ def identify_brands():
         ''', (brand_name, industry, signal_dict['id']))
 
         # 更新或插入品牌
-        cursor.execute('''
-            INSERT INTO brands (id, name, industry, scale, is_listed, signal_count, latest_score)
-            VALUES (?, ?, ?, ?, ?, 1, ?)
-            ON CONFLICT(name) DO UPDATE SET
-                signal_count = signal_count + 1,
-                latest_score = MAX(latest_score, excluded.latest_score)
-        ''', (brand_name.lower().replace(' ', '-'), brand_name, industry, scale, is_listed, signal_dict['score']))
+        brand_id = brand_name.lower().replace(' ', '-')
+        try:
+            cursor.execute('''
+                INSERT INTO brands (id, name, industry, scale, is_listed, signal_count, latest_score)
+                VALUES (?, ?, ?, ?, ?, 1, ?)
+                ON CONFLICT(id) DO UPDATE SET
+                    signal_count = signal_count + 1,
+                    latest_score = MAX(latest_score, excluded.latest_score)
+            ''', (brand_id, brand_name, industry, scale, is_listed, signal_dict['score']))
+        except Exception:
+            # 如果插入失败，尝试更新
+            cursor.execute('''
+                UPDATE brands SET
+                    signal_count = signal_count + 1,
+                    latest_score = MAX(latest_score, ?)
+                WHERE id = ?
+            ''', (signal_dict['score'], brand_id))
 
         # 记录评分历史
         cursor.execute('''
