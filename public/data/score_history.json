@@ -224,6 +224,13 @@
     "recordedAt": "2026-06-04 10:54:14"
   },
   {
+    "id": 239,
+    "brandName": "Miu Miu",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 06:34:38"
+  },
+  {
     "id": 230,
     "brandName": "MiuMiu",
     "score": 50,
@@ -315,6 +322,13 @@
     "recordedAt": "2026-06-05 02:39:08"
   },
   {
+    "id": 235,
+    "brandName": "SpaceX",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 06:34:32"
+  },
+  {
     "id": 221,
     "brandName": "TSUTAYA",
     "score": 50,
@@ -404,6 +418,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:29:16"
+  },
+  {
+    "id": 238,
+    "brandName": "中际旭创",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 06:34:36"
   },
   {
     "id": 103,
@@ -740,6 +761,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:22:43"
+  },
+  {
+    "id": 234,
+    "brandName": "小米",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 06:34:30"
   },
   {
     "id": 4,
@@ -1400,6 +1428,13 @@
     "recordedAt": "2026-06-05 06:08:36"
   },
   {
+    "id": 236,
+    "brandName": "英伟达",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 06:34:33"
+  },
+  {
     "id": 79,
     "brandName": "英博数科",
     "score": 55,
@@ -1608,6 +1643,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:00:56"
+  },
+  {
+    "id": 237,
+    "brandName": "飞猪",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 06:34:35"
   },
   {
     "id": 25,

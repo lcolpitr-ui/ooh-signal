@@ -357,7 +357,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -577,7 +577,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:22:43"
@@ -1061,7 +1061,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1296,6 +1296,28 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:08:33"
+  },
+  {
+    "id": "飞猪",
+    "name": "飞猪",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 06:34:35"
+  },
+  {
+    "id": "中际旭创",
+    "name": "中际旭创",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 06:34:36"
   },
   {
     "id": "柠季",
@@ -1853,7 +1875,7 @@
     "industry": "服装",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 10:54:14"
