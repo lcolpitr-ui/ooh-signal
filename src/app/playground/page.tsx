@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useRef } from 'react'
+import * as XLSX from 'xlsx'
 
 interface Match {
   signal_id: string
@@ -27,7 +28,6 @@ interface MatchResult {
 }
 
 interface ParsedData {
-  success: boolean
   filename: string
   rows: number
   data: Record<string, unknown>[]
@@ -37,50 +37,139 @@ interface ParsedData {
 export default function PlaygroundPage() {
   const [parsedData, setParsedData] = useState<ParsedData | null>(null)
   const [matchResult, setMatchResult] = useState<MatchResult | null>(null)
-  const [uploading, setUploading] = useState(false)
+  const [parsing, setParsing] = useState(false)
   const [matching, setMatching] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [searchTerm, setSearchTerm] = useState('')
   const [locationFilter, setLocationFilter] = useState('all')
   const fileInputRef = useRef<HTMLInputElement>(null)
 
+  // 客户端解析文件
   const handleFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0]
     if (!file) return
 
-    setUploading(true)
+    setParsing(true)
     setError(null)
     setMatchResult(null)
 
     try {
-      const formData = new FormData()
-      formData.append('file', file)
-
-      const res = await fetch('/api/match/upload', {
-        method: 'POST',
-        body: formData,
+      const data = await parseFileClient(file)
+      if (!data || data.length === 0) {
+        throw new Error('无法解析文件内容，请确保文件包含表格数据')
+      }
+      setParsedData({
+        filename: file.name,
+        rows: data.length,
+        data,
+        columns: Object.keys(data[0] || {}),
       })
-
-      // 检查响应是否是 JSON
-      const contentType = res.headers.get('content-type')
-      if (!contentType || !contentType.includes('application/json')) {
-        throw new Error('服务器返回了非JSON响应，请检查文件格式')
-      }
-
-      const data = await res.json()
-
-      if (!res.ok) {
-        throw new Error(data.error || '上传失败')
-      }
-
-      setParsedData(data)
     } catch (err) {
-      setError(err instanceof Error ? err.message : '上传失败，请检查文件格式')
+      setError(err instanceof Error ? err.message : '文件解析失败')
     } finally {
-      setUploading(false)
+      setParsing(false)
     }
   }
 
+  // 客户端解析 Excel/CSV 文件
+  const parseFileClient = async (file: File): Promise<Record<string, unknown>[]> => {
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader()
+      reader.onload = (e) => {
+        try {
+          const data = e.target?.result
+          if (!data) {
+            reject(new Error('无法读取文件'))
+            return
+          }
+
+          const ext = file.name.toLowerCase().split('.').pop()
+
+          // Excel 文件
+          if (ext === 'xlsx' || ext === 'xls') {
+            const workbook = XLSX.read(data, { type: 'array' })
+            const firstSheet = workbook.Sheets[workbook.SheetNames[0]]
+            const jsonData = XLSX.utils.sheet_to_json(firstSheet)
+            resolve(jsonData as Record<string, unknown>[])
+            return
+          }
+
+          // CSV 文件
+          if (ext === 'csv') {
+            const workbook = XLSX.read(data, { type: 'string' })
+            const firstSheet = workbook.Sheets[workbook.SheetNames[0]]
+            const jsonData = XLSX.utils.sheet_to_json(firstSheet)
+            resolve(jsonData as Record<string, unknown>[])
+            return
+          }
+
+          // 文本文件
+          if (ext === 'txt' || ext === 'text') {
+            const text = data as string
+            const jsonData = parseTextFile(text)
+            resolve(jsonData)
+            return
+          }
+
+          reject(new Error('不支持的文件格式，请上传 Excel、CSV 或 TXT 文件'))
+        } catch (err) {
+          reject(new Error('文件解析失败：' + (err instanceof Error ? err.message : '未知错误')))
+        }
+      }
+      reader.onerror = () => reject(new Error('文件读取失败'))
+
+      // 根据文件类型选择读取方式
+      const ext = file.name.toLowerCase().split('.').pop()
+      if (ext === 'xlsx' || ext === 'xls') {
+        reader.readAsArrayBuffer(file)
+      } else {
+        reader.readAsText(file, 'utf-8')
+      }
+    })
+  }
+
+  // 解析文本文件
+  const parseTextFile = (text: string): Record<string, unknown>[] => {
+    const lines = text.split('\n').filter(line => line.trim())
+    if (lines.length < 2) return []
+
+    // 尝试检测分隔符
+    const separator = detectSeparator(lines)
+    if (!separator) return []
+
+    const headers = lines[0].split(separator).map(h => h.trim()).filter(Boolean)
+    const rows: Record<string, unknown>[] = []
+
+    for (let i = 1; i < lines.length; i++) {
+      const values = lines[i].split(separator).map(v => v.trim())
+      const row: Record<string, unknown> = {}
+      headers.forEach((header, index) => {
+        row[header] = values[index] || ''
+      })
+      rows.push(row)
+    }
+
+    return rows
+  }
+
+  // 检测分隔符
+  const detectSeparator = (lines: string[]): string | null => {
+    if (lines.length < 2) return null
+
+    const firstLine = lines[0]
+    const tabCount = (firstLine.match(/\t/g) || []).length
+    const commaCount = (firstLine.match(/,/g) || []).length
+    const spaceCount = (firstLine.match(/\s{2,}/g) || []).length
+
+    if (tabCount >= 2) return '\t'
+    if (commaCount >= 2) return ','
+    if (spaceCount >= 2) return '  '
+    if (firstLine.includes('|') && firstLine.split('|').length >= 3) return '|'
+
+    return null
+  }
+
+  // 执行匹配
   const handleMatch = async () => {
     if (!parsedData?.data) return
 
@@ -145,8 +234,8 @@ export default function PlaygroundPage() {
 
           {/* 错误提示 */}
           {error && (
-            <div className="bg-red-50 border border-red-200 rounded-lg p-4 mb-6">
-              <p className="text-red-800">{error}</p>
+            <div className="bg-red-500/10 border border-red-500/30 rounded-lg p-4 mb-6">
+              <p className="text-red-400">{error}</p>
             </div>
           )}
 
@@ -159,16 +248,16 @@ export default function PlaygroundPage() {
                 <input
                   ref={fileInputRef}
                   type="file"
-                  accept=".xlsx,.xls,.csv,.txt,.text,.docx,.doc,.pdf"
+                  accept=".xlsx,.xls,.csv,.txt,.text"
                   onChange={handleFileUpload}
                   className="hidden"
                   id="file-upload"
                 />
                 <label
                   htmlFor="file-upload"
-                  className="cursor-pointer inline-flex items-center gap-2 px-4 py-2 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition"
+                  className="cursor-pointer inline-flex items-center gap-2 px-6 py-3 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition"
                 >
-                  {uploading ? (
+                  {parsing ? (
                     <>
                       <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
                       解析中...
@@ -180,10 +269,13 @@ export default function PlaygroundPage() {
                   )}
                 </label>
                 <p className="text-sm text-[var(--text-secondary)] mt-3">
-                  支持 Excel、CSV、TXT、Word、PDF 格式
+                  支持 Excel (.xlsx, .xls)、CSV、TXT 格式
                 </p>
                 <p className="text-xs text-[var(--text-secondary)] mt-1">
                   文件应包含：名称、类型、位置、行业、受众、价格等列
+                </p>
+                <p className="text-xs text-[var(--text-secondary)] mt-1">
+                  大文件会在本地解析，无需上传到服务器
                 </p>
               </div>
             ) : (
@@ -193,7 +285,8 @@ export default function PlaygroundPage() {
                   <div>
                     <p className="font-medium">📄 {parsedData.filename}</p>
                     <p className="text-sm text-[var(--text-secondary)]">
-                      {parsedData.rows} 条资源 | 列：{parsedData.columns.join('、')}
+                      {parsedData.rows} 条资源 | 列：{parsedData.columns.slice(0, 5).join('、')}
+                      {parsedData.columns.length > 5 && `...+${parsedData.columns.length - 5}列`}
                     </p>
                   </div>
                   <button
@@ -205,40 +298,40 @@ export default function PlaygroundPage() {
                 </div>
 
                 {/* 数据预览 */}
-                <div className="overflow-x-auto mb-4">
+                <div className="overflow-x-auto mb-4 max-h-60 overflow-y-auto">
                   <table className="w-full text-sm">
-                    <thead>
+                    <thead className="sticky top-0 bg-[var(--card)]">
                       <tr className="border-b border-[var(--border)]">
-                        {parsedData.columns.slice(0, 6).map(col => (
-                          <th key={col} className="text-left p-2 font-medium">
+                        {parsedData.columns.slice(0, 8).map(col => (
+                          <th key={col} className="text-left p-2 font-medium whitespace-nowrap">
                             {col}
                           </th>
                         ))}
-                        {parsedData.columns.length > 6 && (
+                        {parsedData.columns.length > 8 && (
                           <th className="text-left p-2 font-medium text-[var(--text-secondary)]">
-                            ...+{parsedData.columns.length - 6}列
+                            ...+{parsedData.columns.length - 8}列
                           </th>
                         )}
                       </tr>
                     </thead>
                     <tbody>
-                      {parsedData.data.slice(0, 5).map((row, i) => (
+                      {parsedData.data.slice(0, 10).map((row, i) => (
                         <tr key={i} className="border-b border-[var(--border)]">
-                          {parsedData.columns.slice(0, 6).map(col => (
-                            <td key={col} className="p-2 text-[var(--text-secondary)]">
+                          {parsedData.columns.slice(0, 8).map(col => (
+                            <td key={col} className="p-2 text-[var(--text-secondary)] whitespace-nowrap max-w-[200px] truncate">
                               {String(row[col] || '-')}
                             </td>
                           ))}
-                          {parsedData.columns.length > 6 && (
+                          {parsedData.columns.length > 8 && (
                             <td className="p-2 text-[var(--text-secondary)]">...</td>
                           )}
                         </tr>
                       ))}
                     </tbody>
                   </table>
-                  {parsedData.rows > 5 && (
+                  {parsedData.rows > 10 && (
                     <p className="text-xs text-[var(--text-secondary)] mt-2">
-                      显示前 5 条，共 {parsedData.rows} 条
+                      显示前 10 条，共 {parsedData.rows} 条
                     </p>
                   )}
                 </div>
@@ -339,9 +432,9 @@ export default function PlaygroundPage() {
                             <p>{match.signal_title}</p>
                             <div className="flex items-center gap-2 mt-1">
                               <span className={`px-2 py-1 rounded text-xs font-medium ${
-                                match.signal_score >= 90 ? 'bg-red-100 text-red-800' :
-                                match.signal_score >= 80 ? 'bg-orange-100 text-orange-800' :
-                                'bg-yellow-100 text-yellow-800'
+                                match.signal_score >= 90 ? 'bg-red-500/20 text-red-400' :
+                                match.signal_score >= 80 ? 'bg-orange-500/20 text-orange-400' :
+                                'bg-yellow-500/20 text-yellow-400'
                               }`}>
                                 信号评分: {match.signal_score}
                               </span>
