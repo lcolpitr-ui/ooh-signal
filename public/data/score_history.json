@@ -224,6 +224,13 @@
     "recordedAt": "2026-06-04 10:54:14"
   },
   {
+    "id": 230,
+    "brandName": "MiuMiu",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:20"
+  },
+  {
     "id": 197,
     "brandName": "NBA",
     "score": 55,
@@ -278,6 +285,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:49:01"
+  },
+  {
+    "id": 228,
+    "brandName": "SAP",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:18"
   },
   {
     "id": 18,
@@ -896,6 +910,13 @@
     "recordedAt": "2026-06-05 03:41:11"
   },
   {
+    "id": 229,
+    "brandName": "拉芳",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:19"
+  },
+  {
     "id": 9,
     "brandName": "指尖智擎",
     "score": 55,
@@ -1316,6 +1337,13 @@
     "recordedAt": "2026-06-05 04:29:17"
   },
   {
+    "id": 227,
+    "brandName": "腾讯",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:17"
+  },
+  {
     "id": 215,
     "brandName": "腾讯云",
     "score": 55,
@@ -1342,6 +1370,20 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 02:39:25"
+  },
+  {
+    "id": 224,
+    "brandName": "英伟达",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:11"
+  },
+  {
+    "id": 225,
+    "brandName": "英伟达",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:14"
   },
   {
     "id": 79,
@@ -1377,6 +1419,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:56"
+  },
+  {
+    "id": 222,
+    "brandName": "蚂蚁数科",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:07"
   },
   {
     "id": 29,
@@ -1519,6 +1568,13 @@
     "recordedAt": "2026-06-04 04:36:45"
   },
   {
+    "id": 223,
+    "brandName": "雷克萨斯",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:09"
+  },
+  {
     "id": 160,
     "brandName": "霍尼韦尔",
     "score": 50,
@@ -1545,5 +1601,12 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:42:00"
+  },
+  {
+    "id": 226,
+    "brandName": "麦麦科技",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 05:47:15"
   }
 ]

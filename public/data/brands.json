@@ -27,7 +27,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -1056,6 +1056,17 @@
     "createdAt": "2026-06-04 18:48:31"
   },
   {
+    "id": "英伟达",
+    "name": "英伟达",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 4,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-04 18:48:47"
+  },
+  {
     "id": "毫秒智控",
     "name": "毫秒智控",
     "industry": "汽车",
@@ -1230,6 +1241,39 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:29:16"
+  },
+  {
+    "id": "蚂蚁数科",
+    "name": "蚂蚁数科",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 05:47:07"
+  },
+  {
+    "id": "雷克萨斯",
+    "name": "雷克萨斯",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 05:47:09"
+  },
+  {
+    "id": "麦麦科技",
+    "name": "麦麦科技",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 05:47:15"
   },
   {
     "id": "柠季",
@@ -1848,17 +1892,6 @@
     "createdAt": "2026-06-04 18:48:45"
   },
   {
-    "id": "英伟达",
-    "name": "英伟达",
-    "industry": "3C",
-    "scale": "large",
-    "isListed": 1,
-    "signalCount": 2,
-    "latestScore": 50,
-    "website": null,
-    "createdAt": "2026-06-04 18:48:47"
-  },
-  {
     "id": "nespresso",
     "name": "Nespresso",
     "industry": "快消",
@@ -2018,7 +2051,7 @@
     "industry": "快消",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:11"
@@ -2099,5 +2132,27 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 04:44:12"
+  },
+  {
+    "id": "sap",
+    "name": "SAP",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 05:47:18"
+  },
+  {
+    "id": "miumiu",
+    "name": "MiuMiu",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 05:47:20"
   }
 ]
