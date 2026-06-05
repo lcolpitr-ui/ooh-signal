@@ -21,6 +21,13 @@
     "recordedAt": "2026-06-04 18:48:45"
   },
   {
+    "id": 183,
+    "brandName": "Anthropic",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:23"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -40,6 +47,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:52"
+  },
+  {
+    "id": 187,
+    "brandName": "Bobbi Brown",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:37"
   },
   {
     "id": 87,
@@ -117,6 +131,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:54:05"
+  },
+  {
+    "id": 188,
+    "brandName": "KATO-KATO",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:38"
   },
   {
     "id": 98,
@@ -217,6 +238,13 @@
     "recordedAt": "2026-06-04 10:53:59"
   },
   {
+    "id": 189,
+    "brandName": "PLUG-INPET",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:40"
+  },
+  {
     "id": 7,
     "brandName": "PeriVision",
     "score": 50,
@@ -250,6 +278,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:54:10"
+  },
+  {
+    "id": 175,
+    "brandName": "SpaceX",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:08"
   },
   {
     "id": 16,
@@ -434,6 +469,13 @@
     "recordedAt": "2026-06-04 04:36:31"
   },
   {
+    "id": 171,
+    "brandName": "原力灵机",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:03"
+  },
+  {
     "id": 135,
     "brandName": "厦门钨业",
     "score": 55,
@@ -481,6 +523,20 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:18"
+  },
+  {
+    "id": 176,
+    "brandName": "哔哩哔哩",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:09"
+  },
+  {
+    "id": 178,
+    "brandName": "唯特偶",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:17"
   },
   {
     "id": 106,
@@ -616,11 +672,25 @@
     "recordedAt": "2026-06-04 10:54:13"
   },
   {
+    "id": 177,
+    "brandName": "小鹏",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:15"
+  },
+  {
     "id": 149,
     "brandName": "小鹏集团",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:18"
+  },
+  {
+    "id": 190,
+    "brandName": "屁屁侦探",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:41"
   },
   {
     "id": 22,
@@ -670,6 +740,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:20"
+  },
+  {
+    "id": 185,
+    "brandName": "快手",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:31"
   },
   {
     "id": 66,
@@ -798,6 +875,13 @@
     "recordedAt": "2026-06-04 09:06:46"
   },
   {
+    "id": 172,
+    "brandName": "李宁",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:04"
+  },
+  {
     "id": 131,
     "brandName": "杰瑞股份",
     "score": 55,
@@ -817,6 +901,20 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:54:06"
+  },
+  {
+    "id": 186,
+    "brandName": "欧莱雅",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:33"
+  },
+  {
+    "id": 170,
+    "brandName": "毫秒智控",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:01"
   },
   {
     "id": 6,
@@ -931,6 +1029,20 @@
     "recordedAt": "2026-06-04 23:07:01"
   },
   {
+    "id": 173,
+    "brandName": "百曜科技",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:05"
+  },
+  {
+    "id": 181,
+    "brandName": "粉笔",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:21"
+  },
+  {
     "id": 136,
     "brandName": "精达股份",
     "score": 55,
@@ -1029,11 +1141,25 @@
     "recordedAt": "2026-06-04 18:48:47"
   },
   {
+    "id": 184,
+    "brandName": "英伟达",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:25"
+  },
+  {
     "id": 79,
     "brandName": "英博数科",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:42:01"
+  },
+  {
+    "id": 174,
+    "brandName": "苹果",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:06"
   },
   {
     "id": 19,
@@ -1120,11 +1246,32 @@
     "recordedAt": "2026-06-04 18:48:46"
   },
   {
+    "id": 180,
+    "brandName": "豆包",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:20"
+  },
+  {
+    "id": 182,
+    "brandName": "豆包",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:22"
+  },
+  {
     "id": 119,
     "brandName": "迈威尔",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:39"
+  },
+  {
+    "id": 179,
+    "brandName": "锦龙股份",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 02:39:18"
   },
   {
     "id": 43,
