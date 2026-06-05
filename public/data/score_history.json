@@ -105,6 +105,13 @@
     "recordedAt": "2026-06-04 10:54:15"
   },
   {
+    "id": 220,
+    "brandName": "Enphase Energy",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:22"
+  },
+  {
     "id": 126,
     "brandName": "FIFA",
     "score": 50,
@@ -371,6 +378,13 @@
     "recordedAt": "2026-06-04 04:36:15"
   },
   {
+    "id": 216,
+    "brandName": "中远海控",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:16"
+  },
+  {
     "id": 103,
     "brandName": "久日新材",
     "score": 55,
@@ -467,6 +481,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:07:55"
+  },
+  {
+    "id": 213,
+    "brandName": "华为云",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:13"
   },
   {
     "id": 134,
@@ -614,6 +635,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:08:01"
+  },
+  {
+    "id": 214,
+    "brandName": "奇瑞汽车",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:14"
   },
   {
     "id": 194,
@@ -1148,6 +1176,13 @@
     "recordedAt": "2026-06-05 02:39:21"
   },
   {
+    "id": 219,
+    "brandName": "粉笔",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:21"
+  },
+  {
     "id": 136,
     "brandName": "精达股份",
     "score": 55,
@@ -1265,6 +1300,20 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 03:41:05"
+  },
+  {
+    "id": 217,
+    "brandName": "腾讯",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:17"
+  },
+  {
+    "id": 215,
+    "brandName": "腾讯云",
+    "score": 55,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:15"
   },
   {
     "id": 128,
@@ -1405,6 +1454,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:39"
+  },
+  {
+    "id": 218,
+    "brandName": "通用",
+    "score": 50,
+    "signalCount": 1,
+    "recordedAt": "2026-06-05 04:29:19"
   },
   {
     "id": 179,

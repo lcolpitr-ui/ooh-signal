@@ -27,7 +27,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -1171,7 +1171,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:07:55"
@@ -1197,6 +1197,39 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:08:01"
+  },
+  {
+    "id": "奇瑞汽车",
+    "name": "奇瑞汽车",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 04:29:14"
+  },
+  {
+    "id": "腾讯云",
+    "name": "腾讯云",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 04:29:15"
+  },
+  {
+    "id": "中远海控",
+    "name": "中远海控",
+    "industry": "航空",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-05 04:29:16"
   },
   {
     "id": "柠季",
@@ -1875,7 +1908,7 @@
     "industry": "教育",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 02:39:21"
@@ -2033,5 +2066,27 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 04:08:10"
+  },
+  {
+    "id": "通用",
+    "name": "通用",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 04:29:19"
+  },
+  {
+    "id": "enphase-energy",
+    "name": "Enphase Energy",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-05 04:29:22"
   }
 ]
