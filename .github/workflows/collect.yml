@@ -62,6 +62,9 @@ jobs:
           echo "new=$NEW" >> $GITHUB_OUTPUT
           echo "📊 新增信号: $NEW"
 
+      - name: Cleanup old data
+        run: python scripts/cleanup_data.py
+
       - name: Generate daily report
         run: python scripts/generate_daily.py
 

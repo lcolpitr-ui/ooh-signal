@@ -23,6 +23,10 @@ function getTimeThreshold(period?: string): Date | null {
   switch (period) {
     case 'today':
       return new Date(now.getFullYear(), now.getMonth(), now.getDate())
+    case '3day':
+      const d3 = new Date(now)
+      d3.setDate(d3.getDate() - 3)
+      return d3
     case 'week':
       const d = new Date(now)
       d.setDate(d.getDate() - 7)

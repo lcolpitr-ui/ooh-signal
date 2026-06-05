@@ -38,7 +38,10 @@ export default function SignalList({ featured = false }: { featured?: boolean })
     if (signalType !== 'all') params.set('signalType', signalType)
     if (timePeriod !== 'all') params.set('timePeriod', timePeriod)
     if (search) params.set('search', search)
-    if (featured) params.set('minScore', '60')
+    if (featured) {
+      params.set('minScore', '60')
+      params.set('timePeriod', '3day')
+    }
     params.set('limit', String(PAGE_SIZE))
     params.set('offset', String((page - 1) * PAGE_SIZE))
 
