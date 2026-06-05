@@ -5,17 +5,17 @@ import requests
 from bs4 import BeautifulSoup
 import sqlite3
 import os
-import hashlib
 from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
+from signal_utils import save_signal_safe
+
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
-
-def generate_id(url, title):
-    return hashlib.md5(f"{url}:{title}".encode()).hexdigest()
 
 def scrape_36kr_news():
     """爬取 36kr 新闻"""
@@ -40,17 +40,8 @@ def scrape_36kr_news():
             summary_elem = article.select_one('p.description')
             summary = summary_elem.text.strip()[:500] if summary_elem else ''
 
-            signal_id = generate_id(link, title)
-
-            cursor.execute('SELECT id FROM signals WHERE id = ?', (signal_id,))
-            if cursor.fetchone():
-                continue
-
-            cursor.execute('''
-                INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (signal_id, '待识别', '科技/创业', 'industry', title, summary, link, '36kr', datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
-            count += 1
+            if save_signal_safe(conn, '待识别', '科技/创业', 'industry', title, summary, link, '36kr'):
+                count += 1
 
         conn.commit()
         conn.close()
@@ -80,17 +71,8 @@ def scrape_itjuzi_funding():
             detail_elem = item.select_one('div.detail')
             summary = detail_elem.text.strip()[:500] if detail_elem else ''
 
-            signal_id = generate_id(url, brand_name)
-
-            cursor.execute('SELECT id FROM signals WHERE id = ?', (signal_id,))
-            if cursor.fetchone():
-                continue
-
-            cursor.execute('''
-                INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', (signal_id, brand_name, '', 'funding', f"{brand_name} 获得融资", summary, url, 'IT桔子', datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
-            count += 1
+            if save_signal_safe(conn, brand_name, '', 'funding', f"{brand_name} 获得融资", summary, url, 'IT桔子'):
+                count += 1
 
         conn.commit()
         conn.close()

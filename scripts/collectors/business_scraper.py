@@ -5,11 +5,13 @@ import requests
 from bs4 import BeautifulSoup
 import sqlite3
 import os
-import hashlib
-import json
 from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
+
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
+from signal_utils import save_signal_safe
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -17,23 +19,9 @@ HEADERS = {
     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
 }
 
-def generate_id(url, title):
-    return hashlib.md5(f"{url}:{title}".encode()).hexdigest()
-
 def save_signal(conn, brand_name, industry, signal_type, title, summary, source_url, source_name):
-    """保存信号到数据库"""
-    cursor = conn.cursor()
-    signal_id = generate_id(source_url, title)
-
-    cursor.execute('SELECT id FROM signals WHERE id = ?', (signal_id,))
-    if cursor.fetchone():
-        return False
-
-    cursor.execute('''
-        INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (signal_id, brand_name, industry, signal_type, title, summary[:500], source_url, source_name, datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
-    return True
+    """保存信号到数据库（使用共享去重逻辑）"""
+    return save_signal_safe(conn, brand_name, industry, signal_type, title, summary, source_url, source_name)
 
 def scrape_winshang():
     """爬取赢商网 - 商业地产新闻"""

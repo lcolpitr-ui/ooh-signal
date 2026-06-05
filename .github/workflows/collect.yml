@@ -5,6 +5,11 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+# 防止并发运行导致 push 冲突
+concurrency:
+  group: data-collection
+  cancel-in-progress: false
+
 permissions:
   contents: write
   issues: write
@@ -75,6 +80,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/ public/data/
           git diff --staged --quiet || git commit -m "chore: update data"
           git push

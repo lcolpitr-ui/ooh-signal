@@ -42,3 +42,7 @@ next-env.d.ts
 
 .vercel
 data/ooh_signal.db.bak
+
+# python
+__pycache__/
+*.pyc

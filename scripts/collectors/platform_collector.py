@@ -16,13 +16,16 @@
 
 import sqlite3
 import os
-import hashlib
 import re
 import random
 import time
 from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
+
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
+from signal_utils import save_signal_safe
 
 # 搜索关键词（按广告投放价值分类）
 SEARCH_KEYWORDS = [
@@ -71,10 +74,6 @@ def random_delay(min_sec=None, max_sec=None):
     time.sleep(delay)
 
 
-def generate_id(url, title):
-    return hashlib.md5(f"{url}:{title}".encode()).hexdigest()
-
-
 def clean_html(text):
     """去除HTML标签"""
     return re.sub(r'<[^>]+>', '', text).strip()
@@ -83,27 +82,14 @@ def clean_html(text):
 def save_signal(conn, brand_name, industry, signal_type, title, summary,
                 source_url, source_name, likes=0, reposts=0, comments=0,
                 author='', author_followers=0, published_at=None):
-    """保存信号到数据库"""
-    cursor = conn.cursor()
-    signal_id = generate_id(source_url, title)
-
-    cursor.execute('SELECT id FROM signals WHERE id = ?', (signal_id,))
-    if cursor.fetchone():
-        return False
-
-    cursor.execute('''
-        INSERT INTO signals (id, brand_name, industry, signal_type, title, summary,
-            source_url, source_name, published_at, collected_at,
-            likes, reposts, comments, author, author_followers)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (
-        signal_id, brand_name, industry, signal_type, title, summary[:500],
+    """保存信号到数据库（使用共享去重逻辑）"""
+    return save_signal_safe(
+        conn, brand_name, industry, signal_type, title, summary,
         source_url, source_name,
-        published_at or datetime.now(timezone.utc).isoformat(),
-        datetime.now(timezone.utc).isoformat(),
-        likes, reposts, comments, author, author_followers
-    ))
-    return True
+        likes=likes, reposts=reposts, comments=comments,
+        author=author, author_followers=author_followers,
+        published_at=published_at
+    )
 
 
 def get_known_brands():

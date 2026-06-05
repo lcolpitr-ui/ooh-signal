@@ -4,12 +4,15 @@
 import requests
 import sqlite3
 import os
-import hashlib
 import re
 import json
 from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
+
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
+from signal_utils import save_signal_safe
 
 WEIBO_API = "https://m.weibo.cn/api/container/getIndex"
 
@@ -34,23 +37,9 @@ def get_cookies():
             cookies[key.strip()] = value.strip()
     return cookies
 
-def generate_id(url, title):
-    return hashlib.md5(f"{url}:{title}".encode()).hexdigest()
-
 def save_signal(conn, brand_name, industry, signal_type, title, summary, source_url, source_name):
-    """保存信号到数据库"""
-    cursor = conn.cursor()
-    signal_id = generate_id(source_url, title)
-
-    cursor.execute('SELECT id FROM signals WHERE id = ?', (signal_id,))
-    if cursor.fetchone():
-        return False
-
-    cursor.execute('''
-        INSERT INTO signals (id, brand_name, industry, signal_type, title, summary, source_url, source_name, published_at, collected_at)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (signal_id, brand_name, industry, signal_type, title, summary[:500], source_url, source_name, datetime.now(timezone.utc).isoformat(), datetime.now(timezone.utc).isoformat()))
-    return True
+    """保存信号到数据库（使用共享去重逻辑）"""
+    return save_signal_safe(conn, brand_name, industry, signal_type, title, summary, source_url, source_name)
 
 def get_known_brands():
     """从数据库获取已识别的品牌列表"""
