@@ -20,10 +20,31 @@ const signalTypeColors: Record<string, string> = {
   industry: 'bg-gray-500/10 text-gray-400',
 }
 
+// 需要登录才能查看的平台
+const LOGIN_REQUIRED_SOURCES = ['微博', '小红书', '抖音']
+
+// 平台搜索URL模板（无需登录）
+const SEARCH_URLS: Record<string, (title: string) => string> = {
+  '微博': (title) => `https://s.weibo.com/weibo?q=${encodeURIComponent(title.slice(0, 20))}`,
+  '小红书': (title) => `https://www.xiaohongshu.com/search_result?keyword=${encodeURIComponent(title.slice(0, 20))}&source=web_search_result_notes`,
+}
+
+function getDisplayUrl(signal: Signal): { url: string; needsLogin: boolean } {
+  const needsLogin = LOGIN_REQUIRED_SOURCES.includes(signal.sourceName)
+
+  if (needsLogin && SEARCH_URLS[signal.sourceName]) {
+    return { url: SEARCH_URLS[signal.sourceName](signal.title), needsLogin: true }
+  }
+
+  return { url: signal.sourceUrl, needsLogin }
+}
+
 export default function SignalCard({ signal }: { signal: Signal }) {
+  const { url, needsLogin } = getDisplayUrl(signal)
+
   return (
     <article className="bg-[var(--card)] border border-[var(--border)] rounded-lg p-4 hover:border-[var(--accent)]/30 transition-colors cursor-pointer group">
-      <a href={signal.sourceUrl} target="_blank" rel="noopener noreferrer" className="block">
+      <a href={url} target="_blank" rel="noopener noreferrer" className="block">
         <div className="flex items-start justify-between gap-4">
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2 mb-2">
@@ -48,8 +69,11 @@ export default function SignalCard({ signal }: { signal: Signal }) {
         <div className="flex items-center gap-4 mt-3 text-xs text-[var(--text-secondary)]">
           <span>{signal.sourceName}</span>
           <span>{new Date(signal.publishedAt).toLocaleDateString('zh-CN')}</span>
+          {needsLogin && (
+            <span className="text-yellow-500/80 text-xs">需登录</span>
+          )}
           <span className="text-[var(--accent)] opacity-0 group-hover:opacity-100 transition-opacity">
-            查看原文 →
+            {needsLogin ? '搜索相关 →' : '查看原文 →'}
           </span>
         </div>
       </a>
