@@ -7,10 +7,12 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -30,13 +32,35 @@ jobs:
       - name: Initialize database
         run: python scripts/init_db.py
 
+      - name: Check environment
+        run: |
+          echo "DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY != '' && 'set' || 'NOT SET' }}"
+          echo "WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE != '' && 'set' || 'NOT SET' }}"
+          echo "XHS_COOKIE: ${{ secrets.XHS_COOKIE != '' && 'set' || 'NOT SET' }}"
+
+      - name: Get signal count before
+        id: before
+        run: |
+          COUNT=$(python -c "import sqlite3; conn=sqlite3.connect('data/ooh_signal.db'); print(conn.execute('SELECT COUNT(*) FROM signals').fetchone()[0]); conn.close()")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
       - name: Run collection
+        id: collect
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
           XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
           DOUYIN_COOKIE: ${{ secrets.DOUYIN_COOKIE }}
         run: python scripts/collect.py
+
+      - name: Get signal count after
+        id: after
+        run: |
+          COUNT=$(python -c "import sqlite3; conn=sqlite3.connect('data/ooh_signal.db'); print(conn.execute('SELECT COUNT(*) FROM signals').fetchone()[0]); conn.close()")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          NEW=$((COUNT - ${{ steps.before.outputs.count }}))
+          echo "new=$NEW" >> $GITHUB_OUTPUT
+          echo "📊 新增信号: $NEW"
 
       - name: Generate daily report
         run: python scripts/generate_daily.py
@@ -61,3 +85,83 @@ jobs:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+      - name: Alert on zero new signals
+        if: steps.after.outputs.new == '0' && github.event_name == 'schedule'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '⚠️ 采集告警：未采集到新信号';
+            const body = `## 采集报告
+
+            **时间**: ${new Date().toISOString()}
+            **触发方式**: 定时任务
+            **信号总数**: ${{ steps.after.outputs.count }}
+            **新增信号**: 0
+
+            ### 可能原因
+            - RSS 源无更新
+            - 爬虫被目标网站封禁
+            - Cookie 过期（微博/小红书）
+            - DeepSeek API Key 失效
+
+            ### 排查步骤
+            1. 检查 [Actions 日志](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
+            2. 确认 GitHub Secrets 配置正确
+            3. 手动触发一次采集测试
+
+            ---
+            *此告警由自动采集流水线生成*`;
+
+            // Check if there's already an open alert issue
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'auto-alert'
+            });
+
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['auto-alert', 'bug']
+              });
+            } else {
+              // Update existing issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues.data[0].number,
+                body: `---\n## 新的告警 (${new Date().toISOString()})\n信号总数: ${{ steps.after.outputs.count }}, 新增: 0`
+              });
+            }
+
+      - name: Close alert on success
+        if: steps.after.outputs.new > 0 && github.event_name == 'schedule'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'auto-alert'
+            });
+
+            for (const issue of issues.data) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `✅ 采集恢复正常！新增 ${{ steps.after.outputs.new }} 条信号。`
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed'
+              });
+            }
