@@ -71,8 +71,15 @@ export default function PlaygroundPage() {
     }
   }
 
-  // 客户端解析 Excel/CSV/TXT 文件
+  // 客户端解析 Excel/CSV/TXT/PDF 文件
   const parseFileClient = async (file: File): Promise<Record<string, unknown>[]> => {
+    const ext = file.name.toLowerCase().split('.').pop()
+
+    // PDF 文件使用 pdfjs-dist 解析
+    if (ext === 'pdf') {
+      return parsePdfFile(file)
+    }
+
     return new Promise((resolve, reject) => {
       const reader = new FileReader()
       reader.onload = (e) => {
@@ -82,8 +89,6 @@ export default function PlaygroundPage() {
             reject(new Error('无法读取文件'))
             return
           }
-
-          const ext = file.name.toLowerCase().split('.').pop()
 
           // Excel 文件
           if (ext === 'xlsx' || ext === 'xls') {
@@ -124,7 +129,7 @@ export default function PlaygroundPage() {
             return
           }
 
-          reject(new Error('不支持的文件格式，请上传 Excel、CSV、TXT 或 JSON 文件'))
+          reject(new Error('不支持的文件格式，请上传 Excel、CSV、TXT、JSON 或 PDF 文件'))
         } catch (err) {
           reject(new Error('文件解析失败：' + (err instanceof Error ? err.message : '未知错误')))
         }
@@ -132,13 +137,42 @@ export default function PlaygroundPage() {
       reader.onerror = () => reject(new Error('文件读取失败'))
 
       // 根据文件类型选择读取方式
-      const ext = file.name.toLowerCase().split('.').pop()
       if (ext === 'xlsx' || ext === 'xls') {
         reader.readAsArrayBuffer(file)
       } else {
         reader.readAsText(file, 'utf-8')
       }
     })
+  }
+
+  // 解析 PDF 文件（动态导入 pdfjs-dist，避免 SSR 问题）
+  const parsePdfFile = async (file: File): Promise<Record<string, unknown>[]> => {
+    const pdfjsLib = await import('pdfjs-dist')
+    pdfjsLib.GlobalWorkerOptions.workerSrc = `/pdf-worker/pdf.worker.min.mjs`
+
+    const arrayBuffer = await file.arrayBuffer()
+    const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise
+
+    let fullText = ''
+    for (let i = 1; i <= pdf.numPages; i++) {
+      const page = await pdf.getPage(i)
+      const textContent = await page.getTextContent()
+      const pageText = textContent.items
+        .map((item) => ('str' in item ? item.str : ''))
+        .join(' ')
+      fullText += pageText + '\n'
+    }
+
+    if (!fullText.trim()) {
+      throw new Error('PDF 中未提取到文本内容，可能是扫描件或纯图片 PDF')
+    }
+
+    const data = parseTextFile(fullText)
+    if (data.length === 0) {
+      throw new Error('PDF 文本无法解析为结构化数据，请确保 PDF 包含表格或键值对格式的内容')
+    }
+
+    return data
   }
 
   // 解析文本文件
@@ -262,7 +296,7 @@ export default function PlaygroundPage() {
                   <input
                     ref={fileInputRef}
                     type="file"
-                    accept=".xlsx,.xls,.csv,.txt,.text,.json"
+                    accept=".xlsx,.xls,.csv,.txt,.text,.json,.pdf"
                     onChange={handleFileUpload}
                     className="hidden"
                     id="file-upload"
@@ -283,7 +317,7 @@ export default function PlaygroundPage() {
                     )}
                   </label>
                   <p className="text-sm text-[var(--text-secondary)] mt-3">
-                    支持 Excel (.xlsx, .xls)、CSV、TXT、JSON 格式
+                    支持 Excel (.xlsx, .xls)、CSV、TXT、JSON、PDF 格式
                   </p>
                   <p className="text-xs text-[var(--text-secondary)] mt-1">
                     文件应包含：名称、类型、位置、行业、受众、价格等列
@@ -293,22 +327,6 @@ export default function PlaygroundPage() {
                   </p>
                 </div>
 
-                {/* PDF 说明 */}
-                <div className="mt-4 p-4 bg-[var(--background)] rounded-lg">
-                  <p className="text-sm font-medium mb-2">📄 PDF 文件处理</p>
-                  <p className="text-xs text-[var(--text-secondary)]">
-                    PDF 文件请先使用以下命令转换为 JSON 格式：
-                  </p>
-                  <code className="block mt-2 p-2 bg-[var(--card)] rounded text-xs">
-                    pip install pdfplumber
-                  </code>
-                  <code className="block mt-1 p-2 bg-[var(--card)] rounded text-xs">
-                    python scripts/parse_pdf.py 你的文件.pdf
-                  </code>
-                  <p className="text-xs text-[var(--text-secondary)] mt-2">
-                    然后上传生成的 .json 文件
-                  </p>
-                </div>
               </div>
             ) : (
               <div>
