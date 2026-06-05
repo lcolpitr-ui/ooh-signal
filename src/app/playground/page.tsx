@@ -4,14 +4,16 @@ import { useState, useRef } from 'react'
 import * as XLSX from 'xlsx'
 
 // PDF.js 动态导入
-let pdfjsLib: typeof import('pdfjs-dist') | null = null
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+let pdfjsLib: any = null
 
 const initPDFJS = async () => {
   if (typeof window === 'undefined') return null
   if (pdfjsLib) return pdfjsLib
 
-  const pdfjs = await import('pdfjs-dist')
-  pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`
+  // 使用 legacy 版本，不需要 worker
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const pdfjs = require('pdfjs-dist/legacy/build/pdf')
   pdfjsLib = pdfjs
   return pdfjs
 }
@@ -160,7 +162,8 @@ export default function PlaygroundPage() {
       const page = await pdf.getPage(i)
       const textContent = await page.getTextContent()
       const pageText = textContent.items
-        .map((item) => ('str' in item ? item.str : '') || '')
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        .map((item: any) => ('str' in item ? item.str : '') || '')
         .join(' ')
       fullText += pageText + '\n'
     }
