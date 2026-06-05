@@ -3,21 +3,6 @@
 import { useState, useRef } from 'react'
 import * as XLSX from 'xlsx'
 
-// PDF.js 动态导入
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-let pdfjsLib: any = null
-
-const initPDFJS = async () => {
-  if (typeof window === 'undefined') return null
-  if (pdfjsLib) return pdfjsLib
-
-  // 使用 legacy 版本，不需要 worker
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const pdfjs = require('pdfjs-dist/legacy/build/pdf')
-  pdfjsLib = pdfjs
-  return pdfjs
-}
-
 interface Match {
   signal_id: string
   signal_title: string
@@ -86,15 +71,8 @@ export default function PlaygroundPage() {
     }
   }
 
-  // 客户端解析文件
+  // 客户端解析 Excel/CSV/TXT 文件
   const parseFileClient = async (file: File): Promise<Record<string, unknown>[]> => {
-    const ext = file.name.toLowerCase().split('.').pop()
-
-    // PDF 文件特殊处理
-    if (ext === 'pdf') {
-      return parsePDFFile(file)
-    }
-
     return new Promise((resolve, reject) => {
       const reader = new FileReader()
       reader.onload = (e) => {
@@ -104,6 +82,8 @@ export default function PlaygroundPage() {
             reject(new Error('无法读取文件'))
             return
           }
+
+          const ext = file.name.toLowerCase().split('.').pop()
 
           // Excel 文件
           if (ext === 'xlsx' || ext === 'xls') {
@@ -123,6 +103,19 @@ export default function PlaygroundPage() {
             return
           }
 
+          // JSON 文件
+          if (ext === 'json') {
+            const jsonData = JSON.parse(data as string)
+            if (Array.isArray(jsonData)) {
+              resolve(jsonData)
+            } else if (jsonData.resources && Array.isArray(jsonData.resources)) {
+              resolve(jsonData.resources)
+            } else {
+              reject(new Error('JSON 文件格式不正确，需要数组格式'))
+            }
+            return
+          }
+
           // 文本文件
           if (ext === 'txt' || ext === 'text') {
             const text = data as string
@@ -131,7 +124,7 @@ export default function PlaygroundPage() {
             return
           }
 
-          reject(new Error('不支持的文件格式，请上传 Excel、CSV、TXT 或 PDF 文件'))
+          reject(new Error('不支持的文件格式，请上传 Excel、CSV、TXT 或 JSON 文件'))
         } catch (err) {
           reject(new Error('文件解析失败：' + (err instanceof Error ? err.message : '未知错误')))
         }
@@ -139,106 +132,13 @@ export default function PlaygroundPage() {
       reader.onerror = () => reject(new Error('文件读取失败'))
 
       // 根据文件类型选择读取方式
+      const ext = file.name.toLowerCase().split('.').pop()
       if (ext === 'xlsx' || ext === 'xls') {
         reader.readAsArrayBuffer(file)
       } else {
         reader.readAsText(file, 'utf-8')
       }
     })
-  }
-
-  // 解析 PDF 文件
-  const parsePDFFile = async (file: File): Promise<Record<string, unknown>[]> => {
-    const pdfjs = await initPDFJS()
-    if (!pdfjs) {
-      throw new Error('PDF 解析库加载失败')
-    }
-
-    const arrayBuffer = await file.arrayBuffer()
-    const pdf = await pdfjs.getDocument({ data: arrayBuffer }).promise
-
-    let fullText = ''
-    for (let i = 1; i <= pdf.numPages; i++) {
-      const page = await pdf.getPage(i)
-      const textContent = await page.getTextContent()
-      const pageText = textContent.items
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        .map((item: any) => ('str' in item ? item.str : '') || '')
-        .join(' ')
-      fullText += pageText + '\n'
-    }
-
-    // 尝试从 PDF 文本中提取表格数据
-    const data = parsePDFText(fullText)
-    if (data.length === 0) {
-      throw new Error('无法从 PDF 中提取表格数据，请确保 PDF 包含表格或结构化数据')
-    }
-    return data
-  }
-
-  // 解析 PDF 文本内容
-  const parsePDFText = (text: string): Record<string, unknown>[] => {
-    const lines = text.split('\n').filter(line => line.trim())
-    if (lines.length < 2) return []
-
-    // 尝试检测表格结构
-    const separator = detectSeparator(lines)
-    if (separator) {
-      const headers = lines[0].split(separator).map(h => h.trim()).filter(Boolean)
-      if (headers.length >= 2) {
-        const rows: Record<string, unknown>[] = []
-        for (let i = 1; i < lines.length; i++) {
-          const values = lines[i].split(separator).map(v => v.trim())
-          if (values.length >= 2) {
-            const row: Record<string, unknown> = {}
-            headers.forEach((header, index) => {
-              row[header] = values[index] || ''
-            })
-            rows.push(row)
-          }
-        }
-        if (rows.length > 0) return rows
-      }
-    }
-
-    // 如果没有检测到表格，尝试提取键值对
-    return extractKeyValuePairs(lines)
-  }
-
-  // 提取键值对格式的数据
-  const extractKeyValuePairs = (lines: string[]): Record<string, unknown>[] => {
-    const resources: Record<string, unknown>[] = []
-    let current: Record<string, unknown> = {}
-
-    for (const line of lines) {
-      const trimmed = line.trim()
-      if (!trimmed) continue
-
-      // 检测新资源块（数字开头或特定标记）
-      if (/^\d+[.、]/.test(trimmed) || /^[【\[]/.test(trimmed)) {
-        if (Object.keys(current).length > 0) {
-          resources.push(current)
-        }
-        current = { name: trimmed.replace(/^\d+[.、]\s*/, '').replace(/[【\]】]/g, '') }
-        continue
-      }
-
-      // 解析键值对
-      const kvMatch = trimmed.match(/^([^：:]+)[：:](.+)$/)
-      if (kvMatch) {
-        const key = kvMatch[1].trim()
-        const value = kvMatch[2].trim()
-        current[key] = value
-      } else if (current.name) {
-        current.description = (current.description || '') + trimmed
-      }
-    }
-
-    if (Object.keys(current).length > 0) {
-      resources.push(current)
-    }
-
-    return resources
   }
 
   // 解析文本文件
@@ -357,39 +257,58 @@ export default function PlaygroundPage() {
             <h2 className="text-lg font-semibold mb-4">📁 上传资源文件</h2>
 
             {!parsedData ? (
-              <div className="border-2 border-dashed border-[var(--border)] rounded-lg p-8 text-center">
-                <input
-                  ref={fileInputRef}
-                  type="file"
-                  accept=".xlsx,.xls,.csv,.txt,.text,.pdf"
-                  onChange={handleFileUpload}
-                  className="hidden"
-                  id="file-upload"
-                />
-                <label
-                  htmlFor="file-upload"
-                  className="cursor-pointer inline-flex items-center gap-2 px-6 py-3 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition"
-                >
-                  {parsing ? (
-                    <>
-                      <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
-                      解析中...
-                    </>
-                  ) : (
-                    <>
-                      📎 选择文件
-                    </>
-                  )}
-                </label>
-                <p className="text-sm text-[var(--text-secondary)] mt-3">
-                  支持 Excel (.xlsx, .xls)、CSV、TXT、PDF 格式
-                </p>
-                <p className="text-xs text-[var(--text-secondary)] mt-1">
-                  文件应包含：名称、类型、位置、行业、受众、价格等列
-                </p>
-                <p className="text-xs text-[var(--text-secondary)] mt-1">
-                  大文件会在本地解析，无需上传到服务器
-                </p>
+              <div>
+                <div className="border-2 border-dashed border-[var(--border)] rounded-lg p-8 text-center">
+                  <input
+                    ref={fileInputRef}
+                    type="file"
+                    accept=".xlsx,.xls,.csv,.txt,.text,.json"
+                    onChange={handleFileUpload}
+                    className="hidden"
+                    id="file-upload"
+                  />
+                  <label
+                    htmlFor="file-upload"
+                    className="cursor-pointer inline-flex items-center gap-2 px-6 py-3 bg-[var(--accent)] text-white rounded-lg hover:opacity-90 transition"
+                  >
+                    {parsing ? (
+                      <>
+                        <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></div>
+                        解析中...
+                      </>
+                    ) : (
+                      <>
+                        📎 选择文件
+                      </>
+                    )}
+                  </label>
+                  <p className="text-sm text-[var(--text-secondary)] mt-3">
+                    支持 Excel (.xlsx, .xls)、CSV、TXT、JSON 格式
+                  </p>
+                  <p className="text-xs text-[var(--text-secondary)] mt-1">
+                    文件应包含：名称、类型、位置、行业、受众、价格等列
+                  </p>
+                  <p className="text-xs text-[var(--text-secondary)] mt-1">
+                    大文件会在本地解析，无需上传到服务器
+                  </p>
+                </div>
+
+                {/* PDF 说明 */}
+                <div className="mt-4 p-4 bg-[var(--background)] rounded-lg">
+                  <p className="text-sm font-medium mb-2">📄 PDF 文件处理</p>
+                  <p className="text-xs text-[var(--text-secondary)]">
+                    PDF 文件请先使用以下命令转换为 JSON 格式：
+                  </p>
+                  <code className="block mt-2 p-2 bg-[var(--card)] rounded text-xs">
+                    pip install pdfplumber
+                  </code>
+                  <code className="block mt-1 p-2 bg-[var(--card)] rounded text-xs">
+                    python scripts/parse_pdf.py 你的文件.pdf
+                  </code>
+                  <p className="text-xs text-[var(--text-secondary)] mt-2">
+                    然后上传生成的 .json 文件
+                  </p>
+                </div>
               </div>
             ) : (
               <div>
