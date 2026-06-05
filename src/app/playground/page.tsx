@@ -296,7 +296,7 @@ export default function PlaygroundPage() {
                   <input
                     ref={fileInputRef}
                     type="file"
-                    accept=".xlsx,.xls,.csv,.txt,.text,.json,.pdf,application/pdf"
+                    accept="*"
                     onChange={handleFileUpload}
                     className="hidden"
                     id="file-upload"
