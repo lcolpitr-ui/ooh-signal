@@ -378,6 +378,13 @@
     "recordedAt": "2026-06-05 02:39:40"
   },
   {
+    "id": 376,
+    "brandName": "POOH",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 18:06:24"
+  },
+  {
     "id": 7,
     "brandName": "PeriVision",
     "score": 50,
@@ -796,6 +803,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 07:25:24"
+  },
+  {
+    "id": 378,
+    "brandName": "出泉动漫",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 18:06:27"
   },
   {
     "id": 14,
@@ -1610,6 +1624,13 @@
     "recordedAt": "2026-06-08 08:24:57"
   },
   {
+    "id": 375,
+    "brandName": "李宁",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 18:06:23"
+  },
+  {
     "id": 131,
     "brandName": "杰瑞股份",
     "score": 55,
@@ -1650,6 +1671,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:54:06"
+  },
+  {
+    "id": 377,
+    "brandName": "欧舒丹",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 18:06:26"
   },
   {
     "id": 186,
@@ -2490,6 +2518,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:11"
+  },
+  {
+    "id": 374,
+    "brandName": "阿迪达斯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 18:06:20"
   },
   {
     "id": 198,
