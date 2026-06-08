@@ -74,11 +74,11 @@ def main():
             print(f"  聚合了 {stats['groups_found']} 组事件，删除 {stats['signals_deleted']} 条重复信号")
     results["Aggregator"] = safe_run("Aggregator", run_aggregator)
 
-    print("\n[7/9] AI 基础打分...")
-    results["AI Score"] = safe_run("AI Score", score_signals)
-
-    print("\n[8/9] 品牌识别...")
+    print("\n[7/9] 品牌识别...")
     results["Brand ID"] = safe_run("Brand ID", identify_brands)
+
+    print("\n[8/9] AI 基础打分...")
+    results["AI Score"] = safe_run("AI Score", score_signals)
 
     print("\n[9/9] AI 深度打分...")
     results["Deep Score"] = safe_run("Deep Score", deep_score_signals)

@@ -87,11 +87,30 @@ def identify_brands():
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    # 获取待识别的信号
-    cursor.execute("SELECT * FROM signals WHERE brand_name = '待识别'")
+    # 获取待识别的信号 + industry为空的已识别信号
+    cursor.execute("SELECT * FROM signals WHERE brand_name = '待识别' OR industry IS NULL OR industry = ''")
     signals = cursor.fetchall()
 
     print(f"Identifying brands for {len(signals)} signals...")
+
+    # 先用 brands 表快速填充已有品牌的 industry
+    cursor.execute("""
+        UPDATE signals SET industry = (
+            SELECT industry FROM brands WHERE brands.name = signals.brand_name
+        )
+        WHERE (industry IS NULL OR industry = '')
+        AND brand_name != '待识别'
+        AND brand_name IN (SELECT name FROM brands WHERE industry IS NOT NULL AND industry != '')
+    """)
+    fast_filled = cursor.rowcount
+    conn.commit()
+    if fast_filled > 0:
+        print(f"  Fast-filled industry for {fast_filled} signals from brands table")
+
+    # 重新获取仍需 API 识别的信号
+    cursor.execute("SELECT * FROM signals WHERE brand_name = '待识别' OR industry IS NULL OR industry = ''")
+    signals = cursor.fetchall()
+    print(f"  Remaining signals to identify: {len(signals)}")
 
     identified_count = 0
     for signal in signals:

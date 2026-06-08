@@ -1,5 +1,6 @@
 import sqlite3
 import os
+from datetime import datetime, timezone
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
 
@@ -11,6 +12,10 @@ SIGNAL_TYPE_SCORES = {
     'industry': 50,
     'policy': 45,
 }
+
+# 时间衰减配置（指数衰减）
+DECAY_HALF_LIFE = 14     # 半衰期14天（14天后保留50%）
+DECAY_FLOOR = 0.15       # 最低保留15%
 
 HIGH_SPEND_INDUSTRIES = ['快消', '汽车', '地产', '3C', '美妆', '金融', '家电', '服装', '酒水']
 
@@ -39,6 +44,36 @@ COOPERATION_KEYWORDS = ['跨界合作', '战略合作', '签约合作', '合作�
 # 展会/活动相关关键词
 EXHIBITION_KEYWORDS = ['展会', '博览会', '峰会', '论坛', '发布会', '活动', '开幕']
 
+def calculate_time_decay(published_at: str) -> float:
+    """计算时间衰减系数（指数衰减，半衰期14天）
+
+    今天=1.0, 7天=0.71, 14天=0.50, 21天=0.35, 30天=0.23
+    """
+    import math
+
+    if not published_at:
+        return 0.6  # 无发布时间，给一个中等系数
+
+    try:
+        # 解析发布时间
+        if 'T' in published_at:
+            pub_time = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+            # 如果没有时区信息，假设为UTC
+            if pub_time.tzinfo is None:
+                pub_time = pub_time.replace(tzinfo=timezone.utc)
+        else:
+            pub_time = datetime.strptime(published_at, '%Y-%m-%d').replace(tzinfo=timezone.utc)
+
+        now = datetime.now(timezone.utc)
+        age_days = max(0, (now - pub_time).total_seconds() / 86400)
+
+        # 指数衰减
+        decay = math.pow(0.5, age_days / DECAY_HALF_LIFE)
+        return max(DECAY_FLOOR, decay)
+    except Exception:
+        return 0.6
+
+
 def calculate_score(signal):
     base_score = SIGNAL_TYPE_SCORES.get(signal['signal_type'], 50)
     adjustments = 0
@@ -55,7 +90,44 @@ def calculate_score(signal):
     elif signal.get('brand_scale') == 'medium':
         adjustments += 5
 
-    return min(base_score + adjustments, 100)
+    # 根据内容关键词提升信号类型
+    title = signal.get('title', '')
+    summary = signal.get('summary', '')
+    content = title + summary
+
+    for kw in FUNDING_KEYWORDS:
+        if kw in content:
+            base_score = max(base_score, SIGNAL_TYPE_SCORES['funding'])
+            break
+
+    for kw in EXPANSION_KEYWORDS:
+        if kw in content:
+            base_score = max(base_score, SIGNAL_TYPE_SCORES['expansion'])
+            break
+
+    for kw in SPOKESPERSON_KEYWORDS:
+        if kw in content:
+            base_score = max(base_score, 75)  # 代言人合作高分
+            break
+
+    for kw in COOPERATION_KEYWORDS:
+        if kw in content:
+            base_score = max(base_score, 65)
+            break
+
+    for kw in ACTIVITY_KEYWORDS:
+        if kw in content:
+            base_score = max(base_score, 65)
+            break
+
+    raw_score = min(base_score + adjustments, 100)
+
+    # 时间衰减
+    published_at = signal.get('published_at') or signal.get('collected_at', '')
+    decay = calculate_time_decay(published_at)
+    final_score = max(1, round(raw_score * decay))
+
+    return final_score
 
 def generate_reason(signal, score):
     reasons = []
@@ -124,23 +196,28 @@ def score_signals():
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
 
-    cursor.execute('SELECT * FROM signals WHERE score = 0 OR reason IS NULL OR reason = "" OR reason = "待分析"')
+    # 对所有信号重新计算分数（包含时间衰减）
+    cursor.execute('SELECT * FROM signals')
     signals = cursor.fetchall()
 
-    print(f"Scoring {len(signals)} signals...")
+    print(f"Scoring {len(signals)} signals (with time decay)...")
 
+    scored = 0
     for signal in signals:
         signal_dict = dict(signal)
-        score = calculate_score(signal_dict)
-        reason = generate_reason(signal_dict, score)
+        new_score = calculate_score(signal_dict)
 
-        cursor.execute('''
-            UPDATE signals SET score = ?, reason = ? WHERE id = ?
-        ''', (score, reason, signal['id']))
+        # 只有分数变化时才更新
+        if new_score != signal['score']:
+            reason = generate_reason(signal_dict, new_score)
+            cursor.execute('''
+                UPDATE signals SET score = ?, reason = ? WHERE id = ?
+            ''', (new_score, reason, signal['id']))
+            scored += 1
 
     conn.commit()
     conn.close()
-    print(f"Scored {len(signals)} signals")
+    print(f"Updated {scored} signals (total: {len(signals)})")
 
 if __name__ == '__main__':
     score_signals()
