@@ -57,6 +57,11 @@ export default function SignalCard({ signal }: { signal: Signal }) {
                   {signal.industry}
                 </span>
               )}
+              {signal.relatedCount > 1 && (
+                <span className="px-2 py-0.5 rounded text-xs bg-[var(--accent)]/10 text-[var(--accent)]">
+                  聚合{signal.relatedCount}条
+                </span>
+              )}
             </div>
             <h3 className="text-sm font-medium mb-1 group-hover:text-[var(--accent)] transition-colors">
               {signal.title}

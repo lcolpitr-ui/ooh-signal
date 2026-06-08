@@ -1,0 +1,313 @@
+#!/usr/bin/env python3
+"""事件聚合器 - 将同品牌、同事件的多条信号聚合为一条
+
+聚合策略：
+1. 按 brand_name 分组（排除"待识别"）
+2. 同品牌内用标题+摘要相似度判断是否为同一事件
+3. 保留得分最高的信号，聚合互动数据
+4. 删除被合并的信号
+
+用法：
+  python scripts/processors/event_aggregator.py
+  python scripts/processors/event_aggregator.py --threshold 0.55  # 调整相似度阈值
+  python scripts/processors/event_aggregator.py --dry-run         # 仅预览，不执行
+"""
+
+import sqlite3
+import os
+import re
+import sys
+import argparse
+from collections import defaultdict
+from difflib import SequenceMatcher
+
+DB_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'ooh_signal.db')
+
+# 相似度阈值
+TITLE_HIGH_THRESHOLD = 0.85   # 标题高度相似（现有去重已覆盖）
+SUMMARY_THRESHOLD = 0.60       # 摘要相似度阈值
+KEYWORD_THRESHOLD = 0.50       # 关键词重合度阈值
+
+
+def normalize_text(text: str) -> str:
+    """标准化文本用于比较"""
+    if not text:
+        return ''
+    # 去除标点、空格、特殊字符，统一小写
+    text = re.sub(r'[^\w一-鿿]', '', text)
+    return text.lower().strip()
+
+
+def extract_hashtags(text: str) -> set:
+    """提取话题标签 #xxx#"""
+    if not text:
+        return set()
+    tags = re.findall(r'#([^#\s]{2,30})#', text)
+    return {t.lower().strip() for t in tags}
+
+
+def extract_keywords(text: str) -> set:
+    """从文本中提取关键信息：话题标签、英文词、关键中文词"""
+    if not text:
+        return set()
+    keywords = set()
+
+    # 1. 提取话题标签（#xxx#）- 强信号
+    hashtags = extract_hashtags(text)
+    keywords.update(hashtags)
+
+    # 2. 提取英文词组（品牌名、人名等）
+    en_words = re.findall(r'[A-Za-z][A-Za-z\s]{1,20}[A-Za-z]', text)
+    keywords.update(w.strip().lower() for w in en_words if len(w.strip()) >= 2)
+
+    # 3. 提取关键中文词（用常见分隔符切分，取2-4字词）
+    #    去除标签内容后，用标点/空格切分
+    clean = re.sub(r'#[^#]*#', '', text)  # 去掉话题标签避免重复
+    cn_phrases = re.findall(r'[一-鿿]{2,4}', clean)
+    keywords.update(w for w in cn_phrases if len(w) >= 2)
+
+    # 4. 提取数字（金额、百分比等）
+    numbers = re.findall(r'[\d,.]+[万亿]?[\d,.]*', text)
+    keywords.update(n for n in numbers if len(n) >= 2)
+
+    return keywords
+
+
+def calculate_keyword_overlap(keywords1: set, keywords2: set) -> float:
+    """计算两个关键词集合的重合度"""
+    if not keywords1 or not keywords2:
+        return 0.0
+    intersection = keywords1 & keywords2
+    # 使用较小集合为分母，偏向召回
+    min_size = min(len(keywords1), len(keywords2))
+    if min_size == 0:
+        return 0.0
+    return len(intersection) / min_size
+
+
+def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> bool:
+    """判断两条信号是否描述同一事件
+
+    判断逻辑（任一条件满足即判定为同一事件）：
+    1. 标题高度相似（>= 0.85）
+    2. 共享话题标签（#xxx#）
+    3. 摘要相似度（>= 0.60）
+    4. 关键词重合度（>= 0.50）
+    """
+    # 1. 标题高度相似
+    norm_t1 = normalize_text(title1)
+    norm_t2 = normalize_text(title2)
+    if norm_t1 and norm_t2:
+        title_sim = SequenceMatcher(None, norm_t1, norm_t2).ratio()
+        if title_sim >= TITLE_HIGH_THRESHOLD:
+            return True
+
+    # 2. 共享话题标签（社交帖子的强信号）
+    ht1 = extract_hashtags(f"{title1 or ''} {summary1 or ''}")
+    ht2 = extract_hashtags(f"{title2 or ''} {summary2 or ''}")
+    if ht1 and ht2:
+        shared_ht = ht1 & ht2
+        # 有共享标签且标签数量少（说明是核心话题）
+        if shared_ht and len(shared_ht) >= min(len(ht1), len(ht2)) * 0.5:
+            return True
+
+    # 3. 摘要相似度
+    norm_s1 = normalize_text(summary1)
+    norm_s2 = normalize_text(summary2)
+    if norm_s1 and norm_s2 and len(norm_s1) > 10 and len(norm_s2) > 10:
+        summary_sim = SequenceMatcher(None, norm_s1, norm_s2).ratio()
+        if summary_sim >= SUMMARY_THRESHOLD:
+            return True
+
+    # 4. 关键词重合度（综合标题和摘要）
+    combined1 = f"{title1 or ''} {summary1 or ''}"
+    combined2 = f"{title2 or ''} {summary2 or ''}"
+    kw1 = extract_keywords(combined1)
+    kw2 = extract_keywords(combined2)
+    if kw1 and kw2:
+        overlap = calculate_keyword_overlap(kw1, kw2)
+        if overlap >= KEYWORD_THRESHOLD:
+            return True
+
+    return False
+
+
+def aggregate_signals(dry_run: bool = False, threshold: float = SUMMARY_THRESHOLD) -> dict:
+    """聚合同品牌同事件的信号
+
+    返回聚合统计信息
+    """
+    global SUMMARY_THRESHOLD
+    SUMMARY_THRESHOLD = threshold
+
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    cursor = conn.cursor()
+
+    # 获取所有已识别品牌的信号，按品牌分组
+    cursor.execute("""
+        SELECT id, brand_name, title, summary, source_url, source_name,
+               score, likes, reposts, comments, author, author_followers,
+               related_count
+        FROM signals
+        WHERE brand_name != '待识别'
+        ORDER BY brand_name, score DESC, collected_at DESC
+    """)
+    all_signals = cursor.fetchall()
+
+    # 按品牌分组
+    by_brand = defaultdict(list)
+    for row in all_signals:
+        by_brand[row['brand_name']].append(dict(row))
+
+    stats = {
+        'total_before': len(all_signals),
+        'brands_processed': 0,
+        'groups_found': 0,
+        'signals_deleted': 0,
+        'details': []
+    }
+
+    ids_to_delete = []
+    updates = []  # (id, aggregated_likes, aggregated_reposts, aggregated_comments, related_count)
+
+    for brand, signals in by_brand.items():
+        if len(signals) < 2:
+            continue
+
+        stats['brands_processed'] += 1
+        # 已聚合的信号列表，每项是 (signal_dict, [被聚合的信号列表])
+        groups = []
+
+        for signal in signals:
+            merged = False
+            for group in groups:
+                primary = group[0]
+                if is_same_event(
+                    primary['title'], primary['summary'],
+                    signal['title'], signal['summary']
+                ):
+                    # 合并到该组
+                    group.append(signal)
+                    merged = True
+                    break
+
+            if not merged:
+                groups.append([signal])
+
+        # 处理聚合结果
+        for group in groups:
+            if len(group) <= 1:
+                continue
+
+            stats['groups_found'] += 1
+
+            # 按 score 降序，保留得分最高的
+            group.sort(key=lambda x: (x['score'] or 0, x['likes'] or 0), reverse=True)
+            primary = group[0]
+            to_merge = group[1:]
+
+            # 聚合互动数据
+            total_likes = sum(s['likes'] or 0 for s in group)
+            total_reposts = sum(s['reposts'] or 0 for s in group)
+            total_comments = sum(s['comments'] or 0 for s in group)
+            # 保留互动最高的作者
+            best_author = max(group, key=lambda x: (x['likes'] or 0) + (x['comments'] or 0))['author']
+
+            # 选择信息最完整的 summary
+            best_summary = max(group, key=lambda x: len(x['summary'] or ''))['summary']
+
+            existing_related = primary.get('related_count') or 1
+            new_related = existing_related + len(to_merge)
+
+            updates.append({
+                'id': primary['id'],
+                'likes': total_likes,
+                'reposts': total_reposts,
+                'comments': total_comments,
+                'author': best_author or primary['author'],
+                'summary': best_summary[:500] if best_summary else primary['summary'],
+                'related_count': new_related,
+            })
+
+            for s in to_merge:
+                ids_to_delete.append(s['id'])
+
+            detail = {
+                'brand': brand,
+                'primary_title': primary['title'][:50],
+                'merged_count': len(to_merge),
+                'merged_titles': [s['title'][:40] for s in to_merge[:3]]
+            }
+            stats['details'].append(detail)
+
+            if not dry_run:
+                try:
+                    print(f"  [{brand}] 聚合 {len(to_merge)} 条 -> {primary['title'][:40]}...")
+                except UnicodeEncodeError:
+                    print(f"  [{brand}] merged {len(to_merge)} signals")
+
+    # 执行数据库更新
+    if not dry_run and (updates or ids_to_delete):
+        # 更新主信号的互动数据和 related_count
+        for u in updates:
+            cursor.execute("""
+                UPDATE signals SET
+                    likes = ?, reposts = ?, comments = ?,
+                    author = ?, summary = ?, related_count = ?
+                WHERE id = ?
+            """, (u['likes'], u['reposts'], u['comments'],
+                  u['author'], u['summary'], u['related_count'], u['id']))
+
+        # 删除被合并的信号
+        if ids_to_delete:
+            placeholders = ','.join(['?'] * len(ids_to_delete))
+            cursor.execute(f"DELETE FROM signals WHERE id IN ({placeholders})", ids_to_delete)
+
+        conn.commit()
+        stats['signals_deleted'] = len(ids_to_delete)
+
+    # 统计最终数量
+    cursor.execute("SELECT COUNT(*) FROM signals")
+    stats['total_after'] = cursor.fetchone()[0]
+
+    conn.close()
+    return stats
+
+
+def main():
+    sys.stdout.reconfigure(encoding='utf-8')
+    parser = argparse.ArgumentParser(description='事件聚合器 - 合并同品牌同事件信号')
+    parser.add_argument('--threshold', type=float, default=0.60, help='摘要相似度阈值 (默认0.60)')
+    parser.add_argument('--dry-run', action='store_true', help='仅预览，不执行删除')
+    args = parser.parse_args()
+
+    print("=" * 50)
+    print("OOH Signal - 事件聚合")
+    print("=" * 50)
+
+    if args.dry_run:
+        print("[DRY RUN] 仅预览，不执行实际操作\n")
+
+    stats = aggregate_signals(dry_run=args.dry_run, threshold=args.threshold)
+
+    print(f"\n聚合统计:")
+    print(f"  处理品牌数: {stats['brands_processed']}")
+    print(f"  发现事件组: {stats['groups_found']}")
+    print(f"  聚合前信号: {stats['total_before']}")
+    print(f"  删除重复信号: {stats['signals_deleted']}")
+    print(f"  聚合后信号: {stats['total_after']}")
+
+    if stats['details']:
+        print(f"\n聚合详情 (共 {len(stats['details'])} 组):")
+        for d in stats['details'][:20]:
+            try:
+                print(f"  [{d['brand']}] {d['primary_title']} (+{d['merged_count']}条)")
+            except UnicodeEncodeError:
+                print(f"  [{d['brand']}] merged {d['merged_count']} signals")
+
+    print("\n✅ 聚合完成！")
+
+
+if __name__ == '__main__':
+    main()

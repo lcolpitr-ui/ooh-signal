@@ -23,7 +23,8 @@ def init_db():
         reason TEXT,
         published_at TEXT,
         collected_at TEXT DEFAULT CURRENT_TIMESTAMP,
-        tags TEXT DEFAULT '[]'
+        tags TEXT DEFAULT '[]',
+        related_count INTEGER DEFAULT 1
     )
     ''')
 

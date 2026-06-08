@@ -12,6 +12,7 @@ export interface Signal {
   publishedAt: string
   collectedAt: string
   tags: string[]
+  relatedCount: number
 }
 
 export interface Brand {
