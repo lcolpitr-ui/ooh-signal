@@ -3309,5 +3309,16 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 18:06:27"
+  },
+  {
+    "id": "burberry",
+    "name": "Burberry",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 20:27:41"
   }
 ]
