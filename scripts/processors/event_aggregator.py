@@ -50,14 +50,35 @@ EVENT_TYPES = {
     '融资', '投资', '募资', '增资', '入股', '加仓',
     'IPO', '上市', '挂牌', '退市',
     '代言', '品牌大使', '品牌代言人', '全球代言人', '全球品牌代言人',
-    '发布', '上线', '推出', '官宣',
+    '发布', '上线', '推出', '官宣', '正式官宣',
     '开店', '新店', '扩张', '门店',
-    '收购', '并购', '合并', '收购',
+    '收购', '并购', '合并',
     '降价', '涨价', '调价',
     '合作', '战略', '签约', '联动', '联名',
     '裁员', '招人', '招聘',
-    '发布', '升级', '更新',
+    '升级', '更新',
 }
+
+# 事件类型关联组：同组内的事件类型视为相关
+EVENT_GROUPS = [
+    {'代言', '品牌大使', '品牌代言人', '全球代言人', '全球品牌代言人', '官宣', '正式官宣'},
+    {'融资', '投资', '募资', '增资'},
+    {'IPO', '上市', '挂牌'},
+    {'开店', '新店', '扩张', '门店'},
+    {'收购', '并购', '合并'},
+    {'降价', '涨价', '调价'},
+    {'合作', '战略', '签约', '联动', '联名'},
+]
+
+
+def has_related_event(events1: set, events2: set) -> bool:
+    """判断两组事件类型是否相关（同组内视为相关）"""
+    if events1 & events2:
+        return True
+    for group in EVENT_GROUPS:
+        if events1 & group and events2 & group:
+            return True
+    return False
 
 
 def extract_amounts(text: str) -> set:
@@ -95,9 +116,16 @@ def extract_keywords(text: str) -> set:
     # 1. 话题标签
     keywords.update(extract_hashtags(text))
 
-    # 2. 英文词（品牌名、人名）
-    en_words = re.findall(r'[A-Za-z][A-Za-z\s]{1,20}[A-Za-z]', text)
-    keywords.update(w.strip().lower() for w in en_words if len(w.strip()) >= 2)
+    # 2. 英文词（品牌名、人名）- 提取多词短语和单个词
+    en_phrases = re.findall(r'[A-Za-z][A-Za-z\s]{1,20}[A-Za-z]', text)
+    for phrase in en_phrases:
+        phrase = phrase.strip().lower()
+        if len(phrase) >= 2:
+            keywords.add(phrase)
+            # 同时添加单个词（解决 "in bobbi brown" vs "bobbi brown" 问题）
+            for word in phrase.split():
+                if len(word) >= 2:
+                    keywords.add(word)
 
     # 3. 金额
     keywords.update(extract_amounts(text))
@@ -182,12 +210,12 @@ def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> boo
     if amounts1 and amounts2 and amounts1 & amounts2:
         return True
 
-    # 共享事件类型 + 高关键词重合
-    if events1 and events2 and events1 & events2:
+    # 相关事件类型 + 高关键词重合
+    if events1 and events2 and has_related_event(events1, events2):
         kw1 = extract_keywords(combined1)
         kw2 = extract_keywords(combined2)
         overlap = calculate_keyword_overlap(kw1, kw2)
-        if overlap >= 0.30:
+        if overlap >= 0.25:
             return True
 
     # 4. 摘要相似度
