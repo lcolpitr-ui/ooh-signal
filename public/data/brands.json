@@ -27,7 +27,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -60,7 +60,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -753,7 +753,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1182,7 +1182,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:07:55"
@@ -1373,6 +1373,116 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 08:03:27"
+  },
+  {
+    "id": "格物科技",
+    "name": "格物科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:28"
+  },
+  {
+    "id": "华超神控",
+    "name": "华超神控",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:30"
+  },
+  {
+    "id": "爱施德",
+    "name": "爱施德",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:32"
+  },
+  {
+    "id": "英诺基金",
+    "name": "英诺基金",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:35"
+  },
+  {
+    "id": "携程",
+    "name": "携程",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:38"
+  },
+  {
+    "id": "易方达",
+    "name": "易方达",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:39"
+  },
+  {
+    "id": "闲鱼",
+    "name": "闲鱼",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:43"
+  },
+  {
+    "id": "安克创新",
+    "name": "安克创新",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:45"
+  },
+  {
+    "id": "网易有道",
+    "name": "网易有道",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:47"
+  },
+  {
+    "id": "腾讯游戏安全",
+    "name": "腾讯游戏安全",
+    "industry": "游戏",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:50"
   },
   {
     "id": "柠季",
@@ -1897,7 +2007,7 @@
     "industry": "游戏",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 09:06:55"
@@ -2249,7 +2359,7 @@
     "industry": "服装",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 05:47:20"
@@ -2341,5 +2451,148 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 08:03:49"
+  },
+  {
+    "id": "京东",
+    "name": "京东",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:51"
+  },
+  {
+    "id": "仙工智能",
+    "name": "仙工智能",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:53"
+  },
+  {
+    "id": "米哈游",
+    "name": "米哈游",
+    "industry": "游戏",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:24:59"
+  },
+  {
+    "id": "中国人保",
+    "name": "中国人保",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:04"
+  },
+  {
+    "id": "泰兰尼斯",
+    "name": "泰兰尼斯",
+    "industry": "母婴",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:08"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:17"
+  },
+  {
+    "id": "ipsa",
+    "name": "IPSA",
+    "industry": "美妆",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:22"
+  },
+  {
+    "id": "凯旋1664",
+    "name": "凯旋1664",
+    "industry": "酒水",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:24"
+  },
+  {
+    "id": "元气森林",
+    "name": "元气森林",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:25"
+  },
+  {
+    "id": "gobi",
+    "name": "GOBI",
+    "industry": "服装",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:28"
+  },
+  {
+    "id": "追觅",
+    "name": "追觅",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:32"
+  },
+  {
+    "id": "简醇",
+    "name": "简醇",
+    "industry": "快消",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:36"
+  },
+  {
+    "id": "riize",
+    "name": "RIIZE",
+    "industry": "娱乐",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 07:25:39"
   }
 ]
