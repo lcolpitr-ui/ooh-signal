@@ -33,7 +33,6 @@ def normalize_text(text: str) -> str:
     """标准化文本用于比较"""
     if not text:
         return ''
-    # 去除标点、空格、特殊字符，统一小写
     text = re.sub(r'[^\w一-鿿]', '', text)
     return text.lower().strip()
 
@@ -46,43 +45,93 @@ def extract_hashtags(text: str) -> set:
     return {t.lower().strip() for t in tags}
 
 
+# 事件类型关键词
+EVENT_TYPES = {
+    '融资', '投资', '募资', '增资', '入股', '加仓',
+    'IPO', '上市', '挂牌', '退市',
+    '代言', '品牌大使', '品牌代言人', '全球代言人', '全球品牌代言人',
+    '发布', '上线', '推出', '官宣',
+    '开店', '新店', '扩张', '门店',
+    '收购', '并购', '合并', '收购',
+    '降价', '涨价', '调价',
+    '合作', '战略', '签约', '联动', '联名',
+    '裁员', '招人', '招聘',
+    '发布', '升级', '更新',
+}
+
+
+def extract_amounts(text: str) -> set:
+    """提取金额（如 800亿美元、10亿、100亿）"""
+    if not text:
+        return set()
+    amounts = set()
+    # 匹配: 数字 + 万/亿 + 美元/元/人民币
+    for m in re.finditer(r'([\d,.]+)\s*(万亿|亿|万)\s*(美元|美金|港币|人民币|元)?', text):
+        num, unit, currency = m.group(1), m.group(2), m.group(3) or ''
+        amounts.add(f"{num}{unit}{currency}")
+    # 单独匹配大数字
+    for m in re.finditer(r'([\d,]{3,})\s*(万美元|万美元|美元|元)', text):
+        amounts.add(m.group(0).replace(' ', ''))
+    return amounts
+
+
+def extract_event_keywords(text: str) -> set:
+    """提取事件类型关键词"""
+    if not text:
+        return set()
+    found = set()
+    for kw in EVENT_TYPES:
+        if kw in text:
+            found.add(kw)
+    return found
+
+
 def extract_keywords(text: str) -> set:
-    """从文本中提取关键信息：话题标签、英文词、关键中文词"""
+    """从文本中提取结构化关键信息"""
     if not text:
         return set()
     keywords = set()
 
-    # 1. 提取话题标签（#xxx#）- 强信号
-    hashtags = extract_hashtags(text)
-    keywords.update(hashtags)
+    # 1. 话题标签
+    keywords.update(extract_hashtags(text))
 
-    # 2. 提取英文词组（品牌名、人名等）
+    # 2. 英文词（品牌名、人名）
     en_words = re.findall(r'[A-Za-z][A-Za-z\s]{1,20}[A-Za-z]', text)
     keywords.update(w.strip().lower() for w in en_words if len(w.strip()) >= 2)
 
-    # 3. 提取关键中文词（用常见分隔符切分，取2-4字词）
-    #    去除标签内容后，用标点/空格切分
-    clean = re.sub(r'#[^#]*#', '', text)  # 去掉话题标签避免重复
-    cn_phrases = re.findall(r'[一-鿿]{2,4}', clean)
-    keywords.update(w for w in cn_phrases if len(w) >= 2)
+    # 3. 金额
+    keywords.update(extract_amounts(text))
 
-    # 4. 提取数字（金额、百分比等）
-    numbers = re.findall(r'[\d,.]+[万亿]?[\d,.]*', text)
-    keywords.update(n for n in numbers if len(n) >= 2)
+    # 4. 事件类型
+    keywords.update(extract_event_keywords(text))
 
     return keywords
 
 
-def calculate_keyword_overlap(keywords1: set, keywords2: set) -> float:
-    """计算两个关键词集合的重合度"""
-    if not keywords1 or not keywords2:
+def calculate_keyword_overlap(kw1: set, kw2: set) -> float:
+    """计算关键词重合度（使用较小集合为分母）"""
+    if not kw1 or not kw2:
         return 0.0
-    intersection = keywords1 & keywords2
-    # 使用较小集合为分母，偏向召回
-    min_size = min(len(keywords1), len(keywords2))
-    if min_size == 0:
-        return 0.0
-    return len(intersection) / min_size
+    intersection = kw1 & kw2
+    min_size = min(len(kw1), len(kw2))
+    return len(intersection) / min_size if min_size else 0.0
+
+
+# 新闻汇总/市场评论类标题模式（不应被合并）
+ROUNDUP_PATTERNS = [
+    '氪星晚报', '早报', '晚报', '日报', '速报', '快讯',
+    '盘前', '盘后', '涨跌不一', '收涨', '收跌',
+    'Edge AI Daily', '每日', '一周', '盘点',
+    '东方财富', '雪球', '股吧', '暴涨', '暴跌', '翻倍',
+    '产业链梳理', '概念股', '板块',
+]
+
+
+def is_news_roundup(title: str) -> bool:
+    """判断是否为新闻汇总/市场评论类信号"""
+    if not title:
+        return False
+    return any(p in title for p in ROUNDUP_PATTERNS)
 
 
 def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> bool:
@@ -91,9 +140,20 @@ def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> boo
     判断逻辑（任一条件满足即判定为同一事件）：
     1. 标题高度相似（>= 0.85）
     2. 共享话题标签（#xxx#）
-    3. 摘要相似度（>= 0.60）
-    4. 关键词重合度（>= 0.50）
+    3. 结构化关键词匹配：共享金额 + 事件类型
+    4. 摘要相似度（>= 0.60）
+    5. 关键词重合度（>= 0.40）
+
+    特殊规则：新闻汇总/市场评论类信号只通过标题高度相似度合并
     """
+    # 新闻汇总类信号：只允许标题高度相似（防止不同期的晚报被合并）
+    if is_news_roundup(title1) or is_news_roundup(title2):
+        norm_t1 = normalize_text(title1)
+        norm_t2 = normalize_text(title2)
+        if norm_t1 and norm_t2:
+            return SequenceMatcher(None, norm_t1, norm_t2).ratio() >= 0.90
+        return False
+
     # 1. 标题高度相似
     norm_t1 = normalize_text(title1)
     norm_t2 = normalize_text(title2)
@@ -107,11 +167,30 @@ def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> boo
     ht2 = extract_hashtags(f"{title2 or ''} {summary2 or ''}")
     if ht1 and ht2:
         shared_ht = ht1 & ht2
-        # 有共享标签且标签数量少（说明是核心话题）
         if shared_ht and len(shared_ht) >= min(len(ht1), len(ht2)) * 0.5:
             return True
 
-    # 3. 摘要相似度
+    # 3. 结构化匹配：共享金额 + 事件类型
+    combined1 = f"{title1 or ''} {summary1 or ''}"
+    combined2 = f"{title2 or ''} {summary2 or ''}"
+    amounts1 = extract_amounts(combined1)
+    amounts2 = extract_amounts(combined2)
+    events1 = extract_event_keywords(combined1)
+    events2 = extract_event_keywords(combined2)
+
+    # 共享金额 → 很可能是同一事件
+    if amounts1 and amounts2 and amounts1 & amounts2:
+        return True
+
+    # 共享事件类型 + 高关键词重合
+    if events1 and events2 and events1 & events2:
+        kw1 = extract_keywords(combined1)
+        kw2 = extract_keywords(combined2)
+        overlap = calculate_keyword_overlap(kw1, kw2)
+        if overlap >= 0.30:
+            return True
+
+    # 4. 摘要相似度
     norm_s1 = normalize_text(summary1)
     norm_s2 = normalize_text(summary2)
     if norm_s1 and norm_s2 and len(norm_s1) > 10 and len(norm_s2) > 10:
@@ -119,9 +198,7 @@ def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> boo
         if summary_sim >= SUMMARY_THRESHOLD:
             return True
 
-    # 4. 关键词重合度（综合标题和摘要）
-    combined1 = f"{title1 or ''} {summary1 or ''}"
-    combined2 = f"{title2 or ''} {summary2 or ''}"
+    # 5. 关键词重合度
     kw1 = extract_keywords(combined1)
     kw2 = extract_keywords(combined2)
     if kw1 and kw2:
