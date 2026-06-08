@@ -154,6 +154,13 @@
     "recordedAt": "2026-06-04 09:06:49"
   },
   {
+    "id": 370,
+    "brandName": "FLOWERLURE花间颂",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:17"
+  },
+  {
     "id": 281,
     "brandName": "GOBI",
     "score": 50,
@@ -525,6 +532,13 @@
     "recordedAt": "2026-06-05 08:03:32"
   },
   {
+    "id": 373,
+    "brandName": "东兴证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:29"
+  },
+  {
     "id": 70,
     "brandName": "东方墨兰",
     "score": 50,
@@ -621,6 +635,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:29:16"
+  },
+  {
+    "id": 372,
+    "brandName": "中金公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:28"
   },
   {
     "id": 238,
@@ -726,6 +747,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:42:03"
+  },
+  {
+    "id": 367,
+    "brandName": "亿航智能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:13"
   },
   {
     "id": 271,
@@ -910,6 +938,13 @@
     "recordedAt": "2026-06-04 06:01:02"
   },
   {
+    "id": 362,
+    "brandName": "同程旅行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:07"
+  },
+  {
     "id": 311,
     "brandName": "和远气体",
     "score": 0,
@@ -929,6 +964,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 02:39:09"
+  },
+  {
+    "id": 358,
+    "brandName": "哔哩哔哩",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:02"
   },
   {
     "id": 178,
@@ -985,6 +1027,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 07:02:49"
+  },
+  {
+    "id": 360,
+    "brandName": "天娱数科",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:05"
   },
   {
     "id": 153,
@@ -1239,6 +1288,20 @@
     "recordedAt": "2026-06-04 07:38:26"
   },
   {
+    "id": 359,
+    "brandName": "康宁",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:04"
+  },
+  {
+    "id": 364,
+    "brandName": "康宁",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:10"
+  },
+  {
     "id": 137,
     "brandName": "康隆达",
     "score": 55,
@@ -1426,6 +1489,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:21"
+  },
+  {
+    "id": 368,
+    "brandName": "明阳电路",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:14"
   },
   {
     "id": 265,
@@ -1841,6 +1911,13 @@
     "recordedAt": "2026-06-05 04:29:21"
   },
   {
+    "id": 371,
+    "brandName": "粉红兔子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:18"
+  },
+  {
     "id": 136,
     "brandName": "精达股份",
     "score": 55,
@@ -2072,6 +2149,13 @@
     "recordedAt": "2026-06-08 09:19:18"
   },
   {
+    "id": 369,
+    "brandName": "芭比波朗",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:15"
+  },
+  {
     "id": 303,
     "brandName": "花间颂",
     "score": 50,
@@ -2296,6 +2380,13 @@
     "recordedAt": "2026-06-08 11:06:04"
   },
   {
+    "id": 366,
+    "brandName": "赣锋锂业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:12"
+  },
+  {
     "id": 119,
     "brandName": "迈威尔",
     "score": 50,
@@ -2338,6 +2429,13 @@
     "recordedAt": "2026-06-05 08:03:16"
   },
   {
+    "id": 361,
+    "brandName": "金安国纪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:06"
+  },
+  {
     "id": 245,
     "brandName": "金山办公",
     "score": 55,
@@ -2350,6 +2448,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:59"
+  },
+  {
+    "id": 365,
+    "brandName": "锋龙股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:11"
   },
   {
     "id": 179,
@@ -2497,5 +2602,12 @@
     "score": 69,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:32"
+  },
+  {
+    "id": 363,
+    "brandName": "鼎龙股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-08 15:03:08"
   }
 ]

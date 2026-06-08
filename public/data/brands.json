@@ -1237,7 +1237,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:09"
@@ -2612,7 +2612,7 @@
     "industry": "美妆",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 08:03:47"
@@ -3122,5 +3122,148 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:06:29"
+  },
+  {
+    "id": "康宁",
+    "name": "康宁",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:04"
+  },
+  {
+    "id": "天娱数科",
+    "name": "天娱数科",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:05"
+  },
+  {
+    "id": "金安国纪",
+    "name": "金安国纪",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:06"
+  },
+  {
+    "id": "同程旅行",
+    "name": "同程旅行",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:07"
+  },
+  {
+    "id": "鼎龙股份",
+    "name": "鼎龙股份",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:08"
+  },
+  {
+    "id": "锋龙股份",
+    "name": "锋龙股份",
+    "industry": "汽车",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:11"
+  },
+  {
+    "id": "赣锋锂业",
+    "name": "赣锋锂业",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:12"
+  },
+  {
+    "id": "亿航智能",
+    "name": "亿航智能",
+    "industry": "航空",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:13"
+  },
+  {
+    "id": "明阳电路",
+    "name": "明阳电路",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:14"
+  },
+  {
+    "id": "flowerlure花间颂",
+    "name": "FLOWERLURE花间颂",
+    "industry": "美妆",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:17"
+  },
+  {
+    "id": "粉红兔子",
+    "name": "粉红兔子",
+    "industry": "服装",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:18"
+  },
+  {
+    "id": "中金公司",
+    "name": "中金公司",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:28"
+  },
+  {
+    "id": "东兴证券",
+    "name": "东兴证券",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-08 15:03:29"
   }
 ]
