@@ -27,7 +27,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -236,7 +236,7 @@
     "industry": "运动",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:38"
@@ -665,7 +665,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 07:18:32"
@@ -1485,6 +1485,72 @@
     "createdAt": "2026-06-08 07:24:50"
   },
   {
+    "id": "美宜佳",
+    "name": "美宜佳",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:30"
+  },
+  {
+    "id": "继峰股份",
+    "name": "继峰股份",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:31"
+  },
+  {
+    "id": "通光线缆",
+    "name": "通光线缆",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:33"
+  },
+  {
+    "id": "必胜客",
+    "name": "必胜客",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:36"
+  },
+  {
+    "id": "徐工汽车",
+    "name": "徐工汽车",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:37"
+  },
+  {
+    "id": "晓程科技",
+    "name": "晓程科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 55,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:42"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -1512,7 +1578,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -2594,5 +2660,104 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:25:39"
+  },
+  {
+    "id": "特锐德",
+    "name": "特锐德",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:43"
+  },
+  {
+    "id": "美的",
+    "name": "美的",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:46"
+  },
+  {
+    "id": "富士达",
+    "name": "富士达",
+    "industry": "运动",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:48"
+  },
+  {
+    "id": "海底捞",
+    "name": "海底捞",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:50"
+  },
+  {
+    "id": "jbl",
+    "name": "JBL",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:53"
+  },
+  {
+    "id": "leecn莉肯",
+    "name": "LEECN莉肯",
+    "industry": "美妆",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:54"
+  },
+  {
+    "id": "花间颂",
+    "name": "花间颂",
+    "industry": "美妆",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:24:56"
+  },
+  {
+    "id": "vogue",
+    "name": "VOGUE",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:25:00"
+  },
+  {
+    "id": "第五人格",
+    "name": "第五人格",
+    "industry": "游戏",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 50,
+    "website": null,
+    "createdAt": "2026-06-08 08:25:02"
   }
 ]
