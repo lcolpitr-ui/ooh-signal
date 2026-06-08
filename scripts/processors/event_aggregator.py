@@ -123,7 +123,7 @@ ROUNDUP_PATTERNS = [
     '盘前', '盘后', '涨跌不一', '收涨', '收跌',
     'Edge AI Daily', '每日', '一周', '盘点',
     '东方财富', '雪球', '股吧', '暴涨', '暴跌', '翻倍',
-    '产业链梳理', '概念股', '板块',
+    '产业链梳理', '概念股',
 ]
 
 
@@ -209,6 +209,36 @@ def is_same_event(title1: str, summary1: str, title2: str, summary2: str) -> boo
     return False
 
 
+# 品牌别名映射：将中英文名称统一为一个标准名
+BRAND_ALIASES = {
+    '芭比波朗': 'Bobbi Brown',
+    '谷歌': 'Alphabet',
+    '宝格丽': 'BVLGARI',
+    '爱马仕': 'Hermes',
+    '路易威登': 'Louis Vuitton',
+    '香奈儿': 'Chanel',
+    '迪奥': 'Dior',
+    '古驰': 'Gucci',
+    '普拉达': 'Prada',
+    '卡地亚': 'Cartier',
+    '蒂芙尼': 'Tiffany',
+    '华为云': '华为',
+    '腾讯云': '腾讯',
+    '腾讯会议': '腾讯',
+    '长安汽车': '长安',
+    '小鹏集团': '小鹏',
+    '阿里速卖通': '阿里',
+    '高德地图': '高德',
+    '京东方A': '京东方',
+    'MiuMiu': 'Miu Miu',
+}
+
+
+def normalize_brand(brand_name: str) -> str:
+    """统一品牌名称（将别名映射到标准名）"""
+    return BRAND_ALIASES.get(brand_name, brand_name)
+
+
 def aggregate_signals(dry_run: bool = False, threshold: float = SUMMARY_THRESHOLD) -> dict:
     """聚合同品牌同事件的信号
 
@@ -232,10 +262,13 @@ def aggregate_signals(dry_run: bool = False, threshold: float = SUMMARY_THRESHOL
     """)
     all_signals = cursor.fetchall()
 
-    # 按品牌分组
+    # 按品牌分组（使用标准化品牌名）
     by_brand = defaultdict(list)
     for row in all_signals:
-        by_brand[row['brand_name']].append(dict(row))
+        normalized = normalize_brand(row['brand_name'])
+        row_dict = dict(row)
+        row_dict['_normalized_brand'] = normalized
+        by_brand[normalized].append(row_dict)
 
     stats = {
         'total_before': len(all_signals),
@@ -297,6 +330,10 @@ def aggregate_signals(dry_run: bool = False, threshold: float = SUMMARY_THRESHOL
             existing_related = primary.get('related_count') or 1
             new_related = existing_related + len(to_merge)
 
+            # 检查是否需要更新品牌名为标准名
+            normalized_brand = primary.get('_normalized_brand', brand)
+            brand_update = normalized_brand if normalized_brand != primary['brand_name'] else None
+
             updates.append({
                 'id': primary['id'],
                 'likes': total_likes,
@@ -305,6 +342,7 @@ def aggregate_signals(dry_run: bool = False, threshold: float = SUMMARY_THRESHOL
                 'author': best_author or primary['author'],
                 'summary': best_summary[:500] if best_summary else primary['summary'],
                 'related_count': new_related,
+                'brand_name': brand_update,
             })
 
             for s in to_merge:
@@ -326,15 +364,24 @@ def aggregate_signals(dry_run: bool = False, threshold: float = SUMMARY_THRESHOL
 
     # 执行数据库更新
     if not dry_run and (updates or ids_to_delete):
-        # 更新主信号的互动数据和 related_count
+        # 更新主信号的互动数据、品牌名和 related_count
         for u in updates:
-            cursor.execute("""
-                UPDATE signals SET
-                    likes = ?, reposts = ?, comments = ?,
-                    author = ?, summary = ?, related_count = ?
-                WHERE id = ?
-            """, (u['likes'], u['reposts'], u['comments'],
-                  u['author'], u['summary'], u['related_count'], u['id']))
+            if u['brand_name']:
+                cursor.execute("""
+                    UPDATE signals SET
+                        brand_name = ?, likes = ?, reposts = ?, comments = ?,
+                        author = ?, summary = ?, related_count = ?
+                    WHERE id = ?
+                """, (u['brand_name'], u['likes'], u['reposts'], u['comments'],
+                      u['author'], u['summary'], u['related_count'], u['id']))
+            else:
+                cursor.execute("""
+                    UPDATE signals SET
+                        likes = ?, reposts = ?, comments = ?,
+                        author = ?, summary = ?, related_count = ?
+                    WHERE id = ?
+                """, (u['likes'], u['reposts'], u['comments'],
+                      u['author'], u['summary'], u['related_count'], u['id']))
 
         # 删除被合并的信号
         if ids_to_delete:
