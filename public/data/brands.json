@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -3030,7 +3030,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:05:57"
@@ -3947,5 +3947,60 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:14"
+  },
+  {
+    "id": "北京山谷",
+    "name": "北京山谷",
+    "industry": "地产",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 06:54:24"
+  },
+  {
+    "id": "丰田",
+    "name": "丰田",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 06:54:27"
+  },
+  {
+    "id": "万达商业",
+    "name": "万达商业",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 06:54:29"
+  },
+  {
+    "id": "芯联集成",
+    "name": "芯联集成",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 06:54:31"
+  },
+  {
+    "id": "任天堂",
+    "name": "任天堂",
+    "industry": "游戏",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 06:54:32"
   }
 ]
