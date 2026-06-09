@@ -53,7 +53,8 @@ def get_known_brands():
 def scrape_weibo_search(keyword, max_results=5):
     """通过微博移动端搜索API采集数据"""
     try:
-        containerid = f"100103type=1&q={keyword}"
+        # type=61=实时搜索（按时间排序），type=1=综合搜索（按相关度排序）
+        containerid = f"100103type=61&q={keyword}"
         params = {
             'containerid': containerid,
             'page_type': 'searchall',
