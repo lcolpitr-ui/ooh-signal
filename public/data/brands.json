@@ -3525,7 +3525,7 @@
     "industry": "餐饮",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:06"
@@ -4002,5 +4002,60 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:54:32"
+  },
+  {
+    "id": "济钢集团",
+    "name": "济钢集团",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 07:21:46"
+  },
+  {
+    "id": "高特电子",
+    "name": "高特电子",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 07:21:47"
+  },
+  {
+    "id": "创维光伏",
+    "name": "创维光伏",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 07:21:49"
+  },
+  {
+    "id": "徐工集团",
+    "name": "徐工集团",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 07:21:50"
+  },
+  {
+    "id": "桃李面包",
+    "name": "桃李面包",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 07:21:52"
   }
 ]
