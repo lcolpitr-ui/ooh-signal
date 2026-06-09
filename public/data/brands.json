@@ -181,7 +181,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:14"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -665,7 +665,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -1182,7 +1182,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -2744,7 +2744,7 @@
     "industry": "家电",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:25:32"
@@ -3525,7 +3525,7 @@
     "industry": "餐饮",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:06"
@@ -4134,5 +4134,170 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 08:01:44"
+  },
+  {
+    "id": "context-mode",
+    "name": "context-mode",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:06"
+  },
+  {
+    "id": "宏和科技",
+    "name": "宏和科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:08"
+  },
+  {
+    "id": "仙鹤股份",
+    "name": "仙鹤股份",
+    "industry": "快消",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:09"
+  },
+  {
+    "id": "星海图",
+    "name": "星海图",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:10"
+  },
+  {
+    "id": "面壁智能",
+    "name": "面壁智能",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:11"
+  },
+  {
+    "id": "昂利康",
+    "name": "昂利康",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:13"
+  },
+  {
+    "id": "华菱线缆",
+    "name": "华菱线缆",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:14"
+  },
+  {
+    "id": "交银投资",
+    "name": "交银投资",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:17"
+  },
+  {
+    "id": "天康生物",
+    "name": "天康生物",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:20"
+  },
+  {
+    "id": "胜宏科技",
+    "name": "胜宏科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:25"
+  },
+  {
+    "id": "银河通用",
+    "name": "银河通用",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:27"
+  },
+  {
+    "id": "淘宝",
+    "name": "淘宝",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:28"
+  },
+  {
+    "id": "绿的谐波",
+    "name": "绿的谐波",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:31"
+  },
+  {
+    "id": "原粒半导体",
+    "name": "原粒半导体",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:36"
+  },
+  {
+    "id": "红土创新基金管理有限公司",
+    "name": "红土创新基金管理有限公司",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 09:58:52"
   }
 ]
