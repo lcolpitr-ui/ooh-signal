@@ -1799,6 +1799,13 @@
     "recordedAt": "2026-06-09 18:20:45"
   },
   {
+    "id": 514,
+    "brandName": "微信",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 22:40:51"
+  },
+  {
     "id": 20,
     "brandName": "微软",
     "score": 50,
@@ -3043,6 +3050,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 18:20:44"
+  },
+  {
+    "id": 513,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 22:40:49"
   },
   {
     "id": 19,
