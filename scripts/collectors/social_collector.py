@@ -70,10 +70,15 @@ def scrape_weibo_search(keyword, max_results=5):
         )
 
         if response.status_code != 200:
+            print(f"  Weibo HTTP {response.status_code} for '{keyword}'")
             return []
 
         data = response.json()
         if data.get('ok') != 1:
+            # ok!=1 可能是限流或cookie过期
+            if not hasattr(scrape_weibo_search, '_warned'):
+                print(f"  Weibo API ok={data.get('ok')} for '{keyword}' (可能被限流)")
+                scrape_weibo_search._warned = True
             return []
 
         results = []
