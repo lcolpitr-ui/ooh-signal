@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 12,
+    "signalCount": 13,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
