@@ -42,10 +42,10 @@ def save_signal(conn, brand_name, industry, signal_type, title, summary, source_
     return save_signal_safe(conn, brand_name, industry, signal_type, title, summary, source_url, source_name)
 
 def get_known_brands():
-    """从数据库获取已识别的品牌列表"""
+    """从数据库获取已识别的品牌列表（按信号数排序，优先搜索信号少的品牌）"""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
-    cursor.execute("SELECT name FROM brands WHERE name != '待识别' LIMIT 30")
+    cursor.execute("SELECT name FROM brands WHERE name != '待识别' ORDER BY signal_count ASC, name ASC LIMIT 100")
     brands = [row[0] for row in cursor.fetchall()]
     conn.close()
     return brands
@@ -151,7 +151,7 @@ def collect_weibo():
         brands = ['开店', '新店', '融资', 'IPO', '品牌升级']
 
     searched = set()
-    for brand in brands[:20]:  # 每次搜索20个品牌
+    for brand in brands[:50]:  # 每次搜索50个品牌
         if brand in searched or len(brand) < 2:
             continue
         searched.add(brand)
