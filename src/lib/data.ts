@@ -1,20 +1,37 @@
 import { Signal, Brand } from './types'
-import signalsData from '../../public/data/signals.json'
-import brandsData from '../../public/data/brands.json'
+import fs from 'fs'
+import path from 'path'
 
-let signalsCache: Signal[] | null = null
-let brandsCache: Brand[] | null = null
+const SIGNALS_PATH = path.join(process.cwd(), 'public', 'data', 'signals.json')
+const BRANDS_PATH = path.join(process.cwd(), 'public', 'data', 'brands.json')
+
+let signalsCache: { data: Signal[]; mtime: number } | null = null
+let brandsCache: { data: Brand[]; mtime: number } | null = null
 
 function loadSignals(): Signal[] {
-  if (signalsCache) return signalsCache
-  signalsCache = signalsData as unknown as Signal[]
-  return signalsCache
+  try {
+    const stat = fs.statSync(SIGNALS_PATH)
+    const mtime = stat.mtimeMs
+    if (signalsCache && signalsCache.mtime === mtime) return signalsCache.data
+    const raw = fs.readFileSync(SIGNALS_PATH, 'utf-8')
+    signalsCache = { data: JSON.parse(raw), mtime }
+    return signalsCache.data
+  } catch {
+    return signalsCache?.data || []
+  }
 }
 
 function loadBrands(): Brand[] {
-  if (brandsCache) return brandsCache
-  brandsCache = brandsData as unknown as Brand[]
-  return brandsCache
+  try {
+    const stat = fs.statSync(BRANDS_PATH)
+    const mtime = stat.mtimeMs
+    if (brandsCache && brandsCache.mtime === mtime) return brandsCache.data
+    const raw = fs.readFileSync(BRANDS_PATH, 'utf-8')
+    brandsCache = { data: JSON.parse(raw), mtime }
+    return brandsCache.data
+  } catch {
+    return brandsCache?.data || []
+  }
 }
 
 function getTimeThreshold(period?: string): Date | null {
