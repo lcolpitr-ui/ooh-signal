@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -2403,7 +2403,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:02"
@@ -2788,7 +2788,7 @@
     "industry": "家电",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 08:24:46"
@@ -4299,5 +4299,159 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 09:58:52"
+  },
+  {
+    "id": "寰宇星通",
+    "name": "寰宇星通",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:52:51"
+  },
+  {
+    "id": "鸿富诚",
+    "name": "鸿富诚",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:52:54"
+  },
+  {
+    "id": "bp",
+    "name": "bp",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:52:56"
+  },
+  {
+    "id": "佰维存储",
+    "name": "佰维存储",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:52:58"
+  },
+  {
+    "id": "上能电气",
+    "name": "上能电气",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:52:59"
+  },
+  {
+    "id": "云中马",
+    "name": "云中马",
+    "industry": "服装",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:00"
+  },
+  {
+    "id": "麦格米特",
+    "name": "麦格米特",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:01"
+  },
+  {
+    "id": "宇信科技",
+    "name": "宇信科技",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:02"
+  },
+  {
+    "id": "江淮汽车",
+    "name": "江淮汽车",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:04"
+  },
+  {
+    "id": "赛豆",
+    "name": "赛豆",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:06"
+  },
+  {
+    "id": "健合",
+    "name": "健合",
+    "industry": "母婴",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:07"
+  },
+  {
+    "id": "wasabicard",
+    "name": "WasabiCard",
+    "industry": "金融",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:13"
+  },
+  {
+    "id": "teamlab",
+    "name": "teamLab",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:17"
+  },
+  {
+    "id": "月之暗面",
+    "name": "月之暗面",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 12:53:21"
   }
 ]
