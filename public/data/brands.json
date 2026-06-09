@@ -2882,6 +2882,17 @@
     "createdAt": "2026-06-09 05:17:20"
   },
   {
+    "id": "杰士邦",
+    "name": "杰士邦",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 30,
+    "website": null,
+    "createdAt": "2026-06-09 21:12:20"
+  },
+  {
     "id": "高盛",
     "name": "高盛",
     "industry": "金融",
