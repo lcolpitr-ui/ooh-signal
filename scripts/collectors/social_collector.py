@@ -144,13 +144,14 @@ def collect_weibo():
     conn = sqlite3.connect(DB_PATH)
     total_count = 0
 
+    # 1. 搜索已知品牌（每次轮询更多品牌）
     brands = get_known_brands()
     if not brands:
         brands = ['开店', '新店', '融资', 'IPO', '品牌升级']
 
     searched = set()
-    for brand in brands[:10]:
-        if brand in searched:
+    for brand in brands[:20]:  # 每次搜索20个品牌
+        if brand in searched or len(brand) < 2:
             continue
         searched.add(brand)
 
@@ -159,22 +160,21 @@ def collect_weibo():
             if save_signal(conn, brand, '', 'industry', item['title'], item['summary'], item['url'], '微博'):
                 total_count += 1
 
+    # 2. 搜索品牌营销相关关键词（更多关键词，更多结果）
     keywords = [
-        # 代言人/明星合作
-        '代言人', '品牌大使', '官宣合作', '明星合作', '艺人合作',
+        # 代言人/明星合作（高优先级）
+        '官宣代言人', '品牌代言人', '全球代言人', '品牌大使',
         # 品牌活动/营销
-        '品牌活动', '线下活动', '快闪', '路演', '营销活动',
-        # 商业合作
-        '联名', '跨界合作', '战略合作', '联动',
+        '品牌活动', '线下活动', '快闪', '品牌联名',
         # 商业扩张
-        '开店', '新店', '融资', 'IPO', '发布会',
+        '新店开业', '门店扩张', '融资', 'IPO',
         # 展会/活动
-        '展会', '博览会', '峰会', '论坛',
+        '发布会', '展会', '峰会',
         # 营销动态
-        '品牌升级', '广告投放', '营销',
+        '品牌升级', '广告投放', '官宣合作',
     ]
-    for keyword in keywords[:8]:
-        results = scrape_weibo_search(keyword, max_results=2)
+    for keyword in keywords:
+        results = scrape_weibo_search(keyword, max_results=5)  # 每个关键词取5条
         for item in results:
             if save_signal(conn, '待识别', '', 'industry', item['title'], item['summary'], item['url'], '微博'):
                 total_count += 1
