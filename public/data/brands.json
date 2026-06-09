@@ -357,7 +357,7 @@
     "industry": "运动",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:38"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1402,7 +1402,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:08:31"
@@ -2788,7 +2788,7 @@
     "industry": "家电",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 08:24:46"
@@ -2869,6 +2869,17 @@
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 08:25:02"
+  },
+  {
+    "id": "le-sserafim",
+    "name": "LE SSERAFIM",
+    "industry": "娱乐",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 48,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:20"
   },
   {
     "id": "高盛",
@@ -3129,7 +3140,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 15:03:04"
@@ -3375,5 +3386,247 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 00:18:48"
+  },
+  {
+    "id": "墨锋科技",
+    "name": "墨锋科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:47"
+  },
+  {
+    "id": "隼瞻科技",
+    "name": "隼瞻科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:48"
+  },
+  {
+    "id": "智子银河",
+    "name": "智子银河",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:49"
+  },
+  {
+    "id": "百奥几何",
+    "name": "百奥几何",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:50"
+  },
+  {
+    "id": "加拿大蒙特利尔银行",
+    "name": "加拿大蒙特利尔银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:54"
+  },
+  {
+    "id": "阿里巴巴",
+    "name": "阿里巴巴",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:56"
+  },
+  {
+    "id": "百度",
+    "name": "百度",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:57"
+  },
+  {
+    "id": "晶泰控股",
+    "name": "晶泰控股",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:17:59"
+  },
+  {
+    "id": "东材科技",
+    "name": "东材科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:01"
+  },
+  {
+    "id": "昆仑行",
+    "name": "昆仑行",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:02"
+  },
+  {
+    "id": "中芯国际",
+    "name": "中芯国际",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:04"
+  },
+  {
+    "id": "电科院",
+    "name": "电科院",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:05"
+  },
+  {
+    "id": "seesaw",
+    "name": "Seesaw",
+    "industry": "餐饮",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:06"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:07"
+  },
+  {
+    "id": "诺和诺德",
+    "name": "诺和诺德",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:11"
+  },
+  {
+    "id": "艾德生物",
+    "name": "艾德生物",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:12"
+  },
+  {
+    "id": "哈啰",
+    "name": "哈啰",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:18"
+  },
+  {
+    "id": "滴滴",
+    "name": "滴滴",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:21"
+  },
+  {
+    "id": "龙行天下",
+    "name": "龙行天下",
+    "industry": "运动",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:22"
+  },
+  {
+    "id": "赛力斯",
+    "name": "赛力斯",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:26"
+  },
+  {
+    "id": "超能",
+    "name": "超能",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:30"
+  },
+  {
+    "id": "lezhin",
+    "name": "Lezhin",
+    "industry": "游戏",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 05:18:32"
   }
 ]
