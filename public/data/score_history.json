@@ -224,6 +224,13 @@
     "recordedAt": "2026-06-08 08:24:53"
   },
   {
+    "id": 457,
+    "brandName": "Jeep",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:39"
+  },
+  {
     "id": 188,
     "brandName": "KATO-KATO",
     "score": 50,
@@ -630,6 +637,13 @@
     "recordedAt": "2026-06-09 06:34:00"
   },
   {
+    "id": 456,
+    "brandName": "上海期货交易所",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:37"
+  },
+  {
     "id": 373,
     "brandName": "东兴证券",
     "score": 0,
@@ -945,6 +959,13 @@
     "recordedAt": "2026-06-08 07:25:25"
   },
   {
+    "id": 455,
+    "brandName": "克莱斯勒",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:36"
+  },
+  {
     "id": 82,
     "brandName": "兖矿能源",
     "score": 50,
@@ -1062,6 +1083,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:42:02"
+  },
+  {
+    "id": 458,
+    "brandName": "华硕",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:40"
   },
   {
     "id": 259,
@@ -1309,6 +1337,13 @@
     "recordedAt": "2026-06-05 03:40:54"
   },
   {
+    "id": 459,
+    "brandName": "娃哈哈",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:43"
+  },
+  {
     "id": 381,
     "brandName": "娇兰",
     "score": 0,
@@ -1447,6 +1482,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 06:34:30"
+  },
+  {
+    "id": 452,
+    "brandName": "小米",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:30"
   },
   {
     "id": 4,
@@ -1974,11 +2016,25 @@
     "recordedAt": "2026-06-05 04:07:57"
   },
   {
+    "id": 451,
+    "brandName": "武汉光谷半导体产业投资有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:28"
+  },
+  {
     "id": 170,
     "brandName": "毫秒智控",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 02:39:01"
+  },
+  {
+    "id": 460,
+    "brandName": "水木分子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:44"
   },
   {
     "id": 6,
@@ -2674,6 +2730,13 @@
     "recordedAt": "2026-06-09 06:54:26"
   },
   {
+    "id": 450,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:27"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
@@ -2749,6 +2812,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:16"
+  },
+  {
+    "id": 454,
+    "brandName": "诺基亚",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:33"
   },
   {
     "id": 1,
@@ -2966,6 +3036,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-08 07:24:43"
+  },
+  {
+    "id": 453,
+    "brandName": "阶梯医疗",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-09 08:01:31"
   },
   {
     "id": 65,

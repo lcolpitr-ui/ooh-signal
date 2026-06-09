@@ -698,7 +698,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:22:43"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1270,7 +1270,7 @@
     "industry": "快消",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 03:40:54"
@@ -1820,7 +1820,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:16"
@@ -4057,5 +4057,82 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 07:21:52"
+  },
+  {
+    "id": "武汉光谷半导体产业投资有限公司",
+    "name": "武汉光谷半导体产业投资有限公司",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:28"
+  },
+  {
+    "id": "阶梯医疗",
+    "name": "阶梯医疗",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:31"
+  },
+  {
+    "id": "克莱斯勒",
+    "name": "克莱斯勒",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:36"
+  },
+  {
+    "id": "上海期货交易所",
+    "name": "上海期货交易所",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:37"
+  },
+  {
+    "id": "jeep",
+    "name": "Jeep",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:39"
+  },
+  {
+    "id": "华硕",
+    "name": "华硕",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:40"
+  },
+  {
+    "id": "水木分子",
+    "name": "水木分子",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-09 08:01:44"
   }
 ]
