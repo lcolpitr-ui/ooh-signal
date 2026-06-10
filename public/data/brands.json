@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -962,7 +962,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 10:53:39"
@@ -1182,7 +1182,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 18,
+    "signalCount": 19,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -2403,7 +2403,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:02"
@@ -3470,7 +3470,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:56"
@@ -4849,5 +4849,104 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 10:15:58"
+  },
+  {
+    "id": "ulysse-nardin",
+    "name": "Ulysse Nardin",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:32"
+  },
+  {
+    "id": "南华生物",
+    "name": "南华生物",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:35"
+  },
+  {
+    "id": "新易盛",
+    "name": "新易盛",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:42"
+  },
+  {
+    "id": "赛微电子",
+    "name": "赛微电子",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:45"
+  },
+  {
+    "id": "景峰医药",
+    "name": "景峰医药",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:49"
+  },
+  {
+    "id": "张家界",
+    "name": "张家界",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:51"
+  },
+  {
+    "id": "真健康医疗",
+    "name": "真健康医疗",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:53"
+  },
+  {
+    "id": "三圣股份",
+    "name": "三圣股份",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:55:57"
+  },
+  {
+    "id": "南航",
+    "name": "南航",
+    "industry": "航空",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-10 13:56:04"
   }
 ]

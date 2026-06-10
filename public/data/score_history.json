@@ -637,6 +637,13 @@
     "recordedAt": "2026-06-10 05:33:00"
   },
   {
+    "id": 577,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:43"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -677,6 +684,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:59"
+  },
+  {
+    "id": 571,
+    "brandName": "Ulysse Nardin",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:32"
   },
   {
     "id": 305,
@@ -747,6 +761,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:29"
+  },
+  {
+    "id": 583,
+    "brandName": "三圣股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:57"
   },
   {
     "id": 343,
@@ -1365,11 +1386,25 @@
     "recordedAt": "2026-06-08 07:24:30"
   },
   {
+    "id": 573,
+    "brandName": "南华生物",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:35"
+  },
+  {
     "id": 558,
     "brandName": "南新制药",
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:43"
+  },
+  {
+    "id": 586,
+    "brandName": "南航",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:56:04"
   },
   {
     "id": 152,
@@ -1981,6 +2016,13 @@
     "recordedAt": "2026-06-05 04:08:10"
   },
   {
+    "id": 580,
+    "brandName": "张家界",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:51"
+  },
+  {
     "id": 543,
     "brandName": "张雪",
     "score": 0,
@@ -2056,6 +2098,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:56"
+  },
+  {
+    "id": 584,
+    "brandName": "微信",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:58"
+  },
+  {
+    "id": 587,
+    "brandName": "微信",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:56:06"
   },
   {
     "id": 20,
@@ -2219,6 +2275,13 @@
     "recordedAt": "2026-06-08 08:24:40"
   },
   {
+    "id": 576,
+    "brandName": "新易盛",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:42"
+  },
+  {
     "id": 155,
     "brandName": "日月明",
     "score": 55,
@@ -2294,6 +2357,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-08 08:24:42"
+  },
+  {
+    "id": 579,
+    "brandName": "景峰医药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:49"
   },
   {
     "id": 330,
@@ -2434,6 +2504,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:53:39"
+  },
+  {
+    "id": 572,
+    "brandName": "杰瑞股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:34"
   },
   {
     "id": 27,
@@ -2833,6 +2910,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 03:41:09"
+  },
+  {
+    "id": 581,
+    "brandName": "真健康医疗",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:53"
   },
   {
     "id": 347,
@@ -3283,6 +3367,20 @@
     "recordedAt": "2026-06-09 09:58:38"
   },
   {
+    "id": 575,
+    "brandName": "英伟达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:40"
+  },
+  {
+    "id": 582,
+    "brandName": "英伟达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:54"
+  },
+  {
     "id": 79,
     "brandName": "英博数科",
     "score": 55,
@@ -3428,6 +3526,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:16:02"
+  },
+  {
+    "id": 585,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:56:01"
   },
   {
     "id": 19,
@@ -3619,6 +3724,13 @@
     "recordedAt": "2026-06-09 05:18:26"
   },
   {
+    "id": 578,
+    "brandName": "赛微电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:45"
+  },
+  {
     "id": 496,
     "brandName": "赛豆",
     "score": 0,
@@ -3808,6 +3920,13 @@
     "recordedAt": "2026-06-09 12:53:16"
   },
   {
+    "id": 588,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:56:07"
+  },
+  {
     "id": 424,
     "brandName": "阿里云",
     "score": 0,
@@ -3827,6 +3946,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 00:27:57"
+  },
+  {
+    "id": 574,
+    "brandName": "阿里巴巴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 13:55:38"
   },
   {
     "id": 63,
