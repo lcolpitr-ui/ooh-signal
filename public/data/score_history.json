@@ -3535,6 +3535,20 @@
     "recordedAt": "2026-06-10 13:56:01"
   },
   {
+    "id": 589,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 20:45:18"
+  },
+  {
+    "id": 590,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 20:45:20"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
