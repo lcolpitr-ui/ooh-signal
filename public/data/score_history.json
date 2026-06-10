@@ -49,6 +49,20 @@
     "recordedAt": "2026-06-05 08:03:43"
   },
   {
+    "id": 518,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:47"
+  },
+  {
+    "id": 522,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:55"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -567,6 +581,13 @@
     "recordedAt": "2026-06-09 12:53:11"
   },
   {
+    "id": 519,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:48"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -742,6 +763,13 @@
     "recordedAt": "2026-06-09 00:18:25"
   },
   {
+    "id": 517,
+    "brandName": "中信建投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:46"
+  },
+  {
     "id": 17,
     "brandName": "中信证券",
     "score": 55,
@@ -803,6 +831,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 10:54:08"
+  },
+  {
+    "id": 516,
+    "brandName": "中国软件国际",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:44"
   },
   {
     "id": 108,
@@ -1335,6 +1370,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:33"
+  },
+  {
+    "id": 520,
+    "brandName": "国家能源集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:51"
   },
   {
     "id": 58,
@@ -2835,6 +2877,13 @@
     "recordedAt": "2026-06-08 07:24:50"
   },
   {
+    "id": 515,
+    "brandName": "膳魔师",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:43"
+  },
+  {
     "id": 128,
     "brandName": "自由点",
     "score": 50,
@@ -3255,6 +3304,13 @@
     "recordedAt": "2026-06-08 15:03:12"
   },
   {
+    "id": 521,
+    "brandName": "超微电脑",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:53"
+  },
+  {
     "id": 421,
     "brandName": "超能",
     "score": 0,
@@ -3435,6 +3491,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:17:56"
+  },
+  {
+    "id": 523,
+    "brandName": "阿里巴巴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-10 00:27:57"
   },
   {
     "id": 63,
