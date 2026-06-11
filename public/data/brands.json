@@ -280,7 +280,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:36"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 12,
+    "signalCount": 13,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1600,7 +1600,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-08 08:24:30"
@@ -1659,6 +1659,17 @@
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-08 08:24:42"
+  },
+  {
+    "id": "港交所",
+    "name": "港交所",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 51,
+    "website": null,
+    "createdAt": "2026-06-11 14:53:13"
   },
   {
     "id": "柠季",
@@ -2876,7 +2887,7 @@
     "industry": "娱乐",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 48,
     "website": null,
     "createdAt": "2026-06-09 05:17:20"
@@ -3217,7 +3228,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 15:03:08"
@@ -3481,7 +3492,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:56"
@@ -3635,7 +3646,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:26"
@@ -5300,5 +5311,115 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 10:39:55"
+  },
+  {
+    "id": "雷诺",
+    "name": "雷诺",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:53:46"
+  },
+  {
+    "id": "贵州茅台",
+    "name": "贵州茅台",
+    "industry": "酒水",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:53:50"
+  },
+  {
+    "id": "银河微电",
+    "name": "银河微电",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:53:51"
+  },
+  {
+    "id": "祥源新材",
+    "name": "祥源新材",
+    "industry": "地产",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:53:54"
+  },
+  {
+    "id": "kkr",
+    "name": "KKR",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:54:00"
+  },
+  {
+    "id": "粤芯半导体",
+    "name": "粤芯半导体",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:54:01"
+  },
+  {
+    "id": "三孚新科",
+    "name": "三孚新科",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:54:03"
+  },
+  {
+    "id": "aiva",
+    "name": "AIVA",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:54:04"
+  },
+  {
+    "id": "rokid",
+    "name": "Rokid",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:54:11"
+  },
+  {
+    "id": "万丰奥威",
+    "name": "万丰奥威",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 14:54:14"
   }
 ]

@@ -14,6 +14,13 @@
     "recordedAt": "2026-06-11 10:39:15"
   },
   {
+    "id": 656,
+    "brandName": "AIVA",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:04"
+  },
+  {
     "id": 309,
     "brandName": "AMD",
     "score": 0,
@@ -189,6 +196,13 @@
     "recordedAt": "2026-06-04 07:38:28"
   },
   {
+    "id": 659,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:13"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
@@ -301,6 +315,13 @@
     "recordedAt": "2026-06-05 02:39:38"
   },
   {
+    "id": 653,
+    "brandName": "KKR",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:00"
+  },
+  {
     "id": 98,
     "brandName": "KOI可宜",
     "score": 50,
@@ -327,6 +348,13 @@
     "score": 48,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:17:20"
+  },
+  {
+    "id": 644,
+    "brandName": "LE SSERAFIM",
+    "score": 43,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:51:08"
   },
   {
     "id": 302,
@@ -560,6 +588,13 @@
     "recordedAt": "2026-06-08 09:19:24"
   },
   {
+    "id": 658,
+    "brandName": "Rokid",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:11"
+  },
+  {
     "id": 167,
     "brandName": "RoseMuse",
     "score": 50,
@@ -700,6 +735,13 @@
     "recordedAt": "2026-06-11 00:29:24"
   },
   {
+    "id": 650,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:53"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -819,6 +861,13 @@
     "recordedAt": "2026-06-05 08:03:46"
   },
   {
+    "id": 660,
+    "brandName": "万丰奥威",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:14"
+  },
+  {
     "id": 441,
     "brandName": "万达商业",
     "score": 0,
@@ -838,6 +887,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 13:55:57"
+  },
+  {
+    "id": 655,
+    "brandName": "三孚新科",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:03"
   },
   {
     "id": 343,
@@ -3010,6 +3066,13 @@
     "recordedAt": "2026-06-10 05:33:17"
   },
   {
+    "id": 645,
+    "brandName": "港交所",
+    "score": 51,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:13"
+  },
+  {
     "id": 232,
     "brandName": "湖南裕能",
     "score": 55,
@@ -3192,6 +3255,13 @@
     "recordedAt": "2026-06-08 11:06:03"
   },
   {
+    "id": 651,
+    "brandName": "祥源新材",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:54"
+  },
+  {
     "id": 306,
     "brandName": "第五人格",
     "score": 50,
@@ -3239,6 +3309,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 15:03:18"
+  },
+  {
+    "id": 654,
+    "brandName": "粤芯半导体",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:01"
   },
   {
     "id": 136,
@@ -3358,6 +3435,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:48"
+  },
+  {
+    "id": 661,
+    "brandName": "美宜佳",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:16"
   },
   {
     "id": 298,
@@ -4046,11 +4130,25 @@
     "recordedAt": "2026-06-08 11:06:04"
   },
   {
+    "id": 648,
+    "brandName": "贵州茅台",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:50"
+  },
+  {
     "id": 419,
     "brandName": "赛力斯",
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:18:26"
+  },
+  {
+    "id": 657,
+    "brandName": "赛力斯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:54:06"
   },
   {
     "id": 627,
@@ -4200,6 +4298,13 @@
     "recordedAt": "2026-06-08 09:19:59"
   },
   {
+    "id": 649,
+    "brandName": "银河微电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:51"
+  },
+  {
     "id": 475,
     "brandName": "银河通用",
     "score": 0,
@@ -4326,6 +4431,13 @@
     "recordedAt": "2026-06-10 13:55:38"
   },
   {
+    "id": 647,
+    "brandName": "阿里巴巴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:48"
+  },
+  {
     "id": 63,
     "brandName": "阿里速卖通",
     "score": 55,
@@ -4359,6 +4471,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 05:47:09"
+  },
+  {
+    "id": 646,
+    "brandName": "雷诺",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:46"
   },
   {
     "id": 160,
@@ -4485,6 +4604,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 15:03:08"
+  },
+  {
+    "id": 652,
+    "brandName": "鼎龙股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 14:53:55"
   },
   {
     "id": 620,
