@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 13,
+    "signalCount": 15,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -874,7 +874,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1116,7 +1116,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:20"
@@ -2282,7 +2282,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -5443,5 +5443,38 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 18:28:37"
+  },
+  {
+    "id": "visa",
+    "name": "Visa",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 23:36:09"
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 23:36:12"
+  },
+  {
+    "id": "贝莱德",
+    "name": "贝莱德",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 23:36:18"
   }
 ]
