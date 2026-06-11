@@ -346,7 +346,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:32"
@@ -2403,7 +2403,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:02"
@@ -2634,7 +2634,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:24:51"
@@ -2893,6 +2893,17 @@
     "createdAt": "2026-06-10 05:32:50"
   },
   {
+    "id": "waves",
+    "name": "WAVES",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 33,
+    "website": null,
+    "createdAt": "2026-06-11 10:38:55"
+  },
+  {
     "id": "杰士邦",
     "name": "杰士邦",
     "industry": "快消",
@@ -3085,7 +3096,7 @@
     "industry": "医疗",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:06:02"
@@ -3602,7 +3613,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:21"
@@ -3943,7 +3954,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:02"
@@ -4493,7 +4504,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -5146,5 +5157,148 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 05:44:41"
+  },
+  {
+    "id": "坦途科技",
+    "name": "坦途科技",
+    "industry": "运动",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:16"
+  },
+  {
+    "id": "magi",
+    "name": "MAGI",
+    "industry": "游戏",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:18"
+  },
+  {
+    "id": "红宝丽",
+    "name": "红宝丽",
+    "industry": "化工",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:19"
+  },
+  {
+    "id": "赛微微电",
+    "name": "赛微微电",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:20"
+  },
+  {
+    "id": "昊华科技",
+    "name": "昊华科技",
+    "industry": "化工",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:22"
+  },
+  {
+    "id": "苏宁易采云",
+    "name": "苏宁易采云",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:23"
+  },
+  {
+    "id": "得邦照明",
+    "name": "得邦照明",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:24"
+  },
+  {
+    "id": "塔塔咨询服务公司",
+    "name": "塔塔咨询服务公司",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:26"
+  },
+  {
+    "id": "隆基绿能",
+    "name": "隆基绿能",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:27"
+  },
+  {
+    "id": "和顺电气",
+    "name": "和顺电气",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:31"
+  },
+  {
+    "id": "智谱ai",
+    "name": "智谱AI",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:34"
+  },
+  {
+    "id": "阿莫迪",
+    "name": "阿莫迪",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:37"
+  },
+  {
+    "id": "st洲际",
+    "name": "ST洲际",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 10:39:55"
   }
 ]
