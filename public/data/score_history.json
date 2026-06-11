@@ -203,6 +203,13 @@
     "recordedAt": "2026-06-04 09:06:49"
   },
   {
+    "id": 592,
+    "brandName": "FIFA",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:13"
+  },
+  {
     "id": 370,
     "brandName": "FLOWERLURE花间颂",
     "score": 0,
@@ -476,6 +483,13 @@
     "recordedAt": "2026-06-08 07:25:14"
   },
   {
+    "id": 599,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:22"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
@@ -649,6 +663,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 13:55:43"
+  },
+  {
+    "id": 600,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:24"
   },
   {
     "id": 277,
@@ -882,6 +903,13 @@
     "recordedAt": "2026-06-10 00:27:46"
   },
   {
+    "id": 598,
+    "brandName": "中信建投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:21"
+  },
+  {
     "id": 17,
     "brandName": "中信证券",
     "score": 55,
@@ -915,6 +943,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 00:18:35"
+  },
+  {
+    "id": 595,
+    "brandName": "中信证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:17"
+  },
+  {
+    "id": 596,
+    "brandName": "中信证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:19"
   },
   {
     "id": 315,
@@ -1013,6 +1055,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:29:16"
+  },
+  {
+    "id": 593,
+    "brandName": "中金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:14"
   },
   {
     "id": 372,
@@ -3556,6 +3605,13 @@
     "recordedAt": "2026-06-10 20:45:20"
   },
   {
+    "id": 601,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:25"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
@@ -3689,6 +3745,13 @@
     "recordedAt": "2026-06-04 06:01:26"
   },
   {
+    "id": 597,
+    "brandName": "谷歌",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:20"
+  },
+  {
     "id": 23,
     "brandName": "豆包",
     "score": 50,
@@ -3820,6 +3883,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:29:19"
+  },
+  {
+    "id": 594,
+    "brandName": "通用汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 00:29:15"
   },
   {
     "id": 241,
