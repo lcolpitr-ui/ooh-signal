@@ -504,6 +504,13 @@
     "recordedAt": "2026-06-09 00:18:27"
   },
   {
+    "id": 662,
+    "brandName": "NVIDIA",
+    "score": 30,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 18:28:11"
+  },
+  {
     "id": 165,
     "brandName": "Nespresso",
     "score": 50,
@@ -1482,6 +1489,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:32:56"
+  },
+  {
+    "id": 663,
+    "brandName": "千里科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-11 18:28:37"
   },
   {
     "id": 615,

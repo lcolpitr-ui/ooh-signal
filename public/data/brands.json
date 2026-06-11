@@ -2926,6 +2926,17 @@
     "createdAt": "2026-06-09 21:12:20"
   },
   {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 30,
+    "website": null,
+    "createdAt": "2026-06-11 18:28:11"
+  },
+  {
     "id": "高盛",
     "name": "高盛",
     "industry": "金融",
@@ -5421,5 +5432,16 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 14:54:14"
+  },
+  {
+    "id": "千里科技",
+    "name": "千里科技",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 18:28:37"
   }
 ]
