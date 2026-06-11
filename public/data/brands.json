@@ -181,7 +181,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:14"
@@ -1226,7 +1226,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 22,
+    "signalCount": 23,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -3943,7 +3943,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:02"
@@ -4680,7 +4680,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:14"
@@ -4981,5 +4981,170 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 00:29:15"
+  },
+  {
+    "id": "中微精仪",
+    "name": "中微精仪",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:43:45"
+  },
+  {
+    "id": "极兔速递",
+    "name": "极兔速递",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:43:48"
+  },
+  {
+    "id": "惠科股份",
+    "name": "惠科股份",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:43:49"
+  },
+  {
+    "id": "周大福",
+    "name": "周大福",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:43:52"
+  },
+  {
+    "id": "康方生物",
+    "name": "康方生物",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:43:53"
+  },
+  {
+    "id": "招金黄金",
+    "name": "招金黄金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:43:56"
+  },
+  {
+    "id": "喜临门",
+    "name": "喜临门",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:00"
+  },
+  {
+    "id": "tims天好中国",
+    "name": "Tims天好中国",
+    "industry": "餐饮",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:01"
+  },
+  {
+    "id": "小菜园",
+    "name": "小菜园",
+    "industry": "餐饮",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:06"
+  },
+  {
+    "id": "gsk",
+    "name": "GSK",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:08"
+  },
+  {
+    "id": "千问",
+    "name": "千问",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:16"
+  },
+  {
+    "id": "晶合集成",
+    "name": "晶合集成",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:23"
+  },
+  {
+    "id": "优彩资源",
+    "name": "优彩资源",
+    "industry": "服装",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:39"
+  },
+  {
+    "id": "龙源技术",
+    "name": "龙源技术",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:40"
+  },
+  {
+    "id": "屹通新材",
+    "name": "屹通新材",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-11 05:44:41"
   }
 ]
