@@ -595,6 +595,13 @@
     "recordedAt": "2026-06-11 23:36:07"
   },
   {
+    "id": 695,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:35"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
@@ -1190,6 +1197,13 @@
     "recordedAt": "2026-06-04 10:54:08"
   },
   {
+    "id": 699,
+    "brandName": "中国西电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:40"
+  },
+  {
     "id": 516,
     "brandName": "中国软件国际",
     "score": 0,
@@ -1202,6 +1216,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:55"
+  },
+  {
+    "id": 698,
+    "brandName": "中国银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:39"
   },
   {
     "id": 102,
@@ -1806,6 +1827,13 @@
     "recordedAt": "2026-06-11 05:43:52"
   },
   {
+    "id": 693,
+    "brandName": "周大福",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:33"
+  },
+  {
     "id": 311,
     "brandName": "和远气体",
     "score": 0,
@@ -2105,6 +2133,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:26"
+  },
+  {
+    "id": 700,
+    "brandName": "字节跳动",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:41"
   },
   {
     "id": 425,
@@ -2814,6 +2849,13 @@
     "recordedAt": "2026-06-09 05:17:59"
   },
   {
+    "id": 694,
+    "brandName": "智元机器人",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:34"
+  },
+  {
     "id": 396,
     "brandName": "智子银河",
     "score": 0,
@@ -3080,6 +3122,13 @@
     "recordedAt": "2026-06-11 10:39:40"
   },
   {
+    "id": 690,
+    "brandName": "比亚迪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:26"
+  },
+  {
     "id": 170,
     "brandName": "毫秒智控",
     "score": 55,
@@ -3246,6 +3295,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:30"
+  },
+  {
+    "id": 691,
+    "brandName": "火山引擎",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:30"
   },
   {
     "id": 123,
@@ -3617,6 +3673,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 06:34:14"
+  },
+  {
+    "id": 696,
+    "brandName": "老白干酒",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:36"
   },
   {
     "id": 209,
@@ -4172,6 +4235,13 @@
     "recordedAt": "2026-06-05 05:47:07"
   },
   {
+    "id": 697,
+    "brandName": "西门子能源",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:38"
+  },
+  {
     "id": 344,
     "brandName": "观典",
     "score": 0,
@@ -4487,6 +4557,20 @@
     "recordedAt": "2026-06-12 04:10:36"
   },
   {
+    "id": 701,
+    "brandName": "钉钉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:42"
+  },
+  {
+    "id": 702,
+    "brandName": "钉钉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:46"
+  },
+  {
     "id": 338,
     "brandName": "铁流股份",
     "score": 0,
@@ -4534,6 +4618,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:39"
+  },
+  {
+    "id": 692,
+    "brandName": "长江证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:31"
   },
   {
     "id": 266,
@@ -4597,6 +4688,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 10:39:43"
+  },
+  {
+    "id": 703,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:42:50"
   },
   {
     "id": 424,
@@ -4695,6 +4793,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:11"
+  },
+  {
+    "id": 704,
+    "brandName": "风语筑",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 08:43:09"
   },
   {
     "id": 237,
