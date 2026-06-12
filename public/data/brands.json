@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 20,
+    "signalCount": 22,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1670,6 +1670,17 @@
     "latestScore": 51,
     "website": null,
     "createdAt": "2026-06-11 14:53:13"
+  },
+  {
+    "id": "韩亚证券",
+    "name": "韩亚证券",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 51,
+    "website": null,
+    "createdAt": "2026-06-12 21:55:32"
   },
   {
     "id": "柠季",
