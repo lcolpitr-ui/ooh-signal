@@ -940,7 +940,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 09:06:34"
@@ -2414,7 +2414,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:02"
@@ -4658,7 +4658,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:03"
@@ -5362,7 +5362,7 @@
     "industry": "地产",
     "scale": "small",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 14:53:54"
@@ -5619,5 +5619,159 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 08:43:09"
+  },
+  {
+    "id": "长鑫科技",
+    "name": "长鑫科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:20"
+  },
+  {
+    "id": "真健康",
+    "name": "真健康",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:22"
+  },
+  {
+    "id": "川润股份",
+    "name": "川润股份",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:23"
+  },
+  {
+    "id": "丰元股份",
+    "name": "丰元股份",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:24"
+  },
+  {
+    "id": "万科",
+    "name": "万科",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:25"
+  },
+  {
+    "id": "汇丰控股",
+    "name": "汇丰控股",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:27"
+  },
+  {
+    "id": "海峡股份",
+    "name": "海峡股份",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:29"
+  },
+  {
+    "id": "sharon-ai",
+    "name": "Sharon AI",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:31"
+  },
+  {
+    "id": "高凯技术",
+    "name": "高凯技术",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:32"
+  },
+  {
+    "id": "三安光电",
+    "name": "三安光电",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:39"
+  },
+  {
+    "id": "朴朴",
+    "name": "朴朴",
+    "industry": "零售",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 2,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:40"
+  },
+  {
+    "id": "壁仞科技",
+    "name": "壁仞科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:44"
+  },
+  {
+    "id": "prometheus",
+    "name": "Prometheus",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:47"
+  },
+  {
+    "id": "norm-technologies",
+    "name": "Norm Technologies",
+    "industry": "地产",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 12:36:53"
   }
 ]

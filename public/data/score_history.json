@@ -560,6 +560,13 @@
     "recordedAt": "2026-06-04 18:48:55"
   },
   {
+    "id": 724,
+    "brandName": "Norm Technologies",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:53"
+  },
+  {
     "id": 105,
     "brandName": "OpenAI",
     "score": 55,
@@ -621,6 +628,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:40"
+  },
+  {
+    "id": 723,
+    "brandName": "Prometheus",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:47"
   },
   {
     "id": 286,
@@ -686,6 +700,13 @@
     "recordedAt": "2026-06-12 04:10:08"
   },
   {
+    "id": 711,
+    "brandName": "SK海力士",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:28"
+  },
+  {
     "id": 643,
     "brandName": "ST洲际",
     "score": 0,
@@ -719,6 +740,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:32"
+  },
+  {
+    "id": 713,
+    "brandName": "Sharon AI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:31"
   },
   {
     "id": 18,
@@ -973,6 +1001,13 @@
     "recordedAt": "2026-06-11 14:54:14"
   },
   {
+    "id": 709,
+    "brandName": "万科",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:25"
+  },
+  {
     "id": 441,
     "brandName": "万达商业",
     "score": 0,
@@ -999,6 +1034,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 14:54:03"
+  },
+  {
+    "id": 717,
+    "brandName": "三安光电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:39"
   },
   {
     "id": 343,
@@ -1307,6 +1349,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 08:03:30"
+  },
+  {
+    "id": 708,
+    "brandName": "丰元股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:24"
   },
   {
     "id": 439,
@@ -1897,6 +1946,13 @@
     "recordedAt": "2026-06-11 05:44:00"
   },
   {
+    "id": 715,
+    "brandName": "喜茶",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:35"
+  },
+  {
     "id": 106,
     "brandName": "国光电器",
     "score": 55,
@@ -1986,6 +2042,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:17:47"
+  },
+  {
+    "id": 721,
+    "brandName": "壁仞科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:44"
   },
   {
     "id": 427,
@@ -2380,6 +2443,13 @@
     "recordedAt": "2026-06-11 05:44:41"
   },
   {
+    "id": 707,
+    "brandName": "川润股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:23"
+  },
+  {
     "id": 22,
     "brandName": "工业富联",
     "score": 50,
@@ -2646,6 +2716,13 @@
     "recordedAt": "2026-06-04 09:06:34"
   },
   {
+    "id": 722,
+    "brandName": "抖音",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:45"
+  },
+  {
     "id": 202,
     "brandName": "拉芳",
     "score": 50,
@@ -2905,6 +2982,20 @@
     "recordedAt": "2026-06-05 03:40:50"
   },
   {
+    "id": 718,
+    "brandName": "朴朴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:40"
+  },
+  {
+    "id": 719,
+    "brandName": "朴朴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:41"
+  },
+  {
     "id": 5,
     "brandName": "李宁",
     "score": 50,
@@ -3150,6 +3241,13 @@
     "recordedAt": "2026-06-04 04:35:39"
   },
   {
+    "id": 710,
+    "brandName": "汇丰控股",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:27"
+  },
+  {
     "id": 2,
     "brandName": "江小白",
     "score": 55,
@@ -3239,6 +3337,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:42"
+  },
+  {
+    "id": 712,
+    "brandName": "海峡股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:29"
   },
   {
     "id": 300,
@@ -3444,6 +3549,13 @@
     "recordedAt": "2026-06-05 03:41:09"
   },
   {
+    "id": 706,
+    "brandName": "真健康",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:22"
+  },
+  {
     "id": 581,
     "brandName": "真健康医疗",
     "score": 0,
@@ -3463,6 +3575,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 14:53:54"
+  },
+  {
+    "id": 716,
+    "brandName": "祥源新材",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:36"
   },
   {
     "id": 306,
@@ -4627,6 +4746,13 @@
     "recordedAt": "2026-06-12 08:42:31"
   },
   {
+    "id": 705,
+    "brandName": "长鑫科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:20"
+  },
+  {
     "id": 266,
     "brandName": "闲鱼",
     "score": 55,
@@ -4695,6 +4821,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:50"
+  },
+  {
+    "id": 720,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:43"
   },
   {
     "id": 424,
@@ -4807,6 +4940,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 06:34:35"
+  },
+  {
+    "id": 714,
+    "brandName": "高凯技术",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-12 12:36:32"
   },
   {
     "id": 25,
