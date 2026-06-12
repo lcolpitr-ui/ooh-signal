@@ -159,7 +159,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 13,
+    "signalCount": 14,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 15,
+    "signalCount": 17,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1347,7 +1347,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:29:15"
@@ -2282,7 +2282,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 8,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -3976,7 +3976,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:02"
@@ -4658,7 +4658,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:03"
@@ -5076,7 +5076,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 05:43:56"
@@ -5340,7 +5340,7 @@
     "industry": "酒水",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 14:53:50"
@@ -5476,5 +5476,71 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 23:36:18"
+  },
+  {
+    "id": "力普司liipus",
+    "name": "力普司LiiPuS",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 04:10:02"
+  },
+  {
+    "id": "优必选",
+    "name": "优必选",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 04:10:05"
+  },
+  {
+    "id": "宏胜",
+    "name": "宏胜",
+    "industry": "快消",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 04:10:06"
+  },
+  {
+    "id": "大晓机器人",
+    "name": "大晓机器人",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 04:10:16"
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 04:10:25"
+  },
+  {
+    "id": "常山北明",
+    "name": "常山北明",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 04:10:54"
   }
 ]
