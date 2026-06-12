@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 17,
+    "signalCount": 20,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1116,7 +1116,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:20"
@@ -5773,5 +5773,82 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 12:36:53"
+  },
+  {
+    "id": "壳牌",
+    "name": "壳牌",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:29"
+  },
+  {
+    "id": "理想汽车",
+    "name": "理想汽车",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:32"
+  },
+  {
+    "id": "顺景科技",
+    "name": "顺景科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:35"
+  },
+  {
+    "id": "*st国华",
+    "name": "*ST国华",
+    "industry": "金融",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:37"
+  },
+  {
+    "id": "映恩生物",
+    "name": "映恩生物",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:38"
+  },
+  {
+    "id": "兰州黄河",
+    "name": "兰州黄河",
+    "industry": "酒水",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:40"
+  },
+  {
+    "id": "仁和药业",
+    "name": "仁和药业",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-12 16:35:41"
   }
 ]
