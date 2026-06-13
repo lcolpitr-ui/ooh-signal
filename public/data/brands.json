@@ -159,7 +159,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 14,
+    "signalCount": 16,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 22,
+    "signalCount": 26,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1754,7 +1754,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:06"
@@ -2293,7 +2293,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -3514,7 +3514,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:56"
@@ -5861,5 +5861,126 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 16:35:41"
+  },
+  {
+    "id": "中科电墨",
+    "name": "中科电墨",
+    "industry": "汽车",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:29"
+  },
+  {
+    "id": "荣盛石化",
+    "name": "荣盛石化",
+    "industry": "化工",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:36"
+  },
+  {
+    "id": "魔法原子",
+    "name": "魔法原子",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:37"
+  },
+  {
+    "id": "埃克森美孚",
+    "name": "埃克森美孚",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:41"
+  },
+  {
+    "id": "润华保险",
+    "name": "润华保险",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:45"
+  },
+  {
+    "id": "大疆",
+    "name": "大疆",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:48"
+  },
+  {
+    "id": "影石",
+    "name": "影石",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:50"
+  },
+  {
+    "id": "space-x",
+    "name": "Space X",
+    "industry": "航空",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:53"
+  },
+  {
+    "id": "乐聚智能",
+    "name": "乐聚智能",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:53:55"
+  },
+  {
+    "id": "红果",
+    "name": "红果",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:54:00"
+  },
+  {
+    "id": "奔驰",
+    "name": "奔驰",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 03:54:02"
   }
 ]

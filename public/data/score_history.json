@@ -112,6 +112,13 @@
     "recordedAt": "2026-06-12 04:10:33"
   },
   {
+    "id": 741,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:28"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -763,6 +770,13 @@
     "recordedAt": "2026-06-12 12:36:31"
   },
   {
+    "id": 755,
+    "brandName": "Space X",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:53"
+  },
+  {
     "id": 18,
     "brandName": "SpaceX",
     "score": 50,
@@ -915,6 +929,34 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 22:04:26"
+  },
+  {
+    "id": 743,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:30"
+  },
+  {
+    "id": 744,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:31"
+  },
+  {
+    "id": 745,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:32"
+  },
+  {
+    "id": 751,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:46"
   },
   {
     "id": 277,
@@ -1351,6 +1393,13 @@
     "recordedAt": "2026-06-08 11:05:54"
   },
   {
+    "id": 742,
+    "brandName": "中科电墨",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:29"
+  },
+  {
     "id": 406,
     "brandName": "中芯国际",
     "score": 0,
@@ -1426,6 +1475,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:44"
+  },
+  {
+    "id": 756,
+    "brandName": "乐聚智能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:55"
   },
   {
     "id": 77,
@@ -2086,6 +2142,13 @@
     "recordedAt": "2026-06-11 10:39:16"
   },
   {
+    "id": 749,
+    "brandName": "埃克森美孚",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:41"
+  },
+  {
     "id": 83,
     "brandName": "埃泰克",
     "score": 55,
@@ -2135,6 +2198,13 @@
     "recordedAt": "2026-06-12 04:10:16"
   },
   {
+    "id": 752,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:48"
+  },
+  {
     "id": 360,
     "brandName": "天娱数科",
     "score": 0,
@@ -2182,6 +2252,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 04:29:14"
+  },
+  {
+    "id": 760,
+    "brandName": "奔驰",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:54:02"
   },
   {
     "id": 349,
@@ -2597,6 +2674,13 @@
     "recordedAt": "2026-06-10 05:33:20"
   },
   {
+    "id": 753,
+    "brandName": "影石",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:50"
+  },
+  {
     "id": 292,
     "brandName": "徐工汽车",
     "score": 55,
@@ -2693,6 +2777,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:06"
+  },
+  {
+    "id": 757,
+    "brandName": "微软",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:58"
   },
   {
     "id": 526,
@@ -3444,6 +3535,13 @@
     "recordedAt": "2026-06-08 08:24:50"
   },
   {
+    "id": 750,
+    "brandName": "润华保险",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:45"
+  },
+  {
     "id": 476,
     "brandName": "淘宝",
     "score": 0,
@@ -3766,6 +3864,13 @@
     "recordedAt": "2026-06-11 10:39:19"
   },
   {
+    "id": 759,
+    "brandName": "红果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:54:00"
+  },
+  {
     "id": 104,
     "brandName": "纵横股份",
     "score": 55,
@@ -4023,6 +4128,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 04:10:22"
+  },
+  {
+    "id": 754,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:52"
+  },
+  {
+    "id": 758,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:59"
   },
   {
     "id": 215,
@@ -4387,6 +4506,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:20"
+  },
+  {
+    "id": 746,
+    "brandName": "荣盛石化",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:36"
   },
   {
     "id": 554,
@@ -4963,6 +5089,13 @@
     "recordedAt": "2026-06-11 14:53:48"
   },
   {
+    "id": 748,
+    "brandName": "阿里巴巴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:38"
+  },
+  {
     "id": 63,
     "brandName": "阿里速卖通",
     "score": 55,
@@ -5080,6 +5213,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:18:59"
+  },
+  {
+    "id": 747,
+    "brandName": "魔法原子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 03:53:37"
   },
   {
     "id": 487,
