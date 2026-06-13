@@ -518,6 +518,13 @@
     "recordedAt": "2026-06-12 04:10:25"
   },
   {
+    "id": 796,
+    "brandName": "MiniMax",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:44"
+  },
+  {
     "id": 146,
     "brandName": "Miu Miu",
     "score": 50,
@@ -1013,6 +1020,48 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 10:51:36"
+  },
+  {
+    "id": 788,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:33"
+  },
+  {
+    "id": 789,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:34"
+  },
+  {
+    "id": 797,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:45"
+  },
+  {
+    "id": 798,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:46"
+  },
+  {
+    "id": 799,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:47"
+  },
+  {
+    "id": 800,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:48"
   },
   {
     "id": 277,
@@ -2058,6 +2107,13 @@
     "recordedAt": "2026-06-04 06:01:02"
   },
   {
+    "id": 791,
+    "brandName": "吉利汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:36"
+  },
+  {
     "id": 362,
     "brandName": "同程旅行",
     "score": 0,
@@ -2609,6 +2665,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 08:01:30"
+  },
+  {
+    "id": 792,
+    "brandName": "小米",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:39"
   },
   {
     "id": 4,
@@ -3533,6 +3596,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:26"
+  },
+  {
+    "id": 795,
+    "brandName": "比亚迪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:43"
   },
   {
     "id": 170,
@@ -5285,6 +5355,13 @@
     "recordedAt": "2026-06-13 03:53:38"
   },
   {
+    "id": 794,
+    "brandName": "阿里巴巴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:41"
+  },
+  {
     "id": 63,
     "brandName": "阿里速卖通",
     "score": 55,
@@ -5409,6 +5486,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 03:53:37"
+  },
+  {
+    "id": 790,
+    "brandName": "鲸鸿动能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:35"
+  },
+  {
+    "id": 793,
+    "brandName": "鲸鸿动能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 12:42:40"
   },
   {
     "id": 487,
