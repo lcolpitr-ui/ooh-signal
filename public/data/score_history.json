@@ -1064,6 +1064,48 @@
     "recordedAt": "2026-06-13 12:42:48"
   },
   {
+    "id": 802,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:32"
+  },
+  {
+    "id": 805,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:35"
+  },
+  {
+    "id": 806,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:37"
+  },
+  {
+    "id": 807,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:38"
+  },
+  {
+    "id": 808,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:39"
+  },
+  {
+    "id": 809,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:40"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -5362,6 +5404,13 @@
     "recordedAt": "2026-06-13 12:42:41"
   },
   {
+    "id": 804,
+    "brandName": "阿里巴巴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:34"
+  },
+  {
     "id": 63,
     "brandName": "阿里速卖通",
     "score": 55,
@@ -5507,6 +5556,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 15:18:19"
+  },
+  {
+    "id": 803,
+    "brandName": "鲸鸿动能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 16:41:33"
   },
   {
     "id": 487,
