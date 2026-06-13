@@ -1001,6 +1001,20 @@
     "recordedAt": "2026-06-13 08:03:59"
   },
   {
+    "id": 781,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:23"
+  },
+  {
+    "id": 786,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:36"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -1386,6 +1400,13 @@
     "recordedAt": "2026-06-10 00:27:44"
   },
   {
+    "id": 779,
+    "brandName": "中国造船",
+    "score": 30,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:50:34"
+  },
+  {
     "id": 108,
     "brandName": "中国重汽",
     "score": 55,
@@ -1538,6 +1559,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 12:53:00"
+  },
+  {
+    "id": 785,
+    "brandName": "云南铜业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:35"
   },
   {
     "id": 345,
@@ -3234,6 +3262,13 @@
     "recordedAt": "2026-06-11 10:39:34"
   },
   {
+    "id": 780,
+    "brandName": "曼联",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:22"
+  },
+  {
     "id": 504,
     "brandName": "月之暗面",
     "score": 0,
@@ -3526,6 +3561,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:27"
+  },
+  {
+    "id": 782,
+    "brandName": "江丰电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:25"
   },
   {
     "id": 2,
@@ -3876,6 +3918,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:36"
+  },
+  {
+    "id": 784,
+    "brandName": "科大讯飞",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:33"
   },
   {
     "id": 306,
@@ -4263,6 +4312,13 @@
     "recordedAt": "2026-06-13 03:53:59"
   },
   {
+    "id": 787,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:38"
+  },
+  {
     "id": 215,
     "brandName": "腾讯云",
     "score": 55,
@@ -4282,6 +4338,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 04:10:09"
+  },
+  {
+    "id": 783,
+    "brandName": "腾讯云",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 10:51:32"
   },
   {
     "id": 244,

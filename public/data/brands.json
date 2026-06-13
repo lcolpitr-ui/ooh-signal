@@ -159,7 +159,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 16,
+    "signalCount": 17,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 30,
+    "signalCount": 32,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1347,7 +1347,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:29:15"
@@ -2968,6 +2968,17 @@
     "latestScore": 30,
     "website": null,
     "createdAt": "2026-06-13 08:03:33"
+  },
+  {
+    "id": "中国造船",
+    "name": "中国造船",
+    "industry": "工业",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 30,
+    "website": null,
+    "createdAt": "2026-06-13 10:50:34"
   },
   {
     "id": "高盛",
@@ -6081,5 +6092,49 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 08:04:19"
+  },
+  {
+    "id": "曼联",
+    "name": "曼联",
+    "industry": "运动",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 10:51:22"
+  },
+  {
+    "id": "江丰电子",
+    "name": "江丰电子",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 10:51:25"
+  },
+  {
+    "id": "科大讯飞",
+    "name": "科大讯飞",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 10:51:33"
+  },
+  {
+    "id": "云南铜业",
+    "name": "云南铜业",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-13 10:51:35"
   }
 ]
