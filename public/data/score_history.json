@@ -315,6 +315,13 @@
     "recordedAt": "2026-06-10 05:33:21"
   },
   {
+    "id": 768,
+    "brandName": "H&M",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:42"
+  },
+  {
     "id": 353,
     "brandName": "HILX",
     "score": 0,
@@ -586,6 +593,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:53"
+  },
+  {
+    "id": 761,
+    "brandName": "Omdia",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:02:19"
   },
   {
     "id": 105,
@@ -957,6 +971,34 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 03:53:46"
+  },
+  {
+    "id": 765,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:38"
+  },
+  {
+    "id": 774,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:53"
+  },
+  {
+    "id": 775,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:56"
+  },
+  {
+    "id": 777,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:59"
   },
   {
     "id": 277,
@@ -1904,6 +1946,13 @@
     "recordedAt": "2026-06-04 18:48:26"
   },
   {
+    "id": 770,
+    "brandName": "博睿康",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:44"
+  },
+  {
     "id": 37,
     "brandName": "博通",
     "score": 55,
@@ -2030,6 +2079,13 @@
     "recordedAt": "2026-06-09 05:18:18"
   },
   {
+    "id": 776,
+    "brandName": "哈啰",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:58"
+  },
+  {
     "id": 30,
     "brandName": "哈根达斯",
     "score": 50,
@@ -2112,6 +2168,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:11"
+  },
+  {
+    "id": 762,
+    "brandName": "国货底妆第一",
+    "score": 30,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:33"
   },
   {
     "id": 509,
@@ -2203,6 +2266,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 03:53:48"
+  },
+  {
+    "id": 773,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:52"
   },
   {
     "id": 360,
@@ -2387,6 +2457,13 @@
     "recordedAt": "2026-06-10 05:32:58"
   },
   {
+    "id": 764,
+    "brandName": "宁德时代",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:37"
+  },
+  {
     "id": 494,
     "brandName": "宇信科技",
     "score": 0,
@@ -2448,6 +2525,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 11:05:55"
+  },
+  {
+    "id": 772,
+    "brandName": "富信科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:49"
   },
   {
     "id": 299,
@@ -2975,6 +3059,13 @@
     "recordedAt": "2026-06-10 13:55:42"
   },
   {
+    "id": 763,
+    "brandName": "新通教育",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:36"
+  },
+  {
     "id": 155,
     "brandName": "日月明",
     "score": 55,
@@ -3127,6 +3218,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 11:06:12"
+  },
+  {
+    "id": 767,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:40"
   },
   {
     "id": 636,
@@ -3836,6 +3934,13 @@
     "recordedAt": "2026-06-11 14:54:01"
   },
   {
+    "id": 778,
+    "brandName": "精研科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:04:19"
+  },
+  {
     "id": 136,
     "brandName": "精达股份",
     "score": 55,
@@ -3969,6 +4074,13 @@
     "recordedAt": "2026-06-11 14:54:16"
   },
   {
+    "id": 766,
+    "brandName": "美格智能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:39"
+  },
+  {
     "id": 298,
     "brandName": "美的",
     "score": 50,
@@ -4023,6 +4135,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:47"
+  },
+  {
+    "id": 771,
+    "brandName": "肯尼迪表演艺术中心",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:46"
   },
   {
     "id": 473,
@@ -4961,6 +5080,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:39"
+  },
+  {
+    "id": 769,
+    "brandName": "长安汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-13 08:03:43"
   },
   {
     "id": 692,
