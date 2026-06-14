@@ -119,6 +119,13 @@
     "recordedAt": "2026-06-13 03:53:28"
   },
   {
+    "id": 837,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:16"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -322,6 +329,13 @@
     "recordedAt": "2026-06-13 08:03:42"
   },
   {
+    "id": 828,
+    "brandName": "H&M",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:00"
+  },
+  {
     "id": 353,
     "brandName": "HILX",
     "score": 0,
@@ -404,6 +418,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:58"
+  },
+  {
+    "id": 840,
+    "brandName": "Kimi",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:20"
   },
   {
     "id": 392,
@@ -602,6 +623,13 @@
     "recordedAt": "2026-06-12 12:36:53"
   },
   {
+    "id": 838,
+    "brandName": "Odysseus",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:18"
+  },
+  {
     "id": 761,
     "brandName": "Omdia",
     "score": 33,
@@ -649,6 +677,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:35"
+  },
+  {
+    "id": 832,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:05"
   },
   {
     "id": 189,
@@ -789,6 +824,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:31"
+  },
+  {
+    "id": 829,
+    "brandName": "SoulX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:01"
   },
   {
     "id": 755,
@@ -1603,6 +1645,13 @@
     "recordedAt": "2026-06-04 04:36:47"
   },
   {
+    "id": 830,
+    "brandName": "中建六局",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:02"
+  },
+  {
     "id": 602,
     "brandName": "中微精仪",
     "score": 0,
@@ -2226,6 +2275,13 @@
     "recordedAt": "2026-06-04 06:01:02"
   },
   {
+    "id": 831,
+    "brandName": "吉利",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:03"
+  },
+  {
     "id": 791,
     "brandName": "吉利汽车",
     "score": 0,
@@ -2457,6 +2513,13 @@
     "recordedAt": "2026-06-09 06:33:57"
   },
   {
+    "id": 836,
+    "brandName": "大族激光",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:14"
+  },
+  {
     "id": 679,
     "brandName": "大晓机器人",
     "score": 0,
@@ -2476,6 +2539,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 08:03:52"
+  },
+  {
+    "id": 839,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:19"
   },
   {
     "id": 360,
@@ -2856,6 +2926,13 @@
     "recordedAt": "2026-06-05 04:08:08"
   },
   {
+    "id": 834,
+    "brandName": "尼卡光学",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:11"
+  },
+  {
     "id": 190,
     "brandName": "屁屁侦探",
     "score": 50,
@@ -2966,6 +3043,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:33:20"
+  },
+  {
+    "id": 844,
+    "brandName": "张雪机车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:24"
   },
   {
     "id": 753,
@@ -3913,6 +3997,13 @@
     "recordedAt": "2026-06-11 10:39:47"
   },
   {
+    "id": 842,
+    "brandName": "滴滴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:22"
+  },
+  {
     "id": 3,
     "brandName": "火山引擎",
     "score": 55,
@@ -3960,6 +4051,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 08:24:43"
+  },
+  {
+    "id": 833,
+    "brandName": "猫眼",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:06"
   },
   {
     "id": 505,
@@ -4142,6 +4240,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 06:34:07"
+  },
+  {
+    "id": 841,
+    "brandName": "米哈游",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:21"
   },
   {
     "id": 181,
@@ -5292,6 +5397,13 @@
     "recordedAt": "2026-06-12 08:42:46"
   },
   {
+    "id": 835,
+    "brandName": "钉钉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:13"
+  },
+  {
     "id": 338,
     "brandName": "铁流股份",
     "score": 0,
@@ -5437,6 +5549,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:43"
+  },
+  {
+    "id": 843,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 06:05:23"
   },
   {
     "id": 424,
