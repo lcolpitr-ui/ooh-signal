@@ -140,6 +140,13 @@
     "recordedAt": "2026-06-14 16:38:06"
   },
   {
+    "id": 866,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 20:33:31"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
