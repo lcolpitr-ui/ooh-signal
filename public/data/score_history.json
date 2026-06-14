@@ -1295,6 +1295,27 @@
     "recordedAt": "2026-06-14 14:28:32"
   },
   {
+    "id": 863,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 18:28:58"
+  },
+  {
+    "id": 864,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 18:28:59"
+  },
+  {
+    "id": 865,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 18:29:00"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
