@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 49,
+    "signalCount": 55,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -3547,7 +3547,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:56"
@@ -6143,7 +6143,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 12:42:35"

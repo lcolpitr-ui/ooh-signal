@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-06-13T22:23:11.031470+00:00",
+  "generated_at": "2026-06-14T00:24:05.021097+00:00",
   "total_matches": 251,
   "matches": [
     {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -208,63 +265,6 @@
         "预算匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -286,63 +286,6 @@
       "reason_text": "拉芳所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
     },
     {
       "signal_id": "0a8d5e16174512e42686104f05169b5d",
@@ -531,6 +474,63 @@
         "预算匹配"
       ],
       "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 90,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 90,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 90,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -1010,63 +1010,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 79,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 79,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 79,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
@@ -1196,6 +1139,63 @@
         "预算匹配"
       ],
       "reason_text": "常山北明所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 78,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 78,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 78,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
     },
@@ -1428,6 +1428,42 @@
       "daily_traffic": 250000
     },
     {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -1644,42 +1680,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "55d8b2bf2fb1b40c661db0b6600522e0",
       "signal_title": "#拉芳全球品牌代言人鞠婧祎# 支持全球代言人👍🏻",
       "brand_name": "拉芳",
@@ -1748,42 +1748,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "拉芳所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1948,6 +1912,42 @@
       "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 90,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 90,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "6141c409dc575d69fca156133ed037ec",
@@ -2976,24 +2976,6 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 79,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
@@ -3044,6 +3026,24 @@
         "预算匹配"
       ],
       "reason_text": "常山北明所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 78,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
     },
@@ -4272,42 +4272,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 79,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 79,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
@@ -4347,6 +4311,42 @@
       "signal_id": "89959124e605d410735ee30f43f55ca9",
       "signal_title": "000158常山北明投资者关系管理信息20260610",
       "brand_name": "常山北明",
+      "signal_score": 78,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 78,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
       "signal_score": 78,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
