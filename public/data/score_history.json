@@ -546,6 +546,13 @@
     "recordedAt": "2026-06-13 12:42:44"
   },
   {
+    "id": 851,
+    "brandName": "MiniMax",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:51:01"
+  },
+  {
     "id": 146,
     "brandName": "Miu Miu",
     "score": 50,
@@ -782,6 +789,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:28"
+  },
+  {
+    "id": 847,
+    "brandName": "SK海力士",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:50:51"
   },
   {
     "id": 643,
@@ -1225,6 +1239,27 @@
     "recordedAt": "2026-06-14 00:23:13"
   },
   {
+    "id": 845,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:50:46"
+  },
+  {
+    "id": 854,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:51:06"
+  },
+  {
+    "id": 855,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:51:08"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -1433,6 +1468,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 08:01:37"
+  },
+  {
+    "id": 846,
+    "brandName": "上海机场",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:50:49"
   },
   {
     "id": 559,
@@ -1713,6 +1755,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 15:03:28"
+  },
+  {
+    "id": 850,
+    "brandName": "中铁十八局集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:50:55"
   },
   {
     "id": 238,
@@ -2119,6 +2168,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:33:02"
+  },
+  {
+    "id": 852,
+    "brandName": "华大",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:51:02"
   },
   {
     "id": 134,
@@ -2546,6 +2602,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 06:05:19"
+  },
+  {
+    "id": 853,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:51:04"
   },
   {
     "id": 360,
@@ -3248,6 +3311,13 @@
     "recordedAt": "2026-06-10 05:33:18"
   },
   {
+    "id": 849,
+    "brandName": "扣子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:50:54"
+  },
+  {
     "id": 116,
     "brandName": "抖音",
     "score": 55,
@@ -3946,6 +4016,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 08:24:50"
+  },
+  {
+    "id": 848,
+    "brandName": "海洋石油工程股份有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 09:50:52"
   },
   {
     "id": 750,
