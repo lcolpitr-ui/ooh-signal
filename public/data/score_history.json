@@ -126,6 +126,13 @@
     "recordedAt": "2026-06-14 06:05:16"
   },
   {
+    "id": 856,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 12:15:21"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -2609,6 +2616,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 09:51:04"
+  },
+  {
+    "id": 858,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 12:15:24"
   },
   {
     "id": 360,
@@ -5136,6 +5150,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 05:47:07"
+  },
+  {
+    "id": 857,
+    "brandName": "蚂蚁集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-14 12:15:23"
   },
   {
     "id": 697,

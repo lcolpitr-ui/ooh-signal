@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T09:52:16.418580+00:00",
-  "total_matches": 246,
+  "generated_at": "2026-06-14T12:16:23.566604+00:00",
+  "total_matches": 227,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -96,6 +96,25 @@
       "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
     },
     {
       "signal_id": "84479d660abe73b079c8ccfd4d14e975",
@@ -438,25 +457,6 @@
       "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
     },
     {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
@@ -956,7 +956,7 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -968,139 +968,6 @@
         "预算匹配"
       ],
       "reason_text": "佰维存储所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 78,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 78,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 78,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 78,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 77,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 77,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 77,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
     },
@@ -1160,6 +1027,139 @@
       "reason_text": "常山北明所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 76,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 76,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 76,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 75,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 75,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 75,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 75,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "a909dea37cee47589d2fb15fb40db493",
@@ -1333,63 +1333,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
-      "signal_score": 70,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "AMD所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "00499c0f0eb6403f65f2968fbad86020",
-      "signal_title": "根据全球主要上市矿企披露的2025年最终数据，全球矿产铜最大的十家公司排名如下：必和必拓（BHP）2",
-      "brand_name": "CMOC",
-      "signal_score": 70,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "CMOC所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "767abde3a5b425784be7a2acf79f3803",
-      "signal_title": "Coinbase 于 6 月 8 日推出永续式股票指数期货（Perpetual-Style Equi",
-      "brand_name": "Coinbase",
-      "signal_score": 70,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Coinbase所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
@@ -1458,6 +1401,78 @@
         "媒体类型匹配"
       ],
       "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1800,78 +1815,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -2365,7 +2308,7 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2383,7 +2326,7 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2401,7 +2344,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 78,
+      "signal_score": 75,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2419,7 +2362,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 78,
+      "signal_score": 75,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -2437,7 +2380,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 78,
+      "signal_score": 75,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2455,7 +2398,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 78,
+      "signal_score": 75,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2473,7 +2416,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 78,
+      "signal_score": 75,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2632,78 +2575,6 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
-      "signal_score": 70,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "AMD所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
-      "signal_score": 70,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "AMD所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "00499c0f0eb6403f65f2968fbad86020",
-      "signal_title": "根据全球主要上市矿企披露的2025年最终数据，全球矿产铜最大的十家公司排名如下：必和必拓（BHP）2",
-      "brand_name": "CMOC",
-      "signal_score": 70,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "CMOC所在行业与机场广告受众契合；机场广告适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "767abde3a5b425784be7a2acf79f3803",
-      "signal_title": "Coinbase 于 6 月 8 日推出永续式股票指数期货（Perpetual-Style Equi",
-      "brand_name": "Coinbase",
-      "signal_score": 70,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Coinbase所在行业与机场广告受众契合；机场广告适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
       "signal_id": "6141c409dc575d69fca156133ed037ec",
       "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
       "brand_name": "ubras",
@@ -2851,7 +2722,7 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2869,7 +2740,7 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2882,60 +2753,6 @@
       "reason_text": "佰维存储所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 78,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 78,
-      "resource_id": "res_012",
-      "resource_name": "北京公交车身广告",
-      "resource_type": "公交广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与公交广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 77,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "风语筑所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
     },
     {
       "signal_id": "89959124e605d410735ee30f43f55ca9",
@@ -2954,6 +2771,60 @@
       "reason_text": "常山北明所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 76,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "风语筑所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 75,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 75,
+      "resource_id": "res_012",
+      "resource_name": "北京公交车身广告",
+      "resource_type": "公交广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与公交广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 100000
     },
     {
       "signal_id": "a909dea37cee47589d2fb15fb40db493",
@@ -3298,186 +3169,6 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
-      "signal_score": 70,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "AMD所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
-      "signal_score": 70,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "AMD所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "00499c0f0eb6403f65f2968fbad86020",
-      "signal_title": "根据全球主要上市矿企披露的2025年最终数据，全球矿产铜最大的十家公司排名如下：必和必拓（BHP）2",
-      "brand_name": "CMOC",
-      "signal_score": 70,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "CMOC所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "00499c0f0eb6403f65f2968fbad86020",
-      "signal_title": "根据全球主要上市矿企披露的2025年最终数据，全球矿产铜最大的十家公司排名如下：必和必拓（BHP）2",
-      "brand_name": "CMOC",
-      "signal_score": 70,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "CMOC所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "00499c0f0eb6403f65f2968fbad86020",
-      "signal_title": "根据全球主要上市矿企披露的2025年最终数据，全球矿产铜最大的十家公司排名如下：必和必拓（BHP）2",
-      "brand_name": "CMOC",
-      "signal_score": 70,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "CMOC所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "00499c0f0eb6403f65f2968fbad86020",
-      "signal_title": "根据全球主要上市矿企披露的2025年最终数据，全球矿产铜最大的十家公司排名如下：必和必拓（BHP）2",
-      "brand_name": "CMOC",
-      "signal_score": 70,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "CMOC所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "767abde3a5b425784be7a2acf79f3803",
-      "signal_title": "Coinbase 于 6 月 8 日推出永续式股票指数期货（Perpetual-Style Equi",
-      "brand_name": "Coinbase",
-      "signal_score": 70,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Coinbase所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "767abde3a5b425784be7a2acf79f3803",
-      "signal_title": "Coinbase 于 6 月 8 日推出永续式股票指数期货（Perpetual-Style Equi",
-      "brand_name": "Coinbase",
-      "signal_score": 70,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Coinbase所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "767abde3a5b425784be7a2acf79f3803",
-      "signal_title": "Coinbase 于 6 月 8 日推出永续式股票指数期货（Perpetual-Style Equi",
-      "brand_name": "Coinbase",
-      "signal_score": 70,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Coinbase所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "767abde3a5b425784be7a2acf79f3803",
-      "signal_title": "Coinbase 于 6 月 8 日推出永续式股票指数期货（Perpetual-Style Equi",
-      "brand_name": "Coinbase",
-      "signal_score": 70,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Coinbase所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -3494,6 +3185,42 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "55d8b2bf2fb1b40c661db0b6600522e0",
@@ -3548,42 +3275,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
     },
     {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
@@ -4093,7 +3784,7 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -4111,7 +3802,79 @@
       "signal_id": "4cfbb14f6a3bf9b89af144eca69dfba4",
       "signal_title": "华泰联合证券有限责任公司关于深圳佰维存储科技股份有限公司拟与关联方共同投资暨关联交易的核查意见",
       "brand_name": "佰维存储",
-      "signal_score": 79,
+      "signal_score": 78,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "89959124e605d410735ee30f43f55ca9",
+      "signal_title": "000158常山北明投资者关系管理信息20260610",
+      "brand_name": "常山北明",
+      "signal_score": 76,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "89959124e605d410735ee30f43f55ca9",
+      "signal_title": "000158常山北明投资者关系管理信息20260610",
+      "brand_name": "常山北明",
+      "signal_score": 76,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 76,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
+      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
+      "brand_name": "风语筑",
+      "signal_score": 76,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -4129,7 +3892,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 78,
+      "signal_score": 75,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -4142,78 +3905,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 77,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "f11bb453b0453783cb5d503fba7fe088",
-      "signal_title": "上海风语筑文化科技股份有限公司关于新增对外投资暨累计对外投资的公告",
-      "brand_name": "风语筑",
-      "signal_score": 77,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "89959124e605d410735ee30f43f55ca9",
-      "signal_title": "000158常山北明投资者关系管理信息20260610",
-      "brand_name": "常山北明",
-      "signal_score": 76,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "89959124e605d410735ee30f43f55ca9",
-      "signal_title": "000158常山北明投资者关系管理信息20260610",
-      "brand_name": "常山北明",
-      "signal_score": 76,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "2eae0f0632d0e988ae2ae73c04049a64",
@@ -4453,42 +4144,6 @@
       "signal_id": "011e142b2e29820e69a7ea16adf348dc",
       "signal_title": "铁流股份投资者关系活动记录表",
       "brand_name": "铁流股份",
-      "signal_score": 70,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
-      "signal_score": 70,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "d0c92c75f615a967253e7267be1660b5",
-      "signal_title": "AMD企业副总裁兼客户端渠道业务总经理David McAfee在被问到是否会有更多产品采用UMA时，",
-      "brand_name": "AMD",
       "signal_score": 70,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
