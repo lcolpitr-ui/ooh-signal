@@ -21,6 +21,13 @@
     "recordedAt": "2026-06-11 10:39:15"
   },
   {
+    "id": 903,
+    "brandName": "AEON",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:36"
+  },
+  {
     "id": 656,
     "brandName": "AIVA",
     "score": 0,
@@ -1610,6 +1617,13 @@
     "recordedAt": "2026-06-10 05:33:10"
   },
   {
+    "id": 881,
+    "brandName": "世航智能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:46"
+  },
+  {
     "id": 373,
     "brandName": "东兴证券",
     "score": 0,
@@ -1799,6 +1813,13 @@
     "recordedAt": "2026-06-12 08:42:39"
   },
   {
+    "id": 890,
+    "brandName": "中国长城资产",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:57"
+  },
+  {
     "id": 102,
     "brandName": "中宏人寿",
     "score": 55,
@@ -1904,6 +1925,13 @@
     "recordedAt": "2026-06-05 08:03:30"
   },
   {
+    "id": 902,
+    "brandName": "丰e足食",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:14"
+  },
+  {
     "id": 708,
     "brandName": "丰元股份",
     "score": 0,
@@ -1979,6 +2007,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 00:18:37"
+  },
+  {
+    "id": 887,
+    "brandName": "五粮液",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:54"
   },
   {
     "id": 556,
@@ -2525,6 +2560,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:30"
+  },
+  {
+    "id": 895,
+    "brandName": "和铂医药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:03"
   },
   {
     "id": 635,
@@ -3171,6 +3213,13 @@
     "recordedAt": "2026-06-11 05:44:02"
   },
   {
+    "id": 888,
+    "brandName": "山推股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:55"
+  },
+  {
     "id": 621,
     "brandName": "屹通新材",
     "score": 0,
@@ -3486,6 +3535,13 @@
     "recordedAt": "2026-06-12 12:36:45"
   },
   {
+    "id": 884,
+    "brandName": "抖音",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:49"
+  },
+  {
     "id": 202,
     "brandName": "拉芳",
     "score": 50,
@@ -3570,6 +3626,13 @@
     "recordedAt": "2026-06-08 08:24:40"
   },
   {
+    "id": 897,
+    "brandName": "支付宝",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:07"
+  },
+  {
     "id": 576,
     "brandName": "新易盛",
     "score": 0,
@@ -3596,6 +3659,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:08:24"
+  },
+  {
+    "id": 886,
+    "brandName": "日清食品",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:53"
   },
   {
     "id": 33,
@@ -3715,6 +3785,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:17:49"
+  },
+  {
+    "id": 880,
+    "brandName": "智源研究院",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:45"
   },
   {
     "id": 132,
@@ -3897,6 +3974,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:14"
+  },
+  {
+    "id": 891,
+    "brandName": "极佳视界",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:58"
   },
   {
     "id": 603,
@@ -4137,6 +4221,13 @@
     "recordedAt": "2026-06-04 07:38:20"
   },
   {
+    "id": 882,
+    "brandName": "洛梵狄",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:47"
+  },
+  {
     "id": 67,
     "brandName": "洛阳钼业",
     "score": 50,
@@ -4186,6 +4277,13 @@
     "recordedAt": "2026-06-13 03:53:45"
   },
   {
+    "id": 883,
+    "brandName": "润建股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:48"
+  },
+  {
     "id": 476,
     "brandName": "淘宝",
     "score": 0,
@@ -4212,6 +4310,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 06:08:33"
+  },
+  {
+    "id": 898,
+    "brandName": "溜溜梅",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:10"
   },
   {
     "id": 415,
@@ -4270,6 +4375,13 @@
     "recordedAt": "2026-06-08 07:24:32"
   },
   {
+    "id": 901,
+    "brandName": "物界科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:13"
+  },
+  {
     "id": 250,
     "brandName": "特斯拉",
     "score": 50,
@@ -4282,6 +4394,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 08:24:43"
+  },
+  {
+    "id": 894,
+    "brandName": "独特艾琳",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:02"
   },
   {
     "id": 833,
@@ -4438,11 +4557,25 @@
     "recordedAt": "2026-06-12 12:36:36"
   },
   {
+    "id": 899,
+    "brandName": "科伦博泰",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:11"
+  },
+  {
     "id": 784,
     "brandName": "科大讯飞",
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 10:51:33"
+  },
+  {
+    "id": 889,
+    "brandName": "秩益科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:56"
   },
   {
     "id": 306,
@@ -4695,6 +4828,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:36"
+  },
+  {
+    "id": 896,
+    "brandName": "耐克",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:05"
   },
   {
     "id": 209,
@@ -5803,6 +5943,13 @@
     "recordedAt": "2026-06-14 06:05:23"
   },
   {
+    "id": 893,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:00"
+  },
+  {
     "id": 424,
     "brandName": "阿里云",
     "score": 0,
@@ -5901,6 +6048,13 @@
     "recordedAt": "2026-06-09 05:17:48"
   },
   {
+    "id": 892,
+    "brandName": "雪王",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:59"
+  },
+  {
     "id": 223,
     "brandName": "雷克萨斯",
     "score": 55,
@@ -5915,11 +6069,25 @@
     "recordedAt": "2026-06-11 14:53:46"
   },
   {
+    "id": 885,
+    "brandName": "雷诺",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:41:51"
+  },
+  {
     "id": 160,
     "brandName": "霍尼韦尔",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:43"
+  },
+  {
+    "id": 900,
+    "brandName": "霸王茶姬",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 06:42:12"
   },
   {
     "id": 57,
