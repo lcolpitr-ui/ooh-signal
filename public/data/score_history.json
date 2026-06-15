@@ -147,6 +147,13 @@
     "recordedAt": "2026-06-14 20:33:31"
   },
   {
+    "id": 871,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:24"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -819,6 +826,13 @@
     "recordedAt": "2026-06-14 09:50:51"
   },
   {
+    "id": 874,
+    "brandName": "SK海力士",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:27"
+  },
+  {
     "id": 643,
     "brandName": "ST洲际",
     "score": 0,
@@ -1344,6 +1358,13 @@
     "recordedAt": "2026-06-14 22:26:03"
   },
   {
+    "id": 870,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:23"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -1533,6 +1554,13 @@
     "recordedAt": "2026-06-09 06:54:28"
   },
   {
+    "id": 878,
+    "brandName": "三星",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:34"
+  },
+  {
     "id": 249,
     "brandName": "三星电子",
     "score": 50,
@@ -1638,6 +1666,13 @@
     "recordedAt": "2026-06-11 00:29:21"
   },
   {
+    "id": 872,
+    "brandName": "中信建投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:25"
+  },
+  {
     "id": 17,
     "brandName": "中信证券",
     "score": 55,
@@ -1713,6 +1748,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:36"
+  },
+  {
+    "id": 873,
+    "brandName": "中国生物制药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:26"
   },
   {
     "id": 141,
@@ -1958,6 +2000,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:17"
+  },
+  {
+    "id": 877,
+    "brandName": "交银施罗德基金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:30"
   },
   {
     "id": 270,
@@ -2280,6 +2329,20 @@
     "score": 33,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:32:50"
+  },
+  {
+    "id": 875,
+    "brandName": "华泰证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:28"
+  },
+  {
+    "id": 876,
+    "brandName": "华泰证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:29"
   },
   {
     "id": 458,
@@ -5234,6 +5297,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 12:15:23"
+  },
+  {
+    "id": 879,
+    "brandName": "蚂蚁集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 00:23:37"
   },
   {
     "id": 697,
