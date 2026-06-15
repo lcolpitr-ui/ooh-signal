@@ -159,7 +159,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 17,
+    "signalCount": 18,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -346,7 +346,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:32"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 68,
+    "signalCount": 70,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1182,7 +1182,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1435,7 +1435,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:34:36"
@@ -1754,7 +1754,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:06"
@@ -2040,7 +2040,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 07:38:27"
@@ -3129,7 +3129,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:05:57"
@@ -4020,7 +4020,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:02"
@@ -4702,7 +4702,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:03"
@@ -6473,7 +6473,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 06:42:07"
@@ -6543,5 +6543,93 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 06:42:36"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:30:53"
+  },
+  {
+    "id": "东百集团",
+    "name": "东百集团",
+    "industry": "零售",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:30:55"
+  },
+  {
+    "id": "儒意电影",
+    "name": "儒意电影",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:30:58"
+  },
+  {
+    "id": "蓝筹控股",
+    "name": "蓝筹控股",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:30:59"
+  },
+  {
+    "id": "爱迪特",
+    "name": "爱迪特",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:31:01"
+  },
+  {
+    "id": "拉普拉斯",
+    "name": "拉普拉斯",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:31:06"
+  },
+  {
+    "id": "可灵",
+    "name": "可灵",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:31:23"
+  },
+  {
+    "id": "东阳光",
+    "name": "东阳光",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 13:31:50"
   }
 ]
