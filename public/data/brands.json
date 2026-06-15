@@ -5956,7 +5956,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 03:53:48"
@@ -6473,7 +6473,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 06:42:07"
@@ -6631,5 +6631,27 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 13:31:50"
+  },
+  {
+    "id": "dji",
+    "name": "DJI",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 18:42:46"
+  },
+  {
+    "id": "西藏旅游",
+    "name": "西藏旅游",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-15 18:43:07"
   }
 ]

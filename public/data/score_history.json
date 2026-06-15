@@ -287,6 +287,13 @@
     "recordedAt": "2026-06-09 06:33:55"
   },
   {
+    "id": 926,
+    "brandName": "DJI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 18:42:46"
+  },
+  {
     "id": 92,
     "brandName": "DRWU达尔肤",
     "score": 50,
@@ -2884,6 +2891,13 @@
     "recordedAt": "2026-06-14 12:15:24"
   },
   {
+    "id": 924,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 18:42:42"
+  },
+  {
     "id": 360,
     "brandName": "天娱数科",
     "score": 0,
@@ -3736,6 +3750,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 13:31:08"
+  },
+  {
+    "id": 925,
+    "brandName": "支付宝",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 18:42:44"
   },
   {
     "id": 576,
@@ -5577,6 +5598,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 00:23:37"
+  },
+  {
+    "id": 927,
+    "brandName": "西藏旅游",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-15 18:43:07"
   },
   {
     "id": 697,
