@@ -336,6 +336,13 @@
     "recordedAt": "2026-06-16 16:12:55"
   },
   {
+    "id": 999,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 19:52:24"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
