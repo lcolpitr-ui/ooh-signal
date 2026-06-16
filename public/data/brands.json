@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 71,
+    "signalCount": 72,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1182,7 +1182,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -5835,7 +5835,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 16:35:32"
@@ -6187,7 +6187,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-14 06:05:03"
@@ -6686,5 +6686,16 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 22:01:08"
+  },
+  {
+    "id": "优步",
+    "name": "优步",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 00:04:07"
   }
 ]

@@ -1414,6 +1414,13 @@
     "recordedAt": "2026-06-15 22:01:07"
   },
   {
+    "id": 935,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 00:04:08"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -2233,6 +2240,13 @@
     "recordedAt": "2026-06-12 04:10:05"
   },
   {
+    "id": 934,
+    "brandName": "优步",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 00:04:07"
+  },
+  {
     "id": 929,
     "brandName": "伯灵顿百货",
     "score": 0,
@@ -2623,6 +2637,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 06:05:03"
+  },
+  {
+    "id": 936,
+    "brandName": "吉利",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 00:04:11"
   },
   {
     "id": 791,
@@ -4620,6 +4641,13 @@
     "recordedAt": "2026-06-12 16:35:32"
   },
   {
+    "id": 933,
+    "brandName": "理想汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 00:04:03"
+  },
+  {
     "id": 199,
     "brandName": "瑞幸",
     "score": 50,
@@ -5339,6 +5367,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 13:31:02"
+  },
+  {
+    "id": 932,
+    "brandName": "英伟达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 00:04:00"
   },
   {
     "id": 79,
