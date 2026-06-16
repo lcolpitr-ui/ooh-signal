@@ -770,6 +770,13 @@
     "recordedAt": "2026-06-08 07:25:39"
   },
   {
+    "id": 955,
+    "brandName": "RIMBACO GROUP GLOBAL LIMITED",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:46"
+  },
+  {
     "id": 129,
     "brandName": "ROY6",
     "score": 50,
@@ -915,6 +922,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 03:53:53"
+  },
+  {
+    "id": 950,
+    "brandName": "Space X",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:12"
   },
   {
     "id": 18,
@@ -1421,6 +1435,13 @@
     "recordedAt": "2026-06-16 00:04:08"
   },
   {
+    "id": 948,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:07"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -1554,11 +1575,25 @@
     "recordedAt": "2026-06-05 08:03:46"
   },
   {
+    "id": 942,
+    "brandName": "xAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:58"
+  },
+  {
     "id": 660,
     "brandName": "万丰奥威",
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 14:54:14"
+  },
+  {
+    "id": 952,
+    "brandName": "万丰奥威",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:16"
   },
   {
     "id": 709,
@@ -1953,6 +1988,13 @@
     "recordedAt": "2026-06-09 05:18:04"
   },
   {
+    "id": 943,
+    "brandName": "中芯国际",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:59"
+  },
+  {
     "id": 28,
     "brandName": "中谷物流",
     "score": 50,
@@ -2280,6 +2322,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 07:25:25"
+  },
+  {
+    "id": 954,
+    "brandName": "光启技术",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:43"
   },
   {
     "id": 455,
@@ -2947,6 +2996,13 @@
     "recordedAt": "2026-06-15 18:42:42"
   },
   {
+    "id": 945,
+    "brandName": "大疆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:02"
+  },
+  {
     "id": 360,
     "brandName": "天娱数科",
     "score": 0,
@@ -3358,6 +3414,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 05:44:02"
+  },
+  {
+    "id": 937,
+    "brandName": "山姆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:48"
   },
   {
     "id": 888,
@@ -3773,6 +3836,13 @@
     "recordedAt": "2026-06-04 08:47:57"
   },
   {
+    "id": 951,
+    "brandName": "摩尔线程",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:13"
+  },
+  {
     "id": 86,
     "brandName": "摩根士丹利",
     "score": 55,
@@ -3806,6 +3876,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 18:42:44"
+  },
+  {
+    "id": 947,
+    "brandName": "支付宝",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:06"
+  },
+  {
+    "id": 953,
+    "brandName": "支付宝",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:18"
   },
   {
     "id": 576,
@@ -4529,6 +4613,13 @@
     "recordedAt": "2026-06-12 08:42:30"
   },
   {
+    "id": 946,
+    "brandName": "燧原",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:03"
+  },
+  {
     "id": 123,
     "brandName": "爱宝乐园",
     "score": 50,
@@ -4723,6 +4814,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 13:55:53"
+  },
+  {
+    "id": 939,
+    "brandName": "硅基流动",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:53"
   },
   {
     "id": 347,
@@ -5003,6 +5101,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 12:53:10"
+  },
+  {
+    "id": 944,
+    "brandName": "美纳里尼",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:01"
   },
   {
     "id": 434,
@@ -5558,6 +5663,13 @@
     "recordedAt": "2026-06-11 05:44:11"
   },
   {
+    "id": 940,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:54"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
@@ -5703,6 +5815,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 08:01:33"
+  },
+  {
+    "id": 941,
+    "brandName": "诺德股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:55"
   },
   {
     "id": 1,
@@ -6018,6 +6137,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 13:31:21"
+  },
+  {
+    "id": 949,
+    "brandName": "钛媒体",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:19:08"
   },
   {
     "id": 338,
@@ -6508,6 +6634,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 12:53:01"
+  },
+  {
+    "id": 938,
+    "brandName": "麦格米特",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 04:18:50"
   },
   {
     "id": 226,
