@@ -280,7 +280,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:36"
@@ -346,7 +346,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:32"
@@ -478,7 +478,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 73,
+    "signalCount": 74,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -643,7 +643,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:06"
@@ -1633,7 +1633,7 @@
     "industry": "餐饮",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-08 08:24:36"
@@ -1681,6 +1681,17 @@
     "latestScore": 51,
     "website": null,
     "createdAt": "2026-06-12 21:55:32"
+  },
+  {
+    "id": "番禺信投",
+    "name": "番禺信投",
+    "industry": "地产",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 51,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:14"
   },
   {
     "id": "柠季",
@@ -3558,7 +3569,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 5,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:57"
@@ -4581,7 +4592,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:15"
@@ -6473,7 +6484,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 06:42:07"
@@ -6928,5 +6939,104 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-16 10:23:44"
+  },
+  {
+    "id": "鸿蒙智行",
+    "name": "鸿蒙智行",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:26"
+  },
+  {
+    "id": "中粮科技",
+    "name": "中粮科技",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:32"
+  },
+  {
+    "id": "尤洛卡",
+    "name": "尤洛卡",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:34"
+  },
+  {
+    "id": "赛特新材",
+    "name": "赛特新材",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:35"
+  },
+  {
+    "id": "辉丰股份",
+    "name": "辉丰股份",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:37"
+  },
+  {
+    "id": "robinhood",
+    "name": "Robinhood",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:39"
+  },
+  {
+    "id": "anysearch",
+    "name": "AnySearch",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:12:43"
+  },
+  {
+    "id": "龙芯中科",
+    "name": "龙芯中科",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:13:25"
+  },
+  {
+    "id": "富国基金",
+    "name": "富国基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-16 16:13:28"
   }
 ]
