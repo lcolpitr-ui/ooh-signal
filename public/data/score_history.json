@@ -161,6 +161,20 @@
     "recordedAt": "2026-06-15 00:23:24"
   },
   {
+    "id": 968,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:27"
+  },
+  {
+    "id": 973,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:33"
+  },
+  {
     "id": 150,
     "brandName": "Arm",
     "score": 55,
@@ -574,6 +588,13 @@
     "recordedAt": "2026-06-04 06:01:06"
   },
   {
+    "id": 969,
+    "brandName": "Meta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:28"
+  },
+  {
     "id": 684,
     "brandName": "MiniMax",
     "score": 0,
@@ -670,6 +691,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:53"
+  },
+  {
+    "id": 957,
+    "brandName": "OBSBOT寻影",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:12"
   },
   {
     "id": 838,
@@ -908,6 +936,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:31"
+  },
+  {
+    "id": 979,
+    "brandName": "Shopee",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:44"
   },
   {
     "id": 829,
@@ -2289,6 +2324,13 @@
     "recordedAt": "2026-06-16 00:04:07"
   },
   {
+    "id": 959,
+    "brandName": "优矩控股",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:15"
+  },
+  {
     "id": 929,
     "brandName": "伯灵顿百货",
     "score": 0,
@@ -2765,6 +2807,13 @@
     "recordedAt": "2026-06-13 08:03:58"
   },
   {
+    "id": 965,
+    "brandName": "哈啰出行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:21"
+  },
+  {
     "id": 30,
     "brandName": "哈根达斯",
     "score": 50,
@@ -2954,6 +3003,13 @@
     "recordedAt": "2026-06-12 04:10:16"
   },
   {
+    "id": 956,
+    "brandName": "大晓机器人",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:11"
+  },
+  {
     "id": 752,
     "brandName": "大疆",
     "score": 0,
@@ -3059,6 +3115,13 @@
     "recordedAt": "2026-06-13 03:54:02"
   },
   {
+    "id": 960,
+    "brandName": "奥德集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:16"
+  },
+  {
     "id": 349,
     "brandName": "奥比中光",
     "score": 0,
@@ -3150,6 +3213,13 @@
     "recordedAt": "2026-06-12 08:42:41"
   },
   {
+    "id": 961,
+    "brandName": "学大教育",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:17"
+  },
+  {
     "id": 425,
     "brandName": "孩子王",
     "score": 0,
@@ -3211,6 +3281,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:58"
+  },
+  {
+    "id": 971,
+    "brandName": "宇树科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:30"
   },
   {
     "id": 267,
@@ -3374,6 +3451,13 @@
     "recordedAt": "2026-06-05 02:39:15"
   },
   {
+    "id": 974,
+    "brandName": "小鹏",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:35"
+  },
+  {
     "id": 149,
     "brandName": "小鹏集团",
     "score": 55,
@@ -3421,6 +3505,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 04:18:48"
+  },
+  {
+    "id": 963,
+    "brandName": "山姆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:19"
+  },
+  {
+    "id": 970,
+    "brandName": "山姆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:29"
   },
   {
     "id": 888,
@@ -4557,6 +4655,13 @@
     "recordedAt": "2026-06-10 05:33:17"
   },
   {
+    "id": 978,
+    "brandName": "清科控股",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:43"
+  },
+  {
     "id": 645,
     "brandName": "港交所",
     "score": 51,
@@ -4760,6 +4865,13 @@
     "recordedAt": "2026-06-04 23:07:01"
   },
   {
+    "id": 958,
+    "brandName": "百合花",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:13"
+  },
+  {
     "id": 397,
     "brandName": "百奥几何",
     "score": 0,
@@ -4802,6 +4914,13 @@
     "recordedAt": "2026-06-05 03:41:09"
   },
   {
+    "id": 964,
+    "brandName": "皇台酒业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:20"
+  },
+  {
     "id": 706,
     "brandName": "真健康",
     "score": 0,
@@ -4821,6 +4940,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 04:18:53"
+  },
+  {
+    "id": 972,
+    "brandName": "硅基流动",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:32"
   },
   {
     "id": 347,
@@ -5684,6 +5810,13 @@
     "recordedAt": "2026-06-04 06:01:20"
   },
   {
+    "id": 962,
+    "brandName": "茶颜悦色",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:18"
+  },
+  {
     "id": 746,
     "brandName": "荣盛石化",
     "score": 0,
@@ -5752,6 +5885,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:17:58"
+  },
+  {
+    "id": 977,
+    "brandName": "蔚来",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:39"
   },
   {
     "id": 222,
@@ -5992,6 +6132,13 @@
     "recordedAt": "2026-06-09 05:18:30"
   },
   {
+    "id": 967,
+    "brandName": "达美航空",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:23"
+  },
+  {
     "id": 119,
     "brandName": "迈威尔",
     "score": 50,
@@ -6153,6 +6300,13 @@
     "recordedAt": "2026-06-08 09:19:59"
   },
   {
+    "id": 976,
+    "brandName": "铜箔大王",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:38"
+  },
+  {
     "id": 649,
     "brandName": "银河微电",
     "score": 0,
@@ -6207,6 +6361,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:31"
+  },
+  {
+    "id": 966,
+    "brandName": "长裕集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:22"
   },
   {
     "id": 705,
@@ -6494,6 +6655,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:32"
+  },
+  {
+    "id": 975,
+    "brandName": "高德",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 10:23:37"
   },
   {
     "id": 25,
