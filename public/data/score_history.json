@@ -343,6 +343,13 @@
     "recordedAt": "2026-06-16 19:52:24"
   },
   {
+    "id": 1002,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 22:27:56"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
@@ -621,6 +628,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 16:12:53"
+  },
+  {
+    "id": 1001,
+    "brandName": "Meta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 22:27:55"
   },
   {
     "id": 684,
@@ -1517,6 +1531,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 16:12:51"
+  },
+  {
+    "id": 1000,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-16 22:27:54"
   },
   {
     "id": 277,
