@@ -643,7 +643,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:06"
@@ -1633,7 +1633,7 @@
     "industry": "餐饮",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-08 08:24:36"
@@ -4988,7 +4988,7 @@
     "industry": "医疗",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 13:55:49"
@@ -7357,5 +7357,148 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 12:07:24"
+  },
+  {
+    "id": "菜鸟",
+    "name": "菜鸟",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:04"
+  },
+  {
+    "id": "一汽夏利",
+    "name": "一汽夏利",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:06"
+  },
+  {
+    "id": "网易",
+    "name": "网易",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:08"
+  },
+  {
+    "id": "尼吉康",
+    "name": "尼吉康",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:11"
+  },
+  {
+    "id": "赛隆药业",
+    "name": "赛隆药业",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:12"
+  },
+  {
+    "id": "npfg",
+    "name": "NPFG",
+    "industry": "宠物",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:13"
+  },
+  {
+    "id": "韵达股份",
+    "name": "韵达股份",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:14"
+  },
+  {
+    "id": "芝加哥商品交易所集团",
+    "name": "芝加哥商品交易所集团",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:17"
+  },
+  {
+    "id": "天山生物",
+    "name": "天山生物",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:18"
+  },
+  {
+    "id": "金富科技",
+    "name": "金富科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:20"
+  },
+  {
+    "id": "huawei",
+    "name": "Huawei",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:22"
+  },
+  {
+    "id": "华安基金",
+    "name": "华安基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:50"
+  },
+  {
+    "id": "九华旅游",
+    "name": "九华旅游",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 15:45:51"
   }
 ]

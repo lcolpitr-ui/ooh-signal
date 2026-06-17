@@ -448,6 +448,13 @@
     "recordedAt": "2026-06-04 04:35:51"
   },
   {
+    "id": 1068,
+    "brandName": "Huawei",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:22"
+  },
+  {
     "id": 118,
     "brandName": "Häagen-Dazs",
     "score": 50,
@@ -651,6 +658,13 @@
     "recordedAt": "2026-06-16 22:27:55"
   },
   {
+    "id": 1059,
+    "brandName": "Meta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:10"
+  },
+  {
     "id": 684,
     "brandName": "MiniMax",
     "score": 0,
@@ -719,6 +733,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 03:40:57"
+  },
+  {
+    "id": 1062,
+    "brandName": "NPFG",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:13"
   },
   {
     "id": 383,
@@ -1750,6 +1771,13 @@
     "recordedAt": "2026-06-17 06:29:14"
   },
   {
+    "id": 1057,
+    "brandName": "一汽夏利",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:06"
+  },
+  {
     "id": 660,
     "brandName": "万丰奥威",
     "score": 0,
@@ -2317,6 +2345,13 @@
     "recordedAt": "2026-06-04 06:22:47"
   },
   {
+    "id": 1071,
+    "brandName": "九华旅游",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:51"
+  },
+  {
     "id": 1020,
     "brandName": "九识智能",
     "score": 0,
@@ -2770,6 +2805,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:42:02"
+  },
+  {
+    "id": 1070,
+    "brandName": "华安基金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:50"
   },
   {
     "id": 524,
@@ -3297,6 +3339,13 @@
     "recordedAt": "2026-06-08 15:03:05"
   },
   {
+    "id": 1065,
+    "brandName": "天山生物",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:18"
+  },
+  {
     "id": 471,
     "brandName": "天康生物",
     "score": 0,
@@ -3766,6 +3815,13 @@
     "recordedAt": "2026-06-14 06:05:11"
   },
   {
+    "id": 1060,
+    "brandName": "尼吉康",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:11"
+  },
+  {
     "id": 190,
     "brandName": "屁屁侦探",
     "score": 50,
@@ -4093,6 +4149,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 16:12:42"
+  },
+  {
+    "id": 1069,
+    "brandName": "必胜客",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:23"
   },
   {
     "id": 1051,
@@ -4450,6 +4513,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 13:55:49"
+  },
+  {
+    "id": 1066,
+    "brandName": "景峰医药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:19"
   },
   {
     "id": 330,
@@ -5544,6 +5614,13 @@
     "recordedAt": "2026-06-09 09:58:31"
   },
   {
+    "id": 1058,
+    "brandName": "网易",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:08"
+  },
+  {
     "id": 268,
     "brandName": "网易有道",
     "score": 55,
@@ -5906,6 +5983,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:18:12"
+  },
+  {
+    "id": 1064,
+    "brandName": "芝加哥商品交易所集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:17"
   },
   {
     "id": 256,
@@ -6286,6 +6370,13 @@
     "recordedAt": "2026-06-11 10:39:30"
   },
   {
+    "id": 1056,
+    "brandName": "菜鸟",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:04"
+  },
+  {
     "id": 109,
     "brandName": "葵花药业",
     "score": 55,
@@ -6587,6 +6678,13 @@
     "recordedAt": "2026-06-09 12:53:06"
   },
   {
+    "id": 1061,
+    "brandName": "赛隆药业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:12"
+  },
+  {
     "id": 366,
     "brandName": "赣锋锂业",
     "score": 0,
@@ -6704,6 +6802,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 15:03:06"
+  },
+  {
+    "id": 1067,
+    "brandName": "金富科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:20"
   },
   {
     "id": 245,
@@ -7138,6 +7243,13 @@
     "score": 51,
     "signalCount": 1,
     "recordedAt": "2026-06-12 21:55:32"
+  },
+  {
+    "id": 1063,
+    "brandName": "韵达股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 15:45:14"
   },
   {
     "id": 731,
