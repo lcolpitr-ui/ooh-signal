@@ -1561,6 +1561,13 @@
     "recordedAt": "2026-06-17 00:33:31"
   },
   {
+    "id": 1015,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:06"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -1573,6 +1580,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:32:53"
+  },
+  {
+    "id": 1017,
+    "brandName": "TCL科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:08"
   },
   {
     "id": 221,
@@ -1701,6 +1715,13 @@
     "recordedAt": "2026-06-16 04:18:58"
   },
   {
+    "id": 1021,
+    "brandName": "xAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:14"
+  },
+  {
     "id": 660,
     "brandName": "万丰奥威",
     "score": 0,
@@ -1755,6 +1776,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:39"
+  },
+  {
+    "id": 1032,
+    "brandName": "三安光电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:38"
   },
   {
     "id": 343,
@@ -1839,6 +1867,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:41:46"
+  },
+  {
+    "id": 1026,
+    "brandName": "世茂",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:25"
   },
   {
     "id": 373,
@@ -2086,6 +2121,13 @@
     "recordedAt": "2026-06-04 04:36:51"
   },
   {
+    "id": 1022,
+    "brandName": "中油工程",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:16"
+  },
+  {
     "id": 340,
     "brandName": "中百集团",
     "score": 0,
@@ -2224,6 +2266,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:22:47"
+  },
+  {
+    "id": 1020,
+    "brandName": "九识智能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:12"
   },
   {
     "id": 492,
@@ -3178,6 +3227,13 @@
     "recordedAt": "2026-06-04 18:48:28"
   },
   {
+    "id": 1013,
+    "brandName": "太微量子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:04"
+  },
+  {
     "id": 324,
     "brandName": "太阳能",
     "score": 70,
@@ -3311,6 +3367,13 @@
     "recordedAt": "2026-06-12 08:42:41"
   },
   {
+    "id": 1025,
+    "brandName": "字节跳动",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:24"
+  },
+  {
     "id": 961,
     "brandName": "学大教育",
     "score": 0,
@@ -3407,6 +3470,13 @@
     "score": 70,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:35"
+  },
+  {
+    "id": 1024,
+    "brandName": "安踏",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:19"
   },
   {
     "id": 462,
@@ -3647,6 +3717,13 @@
     "recordedAt": "2026-06-16 10:23:29"
   },
   {
+    "id": 1016,
+    "brandName": "山姆会员商店",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:07"
+  },
+  {
     "id": 888,
     "brandName": "山推股份",
     "score": 0,
@@ -3848,6 +3925,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 13:56:06"
+  },
+  {
+    "id": 1018,
+    "brandName": "微信支付",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:09"
   },
   {
     "id": 20,
@@ -4130,6 +4214,13 @@
     "recordedAt": "2026-06-16 16:12:54"
   },
   {
+    "id": 1029,
+    "brandName": "支付宝",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:29"
+  },
+  {
     "id": 576,
     "brandName": "新易盛",
     "score": 0,
@@ -4254,6 +4345,13 @@
     "score": 70,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:39"
+  },
+  {
+    "id": 1023,
+    "brandName": "景顺长城",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:17"
   },
   {
     "id": 618,
@@ -4823,6 +4921,13 @@
     "recordedAt": "2026-06-15 06:42:10"
   },
   {
+    "id": 1027,
+    "brandName": "溜溜梅",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:26"
+  },
+  {
     "id": 415,
     "brandName": "滴滴",
     "score": 0,
@@ -4905,6 +5010,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 08:03:36"
+  },
+  {
+    "id": 1030,
+    "brandName": "特斯拉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:30"
   },
   {
     "id": 296,
@@ -6111,6 +6223,13 @@
     "recordedAt": "2026-06-08 11:05:58"
   },
   {
+    "id": 1019,
+    "brandName": "觅蜂科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:11"
+  },
+  {
     "id": 410,
     "brandName": "诺和诺德",
     "score": 0,
@@ -6375,6 +6494,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:21"
+  },
+  {
+    "id": 1012,
+    "brandName": "追觅",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:25:00"
+  },
+  {
+    "id": 1014,
+    "brandName": "逆矩阵科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:05"
   },
   {
     "id": 290,
@@ -6678,6 +6811,13 @@
     "recordedAt": "2026-06-15 06:42:00"
   },
   {
+    "id": 1028,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:27"
+  },
+  {
     "id": 424,
     "brandName": "阿里云",
     "score": 0,
@@ -6858,6 +6998,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 06:34:35"
+  },
+  {
+    "id": 1031,
+    "brandName": "马斯克",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 06:29:32"
   },
   {
     "id": 714,
