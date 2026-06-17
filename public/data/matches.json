@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T15:46:30.954131+00:00",
-  "total_matches": 195,
+  "generated_at": "2026-06-17T18:35:28.484112+00:00",
+  "total_matches": 190,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -98,29 +98,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
       "signal_id": "f705623cdddd19f660e1bf7c4be9efef",
       "signal_title": "关于华安国证机器人产业交易型开放式指数证券投资基金上市交易提示性公告",
       "brand_name": "华安基金",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -421,6 +402,25 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
       "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
       "brand_name": "华为",
@@ -516,6 +516,63 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
+      "signal_score": 90,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
+      "signal_score": 90,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
+      "signal_score": 90,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
@@ -573,44 +630,6 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
@@ -628,25 +647,6 @@
       "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
     },
     {
       "signal_id": "47dec4be67463d480f8e1abfba4539e7",
@@ -934,10 +934,29 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1234,82 +1253,10 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "f705623cdddd19f660e1bf7c4be9efef",
       "signal_title": "关于华安国证机器人产业交易型开放式指数证券投资基金上市交易提示性公告",
       "brand_name": "华安基金",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -1630,6 +1577,78 @@
       "daily_traffic": 80000
     },
     {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
       "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
       "brand_name": "华为",
@@ -1684,6 +1703,42 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
+      "signal_score": 90,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
+      "signal_score": 90,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
@@ -1720,60 +1775,6 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
@@ -1790,42 +1791,6 @@
       "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与机场广告受众契合；机场广告适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 300000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
     },
     {
       "signal_id": "47dec4be67463d480f8e1abfba4539e7",
@@ -2116,10 +2081,46 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2137,7 +2138,7 @@
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2458,42 +2459,6 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "东阳光所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "东阳光所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "47dec4be67463d480f8e1abfba4539e7",
       "signal_title": "茶颜悦色官宣合肥开店了，预计8月首家，虽然评论区都是不屑一顾，但估计开业前几个月都是天天排队，我感觉",
       "brand_name": "茶颜悦色",
@@ -2548,10 +2513,46 @@
       "daily_traffic": 250000
     },
     {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "东阳光所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "东阳光所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2569,7 +2570,7 @@
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2728,42 +2729,6 @@
       "daily_traffic": 200000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "55d8b2bf2fb1b40c661db0b6600522e0",
       "signal_title": "#拉芳全球品牌代言人鞠婧祎# 支持全球代言人👍🏻",
       "brand_name": "拉芳",
@@ -2818,6 +2783,42 @@
       "daily_traffic": 200000
     },
     {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
       "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
       "brand_name": "华为",
@@ -2852,132 +2853,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 88,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 86,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "47dec4be67463d480f8e1abfba4539e7",
@@ -3322,10 +3197,46 @@
       "daily_traffic": 80000
     },
     {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
+      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
+      "brand_name": "东阳光",
+      "signal_score": 85,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3343,7 +3254,7 @@
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 77,
+      "signal_score": 76,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
