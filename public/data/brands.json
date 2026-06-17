@@ -22,6 +22,17 @@
     "createdAt": "2026-06-08 09:19:55"
   },
   {
+    "id": "富国基金",
+    "name": "富国基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 80,
+    "website": null,
+    "createdAt": "2026-06-16 16:13:28"
+  },
+  {
     "id": "富祥股份",
     "name": "富祥股份",
     "industry": "医疗",
@@ -7029,17 +7040,6 @@
     "createdAt": "2026-06-16 16:13:25"
   },
   {
-    "id": "富国基金",
-    "name": "富国基金",
-    "industry": "金融",
-    "scale": "large",
-    "isListed": 1,
-    "signalCount": 1,
-    "latestScore": 0,
-    "website": null,
-    "createdAt": "2026-06-16 16:13:28"
-  },
-  {
     "id": "宏明电子",
     "name": "宏明电子",
     "industry": "3C",
@@ -7500,5 +7500,16 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 15:45:51"
+  },
+  {
+    "id": "pizza-hut",
+    "name": "Pizza Hut",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 21:22:46"
   }
 ]

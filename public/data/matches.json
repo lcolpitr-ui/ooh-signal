@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T18:35:28.484112+00:00",
-  "total_matches": 190,
+  "generated_at": "2026-06-17T21:23:56.404361+00:00",
+  "total_matches": 203,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -56,6 +56,63 @@
         "预算匹配"
       ],
       "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -227,63 +284,6 @@
         "预算匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -576,11 +576,11 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
+      "signal_score": 89,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "北京",
+      "resource_location": "深圳",
       "match_score": 90,
       "reasons": [
         "行业匹配",
@@ -588,52 +588,52 @@
         "预算匹配"
       ],
       "reason_text": "龙芯中科所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "e27fe5576fa2af386b69af012ae4a086",
-      "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
-      "brand_name": "龙芯中科",
-      "signal_score": 90,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "龙芯中科所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
     },
     {
       "signal_id": "78d169e157f0e9d13cb16d75915821ac",
       "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
       "brand_name": "富国基金",
-      "signal_score": 90,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
+      "signal_score": 89,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
       "match_score": 90,
       "reasons": [
         "行业匹配",
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "富国基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
+      "reason_text": "富国基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "cb498e8db2e4a1567ed893c62d063952",
+      "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -953,29 +953,10 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 76,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -994,7 +975,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -1013,7 +994,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -1032,7 +1013,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -1046,6 +1027,25 @@
       "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
+    },
+    {
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 76,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
     },
     {
       "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
@@ -1165,7 +1165,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1213,6 +1213,42 @@
         "媒体类型匹配"
       ],
       "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 95,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 95,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1411,42 +1447,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1742,43 +1742,79 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 90,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
+      "signal_score": 89,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "深圳",
+      "resource_location": "北京",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
       "reason_text": "龙芯中科所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
+      "recommended_budget": "high",
+      "daily_traffic": 150000
     },
     {
-      "signal_id": "78d169e157f0e9d13cb16d75915821ac",
-      "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
-      "brand_name": "富国基金",
-      "signal_score": 90,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
+      "signal_id": "e27fe5576fa2af386b69af012ae4a086",
+      "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
+      "brand_name": "龙芯中科",
+      "signal_score": 89,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "富国基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
+      "reason_text": "龙芯中科所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "78d169e157f0e9d13cb16d75915821ac",
+      "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "富国基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "cb498e8db2e4a1567ed893c62d063952",
+      "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "富国基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
     },
     {
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2117,46 +2153,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 76,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 76,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2174,7 +2174,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -2192,7 +2192,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2210,7 +2210,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2228,7 +2228,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2241,6 +2241,42 @@
       "reason_text": "元节智能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
       "recommended_budget": "low",
       "daily_traffic": 8000
+    },
+    {
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 76,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 76,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
@@ -2336,7 +2372,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2354,7 +2390,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2387,10 +2423,190 @@
       "daily_traffic": 300000
     },
     {
+      "signal_id": "e27fe5576fa2af386b69af012ae4a086",
+      "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
+      "brand_name": "龙芯中科",
+      "signal_score": 89,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "龙芯中科所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "e27fe5576fa2af386b69af012ae4a086",
+      "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
+      "brand_name": "龙芯中科",
+      "signal_score": 89,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "龙芯中科所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "78d169e157f0e9d13cb16d75915821ac",
+      "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "78d169e157f0e9d13cb16d75915821ac",
+      "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "78d169e157f0e9d13cb16d75915821ac",
+      "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "78d169e157f0e9d13cb16d75915821ac",
+      "signal_title": "富国恒生生物科技交易型开放式指数证券投资基金招募说明书（更新）（2026年第1号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "cb498e8db2e4a1567ed893c62d063952",
+      "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "cb498e8db2e4a1567ed893c62d063952",
+      "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "cb498e8db2e4a1567ed893c62d063952",
+      "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "cb498e8db2e4a1567ed893c62d063952",
+      "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
+      "brand_name": "富国基金",
+      "signal_score": 89,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "富国基金所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -2408,7 +2624,7 @@
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -2426,7 +2642,7 @@
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2444,7 +2660,7 @@
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2549,6 +2765,42 @@
       "daily_traffic": 60000
     },
     {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_012",
+      "resource_name": "北京公交车身广告",
+      "resource_type": "公交广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与公交广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 100000
+    },
+    {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
@@ -2583,42 +2835,6 @@
       "reason_text": "精研科技所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_012",
-      "resource_name": "北京公交车身广告",
-      "resource_type": "公交广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与公交广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 100000
     },
     {
       "signal_id": "3940dcba6f7d566d54c18fdab176f8e4",
@@ -2678,7 +2894,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2696,7 +2912,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2840,19 +3056,37 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 90,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
+      "signal_score": 89,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "上海",
+      "resource_location": "成都",
       "match_score": 50,
       "reasons": [
         "媒体类型匹配",
         "预算匹配"
       ],
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "e27fe5576fa2af386b69af012ae4a086",
+      "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
+      "brand_name": "龙芯中科",
+      "signal_score": 89,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "47dec4be67463d480f8e1abfba4539e7",
@@ -3233,6 +3467,24 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
@@ -3267,24 +3519,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
     },
     {
       "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
@@ -3452,7 +3686,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3470,7 +3704,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",

@@ -875,6 +875,13 @@
     "recordedAt": "2026-06-04 04:35:40"
   },
   {
+    "id": 1073,
+    "brandName": "Pizza Hut",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 21:22:46"
+  },
+  {
     "id": 723,
     "brandName": "Prometheus",
     "score": 0,
@@ -3666,6 +3673,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 16:13:28"
+  },
+  {
+    "id": 1074,
+    "brandName": "富国基金",
+    "score": 80,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 21:23:12"
   },
   {
     "id": 299,
