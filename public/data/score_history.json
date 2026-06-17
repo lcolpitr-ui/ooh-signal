@@ -175,6 +175,13 @@
     "recordedAt": "2026-06-16 10:23:33"
   },
   {
+    "id": 1010,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:30"
+  },
+  {
     "id": 991,
     "brandName": "AnySearch",
     "score": 0,
@@ -803,6 +810,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 06:05:05"
+  },
+  {
+    "id": 1004,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:20"
   },
   {
     "id": 189,
@@ -1538,6 +1552,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 22:27:54"
+  },
+  {
+    "id": 1011,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:31"
   },
   {
     "id": 277,
@@ -2653,6 +2674,13 @@
     "recordedAt": "2026-06-15 00:23:29"
   },
   {
+    "id": 1003,
+    "brandName": "华泰证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:19"
+  },
+  {
     "id": 458,
     "brandName": "华硕",
     "score": 0,
@@ -3386,6 +3414,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:08"
+  },
+  {
+    "id": 1005,
+    "brandName": "宏明电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:21"
   },
   {
     "id": 675,
@@ -5579,6 +5614,13 @@
     "recordedAt": "2026-06-05 08:03:23"
   },
   {
+    "id": 1007,
+    "brandName": "腾讯控股",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:24"
+  },
+  {
     "id": 269,
     "brandName": "腾讯游戏安全",
     "score": 55,
@@ -6090,6 +6132,13 @@
     "recordedAt": "2026-06-09 08:01:33"
   },
   {
+    "id": 1006,
+    "brandName": "诺基亚",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:23"
+  },
+  {
     "id": 941,
     "brandName": "诺德股份",
     "score": 0,
@@ -6195,6 +6244,13 @@
     "recordedAt": "2026-06-11 23:36:18"
   },
   {
+    "id": 1009,
+    "brandName": "贝莱德",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:28"
+  },
+  {
     "id": 648,
     "brandName": "贵州茅台",
     "score": 0,
@@ -6270,6 +6326,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 05:18:30"
+  },
+  {
+    "id": 1008,
+    "brandName": "软银",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-17 00:33:26"
   },
   {
     "id": 987,
