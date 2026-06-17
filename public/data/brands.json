@@ -335,7 +335,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 06:21:34"
@@ -2689,7 +2689,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:24:53"
@@ -7511,5 +7511,82 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 21:22:46"
+  },
+  {
+    "id": "芝商所",
+    "name": "芝商所",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:20"
+  },
+  {
+    "id": "社保基金",
+    "name": "社保基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:21"
+  },
+  {
+    "id": "荷兰国际集团",
+    "name": "荷兰国际集团",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:22"
+  },
+  {
+    "id": "汇丰",
+    "name": "汇丰",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:25"
+  },
+  {
+    "id": "玛莎拉蒂",
+    "name": "玛莎拉蒂",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:27"
+  },
+  {
+    "id": "巴奴",
+    "name": "巴奴",
+    "industry": "餐饮",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:28"
+  },
+  {
+    "id": "荣尊国际控股集团有限公司",
+    "name": "荣尊国际控股集团有限公司",
+    "industry": "金融",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-17 23:40:54"
   }
 ]
