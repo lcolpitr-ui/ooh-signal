@@ -33,6 +33,17 @@
     "createdAt": "2026-06-16 16:13:28"
   },
   {
+    "id": "建滔投资",
+    "name": "建滔投资",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 78,
+    "website": null,
+    "createdAt": "2026-06-18 22:31:15"
+  },
+  {
     "id": "富祥股份",
     "name": "富祥股份",
     "industry": "医疗",
