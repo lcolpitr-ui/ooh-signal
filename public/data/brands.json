@@ -489,7 +489,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 79,
+    "signalCount": 81,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1006,7 +1006,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 10:54:02"
@@ -1413,7 +1413,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:08:31"
@@ -1710,7 +1710,7 @@
     "industry": "餐饮",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:16"
@@ -1732,7 +1732,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -2392,7 +2392,7 @@
     "industry": "美妆",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 02:39:33"
@@ -2678,7 +2678,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:24:51"
@@ -2788,7 +2788,7 @@
     "industry": "家电",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:25:32"
@@ -4779,7 +4779,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:14"
@@ -7089,7 +7089,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 06:29:05"
@@ -7863,5 +7863,126 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 09:05:37"
+  },
+  {
+    "id": "博瑞医药",
+    "name": "博瑞医药",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:12"
+  },
+  {
+    "id": "德方纳米",
+    "name": "德方纳米",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:14"
+  },
+  {
+    "id": "沪硅产业",
+    "name": "沪硅产业",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:15"
+  },
+  {
+    "id": "澜起科技",
+    "name": "澜起科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:16"
+  },
+  {
+    "id": "lg化学",
+    "name": "LG化学",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:18"
+  },
+  {
+    "id": "赢合科技",
+    "name": "赢合科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:28"
+  },
+  {
+    "id": "常山药业",
+    "name": "常山药业",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:31"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:32"
+  },
+  {
+    "id": "古瑞瓦特",
+    "name": "古瑞瓦特",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:41"
+  },
+  {
+    "id": "sofi",
+    "name": "SoFi",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:45:44"
+  },
+  {
+    "id": "四川成渝",
+    "name": "四川成渝",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 12:46:16"
   }
 ]

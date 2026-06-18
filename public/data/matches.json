@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:06:22.658923+00:00",
+  "generated_at": "2026-06-18T12:46:58.821162+00:00",
   "total_matches": 225,
   "matches": [
     {
@@ -98,10 +98,29 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 95,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "四川成渝所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -120,7 +139,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -139,7 +158,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -158,7 +177,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -481,7 +500,7 @@
       "signal_id": "f705623cdddd19f660e1bf7c4be9efef",
       "signal_title": "关于华安国证机器人产业交易型开放式指数证券投资基金上市交易提示性公告",
       "brand_name": "华安基金",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -626,6 +645,44 @@
         "预算匹配"
       ],
       "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -877,9 +934,9 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
       "signal_score": 85,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -891,14 +948,14 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
       "signal_score": 85,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -910,14 +967,14 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
       "signal_score": 85,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -929,14 +986,14 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
       "signal_score": 85,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -948,7 +1005,7 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -975,7 +1032,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -994,7 +1051,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -1013,7 +1070,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1032,7 +1089,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1124,25 +1181,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "宇树科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
       "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
       "brand_name": "玛莎拉蒂",
@@ -1165,7 +1203,7 @@
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1184,7 +1222,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1200,44 +1238,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
@@ -1308,12 +1308,30 @@
       "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 95,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "四川成渝所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -1331,7 +1349,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -1349,7 +1367,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -1367,7 +1385,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -1385,7 +1403,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1403,7 +1421,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1799,7 +1817,7 @@
       "signal_id": "f705623cdddd19f660e1bf7c4be9efef",
       "signal_title": "关于华安国证机器人产业交易型开放式指数证券投资基金上市交易提示性公告",
       "brand_name": "华安基金",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -1918,6 +1936,42 @@
         "媒体类型匹配"
       ],
       "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -2174,6 +2228,60 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
+      "signal_score": 85,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
+      "signal_score": 85,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
+      "signal_score": 85,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
       "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
       "brand_name": "GOBI",
@@ -2228,42 +2336,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "d34b12185957616ee692dc0c998cdf68",
       "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
       "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
@@ -2285,7 +2357,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2303,7 +2375,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2408,42 +2480,6 @@
       "daily_traffic": 8000
     },
     {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "宇树科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "宇树科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
       "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
       "brand_name": "玛莎拉蒂",
@@ -2462,118 +2498,64 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 74,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
+      "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
+      "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
+      "brand_name": "LG化学",
+      "signal_score": 75,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
       "resource_location": "北京",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
+      "reason_text": "LG化学所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
     },
     {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 74,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "e9cade32a3a1e4b215959f509368a505",
-      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
-      "brand_name": "顺景科技",
-      "signal_score": 72,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "顺景科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "e9cade32a3a1e4b215959f509368a505",
-      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
-      "brand_name": "顺景科技",
-      "signal_score": 72,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "顺景科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
+      "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
+      "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
+      "brand_name": "LG化学",
+      "signal_score": 75,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
       "resource_location": "上海",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
+      "reason_text": "LG化学所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
     },
     {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 73,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 73,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2583,7 +2565,43 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "IPSA所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "精研科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "e9cade32a3a1e4b215959f509368a505",
+      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
+      "brand_name": "顺景科技",
+      "signal_score": 71,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "顺景科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "e9cade32a3a1e4b215959f509368a505",
+      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
+      "brand_name": "顺景科技",
+      "signal_score": 71,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "顺景科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -2843,7 +2861,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -2861,7 +2879,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2879,7 +2897,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2930,42 +2948,6 @@
       "daily_traffic": 100000
     },
     {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "宇树科技所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "宇树科技所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
       "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
       "brand_name": "玛莎拉蒂",
@@ -3000,12 +2982,30 @@
       "reason_text": "玛莎拉蒂所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
+    },
+    {
+      "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
+      "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
+      "brand_name": "LG化学",
+      "signal_score": 75,
+      "resource_id": "res_012",
+      "resource_name": "北京公交车身广告",
+      "resource_type": "公交广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "LG化学所在行业与公交广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 100000
     },
     {
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -3023,7 +3023,7 @@
       "signal_id": "b645aa93775a98150df4d335c91b1f67",
       "signal_title": "300709精研科技投资者关系管理信息20260612",
       "brand_name": "精研科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3041,7 +3041,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -3059,7 +3059,7 @@
       "signal_id": "e9cade32a3a1e4b215959f509368a505",
       "signal_title": "关于向全资子公司增资及累计对外投资的公告",
       "brand_name": "顺景科技",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3095,7 +3095,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -3113,7 +3113,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -3131,7 +3131,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3149,7 +3149,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -3167,7 +3167,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3185,7 +3185,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 94,
+      "signal_score": 93,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -3383,6 +3383,60 @@
       "signal_id": "122c41348b4e998327dee1054089d1d8",
       "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
       "brand_name": "LEECN莉肯",
+      "signal_score": 88,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
@@ -3668,9 +3722,9 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
       "signal_score": 85,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
@@ -3686,9 +3740,9 @@
       "daily_traffic": 500000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
       "signal_score": 85,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
@@ -3704,9 +3758,45 @@
       "daily_traffic": 400000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
+      "signal_score": 85,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
+      "signal_score": 85,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
+      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
+      "brand_name": "IPSA",
       "signal_score": 85,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
@@ -3722,9 +3812,9 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
       "signal_score": 85,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
@@ -3740,9 +3830,9 @@
       "daily_traffic": 500000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
       "signal_score": 85,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
@@ -3758,9 +3848,9 @@
       "daily_traffic": 400000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
       "signal_score": 85,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
@@ -3779,7 +3869,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3797,7 +3887,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -3815,7 +3905,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3833,7 +3923,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 83,
+      "signal_score": 82,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -3864,42 +3954,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "bd3db26c96b6e2411ba745794eb6871b",
-      "signal_title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-      "brand_name": "宇树科技",
-      "signal_score": 75,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
@@ -3956,82 +4010,10 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 74,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "b645aa93775a98150df4d335c91b1f67",
-      "signal_title": "300709精研科技投资者关系管理信息20260612",
-      "brand_name": "精研科技",
-      "signal_score": 74,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "e9cade32a3a1e4b215959f509368a505",
-      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
-      "brand_name": "顺景科技",
-      "signal_score": 72,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "e9cade32a3a1e4b215959f509368a505",
-      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
-      "brand_name": "顺景科技",
-      "signal_score": 72,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
+      "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
+      "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
+      "brand_name": "LG化学",
+      "signal_score": 75,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -4046,10 +4028,10 @@
       "daily_traffic": 500000
     },
     {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
+      "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
+      "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
+      "brand_name": "LG化学",
+      "signal_score": 75,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -4064,50 +4046,14 @@
       "daily_traffic": 400000
     },
     {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
-      "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
-      "brand_name": "IPSA",
-      "signal_score": 70,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 73,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "深圳",
+      "resource_location": "成都",
       "match_score": 50,
       "reasons": [
         "媒体类型匹配",
@@ -4115,7 +4061,61 @@
       ],
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
-      "daily_traffic": 80000
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "b645aa93775a98150df4d335c91b1f67",
+      "signal_title": "300709精研科技投资者关系管理信息20260612",
+      "brand_name": "精研科技",
+      "signal_score": 73,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "e9cade32a3a1e4b215959f509368a505",
+      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
+      "brand_name": "顺景科技",
+      "signal_score": 71,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "e9cade32a3a1e4b215959f509368a505",
+      "signal_title": "关于向全资子公司增资及累计对外投资的公告",
+      "brand_name": "顺景科技",
+      "signal_score": 71,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     }
   ]
 }
