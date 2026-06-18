@@ -1638,6 +1638,13 @@
     "recordedAt": "2026-06-18 04:12:42"
   },
   {
+    "id": 1117,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:56"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -2002,6 +2009,13 @@
     "recordedAt": "2026-06-15 13:31:50"
   },
   {
+    "id": 1110,
+    "brandName": "东风汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:42"
+  },
+  {
     "id": 536,
     "brandName": "东鹏饮料",
     "score": 0,
@@ -2252,6 +2266,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 16:12:32"
+  },
+  {
+    "id": 1120,
+    "brandName": "中粮糖业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:05:36"
   },
   {
     "id": 406,
@@ -2679,6 +2700,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 04:19:43"
+  },
+  {
+    "id": 1114,
+    "brandName": "光庭信息",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:47"
   },
   {
     "id": 455,
@@ -3507,6 +3535,13 @@
     "recordedAt": "2026-06-08 11:06:28"
   },
   {
+    "id": 1116,
+    "brandName": "好奇",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:55"
+  },
+  {
     "id": 1048,
     "brandName": "威尔泰",
     "score": 0,
@@ -4249,6 +4284,13 @@
     "recordedAt": "2026-06-10 05:32:54"
   },
   {
+    "id": 1121,
+    "brandName": "德力西",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:05:37"
+  },
+  {
     "id": 88,
     "brandName": "德医",
     "score": 50,
@@ -4746,6 +4788,13 @@
     "recordedAt": "2026-06-13 08:03:40"
   },
   {
+    "id": 1115,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:49"
+  },
+  {
     "id": 636,
     "brandName": "智谱AI",
     "score": 0,
@@ -5103,6 +5152,13 @@
     "recordedAt": "2026-06-09 12:53:04"
   },
   {
+    "id": 1109,
+    "brandName": "江苏索普",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:40"
+  },
+  {
     "id": 1045,
     "brandName": "江钨装备",
     "score": 0,
@@ -5304,6 +5360,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 06:05:22"
+  },
+  {
+    "id": 1113,
+    "brandName": "滴滴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:45"
   },
   {
     "id": 1038,
@@ -5964,6 +6027,13 @@
     "recordedAt": "2026-06-04 04:35:47"
   },
   {
+    "id": 1118,
+    "brandName": "联讯仪器",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:05:00"
+  },
+  {
     "id": 771,
     "brandName": "肯尼迪表演艺术中心",
     "score": 0,
@@ -6104,6 +6174,13 @@
     "recordedAt": "2026-06-15 13:31:14"
   },
   {
+    "id": 1107,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:36"
+  },
+  {
     "id": 215,
     "brandName": "腾讯云",
     "score": 55,
@@ -6165,6 +6242,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:53"
+  },
+  {
+    "id": 1111,
+    "brandName": "艾华集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:43"
   },
   {
     "id": 411,
@@ -7168,6 +7252,13 @@
     "recordedAt": "2026-06-09 09:58:27"
   },
   {
+    "id": 1119,
+    "brandName": "银联",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:05:01"
+  },
+  {
     "id": 365,
     "brandName": "锋龙股份",
     "score": 0,
@@ -7420,6 +7511,13 @@
     "recordedAt": "2026-06-09 05:17:48"
   },
   {
+    "id": 1112,
+    "brandName": "集智股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:44"
+  },
+  {
     "id": 892,
     "brandName": "雪王",
     "score": 0,
@@ -7558,6 +7656,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:18:59"
+  },
+  {
+    "id": 1108,
+    "brandName": "高盛",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 09:04:38"
   },
   {
     "id": 747,
