@@ -1694,6 +1694,20 @@
     "recordedAt": "2026-06-18 12:45:38"
   },
   {
+    "id": 1154,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 19:48:59"
+  },
+  {
+    "id": 1156,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 19:49:02"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -7306,6 +7320,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 12:45:26"
+  },
+  {
+    "id": 1155,
+    "brandName": "逆矩阵科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-18 19:49:01"
   },
   {
     "id": 290,
