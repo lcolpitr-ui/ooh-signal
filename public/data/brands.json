@@ -357,7 +357,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:32"
@@ -489,7 +489,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 77,
+    "signalCount": 78,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1556,7 +1556,7 @@
     "industry": "旅游",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-08 07:24:38"
@@ -2139,7 +2139,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 09:06:40"
@@ -4779,7 +4779,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:14"
@@ -7353,7 +7353,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 12:07:24"
@@ -7588,5 +7588,181 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 23:40:54"
+  },
+  {
+    "id": "芯生视界",
+    "name": "芯生视界",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:09"
+  },
+  {
+    "id": "穹彻智能",
+    "name": "穹彻智能",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:10"
+  },
+  {
+    "id": "顺丰同城",
+    "name": "顺丰同城",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:14"
+  },
+  {
+    "id": "寒武纪",
+    "name": "寒武纪",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:17"
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:19"
+  },
+  {
+    "id": "厦门国升发展私募基金管理有限责任公司",
+    "name": "厦门国升发展私募基金管理有限责任公司",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:20"
+  },
+  {
+    "id": "国家开发银行",
+    "name": "国家开发银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:24"
+  },
+  {
+    "id": "远景",
+    "name": "远景",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:25"
+  },
+  {
+    "id": "朴朴超市",
+    "name": "朴朴超市",
+    "industry": "零售",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:26"
+  },
+  {
+    "id": "网易智企",
+    "name": "网易智企",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:28"
+  },
+  {
+    "id": "三只松鼠",
+    "name": "三只松鼠",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:37"
+  },
+  {
+    "id": "众泰",
+    "name": "众泰",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:12:45"
+  },
+  {
+    "id": "供销大集",
+    "name": "供销大集",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:13:14"
+  },
+  {
+    "id": "英洛华",
+    "name": "英洛华",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:13:15"
+  },
+  {
+    "id": "中集集团",
+    "name": "中集集团",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:13:16"
+  },
+  {
+    "id": "新锦动力",
+    "name": "新锦动力",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-18 04:13:18"
   }
 ]
