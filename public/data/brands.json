@@ -500,7 +500,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 85,
+    "signalCount": 86,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -665,7 +665,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:06"
@@ -720,7 +720,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:22:43"
@@ -896,7 +896,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1248,7 +1248,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 24,
+    "signalCount": 25,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1743,7 +1743,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -6000,7 +6000,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 03:53:50"
@@ -6506,7 +6506,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 06:42:07"
@@ -8050,5 +8050,115 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 16:52:54"
+  },
+  {
+    "id": "中国电建",
+    "name": "中国电建",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:34"
+  },
+  {
+    "id": "必和必拓",
+    "name": "必和必拓",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:35"
+  },
+  {
+    "id": "中国铁路上海局集团有限公司",
+    "name": "中国铁路上海局集团有限公司",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:38"
+  },
+  {
+    "id": "waymo",
+    "name": "Waymo",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:40"
+  },
+  {
+    "id": "亚马逊",
+    "name": "亚马逊",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:42"
+  },
+  {
+    "id": "传音控股",
+    "name": "传音控股",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:43"
+  },
+  {
+    "id": "水滴公司",
+    "name": "水滴公司",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:49"
+  },
+  {
+    "id": "安仕科技",
+    "name": "安仕科技",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:51"
+  },
+  {
+    "id": "量化派",
+    "name": "量化派",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:56"
+  },
+  {
+    "id": "路虎",
+    "name": "路虎",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-19 06:35:59"
   }
 ]

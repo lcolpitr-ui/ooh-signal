@@ -686,6 +686,13 @@
     "recordedAt": "2026-06-17 15:45:10"
   },
   {
+    "id": 1167,
+    "brandName": "Meta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:41"
+  },
+  {
     "id": 684,
     "brandName": "MiniMax",
     "score": 0,
@@ -880,6 +887,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 00:33:20"
+  },
+  {
+    "id": 1172,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:47"
   },
   {
     "id": 189,
@@ -1722,6 +1736,13 @@
     "recordedAt": "2026-06-19 00:43:13"
   },
   {
+    "id": 1164,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:36"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -1818,6 +1839,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 12:53:13"
+  },
+  {
+    "id": 1166,
+    "brandName": "Waymo",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:40"
   },
   {
     "id": 563,
@@ -2219,6 +2247,13 @@
     "recordedAt": "2026-06-15 00:23:26"
   },
   {
+    "id": 1162,
+    "brandName": "中国电建",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:34"
+  },
+  {
     "id": 141,
     "brandName": "中国能建",
     "score": 55,
@@ -2252,6 +2287,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:55"
+  },
+  {
+    "id": 1165,
+    "brandName": "中国铁路上海局集团有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:38"
   },
   {
     "id": 698,
@@ -2555,6 +2597,13 @@
     "recordedAt": "2026-06-08 09:19:05"
   },
   {
+    "id": 1168,
+    "brandName": "亚马逊",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:42"
+  },
+  {
     "id": 469,
     "brandName": "交银投资",
     "score": 0,
@@ -2737,6 +2786,13 @@
     "recordedAt": "2026-06-16 10:23:15"
   },
   {
+    "id": 1169,
+    "brandName": "传音控股",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:43"
+  },
+  {
     "id": 929,
     "brandName": "伯灵顿百货",
     "score": 0,
@@ -2889,6 +2945,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 06:54:24"
+  },
+  {
+    "id": 1176,
+    "brandName": "匹克",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:53"
   },
   {
     "id": 1044,
@@ -3836,6 +3899,13 @@
     "recordedAt": "2026-06-16 10:23:30"
   },
   {
+    "id": 1174,
+    "brandName": "安仕科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:51"
+  },
+  {
     "id": 267,
     "brandName": "安克创新",
     "score": 55,
@@ -3862,6 +3932,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:19"
+  },
+  {
+    "id": 1161,
+    "brandName": "安踏",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:32"
   },
   {
     "id": 462,
@@ -3981,6 +4058,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 12:42:39"
+  },
+  {
+    "id": 1175,
+    "brandName": "小米",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:52"
   },
   {
     "id": 4,
@@ -4312,6 +4396,13 @@
     "recordedAt": "2026-06-13 03:53:50"
   },
   {
+    "id": 1177,
+    "brandName": "影石",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:54"
+  },
+  {
     "id": 292,
     "brandName": "徐工汽车",
     "score": 55,
@@ -4464,6 +4555,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:20"
+  },
+  {
+    "id": 1163,
+    "brandName": "必和必拓",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:35"
   },
   {
     "id": 291,
@@ -4732,6 +4830,13 @@
     "recordedAt": "2026-06-17 06:29:29"
   },
   {
+    "id": 1178,
+    "brandName": "支付宝",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:55"
+  },
+  {
     "id": 576,
     "brandName": "新易盛",
     "score": 0,
@@ -4961,6 +5066,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 12:45:09"
+  },
+  {
+    "id": 1171,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:46"
   },
   {
     "id": 636,
@@ -5290,6 +5402,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 08:01:44"
+  },
+  {
+    "id": 1173,
+    "brandName": "水滴公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:49"
   },
   {
     "id": 6,
@@ -6832,6 +6951,13 @@
     "recordedAt": "2026-06-16 04:18:54"
   },
   {
+    "id": 1170,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:45"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
@@ -7259,6 +7385,13 @@
     "recordedAt": "2026-06-09 05:18:30"
   },
   {
+    "id": 1180,
+    "brandName": "路虎",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:59"
+  },
+  {
     "id": 1008,
     "brandName": "软银",
     "score": 0,
@@ -7376,6 +7509,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 00:29:15"
+  },
+  {
+    "id": 1179,
+    "brandName": "量化派",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-19 06:35:56"
   },
   {
     "id": 241,
