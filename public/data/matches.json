@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T00:30:09.447808+00:00",
-  "total_matches": 231,
+  "generated_at": "2026-06-20T05:33:28.076771+00:00",
+  "total_matches": 233,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -60,6 +60,63 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -96,6 +153,25 @@
       "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
     },
     {
       "signal_id": "84479d660abe73b079c8ccfd4d14e975",
@@ -288,63 +364,6 @@
       "daily_traffic": 200000
     },
     {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "0a8d5e16174512e42686104f05169b5d",
       "signal_title": "击球有声，落点有光。把握生活的每一拍节奏，声声出彩，熠熠生光。很高兴解锁全新身份，成为JBL亚太区品",
       "brand_name": "JBL",
@@ -381,88 +400,12 @@
       "reason_text": "JBL所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
     },
     {
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -573,9 +516,9 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
       "signal_score": 90,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
@@ -587,14 +530,33 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 150000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
+      "signal_score": 90,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
       "signal_score": 90,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
@@ -606,14 +568,14 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -625,14 +587,14 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -644,7 +606,7 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -652,7 +614,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -671,7 +633,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -690,7 +652,7 @@
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
       "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
       "brand_name": "四川成渝",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -709,7 +671,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -728,7 +690,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -991,6 +953,44 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "f705623cdddd19f660e1bf7c4be9efef",
       "signal_title": "关于华安国证机器人产业交易型开放式指数证券投资基金上市交易提示性公告",
       "brand_name": "华安基金",
@@ -1013,7 +1013,7 @@
       "signal_id": "f894a2786627fabf63e837df934d451d",
       "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
       "brand_name": "建滔投资",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -1063,25 +1063,6 @@
         "预算匹配"
       ],
       "reason_text": "富国基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "d34b12185957616ee692dc0c998cdf68",
-      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
-      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 79,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
     },
@@ -1162,10 +1143,29 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "d34b12185957616ee692dc0c998cdf68",
+      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
+      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
+      "signal_score": 78,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -1184,7 +1184,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -1203,7 +1203,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1222,7 +1222,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1293,6 +1293,42 @@
       "daily_traffic": 90000
     },
     {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "adc6176a85cec14220078ab38599e8b4",
+      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
+      "brand_name": "Bobbi Brown",
+      "signal_score": 95,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -1325,6 +1361,78 @@
         "媒体类型匹配"
       ],
       "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1581,42 +1689,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "adc6176a85cec14220078ab38599e8b4",
-      "signal_title": "#刘亦菲芭比波朗全球品牌代言人# 恭喜Bobbi Brown 进入天仙“严选”！美妆板块再拆分新代言",
-      "brand_name": "Bobbi Brown",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "Bobbi Brown所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "0a8d5e16174512e42686104f05169b5d",
       "signal_title": "击球有声，落点有光。把握生活的每一拍节奏，声声出彩，熠熠生光。很高兴解锁全新身份，成为JBL亚太区品",
       "brand_name": "JBL",
@@ -1635,118 +1707,10 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "122c41348b4e998327dee1054089d1d8",
-      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
-      "brand_name": "LEECN莉肯",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1815,9 +1779,9 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
       "signal_score": 90,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -1828,14 +1792,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
+      "signal_id": "122c41348b4e998327dee1054089d1d8",
+      "signal_title": "当聚光灯亮起，世界的边界无限蔓延聚焦此刻，为己而生很高兴成为LEECN色彩代言人·创意合伙人「美自本",
+      "brand_name": "LEECN莉肯",
       "signal_score": 90,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -1846,14 +1810,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "LEECN莉肯所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
@@ -1864,32 +1828,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 150000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
-      "signal_score": 88,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
@@ -1900,7 +1846,7 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -1908,7 +1854,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -1926,7 +1872,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -1944,7 +1890,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -1962,7 +1908,7 @@
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
       "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
       "brand_name": "四川成渝",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -1980,7 +1926,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -1998,7 +1944,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2016,7 +1962,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2283,6 +2229,60 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "f705623cdddd19f660e1bf7c4be9efef",
       "signal_title": "关于华安国证机器人产业交易型开放式指数证券投资基金上市交易提示性公告",
       "brand_name": "华安基金",
@@ -2304,7 +2304,7 @@
       "signal_id": "f894a2786627fabf63e837df934d451d",
       "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
       "brand_name": "建滔投资",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2369,24 +2369,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "富国基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "d34b12185957616ee692dc0c998cdf68",
-      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
-      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 79,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与机场广告受众契合；机场广告适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 300000
     },
@@ -2481,10 +2463,28 @@
       "daily_traffic": 8000
     },
     {
+      "signal_id": "d34b12185957616ee692dc0c998cdf68",
+      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
+      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
+      "signal_score": 78,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2502,7 +2502,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2592,7 +2592,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -2610,7 +2610,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -2628,7 +2628,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -2646,7 +2646,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_012",
       "resource_name": "北京公交车身广告",
       "resource_type": "公交广告",
@@ -2664,7 +2664,7 @@
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
       "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
       "brand_name": "四川成渝",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -2682,7 +2682,7 @@
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
       "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
       "brand_name": "四川成渝",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -2700,7 +2700,7 @@
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
       "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
       "brand_name": "四川成渝",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2718,7 +2718,7 @@
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
       "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
       "brand_name": "四川成渝",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2736,7 +2736,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2754,7 +2754,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2772,7 +2772,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2790,7 +2790,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2934,7 +2934,7 @@
       "signal_id": "f894a2786627fabf63e837df934d451d",
       "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
       "brand_name": "建滔投资",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -2952,7 +2952,7 @@
       "signal_id": "f894a2786627fabf63e837df934d451d",
       "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
       "brand_name": "建滔投资",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -2970,7 +2970,7 @@
       "signal_id": "f894a2786627fabf63e837df934d451d",
       "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
       "brand_name": "建滔投资",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2988,7 +2988,7 @@
       "signal_id": "f894a2786627fabf63e837df934d451d",
       "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
       "brand_name": "建滔投资",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3107,78 +3107,6 @@
         "预算匹配"
       ],
       "reason_text": "富国基金所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "d34b12185957616ee692dc0c998cdf68",
-      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
-      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 79,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "d34b12185957616ee692dc0c998cdf68",
-      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
-      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 79,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "d34b12185957616ee692dc0c998cdf68",
-      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
-      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 79,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "d34b12185957616ee692dc0c998cdf68",
-      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
-      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
-      "signal_score": 79,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
@@ -3219,10 +3147,82 @@
       "daily_traffic": 100000
     },
     {
+      "signal_id": "d34b12185957616ee692dc0c998cdf68",
+      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
+      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
+      "signal_score": 78,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "d34b12185957616ee692dc0c998cdf68",
+      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
+      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
+      "signal_score": 78,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "d34b12185957616ee692dc0c998cdf68",
+      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
+      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
+      "signal_score": 78,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "d34b12185957616ee692dc0c998cdf68",
+      "signal_title": "联合公告寄发有关由招银国际融资有限公司及光银国际资本有限公司为及代表AUREOLE HALO LIM",
+      "brand_name": "RIMBACO GROUP GLOBAL LIMITED",
+      "signal_score": 78,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3240,7 +3240,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -3258,7 +3258,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3345,6 +3345,42 @@
       "daily_traffic": 200000
     },
     {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "55d8b2bf2fb1b40c661db0b6600522e0",
       "signal_title": "#拉芳全球品牌代言人鞠婧祎# 支持全球代言人👍🏻",
       "brand_name": "拉芳",
@@ -3399,46 +3435,10 @@
       "daily_traffic": 200000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -3456,7 +3456,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3474,7 +3474,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 92,
+      "signal_score": 91,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -3510,24 +3510,6 @@
       "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
       "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
       "brand_name": "HILX",
-      "signal_score": 90,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
       "signal_score": 88,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
@@ -3543,9 +3525,9 @@
       "daily_traffic": 500000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
@@ -3561,9 +3543,9 @@
       "daily_traffic": 400000
     },
     {
-      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
-      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
-      "brand_name": "GOBI",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
       "signal_score": 88,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
@@ -3582,7 +3564,7 @@
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
-      "signal_score": 88,
+      "signal_score": 87,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -3600,7 +3582,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3618,7 +3600,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -3636,7 +3618,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3654,7 +3636,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3672,7 +3654,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 87,
+      "signal_score": 86,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -4011,6 +3993,60 @@
       "daily_traffic": 80000
     },
     {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
+      "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
+      "brand_name": "GOBI",
+      "signal_score": 85,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
@@ -4068,7 +4104,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -4086,7 +4122,7 @@
       "signal_id": "26d7b2d9104a4020281b8df8cf79de2d",
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -4104,7 +4140,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -4122,7 +4158,7 @@
       "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
       "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
       "brand_name": "东阳光",
-      "signal_score": 76,
+      "signal_score": 75,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",

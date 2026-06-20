@@ -500,7 +500,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 86,
+    "signalCount": 87,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -7958,7 +7958,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 12:45:32"
@@ -8035,7 +8035,7 @@
     "industry": "汽车",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 16:52:53"
@@ -8259,5 +8259,82 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-19 11:42:12"
+  },
+  {
+    "id": "盛吉盛",
+    "name": "盛吉盛",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:10"
+  },
+  {
+    "id": "大连坤达自动化有限公司",
+    "name": "大连坤达自动化有限公司",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:11"
+  },
+  {
+    "id": "华电能源",
+    "name": "华电能源",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:13"
+  },
+  {
+    "id": "老凤祥",
+    "name": "老凤祥",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:16"
+  },
+  {
+    "id": "上铁集团",
+    "name": "上铁集团",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:17"
+  },
+  {
+    "id": "palantir",
+    "name": "Palantir",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:19"
+  },
+  {
+    "id": "天瞳威视",
+    "name": "天瞳威视",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-20 05:32:21"
   }
 ]

@@ -434,6 +434,13 @@
     "recordedAt": "2026-06-18 12:45:32"
   },
   {
+    "id": 1199,
+    "brandName": "Google",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:18"
+  },
+  {
     "id": 544,
     "brandName": "Grok",
     "score": 0,
@@ -777,6 +784,13 @@
     "recordedAt": "2026-06-18 16:52:53"
   },
   {
+    "id": 1203,
+    "brandName": "Momenta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:22"
+  },
+  {
     "id": 197,
     "brandName": "NBA",
     "score": 55,
@@ -922,6 +936,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 18:06:24"
+  },
+  {
+    "id": 1200,
+    "brandName": "Palantir",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:19"
   },
   {
     "id": 1091,
@@ -1764,6 +1785,13 @@
     "recordedAt": "2026-06-19 06:35:36"
   },
   {
+    "id": 1201,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:20"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -2091,6 +2119,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 12:52:59"
+  },
+  {
+    "id": 1198,
+    "brandName": "上铁集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:17"
   },
   {
     "id": 539,
@@ -3136,6 +3171,13 @@
     "recordedAt": "2026-06-17 00:33:19"
   },
   {
+    "id": 1196,
+    "brandName": "华电能源",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:13"
+  },
+  {
     "id": 458,
     "brandName": "华硕",
     "score": 0,
@@ -3689,6 +3731,13 @@
     "recordedAt": "2026-06-16 04:19:02"
   },
   {
+    "id": 1195,
+    "brandName": "大连坤达自动化有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:11"
+  },
+  {
     "id": 360,
     "brandName": "天娱数科",
     "score": 0,
@@ -3708,6 +3757,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:20"
+  },
+  {
+    "id": 1202,
+    "brandName": "天瞳威视",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:21"
   },
   {
     "id": 153,
@@ -6055,6 +6111,13 @@
     "recordedAt": "2026-06-16 10:23:20"
   },
   {
+    "id": 1194,
+    "brandName": "盛吉盛",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:10"
+  },
+  {
     "id": 706,
     "brandName": "真健康",
     "score": 0,
@@ -6403,6 +6466,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 06:34:14"
+  },
+  {
+    "id": 1197,
+    "brandName": "老凤祥",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 05:32:16"
   },
   {
     "id": 696,
