@@ -2970,6 +2970,17 @@
     "createdAt": "2026-06-13 08:02:19"
   },
   {
+    "id": "西部证券",
+    "name": "西部证券",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 33,
+    "website": null,
+    "createdAt": "2026-06-20 14:19:15"
+  },
+  {
     "id": "杰士邦",
     "name": "杰士邦",
     "industry": "快消",
@@ -8035,7 +8046,7 @@
     "industry": "汽车",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 16:52:53"

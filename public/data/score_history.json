@@ -805,6 +805,13 @@
     "recordedAt": "2026-06-20 09:14:16"
   },
   {
+    "id": 1214,
+    "brandName": "Momenta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 14:21:46"
+  },
+  {
     "id": 197,
     "brandName": "NBA",
     "score": 55,
@@ -7327,6 +7334,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 18:43:07"
+  },
+  {
+    "id": 1213,
+    "brandName": "西部证券",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 14:19:15"
   },
   {
     "id": 697,
