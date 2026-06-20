@@ -812,6 +812,13 @@
     "recordedAt": "2026-06-20 14:21:46"
   },
   {
+    "id": 1217,
+    "brandName": "Momenta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 18:29:55"
+  },
+  {
     "id": 197,
     "brandName": "NBA",
     "score": 55,
@@ -2350,6 +2357,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 07:25:04"
+  },
+  {
+    "id": 1216,
+    "brandName": "中国国家铁路集团有限公司",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 18:29:42"
   },
   {
     "id": 555,
