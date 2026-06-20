@@ -1841,6 +1841,13 @@
     "recordedAt": "2026-06-20 16:37:56"
   },
   {
+    "id": 1219,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 20:32:17"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -4856,6 +4863,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:41:49"
+  },
+  {
+    "id": 1218,
+    "brandName": "抖音",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 20:31:56"
   },
   {
     "id": 912,
