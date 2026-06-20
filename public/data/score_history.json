@@ -1827,6 +1827,13 @@
     "recordedAt": "2026-06-20 11:37:56"
   },
   {
+    "id": 1215,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-20 16:37:56"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
