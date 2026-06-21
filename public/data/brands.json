@@ -500,7 +500,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 91,
+    "signalCount": 92,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -709,7 +709,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -2326,7 +2326,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 18,
+    "signalCount": 19,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -8057,7 +8057,7 @@
     "industry": "汽车",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 16:52:53"
@@ -8402,5 +8402,71 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-20 09:14:19"
+  },
+  {
+    "id": "德意志银行",
+    "name": "德意志银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 06:19:52"
+  },
+  {
+    "id": "中技船舶",
+    "name": "中技船舶",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 06:19:55"
+  },
+  {
+    "id": "应用材料",
+    "name": "应用材料",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 06:19:56"
+  },
+  {
+    "id": "富国银行",
+    "name": "富国银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 06:19:57"
+  },
+  {
+    "id": "plaud",
+    "name": "Plaud",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 06:20:03"
+  },
+  {
+    "id": "清明上河园",
+    "name": "清明上河园",
+    "industry": "旅游",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 06:20:06"
   }
 ]
