@@ -302,7 +302,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:36"
@@ -2990,6 +2990,17 @@
     "latestScore": 33,
     "website": null,
     "createdAt": "2026-06-20 18:29:42"
+  },
+  {
+    "id": "国铁集团",
+    "name": "国铁集团",
+    "industry": "旅游",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 33,
+    "website": null,
+    "createdAt": "2026-06-21 17:46:00"
   },
   {
     "id": "杰士邦",

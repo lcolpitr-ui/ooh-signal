@@ -399,6 +399,13 @@
     "recordedAt": "2026-06-21 13:25:24"
   },
   {
+    "id": 1252,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 17:46:12"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
@@ -3750,6 +3757,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 16:10:26"
+  },
+  {
+    "id": 1251,
+    "brandName": "国铁集团",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 17:46:00"
   },
   {
     "id": 310,
