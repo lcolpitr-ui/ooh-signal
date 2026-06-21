@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -709,7 +709,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -1116,7 +1116,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:17"
@@ -5439,7 +5439,7 @@
     "industry": "酒水",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 14:53:50"
@@ -7991,7 +7991,7 @@
     "industry": "家电",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 12:45:41"
@@ -8468,5 +8468,126 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-21 06:20:06"
+  },
+  {
+    "id": "中关村",
+    "name": "中关村",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:33"
+  },
+  {
+    "id": "北京利尔",
+    "name": "北京利尔",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:36"
+  },
+  {
+    "id": "高争民爆",
+    "name": "高争民爆",
+    "industry": "金融",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:37"
+  },
+  {
+    "id": "世嘉科技",
+    "name": "世嘉科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:38"
+  },
+  {
+    "id": "巨星科技",
+    "name": "巨星科技",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:39"
+  },
+  {
+    "id": "博云新材",
+    "name": "博云新材",
+    "industry": "航空",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:40"
+  },
+  {
+    "id": "东方盛虹",
+    "name": "东方盛虹",
+    "industry": "化工",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:43"
+  },
+  {
+    "id": "德美化工",
+    "name": "德美化工",
+    "industry": "化工",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:44"
+  },
+  {
+    "id": "hitch-open",
+    "name": "Hitch Open",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:48"
+  },
+  {
+    "id": "欧米茄",
+    "name": "欧米茄",
+    "industry": "服装",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:22:55"
+  },
+  {
+    "id": "工大高科",
+    "name": "工大高科",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 10:23:29"
   }
 ]

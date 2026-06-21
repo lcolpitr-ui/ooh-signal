@@ -490,6 +490,13 @@
     "recordedAt": "2026-06-04 04:35:51"
   },
   {
+    "id": 1242,
+    "brandName": "Hitch Open",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:48"
+  },
+  {
     "id": 1068,
     "brandName": "Huawei",
     "score": 0,
@@ -2233,6 +2240,13 @@
     "recordedAt": "2026-06-20 05:32:17"
   },
   {
+    "id": 1236,
+    "brandName": "世嘉科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:38"
+  },
+  {
     "id": 539,
     "brandName": "世纪数码",
     "score": 0,
@@ -2266,6 +2280,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:23"
+  },
+  {
+    "id": 1240,
+    "brandName": "东方盛虹",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:43"
   },
   {
     "id": 404,
@@ -2385,6 +2406,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 00:29:19"
+  },
+  {
+    "id": 1232,
+    "brandName": "中关村",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:33"
   },
   {
     "id": 315,
@@ -3136,6 +3164,13 @@
     "recordedAt": "2026-06-08 09:19:55"
   },
   {
+    "id": 1234,
+    "brandName": "北京利尔",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:36"
+  },
+  {
     "id": 437,
     "brandName": "北京山谷",
     "score": 0,
@@ -3339,6 +3374,13 @@
     "recordedAt": "2026-06-10 13:56:04"
   },
   {
+    "id": 1238,
+    "brandName": "博云新材",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:40"
+  },
+  {
     "id": 152,
     "brandName": "博杰股份",
     "score": 55,
@@ -3428,6 +3470,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 12:45:41"
+  },
+  {
+    "id": 1243,
+    "brandName": "古瑞瓦特",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:49"
   },
   {
     "id": 921,
@@ -4053,6 +4102,13 @@
     "recordedAt": "2026-06-17 06:29:24"
   },
   {
+    "id": 1246,
+    "brandName": "字节跳动",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:59"
+  },
+  {
     "id": 961,
     "brandName": "学大教育",
     "score": 0,
@@ -4536,6 +4592,20 @@
     "recordedAt": "2026-06-04 04:36:09"
   },
   {
+    "id": 1247,
+    "brandName": "工大高科",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:23:29"
+  },
+  {
+    "id": 1237,
+    "brandName": "巨星科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:39"
+  },
+  {
     "id": 1081,
     "brandName": "巴奴",
     "score": 0,
@@ -4753,6 +4823,13 @@
     "recordedAt": "2026-06-21 06:19:54"
   },
   {
+    "id": 1244,
+    "brandName": "微信",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:52"
+  },
+  {
     "id": 1018,
     "brandName": "微信支付",
     "score": 0,
@@ -4814,6 +4891,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 12:45:14"
+  },
+  {
+    "id": 1241,
+    "brandName": "德美化工",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:44"
   },
   {
     "id": 32,
@@ -5586,6 +5670,13 @@
     "recordedAt": "2026-06-04 10:54:06"
   },
   {
+    "id": 1245,
+    "brandName": "欧米茄",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:55"
+  },
+  {
     "id": 377,
     "brandName": "欧舒丹",
     "score": 0,
@@ -5766,6 +5857,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:17"
+  },
+  {
+    "id": 1233,
+    "brandName": "沪电股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:35"
   },
   {
     "id": 1126,
@@ -7658,6 +7756,13 @@
     "recordedAt": "2026-06-12 04:10:29"
   },
   {
+    "id": 1239,
+    "brandName": "贵州茅台",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:42"
+  },
+  {
     "id": 419,
     "brandName": "赛力斯",
     "score": 0,
@@ -8391,6 +8496,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:32"
+  },
+  {
+    "id": 1235,
+    "brandName": "高争民爆",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 10:22:37"
   },
   {
     "id": 714,
