@@ -3353,6 +3353,13 @@
     "recordedAt": "2026-06-17 00:33:19"
   },
   {
+    "id": 1257,
+    "brandName": "华润新能源",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 23:31:16"
+  },
+  {
     "id": 1196,
     "brandName": "华电能源",
     "score": 0,
@@ -6328,6 +6335,13 @@
     "recordedAt": "2026-06-05 03:41:04"
   },
   {
+    "id": 1255,
+    "brandName": "瓦滕法尔集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 23:31:14"
+  },
+  {
     "id": 1043,
     "brandName": "申万期货",
     "score": 0,
@@ -7439,6 +7453,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-19 06:35:45"
+  },
+  {
+    "id": 1256,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-21 23:31:15"
   },
   {
     "id": 19,

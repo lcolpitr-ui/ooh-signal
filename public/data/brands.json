@@ -1248,7 +1248,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 25,
+    "signalCount": 26,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -8622,5 +8622,27 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-21 13:25:21"
+  },
+  {
+    "id": "瓦滕法尔集团",
+    "name": "瓦滕法尔集团",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 23:31:14"
+  },
+  {
+    "id": "华润新能源",
+    "name": "华润新能源",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-21 23:31:16"
   }
 ]
