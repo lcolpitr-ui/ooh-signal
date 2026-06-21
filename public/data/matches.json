@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T19:48:39.627826+00:00",
+  "generated_at": "2026-06-21T21:33:36.361375+00:00",
   "total_matches": 239,
   "matches": [
     {
@@ -60,63 +60,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 95,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 95,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 95,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
       "brand_name": "李宁",
@@ -265,6 +208,63 @@
         "预算匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -823,7 +823,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -896,25 +896,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
-      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
-      "brand_name": "四川成渝",
-      "signal_score": 81,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "四川成渝所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
       "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
       "brand_name": "中粮糖业",
@@ -951,6 +932,25 @@
       "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 80,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "四川成渝所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
@@ -1143,10 +1143,29 @@
       "daily_traffic": 250000
     },
     {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "玛莎拉蒂所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1165,7 +1184,7 @@
       "signal_id": "cb498e8db2e4a1567ed893c62d063952",
       "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
       "brand_name": "富国基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -1257,25 +1276,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
@@ -1308,42 +1308,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 95,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 95,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1524,6 +1488,42 @@
         "媒体类型匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -2125,7 +2125,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2136,24 +2136,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "长安汽车所在行业与机场广告受众契合；机场广告适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
-      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
-      "brand_name": "四川成渝",
-      "signal_score": 81,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "四川成渝所在行业与机场广告受众契合；机场广告适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 300000
     },
@@ -2210,6 +2192,24 @@
       "reason_text": "中粮糖业所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
       "recommended_budget": "low",
       "daily_traffic": 8000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 80,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "四川成渝所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
     },
     {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
@@ -2446,6 +2446,24 @@
       "daily_traffic": 300000
     },
     {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "玛莎拉蒂所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
       "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
       "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
       "brand_name": "LG化学",
@@ -2485,7 +2503,7 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2503,7 +2521,7 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2521,7 +2539,7 @@
       "signal_id": "cb498e8db2e4a1567ed893c62d063952",
       "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
       "brand_name": "富国基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2552,42 +2570,6 @@
       "reason_text": "RIMBACO GROUP GLOBAL LIMITED所在行业与机场广告受众契合；机场广告适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 300000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "东阳光所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
     },
     {
       "signal_id": "6141c409dc575d69fca156133ed037ec",
@@ -2665,7 +2647,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2683,7 +2665,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2714,78 +2696,6 @@
       "reason_text": "工大高科所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
-    },
-    {
-      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
-      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
-      "brand_name": "四川成渝",
-      "signal_score": 81,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "四川成渝所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
-      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
-      "brand_name": "四川成渝",
-      "signal_score": 81,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "四川成渝所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
-      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
-      "brand_name": "四川成渝",
-      "signal_score": 81,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "四川成渝所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
-      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
-      "brand_name": "四川成渝",
-      "signal_score": 81,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "四川成渝所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
     },
     {
       "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
@@ -2858,6 +2768,78 @@
       "reason_text": "中粮糖业所在行业与公交广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 100000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 80,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "四川成渝所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 80,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "四川成渝所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 80,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "四川成渝所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "5dde7c7d21362046e0f4643343dc580b",
+      "signal_title": "四川成渝关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿",
+      "brand_name": "四川成渝",
+      "signal_score": 80,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "四川成渝所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
     },
     {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
@@ -3112,6 +3094,42 @@
       "daily_traffic": 60000
     },
     {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "玛莎拉蒂所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "玛莎拉蒂所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
       "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
       "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
       "brand_name": "LG化学",
@@ -3133,7 +3151,7 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -3151,7 +3169,7 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3169,7 +3187,7 @@
       "signal_id": "cb498e8db2e4a1567ed893c62d063952",
       "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
       "brand_name": "富国基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -3187,7 +3205,7 @@
       "signal_id": "cb498e8db2e4a1567ed893c62d063952",
       "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
       "brand_name": "富国基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -3205,7 +3223,7 @@
       "signal_id": "cb498e8db2e4a1567ed893c62d063952",
       "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
       "brand_name": "富国基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -3223,7 +3241,7 @@
       "signal_id": "cb498e8db2e4a1567ed893c62d063952",
       "signal_title": "富国恒生港股通汽车主题交易型开放式指数证券投资基金招募说明书（更新）（2026年第3号）",
       "brand_name": "富国基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3326,42 +3344,6 @@
       "reason_text": "新锦动力所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "东阳光所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "东阳光所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
     },
     {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
@@ -3925,7 +3907,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3943,7 +3925,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3961,7 +3943,7 @@
       "signal_id": "197e852411312680cc26d02fad1a114a",
       "signal_title": "2026年06月18日投资者关系活动记录表",
       "brand_name": "长安汽车",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -4228,6 +4210,60 @@
       "daily_traffic": 80000
     },
     {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "81ddf735eb826f4378aceed1e0960ed4",
+      "signal_title": "Stellantis首席执行官：正与两潜在伙伴洽谈玛莎拉蒂品牌合作",
+      "brand_name": "玛莎拉蒂",
+      "signal_score": 75,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
       "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
       "brand_name": "LG化学",
@@ -4267,7 +4303,7 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -4285,7 +4321,7 @@
       "signal_id": "e27fe5576fa2af386b69af012ae4a086",
       "signal_title": "中国国际金融股份有限公司关于龙芯中科技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
       "brand_name": "龙芯中科",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -4322,42 +4358,6 @@
       "signal_title": "300157新锦动力投资者关系管理信息20260618",
       "brand_name": "新锦动力",
       "signal_score": 71,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "5ccd1357e0ecbc1ffd37fc8544b89f90",
-      "signal_title": "宜昌东数一号投资有限责任公司重大资产重组备考合并审计报告（天健审〔2026〕11-481号）",
-      "brand_name": "东阳光",
-      "signal_score": 70,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
