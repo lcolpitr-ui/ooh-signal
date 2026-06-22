@@ -896,7 +896,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1787,7 +1787,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:06"
@@ -3052,7 +3052,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 09:18:59"
@@ -4647,7 +4647,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 5,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:15"
@@ -5901,7 +5901,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 16:35:32"
@@ -9007,5 +9007,71 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-22 10:58:29"
+  },
+  {
+    "id": "云鲸智能",
+    "name": "云鲸智能",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-22 16:11:25"
+  },
+  {
+    "id": "香港交易所",
+    "name": "香港交易所",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-22 16:11:29"
+  },
+  {
+    "id": "上海悦普数智科技股份有限公司",
+    "name": "上海悦普数智科技股份有限公司",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-22 16:11:31"
+  },
+  {
+    "id": "德龙激光",
+    "name": "德龙激光",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-22 16:11:32"
+  },
+  {
+    "id": "翔宇医疗",
+    "name": "翔宇医疗",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-22 16:11:36"
+  },
+  {
+    "id": "键邦股份",
+    "name": "键邦股份",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-22 16:11:37"
   }
 ]
