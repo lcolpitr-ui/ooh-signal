@@ -1,10 +1,24 @@
 [
   {
+    "id": 1297,
+    "brandName": "*ST东智",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:34"
+  },
+  {
     "id": 732,
     "brandName": "*ST国华",
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 16:35:37"
+  },
+  {
+    "id": 1292,
+    "brandName": "*ST西发",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:27"
   },
   {
     "id": 506,
@@ -19,6 +33,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 10:39:15"
+  },
+  {
+    "id": 1285,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:18"
+  },
+  {
+    "id": 1287,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:20"
   },
   {
     "id": 903,
@@ -455,6 +483,13 @@
     "recordedAt": "2026-06-08 15:03:17"
   },
   {
+    "id": 1295,
+    "brandName": "Fervo Energy",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:31"
+  },
+  {
     "id": 281,
     "brandName": "GOBI",
     "score": 50,
@@ -467,6 +502,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 05:44:08"
+  },
+  {
+    "id": 1299,
+    "brandName": "GitHub",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:42"
   },
   {
     "id": 1136,
@@ -516,6 +558,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:51"
+  },
+  {
+    "id": 1286,
+    "brandName": "HORWIN号外",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:19"
   },
   {
     "id": 1242,
@@ -1048,6 +1097,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:35:40"
+  },
+  {
+    "id": 1284,
+    "brandName": "PhotonPay 光子易",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:16"
   },
   {
     "id": 1210,
@@ -2772,6 +2828,13 @@
     "recordedAt": "2026-06-09 06:54:27"
   },
   {
+    "id": 1305,
+    "brandName": "丸美生物",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:56"
+  },
+  {
     "id": 325,
     "brandName": "丽江股份",
     "score": 69,
@@ -2861,6 +2924,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:41:54"
+  },
+  {
+    "id": 1302,
+    "brandName": "五菱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:53"
   },
   {
     "id": 556,
@@ -3309,6 +3379,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 16:52:52"
+  },
+  {
+    "id": 1296,
+    "brandName": "华为",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:33"
   },
   {
     "id": 205,
@@ -3801,6 +3878,13 @@
     "recordedAt": "2026-06-08 09:19:11"
   },
   {
+    "id": 1300,
+    "brandName": "国药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:45"
+  },
+  {
     "id": 762,
     "brandName": "国货底妆第一",
     "score": 30,
@@ -3988,6 +4072,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 04:19:02"
+  },
+  {
+    "id": 1289,
+    "brandName": "大连坤达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:23"
   },
   {
     "id": 1195,
@@ -4695,6 +4786,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:23"
+  },
+  {
+    "id": 1291,
+    "brandName": "川润股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:26"
   },
   {
     "id": 22,
@@ -5439,6 +5537,13 @@
     "recordedAt": "2026-06-12 16:35:38"
   },
   {
+    "id": 1282,
+    "brandName": "映界科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:14"
+  },
+  {
     "id": 1207,
     "brandName": "晋江文学城",
     "score": 0,
@@ -5570,6 +5675,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-19 06:35:46"
+  },
+  {
+    "id": 1304,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:55"
   },
   {
     "id": 636,
@@ -5915,6 +6027,13 @@
     "recordedAt": "2026-06-13 12:42:43"
   },
   {
+    "id": 1298,
+    "brandName": "比音勒芬",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:39"
+  },
+  {
     "id": 170,
     "brandName": "毫秒智控",
     "score": 55,
@@ -6102,6 +6221,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:29"
+  },
+  {
+    "id": 1290,
+    "brandName": "海川资本",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:24"
   },
   {
     "id": 300,
@@ -6629,6 +6755,13 @@
     "recordedAt": "2026-06-12 12:36:36"
   },
   {
+    "id": 1306,
+    "brandName": "福日电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:58:29"
+  },
+  {
     "id": 1206,
     "brandName": "福耀玻璃",
     "score": 0,
@@ -6648,6 +6781,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 10:51:33"
+  },
+  {
+    "id": 1303,
+    "brandName": "科沃斯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:54"
   },
   {
     "id": 889,
@@ -7250,6 +7390,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 15:03:15"
+  },
+  {
+    "id": 1288,
+    "brandName": "芯感通",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:22"
   },
   {
     "id": 1085,
@@ -7889,6 +8036,13 @@
     "recordedAt": "2026-06-20 09:14:14"
   },
   {
+    "id": 1301,
+    "brandName": "谷歌",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:51"
+  },
+  {
     "id": 23,
     "brandName": "豆包",
     "score": 50,
@@ -8027,6 +8181,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 15:45:12"
+  },
+  {
+    "id": 1283,
+    "brandName": "赢创",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:15"
   },
   {
     "id": 1134,
@@ -8715,6 +8876,13 @@
     "recordedAt": "2026-06-12 08:43:09"
   },
   {
+    "id": 1293,
+    "brandName": "飞乐音响",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:28"
+  },
+  {
     "id": 237,
     "brandName": "飞猪",
     "score": 55,
@@ -8755,6 +8923,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:12"
+  },
+  {
+    "id": 1294,
+    "brandName": "高斯贝尔",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-22 10:57:29"
   },
   {
     "id": 445,
