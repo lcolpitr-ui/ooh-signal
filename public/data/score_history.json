@@ -938,6 +938,13 @@
     "recordedAt": "2026-06-05 03:40:57"
   },
   {
+    "id": 1328,
+    "brandName": "NESO",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:47"
+  },
+  {
     "id": 1062,
     "brandName": "NPFG",
     "score": 0,
@@ -2324,6 +2331,13 @@
     "recordedAt": "2026-06-05 08:03:32"
   },
   {
+    "id": 1324,
+    "brandName": "三星电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:42"
+  },
+  {
     "id": 428,
     "brandName": "三环集团",
     "score": 0,
@@ -2357,6 +2371,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:44"
+  },
+  {
+    "id": 1320,
+    "brandName": "上海黄金交易所",
+    "score": 33,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:28"
   },
   {
     "id": 491,
@@ -2492,6 +2513,20 @@
     "recordedAt": "2026-06-15 00:23:25"
   },
   {
+    "id": 1322,
+    "brandName": "中信建投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:39"
+  },
+  {
+    "id": 1323,
+    "brandName": "中信建投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:41"
+  },
+  {
     "id": 17,
     "brandName": "中信证券",
     "score": 55,
@@ -2595,6 +2630,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-19 06:35:34"
+  },
+  {
+    "id": 1325,
+    "brandName": "中国石油",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:43"
   },
   {
     "id": 141,
@@ -4830,6 +4872,13 @@
     "recordedAt": "2026-06-04 04:36:09"
   },
   {
+    "id": 1327,
+    "brandName": "工商银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:45"
+  },
+  {
     "id": 1247,
     "brandName": "工大高科",
     "score": 0,
@@ -6069,6 +6118,13 @@
     "recordedAt": "2026-06-13 12:42:43"
   },
   {
+    "id": 1326,
+    "brandName": "比亚迪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:44"
+  },
+  {
     "id": 1298,
     "brandName": "比音勒芬",
     "score": 0,
@@ -6522,6 +6578,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 04:31:48"
+  },
+  {
+    "id": 1321,
+    "brandName": "特斯拉",
+    "score": 30,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:33"
   },
   {
     "id": 296,
@@ -7574,6 +7637,13 @@
     "recordedAt": "2026-06-22 04:31:51"
   },
   {
+    "id": 1329,
+    "brandName": "英伟达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:24:49"
+  },
+  {
     "id": 79,
     "brandName": "英博数科",
     "score": 55,
@@ -8454,6 +8524,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 00:18:48"
+  },
+  {
+    "id": 1330,
+    "brandName": "金川集团国际资源有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 00:25:17"
   },
   {
     "id": 429,
