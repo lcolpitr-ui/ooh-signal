@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T05:22:51.971864+00:00",
-  "total_matches": 212,
+  "generated_at": "2026-06-23T08:59:26.191614+00:00",
+  "total_matches": 215,
   "matches": [
     {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
@@ -98,6 +98,25 @@
       "daily_traffic": 120000
     },
     {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
       "signal_id": "84479d660abe73b079c8ccfd4d14e975",
       "signal_title": "KOI可宜全球品牌代言人🦌官宣倒计时3天！ 镜头前，她灵动百变，演绎多种人生百态镜头外，她自在鲜活，",
       "brand_name": "KOI可宜",
@@ -208,6 +227,63 @@
         "预算匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -383,25 +459,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
       "signal_id": "dee5d257335461acda5d69208870746a",
       "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
       "brand_name": "福日电子",
@@ -474,63 +531,6 @@
         "预算匹配"
       ],
       "reason_text": "华为所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -918,7 +918,7 @@
       "signal_id": "843631ffd9628b1876247519044f45cf",
       "signal_title": "300040九洲集团投资者关系管理信息2026-002",
       "brand_name": "九洲集团",
-      "signal_score": 81,
+      "signal_score": 80,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -937,7 +937,7 @@
       "signal_id": "843631ffd9628b1876247519044f45cf",
       "signal_title": "300040九洲集团投资者关系管理信息2026-002",
       "brand_name": "九洲集团",
-      "signal_score": 81,
+      "signal_score": 80,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -956,7 +956,7 @@
       "signal_id": "843631ffd9628b1876247519044f45cf",
       "signal_title": "300040九洲集团投资者关系管理信息2026-002",
       "brand_name": "九洲集团",
-      "signal_score": 81,
+      "signal_score": 80,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1070,7 +1070,7 @@
       "signal_id": "d1c966205b5638e7106ce704ca2de00c",
       "signal_title": "合肥工大高科信息科技股份有限公司简式权益变动报告书（芯望投资）",
       "brand_name": "工大高科",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -1089,7 +1089,7 @@
       "signal_id": "d1c966205b5638e7106ce704ca2de00c",
       "signal_title": "合肥工大高科信息科技股份有限公司简式权益变动报告书（芯望投资）",
       "brand_name": "工大高科",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -1108,7 +1108,7 @@
       "signal_id": "d1c966205b5638e7106ce704ca2de00c",
       "signal_title": "合肥工大高科信息科技股份有限公司简式权益变动报告书（芯望投资）",
       "brand_name": "工大高科",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1122,44 +1122,6 @@
       "reason_text": "工大高科所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "5dde7c7d21362046e0f4643343dc580b",
@@ -1181,10 +1143,48 @@
       "daily_traffic": 250000
     },
     {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1203,7 +1203,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1238,25 +1238,6 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "f894a2786627fabf63e837df934d451d",
-      "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
-      "brand_name": "建滔投资",
-      "signal_score": 70,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "建滔投资所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
       "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
       "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
       "brand_name": "希思黎",
@@ -1325,6 +1306,78 @@
         "媒体类型匹配"
       ],
       "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1469,6 +1522,42 @@
         "媒体类型匹配"
       ],
       "reason_text": "Augustinus Bader所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
+      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
+      "brand_name": "KATO-KATO",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1635,78 +1724,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "dee5d257335461acda5d69208870746a",
       "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
       "brand_name": "福日电子",
@@ -1743,42 +1760,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "ab786ee88d4d58de0bf12c2cf2e194b3",
-      "signal_title": "官宣倒计时|两种光芒 一个故事当一颗星星择路北上落笔我们的序章势均力敌的两道光芒并肩行至星辉与天明「",
-      "brand_name": "KATO-KATO",
-      "signal_score": 90,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "KATO-KATO所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "6141c409dc575d69fca156133ed037ec",
       "signal_title": "@虞书欣Esther  / ubras品牌代言人摄影：述禾制片：TAO",
       "brand_name": "ubras",
@@ -2155,6 +2136,42 @@
       "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
+    },
+    {
+      "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
+      "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
+      "brand_name": "汉邦科技",
+      "signal_score": 85,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "汉邦科技所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
+      "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
+      "brand_name": "汉邦科技",
+      "signal_score": 85,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "汉邦科技所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
     },
     {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
@@ -2265,60 +2282,6 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
       "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
       "signal_title": "LG化学宣布与英国LabGenius Therapeutics公司达成合作",
       "brand_name": "LG化学",
@@ -2373,10 +2336,64 @@
       "daily_traffic": 300000
     },
     {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2394,7 +2411,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2412,7 +2429,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2445,20 +2462,20 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "f894a2786627fabf63e837df934d451d",
-      "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
-      "brand_name": "建滔投资",
-      "signal_score": 70,
+      "signal_id": "0ad697d8b0b71ae94864f9c6d03a3d4e",
+      "signal_title": "城建发展关于收到深圳市中科招商创业投资有限公司现金分红的公告",
+      "brand_name": "城建发展",
+      "signal_score": 95,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
       "resource_location": "北京",
-      "match_score": 70,
+      "match_score": 60,
       "reasons": [
         "行业匹配",
-        "媒体类型匹配"
+        "预算匹配"
       ],
-      "reason_text": "建滔投资所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "reason_text": "城建发展所在行业与机场广告受众契合；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 300000
     },
@@ -2535,10 +2552,28 @@
       "daily_traffic": 250000
     },
     {
+      "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
+      "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
+      "brand_name": "汉邦科技",
+      "signal_score": 85,
+      "resource_id": "res_012",
+      "resource_name": "北京公交车身广告",
+      "resource_type": "公交广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "汉邦科技所在行业与公交广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 100000
+    },
+    {
       "signal_id": "843631ffd9628b1876247519044f45cf",
       "signal_title": "300040九洲集团投资者关系管理信息2026-002",
       "brand_name": "九洲集团",
-      "signal_score": 81,
+      "signal_score": 80,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -2628,7 +2663,7 @@
       "signal_id": "d1c966205b5638e7106ce704ca2de00c",
       "signal_title": "合肥工大高科信息科技股份有限公司简式权益变动报告书（芯望投资）",
       "brand_name": "工大高科",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -2641,78 +2676,6 @@
       "reason_text": "工大高科所在行业与高铁站广告受众契合；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_012",
-      "resource_name": "北京公交车身广告",
-      "resource_type": "公交广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "中粮糖业所在行业与公交广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 100000
     },
     {
       "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
@@ -2805,10 +2768,82 @@
       "daily_traffic": 60000
     },
     {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与高铁站广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_012",
+      "resource_name": "北京公交车身广告",
+      "resource_type": "公交广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "中粮糖业所在行业与公交广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 100000
+    },
+    {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2826,7 +2861,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2844,7 +2879,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2862,7 +2897,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2945,78 +2980,6 @@
         "预算匹配"
       ],
       "reason_text": "华安基金所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "f894a2786627fabf63e837df934d451d",
-      "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
-      "brand_name": "建滔投资",
-      "signal_score": 70,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "建滔投资所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "f894a2786627fabf63e837df934d451d",
-      "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
-      "brand_name": "建滔投资",
-      "signal_score": 70,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "建滔投资所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "f894a2786627fabf63e837df934d451d",
-      "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
-      "brand_name": "建滔投资",
-      "signal_score": 70,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "建滔投资所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "f894a2786627fabf63e837df934d451d",
-      "signal_title": "自愿性公告 - 建滔投资有限公司配售本公司股份",
-      "brand_name": "建滔投资",
-      "signal_score": 70,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "建滔投资所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
@@ -3037,6 +3000,96 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "0ad697d8b0b71ae94864f9c6d03a3d4e",
+      "signal_title": "城建发展关于收到深圳市中科招商创业投资有限公司现金分红的公告",
+      "brand_name": "城建发展",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "0ad697d8b0b71ae94864f9c6d03a3d4e",
+      "signal_title": "城建发展关于收到深圳市中科招商创业投资有限公司现金分红的公告",
+      "brand_name": "城建发展",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "0ad697d8b0b71ae94864f9c6d03a3d4e",
+      "signal_title": "城建发展关于收到深圳市中科招商创业投资有限公司现金分红的公告",
+      "brand_name": "城建发展",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "55d8b2bf2fb1b40c661db0b6600522e0",
@@ -3091,42 +3144,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
     },
     {
       "signal_id": "dee5d257335461acda5d69208870746a",
@@ -3597,10 +3614,46 @@
       "daily_traffic": 80000
     },
     {
+      "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
+      "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
+      "brand_name": "汉邦科技",
+      "signal_score": 85,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
+      "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
+      "brand_name": "汉邦科技",
+      "signal_score": 85,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
       "signal_id": "843631ffd9628b1876247519044f45cf",
       "signal_title": "300040九洲集团投资者关系管理信息2026-002",
       "brand_name": "九洲集团",
-      "signal_score": 81,
+      "signal_score": 80,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3618,7 +3671,7 @@
       "signal_id": "843631ffd9628b1876247519044f45cf",
       "signal_title": "300040九洲集团投资者关系管理信息2026-002",
       "brand_name": "九洲集团",
-      "signal_score": 81,
+      "signal_score": 80,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -3708,7 +3761,7 @@
       "signal_id": "d1c966205b5638e7106ce704ca2de00c",
       "signal_title": "合肥工大高科信息科技股份有限公司简式权益变动报告书（芯望投资）",
       "brand_name": "工大高科",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3726,7 +3779,7 @@
       "signal_id": "d1c966205b5638e7106ce704ca2de00c",
       "signal_title": "合肥工大高科信息科技股份有限公司简式权益变动报告书（芯望投资）",
       "brand_name": "工大高科",
-      "signal_score": 78,
+      "signal_score": 77,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -3739,24 +3792,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
-    },
-    {
-      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
-      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-      "brand_name": "中粮糖业",
-      "signal_score": 75,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
     },
     {
       "signal_id": "6d82f61924f35ba5fe47167b650b6fd6",
@@ -3795,10 +3830,28 @@
       "daily_traffic": 400000
     },
     {
+      "signal_id": "07f966d9aacfe8855c56e3b006eb3e1a",
+      "signal_title": "中粮糖业控股股份有限公司关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
+      "brand_name": "中粮糖业",
+      "signal_score": 74,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3816,7 +3869,7 @@
       "signal_id": "3c540f3e8c36f179c83158a7e6854a5a",
       "signal_title": "000795英洛华投资者关系管理信息20260618",
       "brand_name": "英洛华",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -3834,7 +3887,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3852,7 +3905,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -3870,7 +3923,7 @@
       "signal_id": "f65592592eeafc74b88e33c8bd1ee0ab",
       "signal_title": "000039中集集团投资者关系管理信息20260618",
       "brand_name": "中集集团",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",

@@ -721,6 +721,13 @@
     "recordedAt": "2026-06-04 06:01:05"
   },
   {
+    "id": 1377,
+    "brandName": "Loop Engineering",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:14"
+  },
+  {
     "id": 85,
     "brandName": "Lorina storia 罗莎工坊",
     "score": 50,
@@ -754,6 +761,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 04:31:50"
+  },
+  {
+    "id": 1367,
+    "brandName": "MINIMAX-WP",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:52"
   },
   {
     "id": 121,
@@ -1090,6 +1104,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 22:23:08"
+  },
+  {
+    "id": 1369,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:54"
   },
   {
     "id": 189,
@@ -3031,6 +3052,13 @@
     "recordedAt": "2026-06-22 10:57:53"
   },
   {
+    "id": 1373,
+    "brandName": "亚朵集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:08"
+  },
+  {
     "id": 556,
     "brandName": "亚瑟士",
     "score": 0,
@@ -3295,6 +3323,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-08 07:25:25"
+  },
+  {
+    "id": 1376,
+    "brandName": "元气森林",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:13"
   },
   {
     "id": 954,
@@ -4088,11 +4123,25 @@
     "recordedAt": "2026-06-13 03:53:41"
   },
   {
+    "id": 1374,
+    "brandName": "埃森哲",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:09"
+  },
+  {
     "id": 83,
     "brandName": "埃泰克",
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 07:02:49"
+  },
+  {
+    "id": 1378,
+    "brandName": "城建发展",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:48"
   },
   {
     "id": 631,
@@ -5019,6 +5068,13 @@
     "recordedAt": "2026-06-18 12:45:31"
   },
   {
+    "id": 1362,
+    "brandName": "广发银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:44"
+  },
+  {
     "id": 1226,
     "brandName": "应用材料",
     "score": 0,
@@ -5220,6 +5276,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:09"
+  },
+  {
+    "id": 1366,
+    "brandName": "微盟集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:50"
   },
   {
     "id": 20,
@@ -5908,6 +5971,13 @@
     "recordedAt": "2026-06-23 05:21:34"
   },
   {
+    "id": 1371,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:00"
+  },
+  {
     "id": 636,
     "brandName": "智谱AI",
     "score": 0,
@@ -6209,6 +6279,13 @@
     "recordedAt": "2026-06-10 10:15:49"
   },
   {
+    "id": 1364,
+    "brandName": "正泰电器",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:46"
+  },
+  {
     "id": 206,
     "brandName": "此芯科技",
     "score": 55,
@@ -6319,6 +6396,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 12:36:27"
+  },
+  {
+    "id": 1379,
+    "brandName": "汉邦科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:49"
   },
   {
     "id": 782,
@@ -7005,6 +7089,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 11:06:03"
+  },
+  {
+    "id": 1363,
+    "brandName": "神通科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:45"
   },
   {
     "id": 651,
@@ -7819,6 +7910,13 @@
     "recordedAt": "2026-06-23 05:21:21"
   },
   {
+    "id": 1375,
+    "brandName": "英伟达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:12"
+  },
+  {
     "id": 79,
     "brandName": "英博数科",
     "score": 55,
@@ -8141,6 +8239,13 @@
     "recordedAt": "2026-06-17 23:40:22"
   },
   {
+    "id": 1372,
+    "brandName": "莱茵生物",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:58:06"
+  },
+  {
     "id": 1056,
     "brandName": "菜鸟",
     "score": 0,
@@ -8421,6 +8526,13 @@
     "recordedAt": "2026-06-23 05:21:13"
   },
   {
+    "id": 1368,
+    "brandName": "豆包",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:53"
+  },
+  {
     "id": 1049,
     "brandName": "贝泰妮",
     "score": 0,
@@ -8657,6 +8769,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-08 08:24:33"
+  },
+  {
+    "id": 1365,
+    "brandName": "通威股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:47"
   },
   {
     "id": 218,
@@ -9114,6 +9233,13 @@
     "recordedAt": "2026-06-11 10:39:27"
   },
   {
+    "id": 1361,
+    "brandName": "隆基绿能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:43"
+  },
+  {
     "id": 48,
     "brandName": "隆扬电子",
     "score": 55,
@@ -9168,6 +9294,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:41:51"
+  },
+  {
+    "id": 1370,
+    "brandName": "雷诺",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 08:57:56"
   },
   {
     "id": 160,
