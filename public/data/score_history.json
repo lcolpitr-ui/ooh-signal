@@ -854,6 +854,13 @@
     "recordedAt": "2026-06-19 06:35:41"
   },
   {
+    "id": 1406,
+    "brandName": "Meta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:13"
+  },
+  {
     "id": 684,
     "brandName": "MiniMax",
     "score": 0,
@@ -1237,6 +1244,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:24"
+  },
+  {
+    "id": 1411,
+    "brandName": "Renault",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:20"
   },
   {
     "id": 988,
@@ -2959,6 +2973,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 06:54:27"
+  },
+  {
+    "id": 1409,
+    "brandName": "丰田",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:17"
   },
   {
     "id": 1305,
@@ -4914,6 +4935,13 @@
     "recordedAt": "2026-06-18 16:52:45"
   },
   {
+    "id": 1403,
+    "brandName": "小鹏集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:09"
+  },
+  {
     "id": 211,
     "brandName": "尚客优",
     "score": 50,
@@ -5080,6 +5108,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-21 10:23:29"
+  },
+  {
+    "id": 1415,
+    "brandName": "工银瑞信",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:57"
   },
   {
     "id": 1343,
@@ -5509,6 +5544,13 @@
     "recordedAt": "2026-06-04 08:08:21"
   },
   {
+    "id": 1413,
+    "brandName": "恒久光电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:22"
+  },
+  {
     "id": 527,
     "brandName": "恒瑞医药",
     "score": 0,
@@ -5801,6 +5843,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 04:13:18"
+  },
+  {
+    "id": 1412,
+    "brandName": "无锡振华",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:21"
   },
   {
     "id": 155,
@@ -6291,6 +6340,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 04:31:42"
+  },
+  {
+    "id": 1408,
+    "brandName": "格力电器",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:16"
   },
   {
     "id": 258,
@@ -6825,6 +6881,13 @@
     "recordedAt": "2026-06-23 12:32:26"
   },
   {
+    "id": 1405,
+    "brandName": "煜鼎增材",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:11"
+  },
+  {
     "id": 946,
     "brandName": "燧原",
     "score": 0,
@@ -6921,6 +6984,13 @@
     "score": 30,
     "signalCount": 1,
     "recordedAt": "2026-06-23 00:24:33"
+  },
+  {
+    "id": 1407,
+    "brandName": "特斯拉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:15"
   },
   {
     "id": 296,
@@ -7245,6 +7315,13 @@
     "recordedAt": "2026-06-15 06:42:11"
   },
   {
+    "id": 1414,
+    "brandName": "科凯电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:23"
+  },
+  {
     "id": 784,
     "brandName": "科大讯飞",
     "score": 0,
@@ -7453,6 +7530,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:33:06"
+  },
+  {
+    "id": 1404,
+    "brandName": "美光科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:10"
   },
   {
     "id": 31,
@@ -7775,6 +7859,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 12:32:25"
+  },
+  {
+    "id": 1410,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-23 16:10:19"
   },
   {
     "id": 215,

@@ -181,7 +181,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 22,
+    "signalCount": 23,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -665,7 +665,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:06"
@@ -1127,7 +1127,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:18"
@@ -2623,7 +2623,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 08:03:36"
@@ -4141,7 +4141,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:54:27"
@@ -4801,7 +4801,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:06"
@@ -9513,5 +9513,82 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-23 12:32:56"
+  },
+  {
+    "id": "煜鼎增材",
+    "name": "煜鼎增材",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:11"
+  },
+  {
+    "id": "格力电器",
+    "name": "格力电器",
+    "industry": "家电",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:16"
+  },
+  {
+    "id": "renault",
+    "name": "Renault",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:20"
+  },
+  {
+    "id": "无锡振华",
+    "name": "无锡振华",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:21"
+  },
+  {
+    "id": "恒久光电",
+    "name": "恒久光电",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:22"
+  },
+  {
+    "id": "科凯电子",
+    "name": "科凯电子",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:23"
+  },
+  {
+    "id": "工银瑞信",
+    "name": "工银瑞信",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 16:10:57"
   }
 ]
