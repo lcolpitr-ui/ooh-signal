@@ -181,7 +181,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 20,
+    "signalCount": 21,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -214,7 +214,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -489,7 +489,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:01"
@@ -500,7 +500,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 92,
+    "signalCount": 94,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1204,7 +1204,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 14,
+    "signalCount": 15,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1743,7 +1743,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 10,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -3624,7 +3624,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 12,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:56"
@@ -3668,7 +3668,7 @@
     "industry": "互联网",
     "scale": "small",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:02"
@@ -4229,7 +4229,7 @@
     "industry": "快消",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 07:21:52"
@@ -4658,7 +4658,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:15"
@@ -4768,7 +4768,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:02"
@@ -4834,7 +4834,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:14"
@@ -6033,7 +6033,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 03:53:48"
@@ -6297,7 +6297,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-14 06:05:14"
@@ -8431,7 +8431,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-21 06:19:52"
@@ -9117,5 +9117,126 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-23 00:24:47"
+  },
+  {
+    "id": "瓷瓷乐玩",
+    "name": "瓷瓷乐玩",
+    "industry": "快消",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:01"
+  },
+  {
+    "id": "值得买科技",
+    "name": "值得买科技",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:03"
+  },
+  {
+    "id": "凌川科技",
+    "name": "凌川科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:04"
+  },
+  {
+    "id": "雪梦未来",
+    "name": "雪梦未来",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:05"
+  },
+  {
+    "id": "华健未来",
+    "name": "华健未来",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:06"
+  },
+  {
+    "id": "索尼",
+    "name": "索尼",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:12"
+  },
+  {
+    "id": "巨人网络",
+    "name": "巨人网络",
+    "industry": "游戏",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:14"
+  },
+  {
+    "id": "扬杰科技",
+    "name": "扬杰科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:15"
+  },
+  {
+    "id": "eleven-dynamics",
+    "name": "Eleven Dynamics",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:29"
+  },
+  {
+    "id": "曹操出行",
+    "name": "曹操出行",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:38"
+  },
+  {
+    "id": "天味",
+    "name": "天味",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-23 05:21:40"
   }
 ]
