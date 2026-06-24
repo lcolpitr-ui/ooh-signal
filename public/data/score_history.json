@@ -112,6 +112,20 @@
     "recordedAt": "2026-06-24 16:44:09"
   },
   {
+    "id": 1512,
+    "brandName": "36氪",
+    "score": 51,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 19:13:58"
+  },
+  {
+    "id": 1513,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 19:14:09"
+  },
+  {
     "id": 1431,
     "brandName": "ABB",
     "score": 0,
@@ -3694,6 +3708,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 13:43:18"
+  },
+  {
+    "id": 1514,
+    "brandName": "兴业科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 19:14:11"
   },
   {
     "id": 1435,
@@ -8405,6 +8426,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 13:43:27"
+  },
+  {
+    "id": 1515,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 19:14:12"
   },
   {
     "id": 215,
