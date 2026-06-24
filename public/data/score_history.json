@@ -126,6 +126,20 @@
     "recordedAt": "2026-06-24 19:14:09"
   },
   {
+    "id": 1516,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 21:13:03"
+  },
+  {
+    "id": 1517,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 21:13:05"
+  },
+  {
     "id": 1431,
     "brandName": "ABB",
     "score": 0,
@@ -5591,6 +5605,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 16:44:43"
+  },
+  {
+    "id": 1518,
+    "brandName": "建信基金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 21:13:46"
   },
   {
     "id": 1157,
