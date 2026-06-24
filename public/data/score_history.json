@@ -77,6 +77,20 @@
     "recordedAt": "2026-06-24 08:01:41"
   },
   {
+    "id": 1472,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:08"
+  },
+  {
+    "id": 1473,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:09"
+  },
+  {
     "id": 1431,
     "brandName": "ABB",
     "score": 0,
@@ -1407,6 +1421,13 @@
     "recordedAt": "2026-06-24 00:16:22"
   },
   {
+    "id": 1482,
+    "brandName": "SK海力士",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:19"
+  },
+  {
     "id": 643,
     "brandName": "ST洲际",
     "score": 0,
@@ -2282,6 +2303,13 @@
     "recordedAt": "2026-06-11 10:38:55"
   },
   {
+    "id": 1484,
+    "brandName": "WPS",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:21"
+  },
+  {
     "id": 500,
     "brandName": "WasabiCard",
     "score": 0,
@@ -2800,6 +2828,13 @@
     "recordedAt": "2026-06-10 10:15:36"
   },
   {
+    "id": 1475,
+    "brandName": "中国巨石",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:11"
+  },
+  {
     "id": 873,
     "brandName": "中国生物制药",
     "score": 0,
@@ -2975,6 +3010,13 @@
     "recordedAt": "2026-06-18 09:05:36"
   },
   {
+    "id": 1488,
+    "brandName": "中航机载",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:59"
+  },
+  {
     "id": 406,
     "brandName": "中芯国际",
     "score": 0,
@@ -2989,11 +3031,25 @@
     "recordedAt": "2026-06-16 04:18:59"
   },
   {
+    "id": 1474,
+    "brandName": "中芯国际",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:10"
+  },
+  {
     "id": 28,
     "brandName": "中谷物流",
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:15"
+  },
+  {
+    "id": 1480,
+    "brandName": "中谷物流",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:17"
   },
   {
     "id": 216,
@@ -3388,6 +3444,13 @@
     "recordedAt": "2026-06-24 08:01:42"
   },
   {
+    "id": 1487,
+    "brandName": "仙工智能",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:27"
+  },
+  {
     "id": 463,
     "brandName": "仙鹤股份",
     "score": 0,
@@ -3715,6 +3778,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 05:44:16"
+  },
+  {
+    "id": 1470,
+    "brandName": "华东医药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:06"
+  },
+  {
+    "id": 1481,
+    "brandName": "华东医药",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:18"
   },
   {
     "id": 91,
@@ -4506,6 +4583,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 05:21:40"
+  },
+  {
+    "id": 1485,
+    "brandName": "天味食品",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:23"
   },
   {
     "id": 360,
@@ -5341,6 +5425,13 @@
     "recordedAt": "2026-06-18 12:45:31"
   },
   {
+    "id": 1483,
+    "brandName": "平安电工",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:20"
+  },
+  {
     "id": 1362,
     "brandName": "广发银行",
     "score": 0,
@@ -5430,6 +5521,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-14 06:05:24"
+  },
+  {
+    "id": 1471,
+    "brandName": "影眸科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:07"
   },
   {
     "id": 753,
@@ -5724,6 +5822,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:12"
+  },
+  {
+    "id": 1477,
+    "brandName": "思源电气",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:14"
   },
   {
     "id": 96,
@@ -6902,6 +7007,13 @@
     "recordedAt": "2026-06-08 07:25:08"
   },
   {
+    "id": 1479,
+    "brandName": "泰晶科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:16"
+  },
+  {
     "id": 24,
     "brandName": "泰格医药",
     "score": 50,
@@ -7089,6 +7201,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 16:52:44"
+  },
+  {
+    "id": 1486,
+    "brandName": "滴滴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:25"
   },
   {
     "id": 1038,
@@ -7502,6 +7621,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-20 05:32:10"
+  },
+  {
+    "id": 1478,
+    "brandName": "盛邦安全",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:15"
   },
   {
     "id": 706,
@@ -9980,6 +10106,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 16:35:35"
+  },
+  {
+    "id": 1476,
+    "brandName": "领益智造",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 11:11:12"
   },
   {
     "id": 704,

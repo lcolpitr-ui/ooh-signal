@@ -1875,7 +1875,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:15"
@@ -2711,7 +2711,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:24:53"
@@ -3690,7 +3690,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:04"
@@ -3767,7 +3767,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:21"
@@ -4658,7 +4658,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 10,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -4790,7 +4790,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:03"
@@ -9865,5 +9865,126 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 08:02:47"
+  },
+  {
+    "id": "华东医药",
+    "name": "华东医药",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:06"
+  },
+  {
+    "id": "影眸科技",
+    "name": "影眸科技",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:07"
+  },
+  {
+    "id": "中国巨石",
+    "name": "中国巨石",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:11"
+  },
+  {
+    "id": "领益智造",
+    "name": "领益智造",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:12"
+  },
+  {
+    "id": "思源电气",
+    "name": "思源电气",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:14"
+  },
+  {
+    "id": "盛邦安全",
+    "name": "盛邦安全",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:15"
+  },
+  {
+    "id": "泰晶科技",
+    "name": "泰晶科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:16"
+  },
+  {
+    "id": "平安电工",
+    "name": "平安电工",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:20"
+  },
+  {
+    "id": "wps",
+    "name": "WPS",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:21"
+  },
+  {
+    "id": "天味食品",
+    "name": "天味食品",
+    "industry": "快消",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:23"
+  },
+  {
+    "id": "中航机载",
+    "name": "中航机载",
+    "industry": "航空",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 11:11:59"
   }
 ]
