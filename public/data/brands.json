@@ -181,7 +181,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 23,
+    "signalCount": 24,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -214,7 +214,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -500,7 +500,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 95,
+    "signalCount": 96,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -709,7 +709,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 13,
+    "signalCount": 14,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -1204,7 +1204,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 16,
+    "signalCount": 17,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1424,7 +1424,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:08:31"
@@ -4658,7 +4658,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -9986,5 +9986,148 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 11:11:59"
+  },
+  {
+    "id": "临界点",
+    "name": "临界点",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:10"
+  },
+  {
+    "id": "亚信安全",
+    "name": "亚信安全",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:12"
+  },
+  {
+    "id": "酷尔芯科技",
+    "name": "酷尔芯科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:17"
+  },
+  {
+    "id": "兴业科技",
+    "name": "兴业科技",
+    "industry": "服装",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:18"
+  },
+  {
+    "id": "极豪科技",
+    "name": "极豪科技",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:19"
+  },
+  {
+    "id": "海南海药",
+    "name": "海南海药",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:20"
+  },
+  {
+    "id": "德尔玛",
+    "name": "德尔玛",
+    "industry": "家电",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:21"
+  },
+  {
+    "id": "seer-robotics",
+    "name": "SEER Robotics",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:25"
+  },
+  {
+    "id": "恒为科技",
+    "name": "恒为科技",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:26"
+  },
+  {
+    "id": "李蓓",
+    "name": "李蓓",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:30"
+  },
+  {
+    "id": "中粮",
+    "name": "中粮",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:35"
+  },
+  {
+    "id": "rubin",
+    "name": "Rubin",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:43:36"
+  },
+  {
+    "id": "建信基金",
+    "name": "建信基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 13:44:07"
   }
 ]
