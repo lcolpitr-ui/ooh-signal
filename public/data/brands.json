@@ -335,7 +335,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 06:20:26"
@@ -709,7 +709,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 12,
+    "signalCount": 13,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:16"
@@ -896,7 +896,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 12,
+    "signalCount": 13,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1138,7 +1138,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:20"
@@ -1716,6 +1716,17 @@
     "createdAt": "2026-06-16 16:12:14"
   },
   {
+    "id": "广州市番禺协诚实业有限公司",
+    "name": "广州市番禺协诚实业有限公司",
+    "industry": "地产",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 51,
+    "website": null,
+    "createdAt": "2026-06-24 04:03:24"
+  },
+  {
     "id": "柠季",
     "name": "柠季",
     "industry": "餐饮",
@@ -1743,7 +1754,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 11,
+    "signalCount": 14,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -2799,7 +2810,7 @@
     "industry": "家电",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 07:25:32"
@@ -3239,7 +3250,7 @@
     "industry": "医疗",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:06:02"
@@ -4647,7 +4658,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -8277,7 +8288,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-19 11:42:05"
@@ -8772,7 +8783,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-22 04:32:25"
@@ -9601,5 +9612,159 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 00:16:52"
+  },
+  {
+    "id": "随擎机器人",
+    "name": "随擎机器人",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:32"
+  },
+  {
+    "id": "瑞浦兰钧",
+    "name": "瑞浦兰钧",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:36"
+  },
+  {
+    "id": "软银集团",
+    "name": "软银集团",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:38"
+  },
+  {
+    "id": "abb",
+    "name": "ABB",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:41"
+  },
+  {
+    "id": "立讯精密",
+    "name": "立讯精密",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:42"
+  },
+  {
+    "id": "中国国新",
+    "name": "中国国新",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:44"
+  },
+  {
+    "id": "养生堂",
+    "name": "养生堂",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:46"
+  },
+  {
+    "id": "东鹏特饮",
+    "name": "东鹏特饮",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:48"
+  },
+  {
+    "id": "babycare",
+    "name": "Babycare",
+    "industry": "母婴",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:49"
+  },
+  {
+    "id": "欣旺达",
+    "name": "欣旺达",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:53"
+  },
+  {
+    "id": "resonac",
+    "name": "Resonac",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:55"
+  },
+  {
+    "id": "灵犀",
+    "name": "灵犀",
+    "industry": "游戏",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:04:58"
+  },
+  {
+    "id": "北大荒",
+    "name": "北大荒",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:05:01"
+  },
+  {
+    "id": "蓝箭航天",
+    "name": "蓝箭航天",
+    "industry": "航空",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-24 04:05:05"
   }
 ]
