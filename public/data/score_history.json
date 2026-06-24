@@ -91,6 +91,13 @@
     "recordedAt": "2026-06-04 04:36:08"
   },
   {
+    "id": 1417,
+    "brandName": "Alphabet",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 00:16:18"
+  },
+  {
     "id": 144,
     "brandName": "Amap",
     "score": 50,
@@ -1328,6 +1335,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 04:31:52"
+  },
+  {
+    "id": 1418,
+    "brandName": "SK海力士",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 00:16:22"
   },
   {
     "id": 643,
@@ -2826,6 +2840,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:16"
+  },
+  {
+    "id": 1420,
+    "brandName": "中漆集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 00:16:52"
   },
   {
     "id": 340,
@@ -8372,6 +8393,13 @@
     "recordedAt": "2026-06-21 23:31:15"
   },
   {
+    "id": 1416,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 00:16:13"
+  },
+  {
     "id": 19,
     "brandName": "茅台",
     "score": 50,
@@ -8958,6 +8986,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 12:32:59"
+  },
+  {
+    "id": 1419,
+    "brandName": "追觅",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-24 00:16:23"
   },
   {
     "id": 1014,
