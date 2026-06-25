@@ -448,6 +448,13 @@
     "recordedAt": "2026-06-08 20:27:41"
   },
   {
+    "id": 1541,
+    "brandName": "B站",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:12"
+  },
+  {
     "id": 257,
     "brandName": "CELINE",
     "score": 50,
@@ -2429,6 +2436,13 @@
     "recordedAt": "2026-06-24 11:11:21"
   },
   {
+    "id": 1553,
+    "brandName": "WPS",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:41"
+  },
+  {
     "id": 500,
     "brandName": "WasabiCard",
     "score": 0,
@@ -2511,6 +2525,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:14"
+  },
+  {
+    "id": 1552,
+    "brandName": "一汽-大众",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:36"
   },
   {
     "id": 1057,
@@ -2924,6 +2945,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 11:06:29"
+  },
+  {
+    "id": 1549,
+    "brandName": "中原银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:29"
   },
   {
     "id": 274,
@@ -3367,6 +3395,13 @@
     "recordedAt": "2026-06-08 11:05:59"
   },
   {
+    "id": 1534,
+    "brandName": "云际航电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:04"
+  },
+  {
     "id": 1307,
     "brandName": "云鲸智能",
     "score": 0,
@@ -3449,6 +3484,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 08:01:54"
+  },
+  {
+    "id": 1550,
+    "brandName": "亚马逊",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:31"
   },
   {
     "id": 469,
@@ -3612,6 +3654,13 @@
     "recordedAt": "2026-06-09 06:54:32"
   },
   {
+    "id": 1546,
+    "brandName": "企业微信",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:21"
+  },
+  {
     "id": 337,
     "brandName": "伊力特",
     "score": 0,
@@ -3750,6 +3799,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 09:04:47"
+  },
+  {
+    "id": 1537,
+    "brandName": "光源资本",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:08"
   },
   {
     "id": 455,
@@ -4326,6 +4382,13 @@
     "recordedAt": "2026-06-13 12:42:36"
   },
   {
+    "id": 1533,
+    "brandName": "吉天星舟",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:02"
+  },
+  {
     "id": 362,
     "brandName": "同程旅行",
     "score": 0,
@@ -4793,6 +4856,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-20 05:32:21"
+  },
+  {
+    "id": 1545,
+    "brandName": "天邑股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:19"
   },
   {
     "id": 153,
@@ -5502,6 +5572,13 @@
     "recordedAt": "2026-06-11 05:44:41"
   },
   {
+    "id": 1538,
+    "brandName": "岚图汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:09"
+  },
+  {
     "id": 1385,
     "brandName": "岭南控股",
     "score": 0,
@@ -5985,6 +6062,13 @@
     "recordedAt": "2026-06-22 16:11:32"
   },
   {
+    "id": 1548,
+    "brandName": "徽商银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:28"
+  },
+  {
     "id": 1163,
     "brandName": "必和必拓",
     "score": 0,
@@ -6062,6 +6146,13 @@
     "recordedAt": "2026-06-23 16:10:22"
   },
   {
+    "id": 1539,
+    "brandName": "恒大物业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:10"
+  },
+  {
     "id": 527,
     "brandName": "恒瑞医药",
     "score": 0,
@@ -6095,6 +6186,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 05:43:49"
+  },
+  {
+    "id": 1543,
+    "brandName": "戴尔",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:16"
   },
   {
     "id": 8,
@@ -6193,6 +6291,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-05 08:03:37"
+  },
+  {
+    "id": 1544,
+    "brandName": "招金矿业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:18"
   },
   {
     "id": 607,
@@ -7546,6 +7651,13 @@
     "recordedAt": "2026-06-18 16:52:42"
   },
   {
+    "id": 1554,
+    "brandName": "爱琴海",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:43"
+  },
+  {
     "id": 910,
     "brandName": "爱迪特",
     "score": 0,
@@ -7882,6 +7994,13 @@
     "recordedAt": "2026-06-10 13:55:53"
   },
   {
+    "id": 1536,
+    "brandName": "矽迪半导体",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:07"
+  },
+  {
     "id": 939,
     "brandName": "硅基流动",
     "score": 0,
@@ -8083,6 +8202,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:56"
+  },
+  {
+    "id": 1535,
+    "brandName": "紫讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:05"
   },
   {
     "id": 484,
@@ -9107,6 +9233,13 @@
     "recordedAt": "2026-06-10 10:15:35"
   },
   {
+    "id": 1551,
+    "brandName": "药捷安康",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:34"
+  },
+  {
     "id": 346,
     "brandName": "药明康德",
     "score": 0,
@@ -9469,6 +9602,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 13:43:34"
+  },
+  {
+    "id": 1540,
+    "brandName": "豆包",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:11"
+  },
+  {
+    "id": 1547,
+    "brandName": "豆包",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:22"
   },
   {
     "id": 1049,
@@ -10022,6 +10169,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:31"
+  },
+  {
+    "id": 1542,
+    "brandName": "长电科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 05:26:15"
   },
   {
     "id": 966,

@@ -214,7 +214,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 12,
+    "signalCount": 14,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -8167,7 +8167,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-19 06:35:42"
@@ -9971,7 +9971,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 11:11:21"
@@ -10173,5 +10173,203 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 00:32:22"
+  },
+  {
+    "id": "吉天星舟",
+    "name": "吉天星舟",
+    "industry": "航空",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:02"
+  },
+  {
+    "id": "云际航电",
+    "name": "云际航电",
+    "industry": "航空",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:04"
+  },
+  {
+    "id": "紫讯",
+    "name": "紫讯",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:05"
+  },
+  {
+    "id": "矽迪半导体",
+    "name": "矽迪半导体",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:07"
+  },
+  {
+    "id": "光源资本",
+    "name": "光源资本",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:08"
+  },
+  {
+    "id": "岚图汽车",
+    "name": "岚图汽车",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:09"
+  },
+  {
+    "id": "恒大物业",
+    "name": "恒大物业",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:10"
+  },
+  {
+    "id": "b站",
+    "name": "B站",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:12"
+  },
+  {
+    "id": "长电科技",
+    "name": "长电科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:15"
+  },
+  {
+    "id": "戴尔",
+    "name": "戴尔",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:16"
+  },
+  {
+    "id": "招金矿业",
+    "name": "招金矿业",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:18"
+  },
+  {
+    "id": "天邑股份",
+    "name": "天邑股份",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:19"
+  },
+  {
+    "id": "企业微信",
+    "name": "企业微信",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:21"
+  },
+  {
+    "id": "徽商银行",
+    "name": "徽商银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:28"
+  },
+  {
+    "id": "中原银行",
+    "name": "中原银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:29"
+  },
+  {
+    "id": "药捷安康",
+    "name": "药捷安康",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:34"
+  },
+  {
+    "id": "一汽-大众",
+    "name": "一汽-大众",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:36"
+  },
+  {
+    "id": "爱琴海",
+    "name": "爱琴海",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 05:26:43"
   }
 ]
