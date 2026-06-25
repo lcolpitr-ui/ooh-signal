@@ -1204,7 +1204,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 17,
+    "signalCount": 18,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:47"
@@ -1688,7 +1688,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 18,
+    "signalCount": 21,
     "latestScore": 51,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -3080,6 +3080,17 @@
     "createdAt": "2026-06-13 10:50:34"
   },
   {
+    "id": "错世录",
+    "name": "错世录",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 18,
+    "website": null,
+    "createdAt": "2026-06-25 00:23:48"
+  },
+  {
     "id": "高盛",
     "name": "高盛",
     "industry": "金融",
@@ -3547,7 +3558,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 00:18:25"
@@ -4790,7 +4801,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 9,
+    "signalCount": 11,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:03"
@@ -10129,5 +10140,38 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 13:44:07"
+  },
+  {
+    "id": "华能国际",
+    "name": "华能国际",
+    "industry": "能源",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 00:32:10"
+  },
+  {
+    "id": "sk集团",
+    "name": "SK集团",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 00:32:17"
+  },
+  {
+    "id": "高通",
+    "name": "高通",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 00:32:22"
   }
 ]
