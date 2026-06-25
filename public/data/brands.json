@@ -1754,7 +1754,7 @@
     "industry": "汽车",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:18"
@@ -3657,7 +3657,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 12,
+    "signalCount": 13,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:56"
@@ -4823,7 +4823,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:06"
@@ -6319,7 +6319,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-14 06:05:14"
@@ -9817,7 +9817,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 08:01:52"
@@ -10624,5 +10624,115 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 12:45:44"
+  },
+  {
+    "id": "阿福",
+    "name": "阿福",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:31:55"
+  },
+  {
+    "id": "苹果公司",
+    "name": "苹果公司",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:01"
+  },
+  {
+    "id": "铠侠",
+    "name": "铠侠",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:04"
+  },
+  {
+    "id": "尊界",
+    "name": "尊界",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:07"
+  },
+  {
+    "id": "必吃榜",
+    "name": "必吃榜",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:10"
+  },
+  {
+    "id": "科望医药",
+    "name": "科望医药",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:13"
+  },
+  {
+    "id": "返利科技",
+    "name": "返利科技",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:16"
+  },
+  {
+    "id": "信诺维",
+    "name": "信诺维",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:17"
+  },
+  {
+    "id": "浙商基金管理有限公司",
+    "name": "浙商基金管理有限公司",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:55"
+  },
+  {
+    "id": "国泰基金",
+    "name": "国泰基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 18:32:56"
   }
 ]
