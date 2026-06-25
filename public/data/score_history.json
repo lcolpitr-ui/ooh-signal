@@ -210,6 +210,13 @@
     "recordedAt": "2026-06-17 12:07:23"
   },
   {
+    "id": 1588,
+    "brandName": "Airwallex空中云汇",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:32"
+  },
+  {
     "id": 21,
     "brandName": "Alphabet",
     "score": 50,
@@ -2982,6 +2989,13 @@
     "recordedAt": "2026-06-08 11:06:29"
   },
   {
+    "id": 1596,
+    "brandName": "中冶美利云",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:46:21"
+  },
+  {
     "id": 1549,
     "brandName": "中原银行",
     "score": 0,
@@ -4963,6 +4977,13 @@
     "recordedAt": "2026-06-17 06:29:04"
   },
   {
+    "id": 1582,
+    "brandName": "太极实业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:24"
+  },
+  {
     "id": 324,
     "brandName": "太阳能",
     "score": 70,
@@ -5213,6 +5234,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 10:23:30"
+  },
+  {
+    "id": 1590,
+    "brandName": "安井食品",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:36"
   },
   {
     "id": 1174,
@@ -5929,6 +5957,13 @@
     "recordedAt": "2026-06-23 12:32:49"
   },
   {
+    "id": 1591,
+    "brandName": "影石",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:38"
+  },
+  {
     "id": 292,
     "brandName": "徐工汽车",
     "score": 55,
@@ -6608,6 +6643,13 @@
     "recordedAt": "2026-06-04 04:36:21"
   },
   {
+    "id": 1580,
+    "brandName": "昀冢科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:21"
+  },
+  {
     "id": 466,
     "brandName": "昂利康",
     "score": 0,
@@ -6655,6 +6697,13 @@
     "score": 70,
     "signalCount": 1,
     "recordedAt": "2026-06-08 09:19:41"
+  },
+  {
+    "id": 1597,
+    "brandName": "易方达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:46:23"
   },
   {
     "id": 35,
@@ -6872,6 +6921,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 09:43:32"
+  },
+  {
+    "id": 1589,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:34"
   },
   {
     "id": 636,
@@ -7392,6 +7448,13 @@
     "recordedAt": "2026-06-09 06:34:08"
   },
   {
+    "id": 1592,
+    "brandName": "沃尔玛",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:39"
+  },
+  {
     "id": 148,
     "brandName": "沪电股份",
     "score": 55,
@@ -7784,6 +7847,13 @@
     "recordedAt": "2026-06-22 04:32:27"
   },
   {
+    "id": 1594,
+    "brandName": "牧原股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:42"
+  },
+  {
     "id": 901,
     "brandName": "物界科技",
     "score": 0,
@@ -8050,6 +8120,13 @@
     "recordedAt": "2026-06-16 16:12:50"
   },
   {
+    "id": 1579,
+    "brandName": "百度",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:20"
+  },
+  {
     "id": 173,
     "brandName": "百曜科技",
     "score": 55,
@@ -8202,6 +8279,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 10:57:54"
+  },
+  {
+    "id": 1595,
+    "brandName": "科济药业",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:44"
   },
   {
     "id": 889,
@@ -8428,6 +8512,13 @@
     "recordedAt": "2026-06-23 16:10:10"
   },
   {
+    "id": 1578,
+    "brandName": "美光科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:19"
+  },
+  {
     "id": 31,
     "brandName": "美团",
     "score": 50,
@@ -8454,6 +8545,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 05:44:22"
+  },
+  {
+    "id": 1581,
+    "brandName": "美团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:22"
   },
   {
     "id": 288,
@@ -8587,6 +8685,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 09:05:00"
+  },
+  {
+    "id": 1584,
+    "brandName": "联讯仪器",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:26"
+  },
+  {
+    "id": 1587,
+    "brandName": "聚辰股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:31"
   },
   {
     "id": 771,
@@ -8811,6 +8923,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 10:51:32"
+  },
+  {
+    "id": 1586,
+    "brandName": "腾讯云",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:29"
   },
   {
     "id": 244,
@@ -9436,6 +9555,13 @@
     "recordedAt": "2026-06-25 09:43:43"
   },
   {
+    "id": 1593,
+    "brandName": "蒙牛",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:40"
+  },
+  {
     "id": 246,
     "brandName": "蓝科高新",
     "score": 55,
@@ -10043,6 +10169,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 08:57:47"
+  },
+  {
+    "id": 1585,
+    "brandName": "通富微电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:28"
   },
   {
     "id": 218,
@@ -10771,6 +10904,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:32"
+  },
+  {
+    "id": 1583,
+    "brandName": "骄成超声",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 12:45:25"
   },
   {
     "id": 1235,

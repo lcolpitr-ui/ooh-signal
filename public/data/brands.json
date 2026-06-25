@@ -82,7 +82,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 70,
     "website": null,
     "createdAt": "2026-06-08 07:24:39"
@@ -203,7 +203,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:14"
@@ -412,7 +412,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:35:47"
@@ -1369,7 +1369,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 04:29:15"
@@ -1765,7 +1765,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 15,
+    "signalCount": 16,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -3338,7 +3338,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:06:29"
@@ -3668,7 +3668,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:57"
@@ -4141,7 +4141,7 @@
     "industry": "零售",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:08"
@@ -4823,7 +4823,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:06"
@@ -6066,7 +6066,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 03:53:50"
@@ -10525,5 +10525,104 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 09:44:28"
+  },
+  {
+    "id": "昀冢科技",
+    "name": "昀冢科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:21"
+  },
+  {
+    "id": "太极实业",
+    "name": "太极实业",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:24"
+  },
+  {
+    "id": "骄成超声",
+    "name": "骄成超声",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:25"
+  },
+  {
+    "id": "通富微电",
+    "name": "通富微电",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:28"
+  },
+  {
+    "id": "聚辰股份",
+    "name": "聚辰股份",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:31"
+  },
+  {
+    "id": "airwallex空中云汇",
+    "name": "Airwallex空中云汇",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:32"
+  },
+  {
+    "id": "安井食品",
+    "name": "安井食品",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:36"
+  },
+  {
+    "id": "牧原股份",
+    "name": "牧原股份",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:42"
+  },
+  {
+    "id": "科济药业",
+    "name": "科济药业",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 12:45:44"
   }
 ]
