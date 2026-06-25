@@ -665,6 +665,13 @@
     "recordedAt": "2026-06-11 05:44:08"
   },
   {
+    "id": 1564,
+    "brandName": "GSK",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:31"
+  },
+  {
     "id": 1299,
     "brandName": "GitHub",
     "score": 0,
@@ -1127,6 +1134,13 @@
     "recordedAt": "2026-06-21 06:20:08"
   },
   {
+    "id": 1573,
+    "brandName": "Momenta",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:44"
+  },
+  {
     "id": 197,
     "brandName": "NBA",
     "score": 55,
@@ -1295,6 +1309,13 @@
     "recordedAt": "2026-06-24 04:05:11"
   },
   {
+    "id": 1570,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:40"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
@@ -1426,6 +1447,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 16:12:39"
+  },
+  {
+    "id": 1556,
+    "brandName": "RoboScience机器科学",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:16"
   },
   {
     "id": 658,
@@ -2336,6 +2364,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:32:53"
+  },
+  {
+    "id": 1571,
+    "brandName": "Sunwoda",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:41"
   },
   {
     "id": 1249,
@@ -3703,6 +3738,13 @@
     "recordedAt": "2026-06-16 10:23:15"
   },
   {
+    "id": 1566,
+    "brandName": "传奇生物",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:33"
+  },
+  {
     "id": 1169,
     "brandName": "传音控股",
     "score": 0,
@@ -4004,6 +4046,13 @@
     "recordedAt": "2026-06-11 05:44:16"
   },
   {
+    "id": 1563,
+    "brandName": "千问",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:30"
+  },
+  {
     "id": 1470,
     "brandName": "华东医药",
     "score": 0,
@@ -4095,6 +4144,13 @@
     "recordedAt": "2026-06-23 05:21:11"
   },
   {
+    "id": 1577,
+    "brandName": "华夏基金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:44:28"
+  },
+  {
     "id": 852,
     "brandName": "华大",
     "score": 0,
@@ -4121,6 +4177,20 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 15:45:50"
+  },
+  {
+    "id": 1575,
+    "brandName": "华恒生物",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:50"
+  },
+  {
+    "id": 1559,
+    "brandName": "华数传媒",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:19"
   },
   {
     "id": 524,
@@ -4205,6 +4275,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 10:15:43"
+  },
+  {
+    "id": 1576,
+    "brandName": "南方基金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:44:26"
   },
   {
     "id": 586,
@@ -4394,6 +4471,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 15:03:07"
+  },
+  {
+    "id": 1555,
+    "brandName": "启明创投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:15"
   },
   {
     "id": 605,
@@ -5264,6 +5348,13 @@
     "recordedAt": "2026-06-08 09:19:13"
   },
   {
+    "id": 1560,
+    "brandName": "富士达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:20"
+  },
+  {
     "id": 334,
     "brandName": "富祥股份",
     "score": 72,
@@ -5584,6 +5675,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 12:32:24"
+  },
+  {
+    "id": 1558,
+    "brandName": "峰瑞资本",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:18"
   },
   {
     "id": 707,
@@ -6769,6 +6867,13 @@
     "recordedAt": "2026-06-24 04:05:03"
   },
   {
+    "id": 1565,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:32"
+  },
+  {
     "id": 636,
     "brandName": "智谱AI",
     "score": 0,
@@ -7509,6 +7614,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 06:29:26"
+  },
+  {
+    "id": 1568,
+    "brandName": "满帮",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:36"
   },
   {
     "id": 415,
@@ -8288,6 +8400,13 @@
     "recordedAt": "2026-06-08 07:24:47"
   },
   {
+    "id": 1561,
+    "brandName": "网翎",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:22"
+  },
+  {
     "id": 156,
     "brandName": "罗曼股份",
     "score": 50,
@@ -8433,6 +8552,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:42:05"
+  },
+  {
+    "id": 1567,
+    "brandName": "耐克",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:35"
   },
   {
     "id": 209,
@@ -8720,6 +8846,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 09:06:53"
+  },
+  {
+    "id": 1569,
+    "brandName": "臻宝科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:38"
   },
   {
     "id": 1111,
@@ -9294,6 +9427,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 08:47:56"
+  },
+  {
+    "id": 1572,
+    "brandName": "蒙牛",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:43"
   },
   {
     "id": 246,
@@ -9989,6 +10129,13 @@
     "recordedAt": "2026-06-23 00:25:17"
   },
   {
+    "id": 1562,
+    "brandName": "金辰股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:24"
+  },
+  {
     "id": 429,
     "brandName": "钉钉",
     "score": 0,
@@ -10057,6 +10204,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 13:31:21"
+  },
+  {
+    "id": 1574,
+    "brandName": "钉钉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:46"
   },
   {
     "id": 949,
@@ -10491,6 +10645,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 08:57:56"
+  },
+  {
+    "id": 1557,
+    "brandName": "雷鸟创新",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-25 09:43:17"
   },
   {
     "id": 160,

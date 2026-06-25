@@ -896,7 +896,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 13,
+    "signalCount": 14,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1765,7 +1765,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 14,
+    "signalCount": 15,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -2876,7 +2876,7 @@
     "industry": "运动",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-08 08:24:48"
@@ -4130,7 +4130,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 06:34:02"
@@ -5263,7 +5263,7 @@
     "industry": "医疗",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 05:44:08"
@@ -5274,7 +5274,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 05:44:16"
@@ -6561,7 +6561,7 @@
     "industry": "运动",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 06:42:05"
@@ -8101,7 +8101,7 @@
     "industry": "汽车",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 16:52:53"
@@ -10371,5 +10371,159 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 05:26:43"
+  },
+  {
+    "id": "启明创投",
+    "name": "启明创投",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:15"
+  },
+  {
+    "id": "roboscience机器科学",
+    "name": "RoboScience机器科学",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:16"
+  },
+  {
+    "id": "雷鸟创新",
+    "name": "雷鸟创新",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:17"
+  },
+  {
+    "id": "峰瑞资本",
+    "name": "峰瑞资本",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:18"
+  },
+  {
+    "id": "华数传媒",
+    "name": "华数传媒",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:19"
+  },
+  {
+    "id": "网翎",
+    "name": "网翎",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:22"
+  },
+  {
+    "id": "金辰股份",
+    "name": "金辰股份",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:24"
+  },
+  {
+    "id": "传奇生物",
+    "name": "传奇生物",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:33"
+  },
+  {
+    "id": "满帮",
+    "name": "满帮",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:36"
+  },
+  {
+    "id": "臻宝科技",
+    "name": "臻宝科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:38"
+  },
+  {
+    "id": "sunwoda",
+    "name": "Sunwoda",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:41"
+  },
+  {
+    "id": "华恒生物",
+    "name": "华恒生物",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:43:50"
+  },
+  {
+    "id": "南方基金",
+    "name": "南方基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:44:26"
+  },
+  {
+    "id": "华夏基金",
+    "name": "华夏基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-25 09:44:28"
   }
 ]
