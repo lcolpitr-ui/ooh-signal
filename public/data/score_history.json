@@ -168,6 +168,20 @@
     "recordedAt": "2026-06-25 00:32:09"
   },
   {
+    "id": 1626,
+    "brandName": "36氪",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:30"
+  },
+  {
+    "id": 1635,
+    "brandName": "4K花园",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:42"
+  },
+  {
     "id": 1431,
     "brandName": "ABB",
     "score": 0,
@@ -614,6 +628,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-21 21:32:27"
+  },
+  {
+    "id": 1644,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:32:02"
   },
   {
     "id": 147,
@@ -1337,6 +1358,13 @@
     "recordedAt": "2026-06-25 09:43:40"
   },
   {
+    "id": 1645,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:32:03"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
@@ -1657,6 +1685,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 10:23:44"
+  },
+  {
+    "id": 1642,
+    "brandName": "Shopee",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:58"
   },
   {
     "id": 1041,
@@ -2366,6 +2401,13 @@
     "recordedAt": "2026-06-24 13:43:16"
   },
   {
+    "id": 1629,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:35"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -2863,6 +2905,13 @@
     "recordedAt": "2026-06-15 13:30:55"
   },
   {
+    "id": 1647,
+    "brandName": "东箭科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:32:45"
+  },
+  {
     "id": 923,
     "brandName": "东阳光",
     "score": 0,
@@ -3038,6 +3087,13 @@
     "recordedAt": "2026-06-25 05:26:29"
   },
   {
+    "id": 1646,
+    "brandName": "中国中铁",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:32:44"
+  },
+  {
     "id": 274,
     "brandName": "中国人保",
     "score": 50,
@@ -3106,6 +3162,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:40"
+  },
+  {
+    "id": 1633,
+    "brandName": "中国资源循环集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:39"
   },
   {
     "id": 516,
@@ -4466,6 +4529,13 @@
     "recordedAt": "2026-06-15 13:31:23"
   },
   {
+    "id": 1641,
+    "brandName": "可灵",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:57"
+  },
+  {
     "id": 40,
     "brandName": "台积电",
     "score": 55,
@@ -4527,6 +4597,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 05:26:02"
+  },
+  {
+    "id": 1648,
+    "brandName": "同宇新材",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:32:46"
   },
   {
     "id": 362,
@@ -4872,6 +4949,13 @@
     "recordedAt": "2026-06-09 06:33:57"
   },
   {
+    "id": 1632,
+    "brandName": "大北农",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:38"
+  },
+  {
     "id": 836,
     "brandName": "大族激光",
     "score": 0,
@@ -5031,6 +5115,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 18:48:28"
+  },
+  {
+    "id": 1638,
+    "brandName": "太合音乐集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:52"
   },
   {
     "id": 1013,
@@ -5213,6 +5304,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 08:01:58"
+  },
+  {
+    "id": 1643,
+    "brandName": "字节跳动",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:32:00"
   },
   {
     "id": 961,
@@ -5614,6 +5712,13 @@
     "recordedAt": "2026-06-16 10:23:35"
   },
   {
+    "id": 1631,
+    "brandName": "小鹏汽车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:37"
+  },
+  {
     "id": 149,
     "brandName": "小鹏集团",
     "score": 55,
@@ -5850,6 +5955,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 12:32:48"
+  },
+  {
+    "id": 1640,
+    "brandName": "巴奴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:55"
   },
   {
     "id": 90,
@@ -6678,6 +6790,13 @@
     "recordedAt": "2026-06-24 08:02:45"
   },
   {
+    "id": 1630,
+    "brandName": "斯迪克",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:36"
+  },
+  {
     "id": 576,
     "brandName": "新易盛",
     "score": 0,
@@ -6704,6 +6823,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 04:13:18"
+  },
+  {
+    "id": 1634,
+    "brandName": "无界动力",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:41"
   },
   {
     "id": 1412,
@@ -6900,6 +7026,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 12:06:50"
+  },
+  {
+    "id": 1628,
+    "brandName": "智元机器人",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:34"
   },
   {
     "id": 396,
@@ -7215,6 +7348,13 @@
     "score": 50,
     "signalCount": 1,
     "recordedAt": "2026-06-04 04:36:14"
+  },
+  {
+    "id": 1627,
+    "brandName": "松延动力",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:31"
   },
   {
     "id": 891,
@@ -10220,6 +10360,13 @@
     "recordedAt": "2026-06-18 04:12:25"
   },
   {
+    "id": 1639,
+    "brandName": "迪卡侬",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:54"
+  },
+  {
     "id": 282,
     "brandName": "追觅",
     "score": 50,
@@ -10640,6 +10787,13 @@
     "recordedAt": "2026-06-12 12:36:20"
   },
   {
+    "id": 1636,
+    "brandName": "长鑫科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:46"
+  },
+  {
     "id": 1390,
     "brandName": "长飞光纤",
     "score": 0,
@@ -10759,6 +10913,13 @@
     "recordedAt": "2026-06-26 00:28:40"
   },
   {
+    "id": 1637,
+    "brandName": "阿里",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:47"
+  },
+  {
     "id": 424,
     "brandName": "阿里云",
     "score": 0,
@@ -10876,6 +11037,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-04 06:01:07"
+  },
+  {
+    "id": 1625,
+    "brandName": "阿麦斯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 05:31:29"
   },
   {
     "id": 632,

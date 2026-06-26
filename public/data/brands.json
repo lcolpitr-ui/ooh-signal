@@ -302,7 +302,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:36"
@@ -500,7 +500,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 96,
+    "signalCount": 97,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -896,7 +896,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 14,
+    "signalCount": 15,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1688,7 +1688,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 21,
+    "signalCount": 22,
     "latestScore": 51,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -2480,7 +2480,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 03:41:02"
@@ -5703,7 +5703,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 08:42:34"
@@ -5769,7 +5769,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 12:36:20"
@@ -6715,7 +6715,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-15 13:31:23"
@@ -7023,7 +7023,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-16 10:23:44"
@@ -7650,7 +7650,7 @@
     "industry": "餐饮",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 23:40:28"
@@ -9850,7 +9850,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 08:02:45"
@@ -10800,5 +10800,137 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 00:28:43"
+  },
+  {
+    "id": "阿麦斯",
+    "name": "阿麦斯",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:29"
+  },
+  {
+    "id": "松延动力",
+    "name": "松延动力",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:31"
+  },
+  {
+    "id": "小鹏汽车",
+    "name": "小鹏汽车",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:37"
+  },
+  {
+    "id": "大北农",
+    "name": "大北农",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:38"
+  },
+  {
+    "id": "中国资源循环集团",
+    "name": "中国资源循环集团",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:39"
+  },
+  {
+    "id": "无界动力",
+    "name": "无界动力",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:41"
+  },
+  {
+    "id": "4k花园",
+    "name": "4K花园",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:42"
+  },
+  {
+    "id": "太合音乐集团",
+    "name": "太合音乐集团",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:52"
+  },
+  {
+    "id": "迪卡侬",
+    "name": "迪卡侬",
+    "industry": "运动",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:31:54"
+  },
+  {
+    "id": "中国中铁",
+    "name": "中国中铁",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:32:44"
+  },
+  {
+    "id": "东箭科技",
+    "name": "东箭科技",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:32:45"
+  },
+  {
+    "id": "同宇新材",
+    "name": "同宇新材",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 05:32:46"
   }
 ]
