@@ -687,7 +687,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 12,
+    "signalCount": 13,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 06:01:08"
@@ -896,7 +896,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 15,
+    "signalCount": 16,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1182,7 +1182,7 @@
     "industry": "地产",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 18:48:29"
@@ -1248,7 +1248,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 29,
+    "signalCount": 30,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1281,7 +1281,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 03:40:50"
@@ -8101,7 +8101,7 @@
     "industry": "汽车",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 8,
+    "signalCount": 9,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-18 16:52:53"
@@ -8453,7 +8453,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-21 06:19:52"
@@ -10708,7 +10708,7 @@
     "industry": "医疗",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 18:32:17"
@@ -11031,5 +11031,93 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 09:48:19"
+  },
+  {
+    "id": "aie",
+    "name": "AIE",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:41"
+  },
+  {
+    "id": "杭州新剑机电传动股份有限公司",
+    "name": "杭州新剑机电传动股份有限公司",
+    "industry": "汽车",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:44"
+  },
+  {
+    "id": "广东科杰技术股份有限公司",
+    "name": "广东科杰技术股份有限公司",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:45"
+  },
+  {
+    "id": "禾润电子",
+    "name": "禾润电子",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:46"
+  },
+  {
+    "id": "荃银高科",
+    "name": "荃银高科",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:49"
+  },
+  {
+    "id": "光智科技",
+    "name": "光智科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:50"
+  },
+  {
+    "id": "观夏",
+    "name": "观夏",
+    "industry": "美妆",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:55"
+  },
+  {
+    "id": "汾酒",
+    "name": "汾酒",
+    "industry": "酒水",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 12:32:56"
   }
 ]
