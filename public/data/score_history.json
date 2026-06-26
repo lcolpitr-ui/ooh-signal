@@ -175,6 +175,13 @@
     "recordedAt": "2026-06-26 05:31:30"
   },
   {
+    "id": 1649,
+    "brandName": "36氪",
+    "score": 51,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:46:52"
+  },
+  {
     "id": 1635,
     "brandName": "4K花园",
     "score": 0,
@@ -2548,6 +2555,13 @@
     "recordedAt": "2026-06-25 05:26:41"
   },
   {
+    "id": 1660,
+    "brandName": "WPS",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:15"
+  },
+  {
     "id": 500,
     "brandName": "WasabiCard",
     "score": 0,
@@ -3262,6 +3276,13 @@
     "recordedAt": "2026-06-17 06:29:16"
   },
   {
+    "id": 1654,
+    "brandName": "中油工程",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:47:59"
+  },
+  {
     "id": 1420,
     "brandName": "中漆集团",
     "score": 0,
@@ -3295,6 +3316,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 04:12:12"
+  },
+  {
+    "id": 1650,
+    "brandName": "中科闻歌",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:47:54"
   },
   {
     "id": 1505,
@@ -3640,6 +3668,13 @@
     "recordedAt": "2026-06-25 05:26:31"
   },
   {
+    "id": 1661,
+    "brandName": "亚马逊云科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:17"
+  },
+  {
     "id": 469,
     "brandName": "交银投资",
     "score": 0,
@@ -3834,6 +3869,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 04:10:05"
+  },
+  {
+    "id": 1670,
+    "brandName": "优必选",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:32"
   },
   {
     "id": 934,
@@ -4865,6 +4907,13 @@
     "recordedAt": "2026-06-17 12:07:02"
   },
   {
+    "id": 1653,
+    "brandName": "圣元环保",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:47:58"
+  },
+  {
     "id": 931,
     "brandName": "均普智能",
     "score": 0,
@@ -4905,6 +4954,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 08:58:48"
+  },
+  {
+    "id": 1652,
+    "brandName": "基点起源",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:47:57"
   },
   {
     "id": 631,
@@ -4954,6 +5010,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-26 05:31:38"
+  },
+  {
+    "id": 1651,
+    "brandName": "大搜车",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:47:55"
   },
   {
     "id": 836,
@@ -5171,6 +5234,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-13 03:54:02"
+  },
+  {
+    "id": 1656,
+    "brandName": "奥乐齐",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:08"
   },
   {
     "id": 960,
@@ -6629,6 +6699,13 @@
     "recordedAt": "2026-06-05 08:03:37"
   },
   {
+    "id": 1658,
+    "brandName": "招商银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:11"
+  },
+  {
     "id": 1544,
     "brandName": "招金矿业",
     "score": 0,
@@ -7161,6 +7238,20 @@
     "recordedAt": "2026-06-25 12:45:34"
   },
   {
+    "id": 1659,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:12"
+  },
+  {
+    "id": 1667,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:28"
+  },
+  {
     "id": 636,
     "brandName": "智谱AI",
     "score": 0,
@@ -7469,6 +7560,13 @@
     "recordedAt": "2026-06-24 04:04:53"
   },
   {
+    "id": 1669,
+    "brandName": "欣旺达",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:30"
+  },
+  {
     "id": 1245,
     "brandName": "欧米茄",
     "score": 0,
@@ -7593,6 +7691,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 08:02:08"
+  },
+  {
+    "id": 1665,
+    "brandName": "比音勒芬",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:24"
   },
   {
     "id": 170,
@@ -7971,6 +8076,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 11:11:25"
+  },
+  {
+    "id": 1664,
+    "brandName": "滴滴",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:21"
   },
   {
     "id": 1038,
@@ -9240,11 +9352,25 @@
     "recordedAt": "2026-06-04 09:06:53"
   },
   {
+    "id": 1657,
+    "brandName": "至纯科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:09"
+  },
+  {
     "id": 1569,
     "brandName": "臻宝科技",
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 09:43:38"
+  },
+  {
+    "id": 1662,
+    "brandName": "良品铺子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:19"
   },
   {
     "id": 1111,
@@ -9329,6 +9455,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 10:39:23"
+  },
+  {
+    "id": 1655,
+    "brandName": "苏州绿控传动科技股份有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:04"
   },
   {
     "id": 163,
@@ -9714,6 +9847,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-26 00:28:25"
+  },
+  {
+    "id": 1663,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:20"
   },
   {
     "id": 1601,
@@ -10169,6 +10309,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 05:26:22"
+  },
+  {
+    "id": 1668,
+    "brandName": "豆包",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:29"
   },
   {
     "id": 1049,
@@ -11289,6 +11436,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-16 10:23:37"
+  },
+  {
+    "id": 1666,
+    "brandName": "高德",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 09:48:26"
   },
   {
     "id": 25,

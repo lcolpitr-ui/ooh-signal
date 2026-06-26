@@ -1,7 +1,64 @@
 {
-  "generated_at": "2026-06-26T05:33:25.831518+00:00",
-  "total_matches": 251,
+  "generated_at": "2026-06-26T09:49:48.961988+00:00",
+  "total_matches": 245,
   "matches": [
+    {
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
     {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
       "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
@@ -41,29 +98,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
       "signal_id": "1bb2c4375ddabc15309a5b4933cdea41",
       "signal_title": "300978东箭科技投资者关系管理信息20260626",
       "brand_name": "东箭科技",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -82,7 +120,7 @@
       "signal_id": "113c7f9524b523dcc0b5fcf9b73219d9",
       "signal_title": "301630同宇新材投资者关系管理信息20260626",
       "brand_name": "同宇新材",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -101,7 +139,7 @@
       "signal_id": "113c7f9524b523dcc0b5fcf9b73219d9",
       "signal_title": "301630同宇新材投资者关系管理信息20260626",
       "brand_name": "同宇新材",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -113,101 +151,6 @@
         "预算匹配"
       ],
       "reason_text": "同宇新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "0c0831bc168f8aba1d18caff08998950",
-      "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
-      "brand_name": "浙商基金管理有限公司",
-      "signal_score": 93,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "浙商基金管理有限公司所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
-      "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
-      "brand_name": "国泰基金",
-      "signal_score": 93,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "国泰基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -497,9 +440,28 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "0c0831bc168f8aba1d18caff08998950",
+      "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
+      "brand_name": "浙商基金管理有限公司",
       "signal_score": 92,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
@@ -511,45 +473,45 @@
         "媒体类型匹配",
         "预算匹配"
       ],
+      "reason_text": "浙商基金管理有限公司所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
+      "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
+      "brand_name": "国泰基金",
+      "signal_score": 92,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "国泰基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 91,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
       "reason_text": "易方达所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "735206562da33faf81cfee6827c85938",
-      "signal_title": "关于南方香港优选股票型证券投资基金2026年7月1日暂停申购、赎回和定投业务的公告",
-      "brand_name": "南方基金",
-      "signal_score": 91,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "南方基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "7d4a0edfb24e4f4a3196dbf3bd50aa73",
-      "signal_title": "华夏恒生中国企业交易型开放式指数证券投资基金（QDII）暂停申购、赎回业务的公告",
-      "brand_name": "华夏基金",
-      "signal_score": 91,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "华夏基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 300000
     },
@@ -649,23 +611,80 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
-      "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
-      "brand_name": "建信基金",
-      "signal_score": 89,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
+      "signal_id": "735206562da33faf81cfee6827c85938",
+      "signal_title": "关于南方香港优选股票型证券投资基金2026年7月1日暂停申购、赎回和定投业务的公告",
+      "brand_name": "南方基金",
+      "signal_score": 90,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
       "match_score": 90,
       "reasons": [
         "行业匹配",
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "建信基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "reason_text": "南方基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "7d4a0edfb24e4f4a3196dbf3bd50aa73",
+      "signal_title": "华夏恒生中国企业交易型开放式指数证券投资基金（QDII）暂停申购、赎回业务的公告",
+      "brand_name": "华夏基金",
+      "signal_score": 90,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "华夏基金所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
-      "daily_traffic": 250000
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "122c41348b4e998327dee1054089d1d8",
@@ -706,23 +725,61 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "深圳",
+      "resource_location": "成都",
       "match_score": 90,
       "reasons": [
         "行业匹配",
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
-      "daily_traffic": 80000
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
+      "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
+      "brand_name": "建信基金",
+      "signal_score": 88,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "建信基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
@@ -740,6 +797,25 @@
         "预算匹配"
       ],
       "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 86,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
     },
@@ -972,44 +1048,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
       "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
       "brand_name": "GOBI",
@@ -1044,44 +1082,6 @@
         "预算匹配"
       ],
       "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1089,7 +1089,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -1108,7 +1108,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -1127,7 +1127,7 @@
       "signal_id": "df85a0f7373af9d7ae9a5b32d14f3c99",
       "signal_title": "工银瑞信中证有色金属矿业主题交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "工银瑞信",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -1146,7 +1146,7 @@
       "signal_id": "b86c5273d31713b36ae447868754303d",
       "signal_title": "中冶美利云产业投资股份有限公司2026年第二次临时股东会决议公告",
       "brand_name": "中冶美利云",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -1165,7 +1165,7 @@
       "signal_id": "b86c5273d31713b36ae447868754303d",
       "signal_title": "中冶美利云产业投资股份有限公司2026年第二次临时股东会决议公告",
       "brand_name": "中冶美利云",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -1184,7 +1184,7 @@
       "signal_id": "b86c5273d31713b36ae447868754303d",
       "signal_title": "中冶美利云产业投资股份有限公司2026年第二次临时股东会决议公告",
       "brand_name": "中冶美利云",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1200,10 +1200,86 @@
       "daily_traffic": 80000
     },
     {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
+      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
+      "brand_name": "元节智能",
+      "signal_score": 78,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
       "signal_id": "dee5d257335461acda5d69208870746a",
       "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
       "brand_name": "福日电子",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1219,82 +1295,6 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
-      "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
-      "brand_name": "元节智能",
-      "signal_score": 75,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "元节智能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
       "signal_title": "周深 流金所至，光透如愿。今晚19:00，#周深IPSA中国区品牌代言人#@卡布叻_周深 将空降@I",
       "brand_name": "IPSA",
@@ -1333,66 +1333,9 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "843631ffd9628b1876247519044f45cf",
-      "signal_title": "300040九洲集团投资者关系管理信息2026-002",
-      "brand_name": "九洲集团",
-      "signal_score": 70,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "九洲集团所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "843631ffd9628b1876247519044f45cf",
-      "signal_title": "300040九洲集团投资者关系管理信息2026-002",
-      "brand_name": "九洲集团",
-      "signal_score": 70,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "九洲集团所在行业与地铁广告受众契合；地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "843631ffd9628b1876247519044f45cf",
-      "signal_title": "300040九洲集团投资者关系管理信息2026-002",
-      "brand_name": "九洲集团",
-      "signal_score": 70,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "九洲集团所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "e970c54c7cb298ba745510d5787b620a",
-      "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
-      "brand_name": "李宁",
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
       "signal_score": 95,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -1403,14 +1346,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "e970c54c7cb298ba745510d5787b620a",
-      "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
-      "brand_name": "李宁",
+      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
+      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
+      "brand_name": "希思黎",
       "signal_score": 95,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -1421,50 +1364,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
+      "signal_id": "e970c54c7cb298ba745510d5787b620a",
+      "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
+      "brand_name": "李宁",
       "signal_score": 95,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
@@ -1475,14 +1382,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 100000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
+      "signal_id": "e970c54c7cb298ba745510d5787b620a",
+      "signal_title": "#库里官宣拥抱李宁# 库里和李宁官宣的更多细节：库里这次签约不是签约球员的概念，是品牌之间的合作，C",
+      "brand_name": "李宁",
       "signal_score": 95,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -1493,7 +1400,7 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "李宁所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
     },
@@ -1501,7 +1408,7 @@
       "signal_id": "1bb2c4375ddabc15309a5b4933cdea41",
       "signal_title": "300978东箭科技投资者关系管理信息20260626",
       "brand_name": "东箭科技",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1519,7 +1426,7 @@
       "signal_id": "113c7f9524b523dcc0b5fcf9b73219d9",
       "signal_title": "301630同宇新材投资者关系管理信息20260626",
       "brand_name": "同宇新材",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -1532,78 +1439,6 @@
       "reason_text": "同宇新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "0c0831bc168f8aba1d18caff08998950",
-      "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
-      "brand_name": "浙商基金管理有限公司",
-      "signal_score": 93,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "浙商基金管理有限公司所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
-      "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
-      "brand_name": "国泰基金",
-      "signal_score": 93,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "国泰基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "0c5287c60d9003c7ecc7ae6f659c6835",
-      "signal_title": "小蝴蝶🦋#王俊凯法国希思黎首位全球品牌代言人#",
-      "brand_name": "希思黎",
-      "signal_score": 92,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "希思黎所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     },
     {
       "signal_id": "84479d660abe73b079c8ccfd4d14e975",
@@ -1912,9 +1747,81 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_010",
+      "resource_name": "北京社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 10000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_011",
+      "resource_name": "上海社区便利店灯箱",
+      "resource_type": "社区媒体",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
+      "recommended_budget": "low",
+      "daily_traffic": 8000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "超能所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "0c0831bc168f8aba1d18caff08998950",
+      "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
+      "brand_name": "浙商基金管理有限公司",
       "signal_score": 92,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
@@ -1925,43 +1832,43 @@
         "行业匹配",
         "媒体类型匹配"
       ],
+      "reason_text": "浙商基金管理有限公司所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
+      "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
+      "brand_name": "国泰基金",
+      "signal_score": 92,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "国泰基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 91,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
       "reason_text": "易方达所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "735206562da33faf81cfee6827c85938",
-      "signal_title": "关于南方香港优选股票型证券投资基金2026年7月1日暂停申购、赎回和定投业务的公告",
-      "brand_name": "南方基金",
-      "signal_score": 91,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "南方基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "7d4a0edfb24e4f4a3196dbf3bd50aa73",
-      "signal_title": "华夏恒生中国企业交易型开放式指数证券投资基金（QDII）暂停申购、赎回业务的公告",
-      "brand_name": "华夏基金",
-      "signal_score": 91,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "华夏基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
     },
@@ -2020,22 +1927,94 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
-      "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
-      "brand_name": "建信基金",
-      "signal_score": 89,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
+      "signal_id": "735206562da33faf81cfee6827c85938",
+      "signal_title": "关于南方香港优选股票型证券投资基金2026年7月1日暂停申购、赎回和定投业务的公告",
+      "brand_name": "南方基金",
+      "signal_score": 90,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "南方基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "7d4a0edfb24e4f4a3196dbf3bd50aa73",
+      "signal_title": "华夏恒生中国企业交易型开放式指数证券投资基金（QDII）暂停申购、赎回业务的公告",
+      "brand_name": "华夏基金",
+      "signal_score": 90,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "华夏基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
       "resource_location": "北京",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "建信基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
-      "daily_traffic": 300000
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "122c41348b4e998327dee1054089d1d8",
@@ -2092,10 +2071,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2105,15 +2084,15 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 150000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2123,11 +2102,29 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
     {
+      "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
+      "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
+      "brand_name": "建信基金",
+      "signal_score": 88,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "建信基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
       "signal_title": "300806斯迪克投资者关系管理信息20260624",
       "brand_name": "斯迪克",
@@ -2160,6 +2157,42 @@
         "媒体类型匹配"
       ],
       "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 86,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 86,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -2308,60 +2341,6 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "BVLGARI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
       "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
       "brand_name": "GOBI",
@@ -2412,42 +2391,6 @@
         "媒体类型匹配"
       ],
       "reason_text": "GOBI所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "HILX所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -2455,7 +2398,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -2473,7 +2416,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2491,7 +2434,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2509,7 +2452,7 @@
       "signal_id": "df85a0f7373af9d7ae9a5b32d14f3c99",
       "signal_title": "工银瑞信中证有色金属矿业主题交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "工银瑞信",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2524,46 +2467,10 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "dee5d257335461acda5d69208870746a",
-      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
-      "brand_name": "福日电子",
-      "signal_score": 79,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "福日电子所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "dee5d257335461acda5d69208870746a",
-      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
-      "brand_name": "福日电子",
-      "signal_score": 79,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "福日电子所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -2581,7 +2488,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -2599,7 +2506,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -2617,7 +2524,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2635,7 +2542,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2648,6 +2555,42 @@
       "reason_text": "元节智能所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
       "recommended_budget": "low",
       "daily_traffic": 8000
+    },
+    {
+      "signal_id": "dee5d257335461acda5d69208870746a",
+      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
+      "brand_name": "福日电子",
+      "signal_score": 78,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "福日电子所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "dee5d257335461acda5d69208870746a",
+      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
+      "brand_name": "福日电子",
+      "signal_score": 78,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "福日电子所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
     },
     {
       "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
@@ -2707,7 +2650,7 @@
       "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
       "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
       "brand_name": "汉邦科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_010",
       "resource_name": "北京社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2725,7 +2668,7 @@
       "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
       "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
       "brand_name": "汉邦科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_011",
       "resource_name": "上海社区便利店灯箱",
       "resource_type": "社区媒体",
@@ -2743,7 +2686,7 @@
       "signal_id": "4b48013ce63fed4fa74c4588e10f35c7",
       "signal_title": "中国中铁股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第三期）票面利率公告",
       "brand_name": "中国中铁",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -2779,7 +2722,7 @@
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
-      "signal_score": 89,
+      "signal_score": 88,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -2797,7 +2740,7 @@
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
-      "signal_score": 89,
+      "signal_score": 88,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -2815,7 +2758,7 @@
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
-      "signal_score": 89,
+      "signal_score": 88,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -2833,7 +2776,7 @@
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
-      "signal_score": 89,
+      "signal_score": 88,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -2848,42 +2791,6 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
       "signal_title": "300806斯迪克投资者关系管理信息20260624",
       "brand_name": "斯迪克",
@@ -2988,6 +2895,42 @@
         "预算匹配"
       ],
       "reason_text": "新筑股份所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 86,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 86,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
@@ -3067,7 +3010,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -3085,7 +3028,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -3103,7 +3046,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3121,7 +3064,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_012",
       "resource_name": "北京公交车身广告",
       "resource_type": "公交广告",
@@ -3139,7 +3082,7 @@
       "signal_id": "df85a0f7373af9d7ae9a5b32d14f3c99",
       "signal_title": "工银瑞信中证有色金属矿业主题交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "工银瑞信",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -3157,7 +3100,7 @@
       "signal_id": "df85a0f7373af9d7ae9a5b32d14f3c99",
       "signal_title": "工银瑞信中证有色金属矿业主题交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "工银瑞信",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -3175,7 +3118,7 @@
       "signal_id": "df85a0f7373af9d7ae9a5b32d14f3c99",
       "signal_title": "工银瑞信中证有色金属矿业主题交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "工银瑞信",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -3193,7 +3136,7 @@
       "signal_id": "df85a0f7373af9d7ae9a5b32d14f3c99",
       "signal_title": "工银瑞信中证有色金属矿业主题交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "工银瑞信",
-      "signal_score": 84,
+      "signal_score": 83,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -3247,7 +3190,7 @@
       "signal_id": "b86c5273d31713b36ae447868754303d",
       "signal_title": "中冶美利云产业投资股份有限公司2026年第二次临时股东会决议公告",
       "brand_name": "中冶美利云",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3262,46 +3205,10 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "dee5d257335461acda5d69208870746a",
-      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
-      "brand_name": "福日电子",
-      "signal_score": 79,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "福日电子所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "dee5d257335461acda5d69208870746a",
-      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
-      "brand_name": "福日电子",
-      "signal_score": 79,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "福日电子所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -3319,7 +3226,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_012",
       "resource_name": "北京公交车身广告",
       "resource_type": "公交广告",
@@ -3334,10 +3241,46 @@
       "daily_traffic": 100000
     },
     {
+      "signal_id": "dee5d257335461acda5d69208870746a",
+      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
+      "brand_name": "福日电子",
+      "signal_score": 78,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "福日电子所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "dee5d257335461acda5d69208870746a",
+      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
+      "brand_name": "福日电子",
+      "signal_score": 78,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "福日电子所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
       "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
       "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
       "brand_name": "汉邦科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_012",
       "resource_name": "北京公交车身广告",
       "resource_type": "公交广告",
@@ -3350,24 +3293,6 @@
       "reason_text": "汉邦科技所在行业与公交广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 100000
-    },
-    {
-      "signal_id": "843631ffd9628b1876247519044f45cf",
-      "signal_title": "300040九洲集团投资者关系管理信息2026-002",
-      "brand_name": "九洲集团",
-      "signal_score": 70,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "九洲集团所在行业与高铁站广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
     },
     {
       "signal_id": "e970c54c7cb298ba745510d5787b620a",
@@ -3388,46 +3313,10 @@
       "daily_traffic": 200000
     },
     {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
-      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
-      "brand_name": "超能",
-      "signal_score": 95,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
       "signal_id": "4b48013ce63fed4fa74c4588e10f35c7",
       "signal_title": "中国中铁股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第三期）票面利率公告",
       "brand_name": "中国中铁",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -3445,7 +3334,7 @@
       "signal_id": "4b48013ce63fed4fa74c4588e10f35c7",
       "signal_title": "中国中铁股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第三期）票面利率公告",
       "brand_name": "中国中铁",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3463,7 +3352,7 @@
       "signal_id": "4b48013ce63fed4fa74c4588e10f35c7",
       "signal_title": "中国中铁股份有限公司2026年面向专业投资者公开发行科技创新公司债券（第三期）票面利率公告",
       "brand_name": "中国中铁",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -3481,7 +3370,7 @@
       "signal_id": "1bb2c4375ddabc15309a5b4933cdea41",
       "signal_title": "300978东箭科技投资者关系管理信息20260626",
       "brand_name": "东箭科技",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -3499,7 +3388,7 @@
       "signal_id": "1bb2c4375ddabc15309a5b4933cdea41",
       "signal_title": "300978东箭科技投资者关系管理信息20260626",
       "brand_name": "东箭科技",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3517,7 +3406,7 @@
       "signal_id": "1bb2c4375ddabc15309a5b4933cdea41",
       "signal_title": "300978东箭科技投资者关系管理信息20260626",
       "brand_name": "东箭科技",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -3535,7 +3424,7 @@
       "signal_id": "113c7f9524b523dcc0b5fcf9b73219d9",
       "signal_title": "301630同宇新材投资者关系管理信息20260626",
       "brand_name": "同宇新材",
-      "signal_score": 95,
+      "signal_score": 94,
       "resource_id": "res_002",
       "resource_name": "上海南京路步行街大屏",
       "resource_type": "商圈大屏",
@@ -3604,6 +3493,42 @@
       "daily_traffic": 200000
     },
     {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "b35e2a7ed6c0ddf4f6d50720d425feab",
+      "signal_title": "肖战超能全球品牌代言人卡点预热。官宣倒计时5天。又一全球代言人",
+      "brand_name": "超能",
+      "signal_score": 92,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
+    {
       "signal_id": "8092742ae808bdcb5745e456fe1d4c09",
       "signal_title": "什么是夏天的快乐？在街头漫步、在天台呐喊、在草地追逐，每一帧都是青春的生动模样！这个夏天，#华为no",
       "brand_name": "华为",
@@ -3620,6 +3545,96 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "high",
       "daily_traffic": 200000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
+      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
+      "brand_name": "BVLGARI",
+      "signal_score": 88,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
     },
     {
       "signal_id": "122c41348b4e998327dee1054089d1d8",
@@ -3712,32 +3727,50 @@
       "daily_traffic": 80000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
       "match_score": 50,
       "reasons": [
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
-      "daily_traffic": 100000
+      "daily_traffic": 500000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 87,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
+      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
+      "brand_name": "HILX",
+      "signal_score": 88,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "杭州",
+      "resource_location": "深圳",
       "match_score": 50,
       "reasons": [
         "媒体类型匹配",
@@ -3745,7 +3778,7 @@
       ],
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
-      "daily_traffic": 90000
+      "daily_traffic": 80000
     },
     {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
@@ -3877,6 +3910,42 @@
       "signal_id": "9d93e6547683a7b6016323e96c1b64ad",
       "signal_title": "002480新筑股份投资者关系管理信息20260624",
       "brand_name": "新筑股份",
+      "signal_score": 86,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 86,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
       "signal_score": 86,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
@@ -4072,96 +4141,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "电梯广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "afc147d0dc6fb3ae24b469555adb943f",
-      "signal_title": "赵露思｜品牌活动新造型继续   ～   来自露思今日代言品牌活动造型预览 ，继 VOGUE 山谷假日",
-      "brand_name": "BVLGARI",
-      "signal_score": 85,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
       "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
       "brand_name": "GOBI",
@@ -4201,60 +4180,6 @@
       "signal_id": "e6b33b55773571725f3dd7bb27af4ef4",
       "signal_title": "新GOAT原来是这个？The Mongolz官宣与蒙古高端羊绒服装品牌GOBI合作！“刚韧与柔软共生",
       "brand_name": "GOBI",
-      "signal_score": 85,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
-      "signal_score": 85,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "f64a9fdcb6811cd8c3a05d1ef308ce56",
-      "signal_title": "#Hero官宣新合作# 官宣！南通Hero久竞 × HILX正式携手！奔赴热爱之路，既有自在飒爽气场",
-      "brand_name": "HILX",
       "signal_score": 85,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
@@ -4273,7 +4198,7 @@
       "signal_id": "ecf722c981f0c29abbeebb11d82c204c",
       "signal_title": "有关由禹铭投资管理有限公司代表PRIME SURPLUS LIMITED及新工投资有限公司提出强制性",
       "brand_name": "中漆集团",
-      "signal_score": 85,
+      "signal_score": 84,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -4345,7 +4270,7 @@
       "signal_id": "b86c5273d31713b36ae447868754303d",
       "signal_title": "中冶美利云产业投资股份有限公司2026年第二次临时股东会决议公告",
       "brand_name": "中冶美利云",
-      "signal_score": 82,
+      "signal_score": 81,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -4363,43 +4288,7 @@
       "signal_id": "b86c5273d31713b36ae447868754303d",
       "signal_title": "中冶美利云产业投资股份有限公司2026年第二次临时股东会决议公告",
       "brand_name": "中冶美利云",
-      "signal_score": 82,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
-      "signal_id": "dee5d257335461acda5d69208870746a",
-      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
-      "brand_name": "福日电子",
-      "signal_score": 79,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "dee5d257335461acda5d69208870746a",
-      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
-      "brand_name": "福日电子",
-      "signal_score": 79,
+      "signal_score": 81,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -4417,7 +4306,7 @@
       "signal_id": "2142cff32af7ab21d99a6f24ed364c8c",
       "signal_title": "我们官宣啦：元节智能atombite.ai启航啦",
       "brand_name": "元节智能",
-      "signal_score": 75,
+      "signal_score": 78,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -4430,6 +4319,42 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
+    },
+    {
+      "signal_id": "dee5d257335461acda5d69208870746a",
+      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
+      "brand_name": "福日电子",
+      "signal_score": 78,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "dee5d257335461acda5d69208870746a",
+      "signal_title": "福建福日电子股份有限公司投资者关系管理制度",
+      "brand_name": "福日电子",
+      "signal_score": 78,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "a117e7120cec6d40c6d7afac8d1addbc",
@@ -4525,7 +4450,7 @@
       "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
       "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
       "brand_name": "汉邦科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -4543,7 +4468,7 @@
       "signal_id": "ea51e506c8d0a5f1d37b1550369f0041",
       "signal_title": "汉邦科技：关于与专业机构共同投资的进展公告",
       "brand_name": "汉邦科技",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -4556,42 +4481,6 @@
       "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 400000
-    },
-    {
-      "signal_id": "843631ffd9628b1876247519044f45cf",
-      "signal_title": "300040九洲集团投资者关系管理信息2026-002",
-      "brand_name": "九洲集团",
-      "signal_score": 70,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "843631ffd9628b1876247519044f45cf",
-      "signal_title": "300040九洲集团投资者关系管理信息2026-002",
-      "brand_name": "九洲集团",
-      "signal_score": 70,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
     }
   ]
 }

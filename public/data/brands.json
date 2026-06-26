@@ -192,7 +192,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:12"
@@ -214,7 +214,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 14,
+    "signalCount": 15,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:16"
@@ -1248,7 +1248,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 28,
+    "signalCount": 29,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1688,7 +1688,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 22,
+    "signalCount": 23,
     "latestScore": 51,
     "website": null,
     "createdAt": "2026-06-09 16:10:13"
@@ -1765,7 +1765,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 16,
+    "signalCount": 18,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -3789,7 +3789,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:18:21"
@@ -5637,7 +5637,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 04:10:05"
@@ -7232,7 +7232,7 @@
     "industry": "能源",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 06:29:16"
@@ -7430,7 +7430,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-17 12:07:24"
@@ -8970,7 +8970,7 @@
     "industry": "服装",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-22 10:57:39"
@@ -9729,7 +9729,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 04:04:53"
@@ -9971,7 +9971,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 11:11:21"
@@ -10932,5 +10932,104 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 05:32:46"
+  },
+  {
+    "id": "大搜车",
+    "name": "大搜车",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:47:55"
+  },
+  {
+    "id": "基点起源",
+    "name": "基点起源",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:47:57"
+  },
+  {
+    "id": "圣元环保",
+    "name": "圣元环保",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:47:58"
+  },
+  {
+    "id": "苏州绿控传动科技股份有限公司",
+    "name": "苏州绿控传动科技股份有限公司",
+    "industry": "汽车",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:48:04"
+  },
+  {
+    "id": "奥乐齐",
+    "name": "奥乐齐",
+    "industry": "零售",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:48:08"
+  },
+  {
+    "id": "至纯科技",
+    "name": "至纯科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:48:09"
+  },
+  {
+    "id": "招商银行",
+    "name": "招商银行",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:48:11"
+  },
+  {
+    "id": "亚马逊云科技",
+    "name": "亚马逊云科技",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:48:17"
+  },
+  {
+    "id": "良品铺子",
+    "name": "良品铺子",
+    "industry": "快消",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-26 09:48:19"
   }
 ]
