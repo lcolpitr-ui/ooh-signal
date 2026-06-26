@@ -651,6 +651,13 @@
     "recordedAt": "2026-06-26 05:32:02"
   },
   {
+    "id": 1693,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:48"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
@@ -1454,6 +1461,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-21 06:20:03"
+  },
+  {
+    "id": 1692,
+    "brandName": "Polymarket",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:47"
   },
   {
     "id": 723,
@@ -2436,6 +2450,13 @@
     "recordedAt": "2026-06-26 05:31:35"
   },
   {
+    "id": 1691,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:46"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -2952,6 +2973,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-26 05:32:45"
+  },
+  {
+    "id": 1695,
+    "brandName": "东财",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:47:28"
   },
   {
     "id": 923,
@@ -3619,6 +3647,13 @@
     "recordedAt": "2026-06-04 18:48:23"
   },
   {
+    "id": 1690,
+    "brandName": "五洋自控",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:45"
+  },
+  {
     "id": 389,
     "brandName": "五粮液",
     "score": 0,
@@ -3631,6 +3666,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:41:54"
+  },
+  {
+    "id": 1687,
+    "brandName": "五粮液",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:40"
   },
   {
     "id": 1302,
@@ -4471,6 +4513,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-08 07:24:30"
+  },
+  {
+    "id": 1689,
+    "brandName": "协创数据",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:43"
   },
   {
     "id": 573,
@@ -7315,6 +7364,13 @@
     "recordedAt": "2026-06-26 09:48:28"
   },
   {
+    "id": 1694,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:49"
+  },
+  {
     "id": 636,
     "brandName": "智谱AI",
     "score": 0,
@@ -8566,6 +8622,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 12:45:20"
+  },
+  {
+    "id": 1688,
+    "brandName": "百度",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-26 15:46:42"
   },
   {
     "id": 173,
