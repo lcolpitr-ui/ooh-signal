@@ -1463,6 +1463,13 @@
     "recordedAt": "2026-06-27 09:51:33"
   },
   {
+    "id": 1737,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 11:51:44"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
@@ -4457,6 +4464,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 10:57:33"
+  },
+  {
+    "id": 1736,
+    "brandName": "华为",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 11:51:43"
   },
   {
     "id": 205,
