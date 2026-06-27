@@ -2513,6 +2513,13 @@
     "recordedAt": "2026-06-27 03:20:23"
   },
   {
+    "id": 1718,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 06:56:20"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -3731,6 +3738,13 @@
     "recordedAt": "2026-06-26 15:46:40"
   },
   {
+    "id": 1719,
+    "brandName": "五粮液",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 06:56:21"
+  },
+  {
     "id": 1302,
     "brandName": "五菱",
     "score": 0,
@@ -4935,6 +4949,13 @@
     "recordedAt": "2026-06-18 12:46:16"
   },
   {
+    "id": 1720,
+    "brandName": "四方精创",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 06:56:55"
+  },
+  {
     "id": 106,
     "brandName": "国光电器",
     "score": 55,
@@ -5458,6 +5479,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 08:01:43"
+  },
+  {
+    "id": 1717,
+    "brandName": "娃哈哈",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 06:56:18"
   },
   {
     "id": 381,

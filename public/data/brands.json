@@ -511,7 +511,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 99,
+    "signalCount": 100,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1303,7 +1303,7 @@
     "industry": "快消",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 03:40:54"
@@ -3591,7 +3591,7 @@
     "industry": "酒水",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 00:18:37"
@@ -11174,5 +11174,16 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-27 03:20:41"
+  },
+  {
+    "id": "四方精创",
+    "name": "四方精创",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-27 06:56:55"
   }
 ]
