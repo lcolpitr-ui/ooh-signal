@@ -33,6 +33,17 @@
     "createdAt": "2026-06-16 16:13:28"
   },
   {
+    "id": "华夏基金",
+    "name": "华夏基金",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 2,
+    "latestScore": 79,
+    "website": null,
+    "createdAt": "2026-06-25 09:44:28"
+  },
+  {
     "id": "建滔投资",
     "name": "建滔投资",
     "industry": "金融",
@@ -181,7 +192,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 26,
+    "signalCount": 27,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -500,7 +511,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 98,
+    "signalCount": 99,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -896,7 +907,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 18,
+    "signalCount": 20,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 08:47:51"
@@ -1248,7 +1259,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 30,
+    "signalCount": 32,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1468,7 +1479,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 08:03:13"
@@ -2348,7 +2359,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 19,
+    "signalCount": 20,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -5934,7 +5945,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-12 16:35:32"
@@ -8970,7 +8981,7 @@
     "industry": "服装",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-22 10:57:39"
@@ -9982,7 +9993,7 @@
     "industry": "快消",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 11:11:23"
@@ -10499,7 +10510,7 @@
     "industry": "医疗",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 09:43:50"
@@ -10514,17 +10525,6 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-25 09:44:26"
-  },
-  {
-    "id": "华夏基金",
-    "name": "华夏基金",
-    "industry": "金融",
-    "scale": "large",
-    "isListed": 1,
-    "signalCount": 1,
-    "latestScore": 0,
-    "website": null,
-    "createdAt": "2026-06-25 09:44:28"
   },
   {
     "id": "昀冢科技",
@@ -10763,7 +10763,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 00:28:38"
@@ -10785,7 +10785,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 00:28:42"
@@ -11152,5 +11152,27 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 15:47:28"
+  },
+  {
+    "id": "g7易流",
+    "name": "G7易流",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-27 03:20:13"
+  },
+  {
+    "id": "genbio-ai",
+    "name": "GenBio AI",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-27 03:20:41"
   }
 ]
