@@ -1484,6 +1484,13 @@
     "recordedAt": "2026-06-27 15:39:11"
   },
   {
+    "id": 1741,
+    "brandName": "OpenAI",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 17:32:33"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
