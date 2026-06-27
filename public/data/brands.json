@@ -1259,7 +1259,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 34,
+    "signalCount": 35,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 02:39:06"
@@ -1747,6 +1747,17 @@
     "latestScore": 51,
     "website": null,
     "createdAt": "2026-06-24 04:03:24"
+  },
+  {
+    "id": "兴发集团",
+    "name": "兴发集团",
+    "industry": "化工",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 51,
+    "website": null,
+    "createdAt": "2026-06-27 23:21:01"
   },
   {
     "id": "柠季",

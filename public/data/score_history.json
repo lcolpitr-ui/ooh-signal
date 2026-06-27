@@ -4284,6 +4284,13 @@
     "recordedAt": "2026-06-27 09:51:09"
   },
   {
+    "id": 1744,
+    "brandName": "兴发集团",
+    "score": 51,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 23:21:01"
+  },
+  {
     "id": 1435,
     "brandName": "养生堂",
     "score": 0,
@@ -10330,6 +10337,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-27 15:39:12"
+  },
+  {
+    "id": 1745,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-27 23:23:34"
   },
   {
     "id": 1601,
