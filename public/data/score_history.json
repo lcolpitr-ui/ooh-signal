@@ -406,6 +406,13 @@
     "recordedAt": "2026-06-27 03:20:25"
   },
   {
+    "id": 1759,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:18"
+  },
+  {
     "id": 991,
     "brandName": "AnySearch",
     "score": 0,
@@ -418,6 +425,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-26 00:28:43"
+  },
+  {
+    "id": 1749,
+    "brandName": "Apple",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:51"
   },
   {
     "id": 150,
@@ -670,6 +684,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-27 09:51:21"
+  },
+  {
+    "id": 1756,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:09"
   },
   {
     "id": 147,
@@ -1160,6 +1181,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-08 11:06:18"
+  },
+  {
+    "id": 1746,
+    "brandName": "Miu Miu",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:44"
   },
   {
     "id": 230,
@@ -1657,6 +1685,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-11 14:54:11"
+  },
+  {
+    "id": 1753,
+    "brandName": "Rokid",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:58"
   },
   {
     "id": 167,
@@ -3486,6 +3521,13 @@
     "recordedAt": "2026-06-13 03:53:29"
   },
   {
+    "id": 1752,
+    "brandName": "中科粉研",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:57"
+  },
+  {
     "id": 1055,
     "brandName": "中科闻歌",
     "score": 0,
@@ -3815,6 +3857,13 @@
     "recordedAt": "2026-06-22 10:57:53"
   },
   {
+    "id": 1748,
+    "brandName": "五菱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:47"
+  },
+  {
     "id": 1491,
     "brandName": "亚信安全",
     "score": 0,
@@ -4114,6 +4163,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 22:01:06"
+  },
+  {
+    "id": 1757,
+    "brandName": "佑驾创新",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:14"
   },
   {
     "id": 490,
@@ -4655,6 +4711,13 @@
     "recordedAt": "2026-06-17 00:33:19"
   },
   {
+    "id": 1751,
+    "brandName": "华泰证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:56"
+  },
+  {
     "id": 1257,
     "brandName": "华润新能源",
     "score": 0,
@@ -4730,6 +4793,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 13:56:04"
+  },
+  {
+    "id": 1747,
+    "brandName": "博世",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:46"
   },
   {
     "id": 1238,
@@ -5115,6 +5185,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-17 12:07:05"
+  },
+  {
+    "id": 1760,
+    "brandName": "国统股份",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:59"
   },
   {
     "id": 316,
@@ -6396,6 +6473,13 @@
     "score": 51,
     "signalCount": 1,
     "recordedAt": "2026-06-24 04:03:24"
+  },
+  {
+    "id": 1750,
+    "brandName": "广生堂",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:06:54"
   },
   {
     "id": 1226,
@@ -9471,6 +9555,13 @@
     "recordedAt": "2026-06-26 00:28:41"
   },
   {
+    "id": 1754,
+    "brandName": "老铺黄金",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:02"
+  },
+  {
     "id": 896,
     "brandName": "耐克",
     "score": 0,
@@ -10367,6 +10458,13 @@
     "recordedAt": "2026-06-22 04:31:46"
   },
   {
+    "id": 1758,
+    "brandName": "茉莉奶白",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:16"
+  },
+  {
     "id": 69,
     "brandName": "茶颜悦色",
     "score": 50,
@@ -10575,6 +10673,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 00:23:37"
+  },
+  {
+    "id": 1755,
+    "brandName": "蜜雪冰城",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 04:07:08"
   },
   {
     "id": 927,

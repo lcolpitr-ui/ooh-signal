@@ -313,7 +313,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:36"
@@ -2315,7 +2315,7 @@
     "industry": "服装",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 10:54:14"
@@ -2370,7 +2370,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 20,
+    "signalCount": 21,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -2986,7 +2986,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 4,
+    "signalCount": 5,
     "latestScore": 33,
     "website": null,
     "createdAt": "2026-06-10 05:32:50"
@@ -5582,7 +5582,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 14:54:11"
@@ -8750,7 +8750,7 @@
     "industry": "餐饮",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-22 04:31:46"
@@ -9025,7 +9025,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-22 10:57:53"
@@ -10785,7 +10785,7 @@
     "industry": "零售",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 00:28:41"
@@ -10807,7 +10807,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-26 00:28:43"
@@ -11306,5 +11306,71 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-27 19:43:57"
+  },
+  {
+    "id": "博世",
+    "name": "博世",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 04:06:46"
+  },
+  {
+    "id": "广生堂",
+    "name": "广生堂",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 04:06:54"
+  },
+  {
+    "id": "中科粉研",
+    "name": "中科粉研",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 04:06:57"
+  },
+  {
+    "id": "蜜雪冰城",
+    "name": "蜜雪冰城",
+    "industry": "餐饮",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 04:07:08"
+  },
+  {
+    "id": "佑驾创新",
+    "name": "佑驾创新",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 04:07:14"
+  },
+  {
+    "id": "国统股份",
+    "name": "国统股份",
+    "industry": "地产",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 04:07:59"
   }
 ]
