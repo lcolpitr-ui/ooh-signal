@@ -192,7 +192,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 27,
+    "signalCount": 28,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -357,7 +357,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 11,
+    "signalCount": 12,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 06:21:34"
@@ -1435,7 +1435,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 5,
+    "signalCount": 6,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-05 06:08:31"
@@ -2370,7 +2370,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 21,
+    "signalCount": 22,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -2667,7 +2667,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-05 08:03:36"
@@ -3261,7 +3261,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:05:57"
@@ -11372,5 +11372,49 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-28 04:07:59"
+  },
+  {
+    "id": "信通电子",
+    "name": "信通电子",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 08:16:09"
+  },
+  {
+    "id": "智元",
+    "name": "智元",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 08:16:12"
+  },
+  {
+    "id": "药捷安康-b",
+    "name": "药捷安康-B",
+    "industry": "医疗",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 08:16:13"
+  },
+  {
+    "id": "中复神鹰",
+    "name": "中复神鹰",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-28 08:16:15"
   }
 ]

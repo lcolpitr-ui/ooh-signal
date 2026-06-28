@@ -413,6 +413,13 @@
     "recordedAt": "2026-06-28 04:07:18"
   },
   {
+    "id": 1765,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:14"
+  },
+  {
     "id": 991,
     "brandName": "AnySearch",
     "score": 0,
@@ -2996,6 +3003,13 @@
     "recordedAt": "2026-06-26 00:28:36"
   },
   {
+    "id": 1762,
+    "brandName": "三星",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:11"
+  },
+  {
     "id": 249,
     "brandName": "三星电子",
     "score": 50,
@@ -3442,6 +3456,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-15 06:41:57"
+  },
+  {
+    "id": 1766,
+    "brandName": "中复神鹰",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:15"
   },
   {
     "id": 102,
@@ -4198,6 +4219,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-26 12:32:48"
+  },
+  {
+    "id": 1761,
+    "brandName": "信通电子",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:09"
   },
   {
     "id": 1333,
@@ -7518,6 +7546,13 @@
     "recordedAt": "2026-06-09 05:17:59"
   },
   {
+    "id": 1763,
+    "brandName": "智元",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:12"
+  },
+  {
     "id": 694,
     "brandName": "智元机器人",
     "score": 0,
@@ -8750,6 +8785,13 @@
     "recordedAt": "2026-06-23 16:10:15"
   },
   {
+    "id": 1767,
+    "brandName": "特斯拉",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:16"
+  },
+  {
     "id": 296,
     "brandName": "特锐德",
     "score": 50,
@@ -9821,6 +9863,13 @@
     "recordedAt": "2026-06-27 03:20:42"
   },
   {
+    "id": 1769,
+    "brandName": "腾讯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:18"
+  },
+  {
     "id": 215,
     "brandName": "腾讯云",
     "score": 55,
@@ -10514,6 +10563,13 @@
     "recordedAt": "2026-06-25 05:26:34"
   },
   {
+    "id": 1764,
+    "brandName": "药捷安康-B",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:13"
+  },
+  {
     "id": 346,
     "brandName": "药明康德",
     "score": 0,
@@ -10638,6 +10694,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-24 13:43:14"
+  },
+  {
+    "id": 1770,
+    "brandName": "蔚来",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:19"
   },
   {
     "id": 222,
@@ -10827,6 +10890,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-23 12:32:37"
+  },
+  {
+    "id": 1768,
+    "brandName": "谷歌",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 08:16:17"
   },
   {
     "id": 23,
