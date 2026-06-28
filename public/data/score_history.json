@@ -707,6 +707,13 @@
     "recordedAt": "2026-06-28 10:53:36"
   },
   {
+    "id": 1785,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:04"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
@@ -4613,6 +4620,13 @@
     "recordedAt": "2026-06-27 11:51:43"
   },
   {
+    "id": 1788,
+    "brandName": "华为",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:07"
+  },
+  {
     "id": 205,
     "brandName": "华为云",
     "score": 55,
@@ -4758,6 +4772,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-28 04:06:56"
+  },
+  {
+    "id": 1782,
+    "brandName": "华润啤酒",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:00"
   },
   {
     "id": 1257,
@@ -5178,6 +5199,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 04:12:24"
+  },
+  {
+    "id": 1784,
+    "brandName": "国家电投",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:02"
   },
   {
     "id": 39,
@@ -8540,6 +8568,13 @@
     "recordedAt": "2026-06-10 05:33:17"
   },
   {
+    "id": 1787,
+    "brandName": "混元",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:06"
+  },
+  {
     "id": 1230,
     "brandName": "清明上河园",
     "score": 0,
@@ -9483,6 +9518,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-27 03:20:38"
+  },
+  {
+    "id": 1786,
+    "brandName": "美光",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:05"
   },
   {
     "id": 535,
@@ -12276,6 +12318,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 00:32:22"
+  },
+  {
+    "id": 1783,
+    "brandName": "高通",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-28 12:42:01"
   },
   {
     "id": 747,
