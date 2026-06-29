@@ -1787,7 +1787,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 21,
+    "signalCount": 22,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-03 06:23:21"
@@ -3272,7 +3272,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 9,
+    "signalCount": 10,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:05:57"
@@ -8200,7 +8200,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-19 06:35:42"
@@ -8343,7 +8343,7 @@
     "industry": "互联网",
     "scale": "small",
     "isListed": 0,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-19 11:42:06"
@@ -8486,7 +8486,7 @@
     "industry": "金融",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 3,
+    "signalCount": 4,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-21 06:19:52"
@@ -11581,5 +11581,170 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-29 00:30:48"
+  },
+  {
+    "id": "宸思科技",
+    "name": "宸思科技",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:49"
+  },
+  {
+    "id": "aivela",
+    "name": "AIVELA",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:51"
+  },
+  {
+    "id": "urtopia",
+    "name": "URTOPIA",
+    "industry": "运动",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:52"
+  },
+  {
+    "id": "海光芯正",
+    "name": "海光芯正",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:53"
+  },
+  {
+    "id": "caye咖爷科技",
+    "name": "CAYE咖爷科技",
+    "industry": "餐饮",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:54"
+  },
+  {
+    "id": "源策未来archon-robotics",
+    "name": "源策未来Archon Robotics",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:55"
+  },
+  {
+    "id": "firmus",
+    "name": "Firmus",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:14:58"
+  },
+  {
+    "id": "益普生",
+    "name": "益普生",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:15:02"
+  },
+  {
+    "id": "诺华",
+    "name": "诺华",
+    "industry": "医疗",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:15:10"
+  },
+  {
+    "id": "openmontage",
+    "name": "OpenMontage",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:15:13"
+  },
+  {
+    "id": "通则康威",
+    "name": "通则康威",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:15:16"
+  },
+  {
+    "id": "核心医疗",
+    "name": "核心医疗",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:15:17"
+  },
+  {
+    "id": "羽素",
+    "name": "羽素",
+    "industry": "美妆",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:15:25"
+  },
+  {
+    "id": "浙江省建设投资集团",
+    "name": "浙江省建设投资集团",
+    "industry": "地产",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:16:06"
+  },
+  {
+    "id": "万憬能源",
+    "name": "万憬能源",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 06:16:07"
   }
 ]

@@ -224,6 +224,13 @@
     "recordedAt": "2026-06-11 14:54:04"
   },
   {
+    "id": 1805,
+    "brandName": "AIVELA",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:51"
+  },
+  {
     "id": 309,
     "brandName": "AMD",
     "score": 0,
@@ -532,6 +539,13 @@
     "recordedAt": "2026-06-25 05:26:12"
   },
   {
+    "id": 1808,
+    "brandName": "CAYE咖爷科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:54"
+  },
+  {
     "id": 257,
     "brandName": "CELINE",
     "score": 50,
@@ -810,6 +824,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 10:57:31"
+  },
+  {
+    "id": 1811,
+    "brandName": "Firmus",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:58"
   },
   {
     "id": 1700,
@@ -1610,6 +1631,13 @@
     "recordedAt": "2026-06-27 21:25:45"
   },
   {
+    "id": 1817,
+    "brandName": "OpenMontage",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:13"
+  },
+  {
     "id": 189,
     "brandName": "PLUG-INPET",
     "score": 50,
@@ -1902,6 +1930,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-19 11:42:06"
+  },
+  {
+    "id": 1815,
+    "brandName": "Seedance",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:08"
   },
   {
     "id": 408,
@@ -2765,6 +2800,13 @@
     "recordedAt": "2026-06-11 05:44:01"
   },
   {
+    "id": 1806,
+    "brandName": "URTOPIA",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:52"
+  },
+  {
     "id": 16,
     "brandName": "Uber",
     "score": 55,
@@ -2954,6 +2996,13 @@
     "recordedAt": "2026-06-16 04:19:16"
   },
   {
+    "id": 1823,
+    "brandName": "万憬能源",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:16:07"
+  },
+  {
     "id": 709,
     "brandName": "万科",
     "score": 0,
@@ -3085,6 +3134,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-29 00:30:41"
+  },
+  {
+    "id": 1812,
+    "brandName": "三星",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:59"
   },
   {
     "id": 249,
@@ -4023,6 +4079,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-25 05:26:31"
+  },
+  {
+    "id": 1810,
+    "brandName": "亚马逊",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:57"
   },
   {
     "id": 1661,
@@ -6111,6 +6174,13 @@
     "recordedAt": "2026-06-23 12:32:15"
   },
   {
+    "id": 1804,
+    "brandName": "宸思科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:49"
+  },
+  {
     "id": 341,
     "brandName": "宿迁联盛",
     "score": 0,
@@ -7000,6 +7070,13 @@
     "recordedAt": "2026-06-26 12:32:47"
   },
   {
+    "id": 1814,
+    "brandName": "德意志银行",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:04"
+  },
+  {
     "id": 1125,
     "brandName": "德方纳米",
     "score": 0,
@@ -7882,6 +7959,13 @@
     "recordedAt": "2026-06-26 23:27:05"
   },
   {
+    "id": 1820,
+    "brandName": "智谱",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:20"
+  },
+  {
     "id": 636,
     "brandName": "智谱AI",
     "score": 0,
@@ -8139,6 +8223,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-22 04:31:42"
+  },
+  {
+    "id": 1819,
+    "brandName": "核心医疗",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:17"
   },
   {
     "id": 1408,
@@ -8575,6 +8666,20 @@
     "recordedAt": "2026-06-25 18:32:55"
   },
   {
+    "id": 1822,
+    "brandName": "浙江省建设投资集团",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:16:06"
+  },
+  {
+    "id": 1807,
+    "brandName": "海光芯正",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:53"
+  },
+  {
     "id": 1497,
     "brandName": "海南海药",
     "score": 0,
@@ -8692,6 +8797,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-05 06:08:33"
+  },
+  {
+    "id": 1809,
+    "brandName": "源策未来Archon Robotics",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:14:55"
   },
   {
     "id": 898,
@@ -9233,6 +9345,13 @@
     "recordedAt": "2026-06-16 10:23:20"
   },
   {
+    "id": 1813,
+    "brandName": "益普生",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:02"
+  },
+  {
     "id": 1194,
     "brandName": "盛吉盛",
     "score": 0,
@@ -9749,6 +9868,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 06:34:14"
+  },
+  {
+    "id": 1821,
+    "brandName": "羽素",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:25"
   },
   {
     "id": 1316,
@@ -10983,6 +11109,13 @@
     "recordedAt": "2026-06-17 06:29:11"
   },
   {
+    "id": 1816,
+    "brandName": "诺华",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:10"
+  },
+  {
     "id": 410,
     "brandName": "诺和诺德",
     "score": 0,
@@ -11492,6 +11625,13 @@
     "score": 55,
     "signalCount": 1,
     "recordedAt": "2026-06-08 08:24:33"
+  },
+  {
+    "id": 1818,
+    "brandName": "通则康威",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 06:15:16"
   },
   {
     "id": 1365,
