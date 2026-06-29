@@ -441,6 +441,13 @@
     "recordedAt": "2026-06-28 08:16:14"
   },
   {
+    "id": 1856,
+    "brandName": "Anthropic",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:50"
+  },
+  {
     "id": 991,
     "brandName": "AnySearch",
     "score": 0,
@@ -782,6 +789,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-29 00:30:54"
+  },
+  {
+    "id": 1848,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:39"
   },
   {
     "id": 147,
@@ -2758,6 +2772,13 @@
     "recordedAt": "2026-06-27 06:56:20"
   },
   {
+    "id": 1850,
+    "brandName": "SpaceX",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:43"
+  },
+  {
     "id": 277,
     "brandName": "Spotify",
     "score": 50,
@@ -3178,6 +3199,13 @@
     "recordedAt": "2026-06-29 06:14:59"
   },
   {
+    "id": 1853,
+    "brandName": "三星",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:46"
+  },
+  {
     "id": 249,
     "brandName": "三星电子",
     "score": 50,
@@ -3316,6 +3344,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-26 05:32:45"
+  },
+  {
+    "id": 1859,
+    "brandName": "东莞市投资控股集团有限公司",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:15:35"
   },
   {
     "id": 1695,
@@ -4200,6 +4235,13 @@
     "recordedAt": "2026-06-04 04:36:43"
   },
   {
+    "id": 1846,
+    "brandName": "京东方",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:35"
+  },
+  {
     "id": 51,
     "brandName": "京东方A",
     "score": 55,
@@ -5040,6 +5082,13 @@
     "recordedAt": "2026-06-26 15:46:43"
   },
   {
+    "id": 1852,
+    "brandName": "南亚新材",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:45"
+  },
+  {
     "id": 573,
     "brandName": "南华生物",
     "score": 0,
@@ -5649,6 +5698,13 @@
     "recordedAt": "2026-06-09 06:33:57"
   },
   {
+    "id": 1858,
+    "brandName": "大众",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:52"
+  },
+  {
     "id": 1632,
     "brandName": "大北农",
     "score": 0,
@@ -6214,6 +6270,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:08"
+  },
+  {
+    "id": 1855,
+    "brandName": "宏微科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:49"
   },
   {
     "id": 1005,
@@ -7733,6 +7796,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-09 09:58:13"
+  },
+  {
+    "id": 1857,
+    "brandName": "昆仑芯",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:51"
   },
   {
     "id": 405,
@@ -9422,6 +9492,13 @@
     "recordedAt": "2026-06-26 15:46:42"
   },
   {
+    "id": 1849,
+    "brandName": "百度",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:41"
+  },
+  {
     "id": 173,
     "brandName": "百曜科技",
     "score": 55,
@@ -9462,6 +9539,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-20 05:32:10"
+  },
+  {
+    "id": 1854,
+    "brandName": "盛景网联",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:48"
   },
   {
     "id": 1834,
@@ -9623,6 +9707,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-18 04:12:10"
+  },
+  {
+    "id": 1851,
+    "brandName": "空客",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:44"
   },
   {
     "id": 1771,
@@ -11198,6 +11289,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-28 04:07:08"
+  },
+  {
+    "id": 1847,
+    "brandName": "蜜雪冰城",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 15:14:36"
   },
   {
     "id": 927,

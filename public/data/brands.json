@@ -313,7 +313,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 20,
+    "signalCount": 21,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:36"
@@ -511,7 +511,7 @@
     "industry": "航空",
     "scale": "large",
     "isListed": 0,
-    "signalCount": 100,
+    "signalCount": 101,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-04 04:36:03"
@@ -1974,7 +1974,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 04:36:43"
@@ -2370,7 +2370,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 22,
+    "signalCount": 23,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 18:48:45"
@@ -3272,7 +3272,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 10,
+    "signalCount": 11,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 11:05:57"
@@ -3701,7 +3701,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 7,
+    "signalCount": 8,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-09 05:17:57"
@@ -11357,7 +11357,7 @@
     "industry": "餐饮",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-28 04:07:08"
@@ -11911,5 +11911,82 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-29 11:23:43"
+  },
+  {
+    "id": "空客",
+    "name": "空客",
+    "industry": "航空",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:14:44"
+  },
+  {
+    "id": "南亚新材",
+    "name": "南亚新材",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:14:45"
+  },
+  {
+    "id": "盛景网联",
+    "name": "盛景网联",
+    "industry": "互联网",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:14:48"
+  },
+  {
+    "id": "宏微科技",
+    "name": "宏微科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:14:49"
+  },
+  {
+    "id": "昆仑芯",
+    "name": "昆仑芯",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:14:51"
+  },
+  {
+    "id": "大众",
+    "name": "大众",
+    "industry": "汽车",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:14:52"
+  },
+  {
+    "id": "东莞市投资控股集团有限公司",
+    "name": "东莞市投资控股集团有限公司",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 15:15:35"
   }
 ]
