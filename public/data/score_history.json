@@ -756,6 +756,13 @@
     "recordedAt": "2026-06-28 22:24:26"
   },
   {
+    "id": 1803,
+    "brandName": "DeepSeek",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:54"
+  },
+  {
     "id": 147,
     "brandName": "EdHardy",
     "score": 50,
@@ -880,6 +887,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-10 05:33:21"
+  },
+  {
+    "id": 1801,
+    "brandName": "Grok",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:50"
   },
   {
     "id": 768,
@@ -3066,6 +3080,13 @@
     "recordedAt": "2026-06-28 08:16:11"
   },
   {
+    "id": 1795,
+    "brandName": "三星",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:41"
+  },
+  {
     "id": 249,
     "brandName": "三星电子",
     "score": 50,
@@ -4025,6 +4046,13 @@
     "recordedAt": "2026-06-15 00:23:30"
   },
   {
+    "id": 1800,
+    "brandName": "亨通光电",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:48"
+  },
+  {
     "id": 270,
     "brandName": "京东",
     "score": 50,
@@ -4424,6 +4452,13 @@
     "recordedAt": "2026-06-24 22:39:09"
   },
   {
+    "id": 1797,
+    "brandName": "兴业科技",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:43"
+  },
+  {
     "id": 1723,
     "brandName": "兴业银行",
     "score": 0,
@@ -4814,6 +4849,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-28 04:06:56"
+  },
+  {
+    "id": 1796,
+    "brandName": "华泰证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:42"
   },
   {
     "id": 1782,
@@ -6501,6 +6543,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-21 10:23:29"
+  },
+  {
+    "id": 1798,
+    "brandName": "工银理财",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:44"
   },
   {
     "id": 1415,
@@ -10626,6 +10675,13 @@
     "recordedAt": "2026-06-27 23:23:34"
   },
   {
+    "id": 1802,
+    "brandName": "苹果",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:53"
+  },
+  {
     "id": 1601,
     "brandName": "苹果公司",
     "score": 0,
@@ -11744,6 +11800,13 @@
     "score": 0,
     "signalCount": 1,
     "recordedAt": "2026-06-12 08:42:31"
+  },
+  {
+    "id": 1799,
+    "brandName": "长江证券",
+    "score": 0,
+    "signalCount": 1,
+    "recordedAt": "2026-06-29 00:30:45"
   },
   {
     "id": 1542,
