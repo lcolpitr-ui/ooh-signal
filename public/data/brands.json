@@ -192,7 +192,7 @@
     "industry": "互联网",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 28,
+    "signalCount": 29,
     "latestScore": 55,
     "website": null,
     "createdAt": "2026-06-03 05:35:10"
@@ -2117,7 +2117,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 6,
+    "signalCount": 7,
     "latestScore": 50,
     "website": null,
     "createdAt": "2026-06-04 07:38:27"
@@ -3448,7 +3448,7 @@
     "industry": "汽车",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-08 15:03:12"
@@ -4933,7 +4933,7 @@
     "industry": "互联网",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-10 05:33:21"
@@ -5593,7 +5593,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 0,
-    "signalCount": 2,
+    "signalCount": 3,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-11 14:54:11"
@@ -6242,7 +6242,7 @@
     "industry": "3C",
     "scale": "medium",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-13 10:51:25"
@@ -9707,7 +9707,7 @@
     "industry": "3C",
     "scale": "large",
     "isListed": 1,
-    "signalCount": 1,
+    "signalCount": 2,
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-24 04:04:42"
@@ -11746,5 +11746,170 @@
     "latestScore": 0,
     "website": null,
     "createdAt": "2026-06-29 06:16:07"
+  },
+  {
+    "id": "moxy摸喜",
+    "name": "Moxy摸喜",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:05"
+  },
+  {
+    "id": "sand.ai",
+    "name": "Sand.ai",
+    "industry": "互联网",
+    "scale": "small",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:06"
+  },
+  {
+    "id": "微泰医疗",
+    "name": "微泰医疗",
+    "industry": "医疗",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:08"
+  },
+  {
+    "id": "谷歌云",
+    "name": "谷歌云",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:09"
+  },
+  {
+    "id": "长盈通",
+    "name": "长盈通",
+    "industry": "3C",
+    "scale": "small",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:10"
+  },
+  {
+    "id": "创力集团",
+    "name": "创力集团",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:14"
+  },
+  {
+    "id": "斯达半导",
+    "name": "斯达半导",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:17"
+  },
+  {
+    "id": "盛达资源",
+    "name": "盛达资源",
+    "industry": "金融",
+    "scale": "medium",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:18"
+  },
+  {
+    "id": "airtrunk",
+    "name": "AirTrunk",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:20"
+  },
+  {
+    "id": "康卡斯特",
+    "name": "康卡斯特",
+    "industry": "互联网",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:21"
+  },
+  {
+    "id": "岚图",
+    "name": "岚图",
+    "industry": "汽车",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:26"
+  },
+  {
+    "id": "小鹰",
+    "name": "小鹰",
+    "industry": "运动",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:37"
+  },
+  {
+    "id": "中材科技",
+    "name": "中材科技",
+    "industry": "3C",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:40"
+  },
+  {
+    "id": "人保寿险",
+    "name": "人保寿险",
+    "industry": "金融",
+    "scale": "large",
+    "isListed": 1,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:42"
+  },
+  {
+    "id": "群策科技",
+    "name": "群策科技",
+    "industry": "3C",
+    "scale": "medium",
+    "isListed": 0,
+    "signalCount": 1,
+    "latestScore": 0,
+    "website": null,
+    "createdAt": "2026-06-29 11:23:43"
   }
 ]
