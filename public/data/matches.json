@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T21:47:32.374830+00:00",
+  "generated_at": "2026-06-30T23:36:15.519282+00:00",
   "total_matches": 89,
   "matches": [
     {
@@ -120,7 +120,7 @@
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
       "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
       "brand_name": "浙商基金管理有限公司",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -139,25 +139,6 @@
       "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
       "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
       "brand_name": "国泰基金",
-      "signal_score": 74,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "国泰基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
       "signal_score": 73,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
@@ -169,7 +150,7 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "易方达所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "reason_text": "国泰基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
     },
@@ -208,6 +189,25 @@
         "预算匹配"
       ],
       "reason_text": "华夏基金所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 72,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 250000
     },
@@ -360,7 +360,7 @@
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
       "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
       "brand_name": "浙商基金管理有限公司",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -378,24 +378,6 @@
       "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
       "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
       "brand_name": "国泰基金",
-      "signal_score": 74,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "国泰基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
       "signal_score": 73,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
@@ -406,7 +388,7 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "易方达所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "reason_text": "国泰基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 300000
     },
@@ -443,6 +425,24 @@
         "媒体类型匹配"
       ],
       "reason_text": "华夏基金所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 72,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "易方达所在行业与机场广告受众契合；机场广告适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 300000
     },
@@ -936,7 +936,7 @@
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
       "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
       "brand_name": "浙商基金管理有限公司",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -954,7 +954,7 @@
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
       "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
       "brand_name": "浙商基金管理有限公司",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -972,7 +972,7 @@
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
       "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
       "brand_name": "浙商基金管理有限公司",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -990,7 +990,7 @@
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
       "signal_title": "浙商基金管理有限公司关于旗下浙商沪深300指数增强型证券投资基金（LOF）C新增粤开证券股份有限公司",
       "brand_name": "浙商基金管理有限公司",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -1008,7 +1008,7 @@
       "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
       "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
       "brand_name": "国泰基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -1026,7 +1026,7 @@
       "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
       "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
       "brand_name": "国泰基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -1044,7 +1044,7 @@
       "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
       "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
       "brand_name": "国泰基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -1062,7 +1062,7 @@
       "signal_id": "a2f799a89710688f77a102ad0fd5d9e4",
       "signal_title": "国泰基金管理有限公司关于国泰国证信息技术创新主题交易型开放式指数证券投资基金基金份额拆分结果的公告",
       "brand_name": "国泰基金",
-      "signal_score": 74,
+      "signal_score": 73,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -1073,78 +1073,6 @@
         "预算匹配"
       ],
       "reason_text": "国泰基金所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 73,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 73,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 73,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 73,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
@@ -1289,6 +1217,78 @@
         "预算匹配"
       ],
       "reason_text": "华夏基金所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 72,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 72,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 72,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 72,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
