@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T09:56:25.505145+00:00",
-  "total_matches": 104,
+  "generated_at": "2026-06-30T12:27:21.942929+00:00",
+  "total_matches": 109,
   "matches": [
     {
       "signal_id": "01ce6eeead063bef780873d6308e013a",
@@ -25,20 +25,20 @@
       "signal_id": "53a937c779a4a1fae14c0bee0ccbe9c1",
       "signal_title": "万憬能源投资者关系管理信息20260629",
       "brand_name": "万憬能源",
-      "signal_score": 90,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
+      "signal_score": 89,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
       "match_score": 90,
       "reasons": [
         "行业匹配",
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "万憬能源所在行业与机场广告受众契合；机场广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
+      "reason_text": "万憬能源所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
     },
     {
       "signal_id": "30d06ff52e78f75a094cdfad86f98235",
@@ -63,7 +63,7 @@
       "signal_id": "c731eebcb76894a9a67d997049239526",
       "signal_title": "东财创业板综合增强策略交易型开放式指数证券投资基金更新招募说明书（2026年第3号）",
       "brand_name": "东财",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_009",
       "resource_name": "上海虹桥高铁站",
       "resource_type": "高铁站广告",
@@ -115,25 +115,6 @@
       "reason_text": "同宇新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 75,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
     },
     {
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
@@ -212,6 +193,25 @@
       "daily_traffic": 250000
     },
     {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 74,
+      "resource_id": "res_009",
+      "resource_name": "上海虹桥高铁站",
+      "resource_type": "高铁站广告",
+      "resource_location": "上海",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 250000
+    },
+    {
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
@@ -231,25 +231,6 @@
       "daily_traffic": 250000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "深圳",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
       "signal_title": "300806斯迪克投资者关系管理信息20260624",
       "brand_name": "斯迪克",
@@ -265,6 +246,25 @@
         "预算匹配"
       ],
       "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 70,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
     },
@@ -290,19 +290,19 @@
       "signal_id": "53a937c779a4a1fae14c0bee0ccbe9c1",
       "signal_title": "万憬能源投资者关系管理信息20260629",
       "brand_name": "万憬能源",
-      "signal_score": 90,
-      "resource_id": "res_009",
-      "resource_name": "上海虹桥高铁站",
-      "resource_type": "高铁站广告",
-      "resource_location": "上海",
+      "signal_score": 89,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "万憬能源所在行业与高铁站广告受众契合；高铁站广告适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 250000
+      "reason_text": "万憬能源所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
     },
     {
       "signal_id": "30d06ff52e78f75a094cdfad86f98235",
@@ -326,7 +326,7 @@
       "signal_id": "c731eebcb76894a9a67d997049239526",
       "signal_title": "东财创业板综合增强策略交易型开放式指数证券投资基金更新招募说明书（2026年第3号）",
       "brand_name": "东财",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_008",
       "resource_name": "北京首都机场T3航站楼",
       "resource_type": "机场广告",
@@ -393,24 +393,6 @@
       "reason_text": "同宇新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 75,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "易方达所在行业与机场广告受众契合；机场广告适合品牌曝光",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
     },
     {
       "signal_id": "0c0831bc168f8aba1d18caff08998950",
@@ -485,6 +467,24 @@
       "daily_traffic": 300000
     },
     {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 74,
+      "resource_id": "res_008",
+      "resource_name": "北京首都机场T3航站楼",
+      "resource_type": "机场广告",
+      "resource_location": "北京",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "易方达所在行业与机场广告受众契合；机场广告适合品牌曝光",
+      "recommended_budget": "high",
+      "daily_traffic": 300000
+    },
+    {
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
@@ -503,10 +503,10 @@
       "daily_traffic": 300000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
+      "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
+      "signal_title": "300806斯迪克投资者关系管理信息20260624",
+      "brand_name": "斯迪克",
+      "signal_score": 70,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -516,15 +516,15 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 150000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
+      "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
+      "signal_title": "300806斯迪克投资者关系管理信息20260624",
+      "brand_name": "斯迪克",
+      "signal_score": 70,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -534,14 +534,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
     {
-      "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
-      "signal_title": "300806斯迪克投资者关系管理信息20260624",
-      "brand_name": "斯迪克",
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
       "signal_score": 70,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
@@ -552,14 +552,14 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 150000
     },
     {
-      "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
-      "signal_title": "300806斯迪克投资者关系管理信息20260624",
-      "brand_name": "斯迪克",
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
       "signal_score": 70,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
@@ -570,7 +570,7 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "斯迪克所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "盛邦安全所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
@@ -578,19 +578,109 @@
       "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
       "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
       "brand_name": "浙江省建设投资集团",
-      "signal_score": 90,
-      "resource_id": "res_008",
-      "resource_name": "北京首都机场T3航站楼",
-      "resource_type": "机场广告",
+      "signal_score": 89,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
       "resource_location": "北京",
       "match_score": 60,
       "reasons": [
         "行业匹配",
         "预算匹配"
       ],
-      "reason_text": "浙江省建设投资集团所在行业与机场广告受众契合；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 300000
+      "reason_text": "浙江省建设投资集团所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
+      "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
+      "brand_name": "浙江省建设投资集团",
+      "signal_score": 89,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "浙江省建设投资集团所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
+      "signal_id": "53a937c779a4a1fae14c0bee0ccbe9c1",
+      "signal_title": "万憬能源投资者关系管理信息20260629",
+      "brand_name": "万憬能源",
+      "signal_score": 89,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "万憬能源所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "53a937c779a4a1fae14c0bee0ccbe9c1",
+      "signal_title": "万憬能源投资者关系管理信息20260629",
+      "brand_name": "万憬能源",
+      "signal_score": 89,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "万憬能源所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "53a937c779a4a1fae14c0bee0ccbe9c1",
+      "signal_title": "万憬能源投资者关系管理信息20260629",
+      "brand_name": "万憬能源",
+      "signal_score": 89,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "万憬能源所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "53a937c779a4a1fae14c0bee0ccbe9c1",
+      "signal_title": "万憬能源投资者关系管理信息20260629",
+      "brand_name": "万憬能源",
+      "signal_score": 89,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "万憬能源所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
     },
     {
       "signal_id": "c0b787e7ea6536ce2a12428a30146073",
@@ -704,7 +794,7 @@
       "signal_id": "c731eebcb76894a9a67d997049239526",
       "signal_title": "东财创业板综合增强策略交易型开放式指数证券投资基金更新招募说明书（2026年第3号）",
       "brand_name": "东财",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_004",
       "resource_name": "北京地铁1号线灯箱",
       "resource_type": "地铁广告",
@@ -722,7 +812,7 @@
       "signal_id": "c731eebcb76894a9a67d997049239526",
       "signal_title": "东财创业板综合增强策略交易型开放式指数证券投资基金更新招募说明书（2026年第3号）",
       "brand_name": "东财",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_005",
       "resource_name": "上海地铁2号线灯箱",
       "resource_type": "地铁广告",
@@ -740,7 +830,7 @@
       "signal_id": "c731eebcb76894a9a67d997049239526",
       "signal_title": "东财创业板综合增强策略交易型开放式指数证券投资基金更新招募说明书（2026年第3号）",
       "brand_name": "东财",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -758,7 +848,7 @@
       "signal_id": "c731eebcb76894a9a67d997049239526",
       "signal_title": "东财创业板综合增强策略交易型开放式指数证券投资基金更新招募说明书（2026年第3号）",
       "brand_name": "东财",
-      "signal_score": 79,
+      "signal_score": 78,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -877,78 +967,6 @@
         "预算匹配"
       ],
       "reason_text": "同宇新材所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 75,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 75,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 75,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
-      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
-      "brand_name": "易方达",
-      "signal_score": 75,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
@@ -1241,6 +1259,78 @@
       "daily_traffic": 60000
     },
     {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 74,
+      "resource_id": "res_004",
+      "resource_name": "北京地铁1号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 500000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 74,
+      "resource_id": "res_005",
+      "resource_name": "上海地铁2号线灯箱",
+      "resource_type": "地铁广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与地铁广告受众契合；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 400000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 74,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "北京",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
+    },
+    {
+      "signal_id": "0f3352b8d4de79b9edb11c5831a9d2d3",
+      "signal_title": "易方达广州开发区高新产业园封闭式基础设施证券投资基金更新的招募说明书",
+      "brand_name": "易方达",
+      "signal_score": 74,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
+      "resource_location": "上海",
+      "match_score": 60,
+      "reasons": [
+        "行业匹配",
+        "预算匹配"
+      ],
+      "reason_text": "易方达所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
+    },
+    {
       "signal_id": "4c2acb93d95a360ddd04cf3ac7e83a78",
       "signal_title": "建信中证A股交易型开放式指数证券投资基金基金合同生效公告",
       "brand_name": "建信基金",
@@ -1313,42 +1403,6 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
-      "resource_id": "res_006",
-      "resource_name": "北京国贸写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 50000
-    },
-    {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
-      "resource_id": "res_007",
-      "resource_name": "上海陆家嘴写字楼电梯",
-      "resource_type": "电梯广告",
-      "resource_location": "上海",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 60000
-    },
-    {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
       "signal_title": "300806斯迪克投资者关系管理信息20260624",
       "brand_name": "斯迪克",
@@ -1457,58 +1511,94 @@
       "daily_traffic": 60000
     },
     {
-      "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
-      "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
-      "brand_name": "浙江省建设投资集团",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 70,
+      "resource_id": "res_006",
+      "resource_name": "北京国贸写字楼电梯",
+      "resource_type": "电梯广告",
       "resource_location": "北京",
-      "match_score": 50,
+      "match_score": 60,
       "reasons": [
-        "媒体类型匹配",
+        "行业匹配",
         "预算匹配"
       ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
+      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 50000
     },
     {
-      "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
-      "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
-      "brand_name": "浙江省建设投资集团",
-      "signal_score": 90,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 70,
+      "resource_id": "res_007",
+      "resource_name": "上海陆家嘴写字楼电梯",
+      "resource_type": "电梯广告",
       "resource_location": "上海",
-      "match_score": 50,
+      "match_score": 60,
       "reasons": [
-        "媒体类型匹配",
+        "行业匹配",
         "预算匹配"
       ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
+      "reason_text": "盛邦安全所在行业与电梯广告受众契合；预算范围匹配",
+      "recommended_budget": "medium",
+      "daily_traffic": 60000
     },
     {
       "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
       "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
       "brand_name": "浙江省建设投资集团",
-      "signal_score": 90,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
+      "signal_score": 89,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "广州",
+      "resource_location": "深圳",
       "match_score": 50,
       "reasons": [
         "媒体类型匹配",
         "预算匹配"
       ],
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
+      "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
+      "brand_name": "浙江省建设投资集团",
+      "signal_score": 89,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "42a6363620cbf2aa5e50b7f0dc5f195a",
+      "signal_title": "2023年浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券2026年度跟踪评级报告",
+      "brand_name": "浙江省建设投资集团",
+      "signal_score": 89,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
     },
     {
       "signal_id": "c0b787e7ea6536ce2a12428a30146073",
@@ -1709,42 +1799,6 @@
       "daily_traffic": 90000
     },
     {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
-      "resource_id": "res_014",
-      "resource_name": "成都春熙路大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "成都",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 100000
-    },
-    {
-      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
-      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
-      "brand_name": "盛邦安全",
-      "signal_score": 71,
-      "resource_id": "res_015",
-      "resource_name": "杭州湖滨银泰大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "杭州",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 90000
-    },
-    {
       "signal_id": "cb435a9ae22fb980e0d49d4d3fa5ae9a",
       "signal_title": "300806斯迪克投资者关系管理信息20260624",
       "brand_name": "斯迪克",
@@ -1874,6 +1928,42 @@
       "signal_id": "9d93e6547683a7b6016323e96c1b64ad",
       "signal_title": "002480新筑股份投资者关系管理信息20260624",
       "brand_name": "新筑股份",
+      "signal_score": 70,
+      "resource_id": "res_015",
+      "resource_name": "杭州湖滨银泰大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "杭州",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 90000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
+      "signal_score": 70,
+      "resource_id": "res_014",
+      "resource_name": "成都春熙路大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "成都",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 100000
+    },
+    {
+      "signal_id": "0ebd50a17ce4cf6620ad865d2bc40495",
+      "signal_title": "关于拟购买土地使用权并投资建设项目的公告",
+      "brand_name": "盛邦安全",
       "signal_score": 70,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
