@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-07-15T08:32:44.450084+00:00",
-  "total_matches": 7,
+  "generated_at": "2026-07-15T11:15:08.798974+00:00",
+  "total_matches": 11,
   "matches": [
+    {
+      "signal_id": "6afaa42e40cce40357f5114442fb2754",
+      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
+      "brand_name": "久日新材",
+      "signal_score": 95,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "北京",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "久日新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 150000
+    },
+    {
+      "signal_id": "6afaa42e40cce40357f5114442fb2754",
+      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
+      "brand_name": "久日新材",
+      "signal_score": 95,
+      "resource_id": "res_003",
+      "resource_name": "广州天河城大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "广州",
+      "match_score": 90,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "久日新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 120000
+    },
     {
       "signal_id": "7fa185c2c27bd9e2bbf8aa958c38aa75",
       "signal_title": "中信证券股份有限公司关于苏州绿的谐波传动科技股份有限公司募集资金投资项目延期的核查意见",
@@ -18,6 +56,24 @@
         "预算匹配"
       ],
       "reason_text": "绿的谐波所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "medium_high",
+      "daily_traffic": 80000
+    },
+    {
+      "signal_id": "6afaa42e40cce40357f5114442fb2754",
+      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
+      "brand_name": "久日新材",
+      "signal_score": 95,
+      "resource_id": "res_013",
+      "resource_name": "深圳华强北大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "深圳",
+      "match_score": 70,
+      "reasons": [
+        "行业匹配",
+        "媒体类型匹配"
+      ],
+      "reason_text": "久日新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
     },
@@ -92,6 +148,24 @@
       "reason_text": "绿的谐波所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
+    },
+    {
+      "signal_id": "6afaa42e40cce40357f5114442fb2754",
+      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
+      "brand_name": "久日新材",
+      "signal_score": 95,
+      "resource_id": "res_002",
+      "resource_name": "上海南京路步行街大屏",
+      "resource_type": "商圈大屏",
+      "resource_location": "上海",
+      "match_score": 50,
+      "reasons": [
+        "媒体类型匹配",
+        "预算匹配"
+      ],
+      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
+      "recommended_budget": "high",
+      "daily_traffic": 200000
     },
     {
       "signal_id": "7fa185c2c27bd9e2bbf8aa958c38aa75",
