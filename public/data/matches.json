@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T02:59:37.131799+00:00",
-  "total_matches": 16,
+  "generated_at": "2026-07-21T06:17:35.042879+00:00",
+  "total_matches": 11,
   "matches": [
     {
       "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
@@ -44,7 +44,7 @@
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -81,7 +81,7 @@
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_001",
       "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
@@ -99,7 +99,7 @@
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -114,46 +114,10 @@
       "daily_traffic": 120000
     },
     {
-      "signal_id": "3470c65d465313143dae3591cc955409",
-      "signal_title": "301580爱迪特投资者关系管理信息20260715",
-      "brand_name": "爱迪特",
-      "signal_score": 70,
-      "resource_id": "res_010",
-      "resource_name": "北京社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "爱迪特所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 10000
-    },
-    {
-      "signal_id": "3470c65d465313143dae3591cc955409",
-      "signal_title": "301580爱迪特投资者关系管理信息20260715",
-      "brand_name": "爱迪特",
-      "signal_score": 70,
-      "resource_id": "res_011",
-      "resource_name": "上海社区便利店灯箱",
-      "resource_type": "社区媒体",
-      "resource_location": "上海",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "爱迪特所在行业与社区媒体受众契合；社区媒体适合品牌曝光",
-      "recommended_budget": "low",
-      "daily_traffic": 8000
-    },
-    {
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -171,7 +135,7 @@
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -184,24 +148,6 @@
       "reason_text": "久日新材所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
-    },
-    {
-      "signal_id": "3470c65d465313143dae3591cc955409",
-      "signal_title": "301580爱迪特投资者关系管理信息20260715",
-      "brand_name": "爱迪特",
-      "signal_score": 70,
-      "resource_id": "res_012",
-      "resource_name": "北京公交车身广告",
-      "resource_type": "公交广告",
-      "resource_location": "北京",
-      "match_score": 60,
-      "reasons": [
-        "行业匹配",
-        "预算匹配"
-      ],
-      "reason_text": "爱迪特所在行业与公交广告受众契合；预算范围匹配",
-      "recommended_budget": "medium",
-      "daily_traffic": 100000
     },
     {
       "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
@@ -225,7 +171,7 @@
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -243,7 +189,7 @@
       "signal_id": "6afaa42e40cce40357f5114442fb2754",
       "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
       "brand_name": "久日新材",
-      "signal_score": 72,
+      "signal_score": 71,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
@@ -256,42 +202,6 @@
       "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 90000
-    },
-    {
-      "signal_id": "3470c65d465313143dae3591cc955409",
-      "signal_title": "301580爱迪特投资者关系管理信息20260715",
-      "brand_name": "爱迪特",
-      "signal_score": 70,
-      "resource_id": "res_004",
-      "resource_name": "北京地铁1号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "北京",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 500000
-    },
-    {
-      "signal_id": "3470c65d465313143dae3591cc955409",
-      "signal_title": "301580爱迪特投资者关系管理信息20260715",
-      "brand_name": "爱迪特",
-      "signal_score": 70,
-      "resource_id": "res_005",
-      "resource_name": "上海地铁2号线灯箱",
-      "resource_type": "地铁广告",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "地铁广告适合品牌曝光；预算范围匹配",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 400000
     }
   ]
 }
