@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-07-21T14:12:47.913612+00:00",
-  "total_matches": 11,
+  "generated_at": "2026-07-21T19:49:17.612634+00:00",
+  "total_matches": 7,
   "matches": [
     {
       "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
       "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
       "brand_name": "宏微科技",
-      "signal_score": 90,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "宏微科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 150000
-    },
-    {
-      "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
-      "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
-      "brand_name": "宏微科技",
-      "signal_score": 90,
-      "resource_id": "res_003",
-      "resource_name": "广州天河城大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "广州",
-      "match_score": 90,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "宏微科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 120000
-    },
-    {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
+      "signal_score": 89,
       "resource_id": "res_013",
       "resource_name": "深圳华强北大屏",
       "resource_type": "商圈大屏",
@@ -55,7 +17,7 @@
         "媒体类型匹配",
         "预算匹配"
       ],
-      "reason_text": "久日新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
+      "reason_text": "宏微科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光；预算范围匹配",
       "recommended_budget": "medium_high",
       "daily_traffic": 80000
     },
@@ -63,43 +25,25 @@
       "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
       "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
       "brand_name": "宏微科技",
-      "signal_score": 90,
-      "resource_id": "res_013",
-      "resource_name": "深圳华强北大屏",
+      "signal_score": 89,
+      "resource_id": "res_001",
+      "resource_name": "三里屯太古里大屏",
       "resource_type": "商圈大屏",
-      "resource_location": "深圳",
+      "resource_location": "北京",
       "match_score": 70,
       "reasons": [
         "行业匹配",
         "媒体类型匹配"
       ],
       "reason_text": "宏微科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
-      "recommended_budget": "medium_high",
-      "daily_traffic": 80000
-    },
-    {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
-      "resource_id": "res_001",
-      "resource_name": "三里屯太古里大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "北京",
-      "match_score": 70,
-      "reasons": [
-        "行业匹配",
-        "媒体类型匹配"
-      ],
-      "reason_text": "久日新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 150000
     },
     {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
+      "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
+      "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
+      "brand_name": "宏微科技",
+      "signal_score": 89,
       "resource_id": "res_003",
       "resource_name": "广州天河城大屏",
       "resource_type": "商圈大屏",
@@ -109,15 +53,15 @@
         "行业匹配",
         "媒体类型匹配"
       ],
-      "reason_text": "久日新材所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
+      "reason_text": "宏微科技所在行业与商圈大屏受众契合；商圈大屏适合品牌曝光",
       "recommended_budget": "high",
       "daily_traffic": 120000
     },
     {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
+      "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
+      "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
+      "brand_name": "宏微科技",
+      "signal_score": 89,
       "resource_id": "res_006",
       "resource_name": "北京国贸写字楼电梯",
       "resource_type": "电梯广告",
@@ -127,15 +71,15 @@
         "行业匹配",
         "预算匹配"
       ],
-      "reason_text": "久日新材所在行业与电梯广告受众契合；预算范围匹配",
+      "reason_text": "宏微科技所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 50000
     },
     {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
+      "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
+      "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
+      "brand_name": "宏微科技",
+      "signal_score": 89,
       "resource_id": "res_007",
       "resource_name": "上海陆家嘴写字楼电梯",
       "resource_type": "电梯广告",
@@ -145,7 +89,7 @@
         "行业匹配",
         "预算匹配"
       ],
-      "reason_text": "久日新材所在行业与电梯广告受众契合；预算范围匹配",
+      "reason_text": "宏微科技所在行业与电梯广告受众契合；预算范围匹配",
       "recommended_budget": "medium",
       "daily_traffic": 60000
     },
@@ -153,25 +97,7 @@
       "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
       "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
       "brand_name": "宏微科技",
-      "signal_score": 90,
-      "resource_id": "res_002",
-      "resource_name": "上海南京路步行街大屏",
-      "resource_type": "商圈大屏",
-      "resource_location": "上海",
-      "match_score": 50,
-      "reasons": [
-        "媒体类型匹配",
-        "预算匹配"
-      ],
-      "reason_text": "商圈大屏适合品牌曝光；预算范围匹配",
-      "recommended_budget": "high",
-      "daily_traffic": 200000
-    },
-    {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
+      "signal_score": 89,
       "resource_id": "res_014",
       "resource_name": "成都春熙路大屏",
       "resource_type": "商圈大屏",
@@ -186,10 +112,10 @@
       "daily_traffic": 100000
     },
     {
-      "signal_id": "6afaa42e40cce40357f5114442fb2754",
-      "signal_title": "招商证券股份有限公司关于天津久日新材料股份有限公司调整部分募集资金投资项目实施内容的核查意见",
-      "brand_name": "久日新材",
-      "signal_score": 70,
+      "signal_id": "0d1c24be89d0cbfb4dd798b06a32a8b2",
+      "signal_title": "江苏宏微科技股份有限公司关于调整使用暂时闲置自有资金进行现金管理的投资额度的公告",
+      "brand_name": "宏微科技",
+      "signal_score": 89,
       "resource_id": "res_015",
       "resource_name": "杭州湖滨银泰大屏",
       "resource_type": "商圈大屏",
